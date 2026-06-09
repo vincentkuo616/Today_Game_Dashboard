@@ -1,0 +1,41 @@
+name: 🎮 Auto Update LoL Scores
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # 每 30 分鐘自動執行一次
+  workflow_dispatch: # 允許你在 GitHub 介面上手動點擊執行
+
+jobs:
+  update-scores:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 賦予 Actions 推送檔案回 Repo 的權限
+
+    steps:
+    - name: 📥 複製專案代碼
+      uses: actions/checkout@v4
+
+    - name: 🐍 設定 Python 環境
+      uses: actions/setup-python@v5
+      with:
+        python-family: '3.x'
+
+    - name: 📦 安裝依賴套件
+      run: |
+        pip install requests
+
+    - name: 🚀 執行 LoL 數據抓取
+      env:
+        # 🔒 安全防護：將密碼藏在 GitHub Secrets 裡
+        BOT_USER: ${{ secrets.LOL_BOT_USER }}
+        BOT_PASS: ${{ secrets.LOL_BOT_PASS }}
+      run: |
+        # 如果你的 py 檔有用到環境變數，可以在 python 中用 os.environ.get('BOT_PASS') 讀取
+        python update_lol.py
+
+    - name: 💾 自動提交並推送 JSON 檔
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add lol_live.json
+        git diff --cached --quiet || (git commit -m "🔄 自動更新 LoL 即時比分" && git push)
