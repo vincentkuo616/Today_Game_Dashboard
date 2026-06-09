@@ -150,9 +150,56 @@
     }
 
     function fetchLolPlaceholder() {
-        // 未來這裡可以串接 Fandom Wiki Cargo API
-        // $('#lol-games').html('...');
-    }
+    // 因為 lol_live.json 跟你的 index.html 在同一個 Repo、同個資料夾
+    // 直接用相對路徑 fetch 即可
+    $.ajax({
+        url: './lol_live.json',
+        type: 'GET',
+        dataType: 'json',
+        cache: false, // 確保不被瀏覽器快取舊資料
+        success: function(data) {
+            let html = '';
+            
+            if (!data || data.length === 0) {
+                $('#lol-games').html('<p style="color:#999;">今日無 LOL 安排賽事</p>');
+                return;
+            }
+
+            data.forEach(match => {
+                // 判斷是否為今天的比賽 (根據 2026 年當前日期)
+                const isLive = match.LatestGameTime.includes('2026-06-09'); 
+                const statusText = isLive ? `<span class="live-badge">● LIVE - 進行中</span>` : '已結束/歷史';
+                
+                // 找出誰是當前領先者 (高分者變綠色)
+                const winA = match.ScoreA > match.ScoreB ? 'winner' : '';
+                const winB = match.ScoreB > match.ScoreA ? 'winner' : '';
+
+                html += `
+                    <div class="game-card">
+                        <div class="game-status">
+                            <span>🎮 ${match.OverviewPage.split('/')[0]}</span> <span>${statusText}</span>
+                        </div>
+                        <div class="team-row">
+                            <span class="team-name">🔵 ${match.TeamA}</span>
+                            <span class="team-score ${winA}">${match.ScoreA}</span>
+                        </div>
+                        <div class="team-row">
+                            <span class="team-name">🔴 ${match.TeamB}</span>
+                            <span class="team-score ${winB}">${match.ScoreB}</span>
+                        </div>
+                        <div style="font-size:0.75em; color:#999; text-align:right; margin-top:5px;">
+                            最後更新: ${match.LatestGameTime}
+                        </div>
+                    </div>
+                `;
+            });
+            $('#lol-games').html(html);
+        },
+        error: function() {
+            $('#lol-games').html('<p style="color:var(--live-color);">暫無 LOL 賽事資料，等待 Actions 首次初始化...</p>');
+        }
+    });
+}
 </script>
 </body>
 </html>
