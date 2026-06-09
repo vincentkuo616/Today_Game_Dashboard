@@ -179,7 +179,7 @@
                     $('#lol-games').html('<p style="color:#999;">今日無 LOL 安排賽事</p>');
                     return;
                 }
-
+    
                 // 1. 線上數據 Grouping 機制 (以 OverviewPage 作為 Key)
                 let groupedMatches = {};
                 data.forEach(match => {
@@ -188,25 +188,30 @@
                     }
                     groupedMatches[match.OverviewPage].push(match);
                 });
-
-                // 2. 渲染動態表頭與卡片
+    
+                // 🛠️ 強化 A：將所有聯賽名稱 (Keys) 提取出來，並進行【字串倒序排序】
+                const sortedOverviewPages = Object.keys(groupedMatches).sort().reverse();
+    
+                // 2. 渲染動態表頭與卡片 (改用排序後的陣列進行 forEach)
                 let html = '';
                 let groupIdx = 0;
-                const todayStr = new Date().toISOString().split('T')[0]; // 自動偵測今日日期 (2026-06-09)
-
-                for (let overviewPage in groupedMatches) {
+                const todayStr = new Date().toISOString().split('T')[0]; // 自動追蹤 2026 當前日期
+    
+                sortedOverviewPages.forEach(overviewPage => {
                     groupIdx++;
                     
-                    // 生成共用群組表頭
+                    // 🛠️ 強化 B：
+                    // (1) 將初始箭頭改為 '▲' 代表目前是收合狀態
+                    // (2) 在 lol-group-content 加上 style="display: none;" 達成【預設隱藏】
                     html += `
                         <div class="lol-group">
                             <div class="lol-group-header" data-target="lol-group-${groupIdx}">
                                 <span>🎮 ${overviewPage}</span>
-                                <span class="toggle-icon">▼</span>
+                                <span class="toggle-icon">▲</span>
                             </div>
-                            <div id="lol-group-${groupIdx}" class="lol-group-content">
+                            <div id="lol-group-${groupIdx}" class="lol-group-content" style="display: none;">
                     `;
-
+    
                     // 渲染該群組內的所有比賽
                     groupedMatches[overviewPage].forEach(match => {
                         const isLive = match.LatestGameTime.includes(todayStr); 
@@ -214,7 +219,7 @@
                         
                         const winA = match.ScoreA > match.ScoreB ? 'winner' : '';
                         const winB = match.ScoreB > match.ScoreA ? 'winner' : '';
-
+    
                         html += `
                             <div class="game-card">
                                 <div class="game-status">
@@ -234,22 +239,22 @@
                             </div>
                         `;
                     });
-
+    
                     html += `
                             </div>
                         </div>
                     `;
-                }
+                });
                 $('#lol-games').html(html);
-
-                // 3. 綁定風琴式收合事件 (解決重複綁定問題)
+    
+                // 3. 綁定風琴式收合事件
                 $('.lol-group-header').off('click').on('click', function() {
                     const targetId = $(this).data('target');
                     const $content = $(`#${targetId}`);
                     const $icon = $(this).find('.toggle-icon');
                     
                     $content.slideToggle(200, function() {
-                        // 動態切換箭頭狀態
+                        // 動態切換箭頭：展開顯示 ▼，折疊顯示 ▲
                         if ($content.is(':visible')) {
                             $icon.text('▼');
                         } else {
@@ -263,7 +268,6 @@
             }
         });
     }
-
     function fetchCpblPlaceholder() {
         // CPBL 佔位符
     }
