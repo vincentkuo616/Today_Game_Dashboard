@@ -16,6 +16,22 @@
     "LatestGameTime": "2026-06-09 17:42:00"
   },
   {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Playoffs",
+    "TeamA": "Hannover Esports e.V.",
+    "TeamB": "Reveal Multigaming",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-09 17:12:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Playoffs",
+    "TeamA": "All for One Gaming",
+    "TeamB": "regnum4games",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-09 17:09:00"
+  },
+  {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Play-In",
     "TeamA": "E WIE EINFACH E-SPORTS",
     "TeamB": "GOAL",
@@ -364,23 +380,7 @@
     "TeamA": "FlyQuest",
     "TeamB": "Team Liquid",
     "ScoreA": 1,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-06-06 22:42:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 1 Playoffs",
-    "TeamA": "FURIA",
-    "TeamB": "LØS",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-06 18:50:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Spring Playoffs",
-    "TeamA": "Frites Esports Club",
-    "TeamB": "mCon esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-06 17:49:00"
   }
 ]
