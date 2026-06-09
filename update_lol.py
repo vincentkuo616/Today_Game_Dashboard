@@ -122,7 +122,8 @@ except Exception as e:
 
 # === 程式碼最末端 ===
 # 不管是今天有比賽，還是吐出最近 50 場，我們都統一把結果存成 JSON 檔案
-output_data = today_matches if today_matches else all_grouped_matches[:50]
+# output_data = today_matches if today_matches else all_grouped_matches[:50]
+output_data = all_grouped_matches[:50]
 
 with open('lol_live.json', 'w', encoding='utf-8') as f:
     json.dump(output_data, f, indent=2, ensure_ascii=False)
