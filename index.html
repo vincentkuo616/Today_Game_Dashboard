@@ -33,6 +33,29 @@
         .team-score { font-size: 1.2em; font-weight: bold; color: #111; }
         .winner { color: #28a745; } /* 獲勝隊伍分數變綠 */
 
+        /* 強化 1：道奇隊專用高亮樣式 */
+        .dodgers-highlight { color: #e63946 !important; font-weight: bold !important; }
+
+        /* 強化 2：LOL 風琴折疊專用樣式 */
+        .lol-group-header {
+            background: #e6f7ff;
+            border-left: 4px solid #00a3e0;
+            padding: 10px 12px;
+            margin: 12px 0 6px 0;
+            font-weight: bold;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-radius: 6px;
+            font-size: 0.9em;
+            user-select: none;
+            transition: background 0.2s;
+        }
+        .lol-group-header:hover { background: #bae7ff; }
+        .lol-group-content { padding-left: 2px; }
+        .toggle-icon { font-size: 0.8em; color: #555; }
+
         @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0.4; } 100% { opacity: 1; } }
         .refresh-btn { padding: 8px 16px; background: #1d428a; color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; }
         .refresh-btn:hover { background: #143063; }
@@ -65,8 +88,8 @@
     </div>
 
     <div class="sport-section">
-        <div class="sport-title lol">🎮 LoL 電競賽程</div>
-        <div id="lol-games" class="games-container"><p>接口開發中...</p></div>
+        <div class="sport-title lol">🎮 LoL 電競賽程 (點擊聯賽可收合)</div>
+        <div id="lol-games" class="games-container"><p>載入中...</p></div>
     </div>
 </div>
 
@@ -75,17 +98,14 @@
     const API_NBA = 'https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard';
     const API_MLB = 'https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard';
 
-    // 全域初始化
     $(document).ready(function() {
         refreshAllScores();
-        // 每 60 秒自動背景輪詢更新 (Polling)
-        setInterval(refreshAllScores, 60000);
+        setInterval(refreshAllScores, 60000); // 每 60 秒自動更新
     });
 
     function refreshAllScores() {
         $('#updateTime').text('正在同步最新比分...');
         
-        // 使用獨立非同步載入，互不干涉
         fetchEspnScoreboard(API_NBA, '#nba-games');
         fetchEspnScoreboard(API_MLB, '#mlb-games');
         fetchCpblPlaceholder();
@@ -95,7 +115,7 @@
         $('#updateTime').text(`上次更新: ${now.toLocaleTimeString()}`);
     }
 
-    // 泛用 ESPN JSON API 解析器 (適用於 NBA / MLB)
+    // 泛用 ESPN JSON API 解析器
     function fetchEspnScoreboard(url, containerId) {
         $.ajax({
             url: url,
@@ -112,7 +132,7 @@
 
                 events.forEach(event => {
                     const status = event.status.type;
-                    const isLive = status.state === 'in'; // 'in' 代表進行中，'post' 代表已結束，'pre' 代表未開始
+                    const isLive = status.state === 'in';
                     const statusText = isLive ? `<span class="live-badge">● LIVE - ${event.status.type.detail}</span>` : status.detail;
                     
                     const teamAway = event.competitions[0].competitors[1]; // 客隊
@@ -121,16 +141,20 @@
                     const awayWinner = teamAway.winner ? 'winner' : '';
                     const homeWinner = teamHome.winner ? 'winner' : '';
 
+                    // 🛠️ 強化 1：動態檢查是否為洛杉磯道奇隊，若是則賦予高亮 Class
+                    const isAwayDodgers = teamAway.team.displayName === "Los Angeles Dodgers" ? "dodgers-highlight" : "";
+                    const isHomeDodgers = teamHome.team.displayName === "Los Angeles Dodgers" ? "dodgers-highlight" : "";
+
                     html += `
                         <div class="game-card">
                             <div class="game-status">${statusText}</div>
                             <div class="team-row">
-                                <span class="team-name">🚩 ${teamAway.team.displayName} (客)</span>
-                                <span class="team-score ${awayWinner}">${teamAway.score}</span>
+                                <span class="team-name ${isAwayDodgers}">🚩 ${teamAway.team.displayName} (客)</span>
+                                <span class="team-score ${awayWinner} ${isAwayDodgers}">${teamAway.score}</span>
                             </div>
                             <div class="team-row">
-                                <span class="team-name">🏠 ${teamHome.team.displayName} (主)</span>
-                                <span class="team-score ${homeWinner}">${teamHome.score}</span>
+                                <span class="team-name ${isHomeDodgers}">🏠 ${teamHome.team.displayName} (主)</span>
+                                <span class="team-score ${homeWinner} ${isHomeDodgers}">${teamHome.score}</span>
                             </div>
                         </div>
                     `;
@@ -143,63 +167,106 @@
         });
     }
 
-    // CPBL 與 LOL 的策略擴充區塊
-    function fetchCpblPlaceholder() {
-        // 未來這裡可以接入 CORS 代理伺服器，或 Serverless 抓下來的 JSON
-        // $('#cpbl-games').html('...');
+    // 🛠️ 強化 2：LOL 數據 Grouping 與風琴折疊機制
+    function fetchLolPlaceholder() {
+        $.ajax({
+            url: './lol_live.json',
+            type: 'GET',
+            dataType: 'json',
+            cache: false,
+            success: function(data) {
+                if (!data || data.length === 0) {
+                    $('#lol-games').html('<p style="color:#999;">今日無 LOL 安排賽事</p>');
+                    return;
+                }
+
+                // 1. 線上數據 Grouping 機制 (以 OverviewPage 作為 Key)
+                let groupedMatches = {};
+                data.forEach(match => {
+                    if (!groupedMatches[match.OverviewPage]) {
+                        groupedMatches[match.OverviewPage] = [];
+                    }
+                    groupedMatches[match.OverviewPage].push(match);
+                });
+
+                // 2. 渲染動態表頭與卡片
+                let html = '';
+                let groupIdx = 0;
+                const todayStr = new Date().toISOString().split('T')[0]; // 自動偵測今日日期 (2026-06-09)
+
+                for (let overviewPage in groupedMatches) {
+                    groupIdx++;
+                    
+                    // 生成共用群組表頭
+                    html += `
+                        <div class="lol-group">
+                            <div class="lol-group-header" data-target="lol-group-${groupIdx}">
+                                <span>🎮 ${overviewPage}</span>
+                                <span class="toggle-icon">▼</span>
+                            </div>
+                            <div id="lol-group-${groupIdx}" class="lol-group-content">
+                    `;
+
+                    // 渲染該群組內的所有比賽
+                    groupedMatches[overviewPage].forEach(match => {
+                        const isLive = match.LatestGameTime.includes(todayStr); 
+                        const statusText = isLive ? `<span class="live-badge">● LIVE - 進行中</span>` : '已結束/歷史';
+                        
+                        const winA = match.ScoreA > match.ScoreB ? 'winner' : '';
+                        const winB = match.ScoreB > match.ScoreA ? 'winner' : '';
+
+                        html += `
+                            <div class="game-card">
+                                <div class="game-status">
+                                    <span>${statusText}</span>
+                                </div>
+                                <div class="team-row">
+                                    <span class="team-name">🔵 ${match.TeamA}</span>
+                                    <span class="team-score ${winA}">${match.ScoreA}</span>
+                                </div>
+                                <div class="team-row">
+                                    <span class="team-name">🔴 ${match.TeamB}</span>
+                                    <span class="team-score ${winB}">${match.ScoreB}</span>
+                                </div>
+                                <div style="font-size:0.75em; color:#999; text-align:right; margin-top:5px;">
+                                    最後更新: ${match.LatestGameTime}
+                                </div>
+                            </div>
+                        `;
+                    });
+
+                    html += `
+                            </div>
+                        </div>
+                    `;
+                }
+                $('#lol-games').html(html);
+
+                // 3. 綁定風琴式收合事件 (解決重複綁定問題)
+                $('.lol-group-header').off('click').on('click', function() {
+                    const targetId = $(this).data('target');
+                    const $content = $(`#${targetId}`);
+                    const $icon = $(this).find('.toggle-icon');
+                    
+                    $content.slideToggle(200, function() {
+                        // 動態切換箭頭狀態
+                        if ($content.is(':visible')) {
+                            $icon.text('▼');
+                        } else {
+                            $icon.text('▲');
+                        }
+                    });
+                });
+            },
+            error: function() {
+                $('#lol-games').html('<p style="color:var(--live-color);">暫無 LOL 賽事資料，等待 Actions 首次初始化...</p>');
+            }
+        });
     }
 
-    function fetchLolPlaceholder() {
-    // 因為 lol_live.json 跟你的 index.html 在同一個 Repo、同個資料夾
-    // 直接用相對路徑 fetch 即可
-    $.ajax({
-        url: './lol_live.json',
-        type: 'GET',
-        dataType: 'json',
-        cache: false, // 確保不被瀏覽器快取舊資料
-        success: function(data) {
-            let html = '';
-            
-            if (!data || data.length === 0) {
-                $('#lol-games').html('<p style="color:#999;">今日無 LOL 安排賽事</p>');
-                return;
-            }
-
-            data.forEach(match => {
-                // 判斷是否為今天的比賽 (根據 2026 年當前日期)
-                const isLive = match.LatestGameTime.includes('2026-06-09'); 
-                const statusText = isLive ? `<span class="live-badge">● LIVE - 進行中</span>` : '已結束/歷史';
-                
-                // 找出誰是當前領先者 (高分者變綠色)
-                const winA = match.ScoreA > match.ScoreB ? 'winner' : '';
-                const winB = match.ScoreB > match.ScoreA ? 'winner' : '';
-
-                html += `
-                    <div class="game-card">
-                        <div class="game-status">
-                            <span>🎮 ${match.OverviewPage.split('/')[0]}</span> <span>${statusText}</span>
-                        </div>
-                        <div class="team-row">
-                            <span class="team-name">🔵 ${match.TeamA}</span>
-                            <span class="team-score ${winA}">${match.ScoreA}</span>
-                        </div>
-                        <div class="team-row">
-                            <span class="team-name">🔴 ${match.TeamB}</span>
-                            <span class="team-score ${winB}">${match.ScoreB}</span>
-                        </div>
-                        <div style="font-size:0.75em; color:#999; text-align:right; margin-top:5px;">
-                            最後更新: ${match.LatestGameTime}
-                        </div>
-                    </div>
-                `;
-            });
-            $('#lol-games').html(html);
-        },
-        error: function() {
-            $('#lol-games').html('<p style="color:var(--live-color);">暫無 LOL 賽事資料，等待 Actions 首次初始化...</p>');
-        }
-    });
-}
+    function fetchCpblPlaceholder() {
+        // CPBL 佔位符
+    }
 </script>
 </body>
 </html>
