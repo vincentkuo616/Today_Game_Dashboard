@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 1 Playoffs",
+    "TeamA": "Golden Lions",
+    "TeamB": "Volticons",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-06-09 22:08:00"
+  },
+  {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Play-In",
     "TeamA": "Bomba Team",
     "TeamB": "Frites Esports Club",
@@ -374,13 +382,5 @@
     "ScoreA": 0,
     "ScoreB": 3,
     "LatestGameTime": "2026-06-07 11:05:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Spring Playoffs",
-    "TeamA": "FlyQuest",
-    "TeamB": "Team Liquid",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-06 22:42:00"
   }
 ]
