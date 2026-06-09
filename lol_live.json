@@ -1,6 +1,30 @@
 [
   {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Play-In",
+    "TeamA": "Bomba Team",
+    "TeamB": "Frites Esports Club",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-09 17:47:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Play-In",
+    "TeamA": "Karmine Corp Blue",
+    "TeamB": "Verdant",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-09 17:42:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Play-In",
+    "TeamA": "E WIE EINFACH E-SPORTS",
+    "TeamB": "GOAL",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-09 15:58:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Play-In",
     "TeamA": "CITA Kaizen",
     "TeamB": "Partizan Sangal",
     "ScoreA": 0,
@@ -347,24 +371,16 @@
     "OverviewPage": "CBLOL/2026 Season/Split 1 Playoffs",
     "TeamA": "FURIA",
     "TeamB": "LØS",
-    "ScoreA": 3,
-    "ScoreB": 1,
+    "ScoreA": 2,
+    "ScoreB": 0,
     "LatestGameTime": "2026-06-06 18:50:00"
   },
   {
     "OverviewPage": "Road Of Legends/2026 Season/Spring Playoffs",
     "TeamA": "Frites Esports Club",
     "TeamB": "mCon esports",
-    "ScoreA": 3,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-06 17:49:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Spring Playoffs",
-    "TeamA": "Karmine Corp",
-    "TeamB": "Movistar KOI",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-06 17:10:00"
   }
 ]
