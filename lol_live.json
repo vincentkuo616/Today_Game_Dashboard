@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "2026 Asia Masters",
+    "TeamA": "Nongshim Esports Academy",
+    "TeamB": "Weibo Gaming Youth Team",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-09 09:38:00"
+  },
+  {
+    "OverviewPage": "2026 Asia Masters",
+    "TeamA": "Bilibili Gaming Junior",
+    "TeamB": "T1 Esports Academy",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-09 08:41:00"
+  },
+  {
+    "OverviewPage": "2026 Asia Masters",
+    "TeamA": "Dplus Kia Challengers",
+    "TeamB": "Top Esports Challenger",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-09 07:01:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 1 Playoffs",
+    "TeamA": "Fuego",
+    "TeamB": "G3V E-sports",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-09 00:58:00"
+  },
+  {
     "OverviewPage": "Esports World Cup 2026/Online Qualifiers/South America",
     "TeamA": "Fluxo W7M",
     "TeamB": "RED Canids",
@@ -331,8 +363,8 @@
     "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Spring Playoffs",
     "TeamA": "EXILE esports Academy",
     "TeamB": "Ethereal Enigmas",
-    "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreA": 0,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-06 12:50:00"
   },
   {
@@ -340,31 +372,7 @@
     "TeamA": "Deep Cross Gaming",
     "TeamB": "GAM Esports",
     "ScoreA": 1,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-06-06 12:33:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 2 Playoffs",
-    "TeamA": "Bilibili Gaming",
-    "TeamB": "JD Gaming",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-06 12:14:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Spring Playoffs",
-    "TeamA": "Caldya Esport",
-    "TeamB": "Project Conquerors",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-06 11:58:00"
-  },
-  {
-    "OverviewPage": "Esports Series Madrid 2026",
-    "TeamA": "Oxygen Gaming",
-    "TeamB": "UCAM University Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-06 11:12:00"
   }
 ]
