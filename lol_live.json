@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Play-In",
+    "TeamA": "CITA Kaizen",
+    "TeamB": "Partizan Sangal",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-09 15:54:00"
+  },
+  {
     "OverviewPage": "2026 Asia Masters",
     "TeamA": "Nongshim Esports Academy",
     "TeamB": "Weibo Gaming Youth Team",
@@ -355,16 +363,8 @@
     "OverviewPage": "LEC/2026 Season/Spring Playoffs",
     "TeamA": "Karmine Corp",
     "TeamB": "Movistar KOI",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-06 17:10:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Spring Playoffs",
-    "TeamA": "EXILE esports Academy",
-    "TeamB": "Ethereal Enigmas",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-06 12:50:00"
   }
 ]
