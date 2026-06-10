@@ -269,7 +269,66 @@
         });
     }
     function fetchCpblPlaceholder() {
-        // CPBL 佔位符
+        $.ajax({
+            url: './cpbl_live.json',
+            type: 'GET',
+            dataType: 'json',
+            cache: false,
+            success: function(data) {
+                let html = '';
+                
+                if (!data || data.length === 0) {
+                    $('#cpbl-games').html('<p style="color:#999;">今日中職無安排一軍賽事</p>');
+                    return;
+                }
+    
+                data.forEach(game => {
+                    let statusText = '';
+                    const status = game.status_key.toLowerCase();
+                    
+                    // 1. 動態判斷中職比賽狀態樣式
+                    if (status === 'postponed') {
+                        statusText = '<span style="color:#999;">❌ 因雨延賽</span>';
+                    } else if (status === 'finished') {
+                        statusText = '<span>✅ 順利完賽</span>';
+                    } else if (status === 'not_started') {
+                        statusText = `<span style="color:#005a9c;">⏰ 未開始 - ${game.display_time.split(' ')[1] || ''}</span>`;
+                    } else {
+                        // live 或其他狀態則顯示激戰中閃爍紅點
+                        statusText = `<span class="live-badge">● LIVE - ${game.status_long}</span>`;
+                    }
+    
+                    // 2. 判斷誰分數高（完賽時變綠色）
+                    let winAway = '';
+                    let winHome = '';
+                    if (status === 'finished') {
+                        if (parseInt(game.away_score) > parseInt(game.home_score)) winAway = 'winner';
+                        if (parseInt(game.home_score) > parseInt(game.away_score)) winHome = 'winner';
+                    }
+    
+                    html += `
+                        <div class="game-card">
+                            <div class="game-status">
+                                <span>🏟️ ${game.venue}</span>
+                                <span>${statusText}</span>
+                            </div>
+                            <div class="team-row">
+                                <span class="team-name">🚩 ${game.away_name} (客)</span>
+                                <span class="team-score ${winAway}">${game.away_score}</span>
+                            </div>
+                            <div class="team-row">
+                                <span class="team-name">🏠 ${game.home_name} (主)</span>
+                                <span class="team-score ${winHome}">${game.home_score}</span>
+                            </div>
+                        </div>
+                    `;
+                });
+                $('#cpbl-games').html(html);
+            },
+            error: function() {
+                $('#cpbl-games').html('<p style="color:var(--live-color);">暫無 CPBL 資料，等待 Actions 初始化...</p>');
+            }
+        });
     }
 </script>
 </body>
