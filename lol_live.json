@@ -1,10 +1,90 @@
 [
   {
+    "OverviewPage": "Esports World Cup 2026/Online Qualifiers/South America",
+    "TeamA": "Fluxo W7M",
+    "TeamB": "LOUD",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-10 19:10:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "Forsaken (Polish Team)",
+    "TeamB": "PCIFIC Esports",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-10 18:58:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "Galions",
+    "TeamB": "WLGaming Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-10 18:22:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "Anubis Gaming",
+    "TeamB": "Eintracht Spandau",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-10 17:54:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "Karmine Corp Blue",
+    "TeamB": "Team Heretics Academy",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-10 17:42:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "HMBLE",
+    "TeamB": "UCAM Esports",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-10 16:51:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "Bomba Team",
+    "TeamB": "Solary",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-10 15:57:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "E WIE EINFACH E-SPORTS",
+    "TeamB": "Misa Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-10 15:53:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "G2 NORD",
+    "TeamB": "Partizan Sangal",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-10 15:51:00"
+  },
+  {
+    "OverviewPage": "2026 Asia Masters",
+    "TeamA": "CTBC Flying Oyster Academy",
+    "TeamB": "EDward Gaming Youth Team",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-10 10:21:00"
+  },
+  {
     "OverviewPage": "2026 Asia Masters",
     "TeamA": "FENNEL",
     "TeamB": "KT Rolster Challengers",
     "ScoreA": 0,
-    "ScoreB": 4,
+    "ScoreB": 2,
     "LatestGameTime": "2026-06-10 08:36:00"
   },
   {
@@ -318,85 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-08 07:55:00"
-  },
-  {
-    "OverviewPage": "2026 Asia Masters",
-    "TeamA": "Bilibili Gaming Junior",
-    "TeamB": "FENNEL",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-08 07:04:00"
-  },
-  {
-    "OverviewPage": "2026 Asia Masters",
-    "TeamA": "Dplus Kia Challengers",
-    "TeamB": "EDward Gaming Youth Team",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-08 06:11:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026/Online Qualifiers/South America",
-    "TeamA": "Fluxo W7M",
-    "TeamB": "paiN Gaming",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-07 23:38:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Spring Playoffs",
-    "TeamA": "Cloud9",
-    "TeamB": "LYON (2024 American Team)",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-06-07 22:08:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026/Online Qualifiers/South America",
-    "TeamA": "Leviatan",
-    "TeamB": "RED Canids",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-07 20:13:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Playoffs",
-    "TeamA": "DKB XPERION NXT",
-    "TeamB": "PvB (Swiss Team)",
-    "ScoreA": 3,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-07 19:53:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Spring Playoffs",
-    "TeamA": "G2 Esports",
-    "TeamB": "Karmine Corp",
-    "ScoreA": 3,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-07 18:59:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026/Online Qualifiers/South America",
-    "TeamA": "LOUD",
-    "TeamB": "Vivo Keyd Stars",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-07 18:06:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Playoffs",
-    "TeamA": "AceGaming",
-    "TeamB": "regnum4games",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-06-07 17:58:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Spring Playoffs",
-    "TeamA": "Karmine Corp Blue Stars",
-    "TeamB": "Project Conquerors",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-07 13:45:00"
   }
 ]
