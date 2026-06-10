@@ -32,10 +32,11 @@ jobs:
       run: |
         # 如果你的 py 檔有用到環境變數，可以在 python 中用 os.environ.get('BOT_PASS') 讀取
         python update_lol.py
+        python update_cpbl.py 
 
     - name: 💾 自動提交並推送 JSON 檔
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add lol_live.json
-        git diff --cached --quiet || (git commit -m "🔄 自動更新 LoL 即時比分" && git push)
+        git add lol_live.json cpbl_live.json
+        git diff --cached --quiet || (git commit -m "🔄 自動更新 LoL & CPBL 即時比分" && git push)
