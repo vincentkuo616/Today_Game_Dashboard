@@ -167,7 +167,83 @@
         });
     }
 
-    // 🛠️ 強化 2：LOL 數據 Grouping 與風琴折疊機制
+    // 1. CPBL 三日倒序動態渲染
+    function fetchCpblPlaceholder() {
+        $.ajax({
+            url: './cpbl_live.json',
+            type: 'GET',
+            dataType: 'json',
+            cache: false,
+            success: function(data) {
+                let html = '';
+                
+                if (!data || data.length === 0) {
+                    $('#cpbl-games').html('<p style="color:#999;">暫無 CPBL 賽事資料</p>');
+                    return;
+                }
+    
+                // 後端傳來的陣列已經是 [今天, 昨天, 前天]
+                data.forEach(dayGroup => {
+                    // 產生日期分組小表頭
+                    html += `
+                        <div style="font-weight: bold; margin: 15px 0 8px 0; color: #005a9c; border-bottom: 2px dashed #d0e1fd; padding-bottom: 4px; font-size: 0.95em;">
+                            📅 賽事日期：${dayGroup.date}
+                        </div>
+                    `;
+                    
+                    if (dayGroup.games.length === 0) {
+                        html += '<p style="color:#999; font-size:0.85em; padding-left:10px; margin-bottom: 15px;">🚫 當日無排定一軍賽事</p>';
+                        return;
+                    }
+    
+                    dayGroup.games.forEach(game => {
+                        let statusText = '';
+                        const status = game.status_key.toLowerCase();
+                        
+                        if (status === 'postponed') {
+                            statusText = '<span style="color:#999;">❌ 因雨延賽</span>';
+                        } else if (status === 'finished') {
+                            statusText = '<span>✅ 完賽</span>';
+                        } else if (status === 'not_started') {
+                            statusText = `<span style="color:#005a9c;">⏰ 未開始</span>`;
+                        } else {
+                            statusText = `<span class="live-badge">● LIVE - ${game.status_long}</span>`;
+                        }
+    
+                        let winAway = '';
+                        let winHome = '';
+                        if (status === 'finished') {
+                            if (parseInt(game.away_score) > parseInt(game.home_score)) winAway = 'winner';
+                            if (parseInt(game.home_score) > parseInt(game.away_score)) winHome = 'winner';
+                        }
+    
+                        html += `
+                            <div class="game-card">
+                                <div class="game-status">
+                                    <span>🏟️ ${game.venue}</span>
+                                    <span>${statusText}</span>
+                                </div>
+                                <div class="team-row">
+                                    <span class="team-name">🚩 ${game.away_name} (客)</span>
+                                    <span class="team-score ${winAway}">${game.away_score}</span>
+                                </div>
+                                <div class="team-row">
+                                    <span class="team-name">🏠 ${game.home_name} (主)</span>
+                                    <span class="team-score ${winHome}">${game.home_score}</span>
+                                </div>
+                            </div>
+                        `;
+                    });
+                });
+                $('#cpbl-games').html(html);
+            },
+            error: function() {
+                $('#cpbl-games').html('<p style="color:var(--live-color);">暫無 CPBL 資料，等待 Actions 初始化...</p>');
+            }
+        });
+    }
+    
+    // 2. LOL 群組倒序、預設隱藏 ＆ 【今日有賽事紅字高亮】
     function fetchLolPlaceholder() {
         $.ajax({
             url: './lol_live.json',
@@ -180,7 +256,6 @@
                     return;
                 }
     
-                // 1. 線上數據 Grouping 機制 (以 OverviewPage 作為 Key)
                 let groupedMatches = {};
                 data.forEach(match => {
                     if (!groupedMatches[match.OverviewPage]) {
@@ -189,30 +264,32 @@
                     groupedMatches[match.OverviewPage].push(match);
                 });
     
-                // 🛠️ 強化 A：將所有聯賽名稱 (Keys) 提取出來，並進行【字串倒序排序】
+                // 聯賽名稱字串倒序排序
                 const sortedOverviewPages = Object.keys(groupedMatches).sort().reverse();
     
-                // 2. 渲染動態表頭與卡片 (改用排序後的陣列進行 forEach)
                 let html = '';
                 let groupIdx = 0;
-                const todayStr = new Date().toISOString().split('T')[0]; // 自動追蹤 2026 當前日期
+                const todayStr = new Date().toISOString().split('T')[0]; // 自動追蹤當前日期 (2026-06-10)
     
                 sortedOverviewPages.forEach(overviewPage => {
                     groupIdx++;
                     
-                    // 🛠️ 強化 B：
-                    // (1) 將初始箭頭改為 '▲' 代表目前是收合狀態
-                    // (2) 在 lol-group-content 加上 style="display: none;" 達成【預設隱藏】
+                    // 🛠️ 修正需求二：精確動態檢查該聯賽群組內，有沒有任何一場比賽是今天的
+                    const hasTodayGame = groupedMatches[overviewPage].some(match => match.LatestGameTime.includes(todayStr));
+                    
+                    // 如果今天有比賽，將字體與左側邊框動態改為紅色，否則維持預設樣式
+                    const highlightStyle = hasTodayGame ? 'style="color: #e63946; border-left-color: #e63946; background: #fff1f0;"' : '';
+    
+                    // 預設隱藏 style="display: none;" 
                     html += `
                         <div class="lol-group">
-                            <div class="lol-group-header" data-target="lol-group-${groupIdx}">
+                            <div class="lol-group-header" data-target="lol-group-${groupIdx}" ${highlightStyle}>
                                 <span>🎮 ${overviewPage}</span>
                                 <span class="toggle-icon">▲</span>
                             </div>
                             <div id="lol-group-${groupIdx}" class="lol-group-content" style="display: none;">
                     `;
     
-                    // 渲染該群組內的所有比賽
                     groupedMatches[overviewPage].forEach(match => {
                         const isLive = match.LatestGameTime.includes(todayStr); 
                         const statusText = isLive ? `<span class="live-badge">● LIVE - 進行中</span>` : '已結束/歷史';
@@ -247,14 +324,13 @@
                 });
                 $('#lol-games').html(html);
     
-                // 3. 綁定風琴式收合事件
+                // 綁定收合事件
                 $('.lol-group-header').off('click').on('click', function() {
                     const targetId = $(this).data('target');
                     const $content = $(`#${targetId}`);
                     const $icon = $(this).find('.toggle-icon');
                     
                     $content.slideToggle(200, function() {
-                        // 動態切換箭頭：展開顯示 ▼，折疊顯示 ▲
                         if ($content.is(':visible')) {
                             $icon.text('▼');
                         } else {
@@ -265,68 +341,6 @@
             },
             error: function() {
                 $('#lol-games').html('<p style="color:var(--live-color);">暫無 LOL 賽事資料，等待 Actions 首次初始化...</p>');
-            }
-        });
-    }
-    function fetchCpblPlaceholder() {
-        $.ajax({
-            url: './cpbl_live.json',
-            type: 'GET',
-            dataType: 'json',
-            cache: false,
-            success: function(data) {
-                let html = '';
-                
-                if (!data || data.length === 0) {
-                    $('#cpbl-games').html('<p style="color:#999;">今日中職無安排一軍賽事</p>');
-                    return;
-                }
-    
-                data.forEach(game => {
-                    let statusText = '';
-                    const status = game.status_key.toLowerCase();
-                    
-                    // 1. 動態判斷中職比賽狀態樣式
-                    if (status === 'postponed') {
-                        statusText = '<span style="color:#999;">❌ 因雨延賽</span>';
-                    } else if (status === 'finished') {
-                        statusText = '<span>✅ 順利完賽</span>';
-                    } else if (status === 'not_started') {
-                        statusText = `<span style="color:#005a9c;">⏰ 未開始 - ${game.display_time.split(' ')[1] || ''}</span>`;
-                    } else {
-                        // live 或其他狀態則顯示激戰中閃爍紅點
-                        statusText = `<span class="live-badge">● LIVE - ${game.status_long}</span>`;
-                    }
-    
-                    // 2. 判斷誰分數高（完賽時變綠色）
-                    let winAway = '';
-                    let winHome = '';
-                    if (status === 'finished') {
-                        if (parseInt(game.away_score) > parseInt(game.home_score)) winAway = 'winner';
-                        if (parseInt(game.home_score) > parseInt(game.away_score)) winHome = 'winner';
-                    }
-    
-                    html += `
-                        <div class="game-card">
-                            <div class="game-status">
-                                <span>🏟️ ${game.venue}</span>
-                                <span>${statusText}</span>
-                            </div>
-                            <div class="team-row">
-                                <span class="team-name">🚩 ${game.away_name} (客)</span>
-                                <span class="team-score ${winAway}">${game.away_score}</span>
-                            </div>
-                            <div class="team-row">
-                                <span class="team-name">🏠 ${game.home_name} (主)</span>
-                                <span class="team-score ${winHome}">${game.home_score}</span>
-                            </div>
-                        </div>
-                    `;
-                });
-                $('#cpbl-games').html(html);
-            },
-            error: function() {
-                $('#cpbl-games').html('<p style="color:var(--live-color);">暫無 CPBL 資料，等待 Actions 初始化...</p>');
             }
         });
     }
