@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 Asia Masters",
+    "TeamA": "FENNEL",
+    "TeamB": "KT Rolster Challengers",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-10 08:36:00"
+  },
+  {
     "OverviewPage": "Circuito Desafiante/2026 Season/Split 2 Promotion",
     "TeamA": "Marere Invokers",
     "TeamB": "Team Solid (Brazilian Team)",
@@ -380,7 +388,7 @@
     "TeamA": "Andromeda Gaming",
     "TeamB": "Priority",
     "ScoreA": 2,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-06-07 13:30:00"
   },
   {
@@ -390,13 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-06-07 12:08:00"
-  },
-  {
-    "OverviewPage": "LCP/2026 Season/Split 2 Playoffs",
-    "TeamA": "Deep Cross Gaming",
-    "TeamB": "Team Secret Whales",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-07 11:47:00"
   }
 ]
