@@ -1,5 +1,53 @@
 [
   {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "Karmine Corp Blue",
+    "TeamB": "PCIFIC Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-11 17:23:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "Forsaken (Polish Team)",
+    "TeamB": "Team Heretics Academy",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-11 17:06:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "G2 NORD",
+    "TeamB": "Galions",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-11 16:43:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "Eintracht Spandau",
+    "TeamB": "Solary",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-11 16:08:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "Misa Esports",
+    "TeamB": "UCAM Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-11 16:01:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "Anubis Gaming",
+    "TeamB": "Bomba Team",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-11 15:51:00"
+  },
+  {
     "OverviewPage": "VCS/2026 Season/Summer Playoffs",
     "TeamA": "SN CyberCore Esports",
     "TeamB": "Saigon Warriors",
@@ -300,7 +348,7 @@
     "TeamA": "Leviatan",
     "TeamB": "paiN Gaming",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-08 16:59:00"
   },
   {
@@ -342,61 +390,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-08 16:33:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Play-In",
-    "TeamA": "Bubliki",
-    "TeamB": "Partizan Sangal",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-08 16:32:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Play-In",
-    "TeamA": "GMBLERS Esports",
-    "TeamB": "Otter Side",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-08 16:32:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Play-In",
-    "TeamA": "Frites Esports Club",
-    "TeamB": "Magaza Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-08 16:30:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Play-In",
-    "TeamA": "Karmine Corp Blue",
-    "TeamB": "Partizan Sangal",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-08 15:12:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Play-In",
-    "TeamA": "Bubliki",
-    "TeamB": "CITA Kaizen",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-08 15:07:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Play-In",
-    "TeamA": "Bomba Team",
-    "TeamB": "Magaza Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-08 15:07:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Play-In",
-    "TeamA": "GOAL",
-    "TeamB": "mCon esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-08 15:06:00"
   }
 ]
