@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Esports World Cup 2026/Online Qualifiers/South America",
+    "TeamA": "RED Canids",
+    "TeamB": "Vivo Keyd Stars",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-11 18:56:00"
+  },
+  {
     "OverviewPage": "Road Of Legends/2026 Season/Summer Promotion",
     "TeamA": "SNOOZE Esports",
     "TeamB": "ZennIT",
@@ -347,16 +355,8 @@
     "OverviewPage": "Liga Regional Norte/2026 Season/Split 1 Playoffs",
     "TeamA": "Fuego",
     "TeamB": "G3V E-sports",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-09 00:58:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026/Online Qualifiers/South America",
-    "TeamA": "Fluxo W7M",
-    "TeamB": "RED Canids",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-08 22:42:00"
   }
 ]
