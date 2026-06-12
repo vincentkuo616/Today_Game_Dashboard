@@ -1,26 +1,50 @@
 [
   {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "Forsaken (Polish Team)",
+    "TeamB": "Karmine Corp Blue",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-12 19:14:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "Anubis Gaming",
     "TeamB": "Eintracht Spandau",
-    "ScoreA": 0,
+    "ScoreA": 1,
     "ScoreB": 3,
-    "LatestGameTime": "2026-06-12 16:53:00"
+    "LatestGameTime": "2026-06-12 18:55:00"
   },
   {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "G2 NORD",
     "TeamB": "WLGaming Esports",
-    "ScoreA": 1,
+    "ScoreA": 2,
     "ScoreB": 1,
-    "LatestGameTime": "2026-06-12 16:26:00"
+    "LatestGameTime": "2026-06-12 17:20:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Relegation",
+    "TeamA": "Spongecord prime",
+    "TeamB": "Team Rift",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-12 17:14:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Relegation",
+    "TeamA": "LOOKSMAXXER",
+    "TeamB": "TeamOrangeGaming Academy",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-12 17:11:00"
   },
   {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "E WIE EINFACH E-SPORTS",
     "TeamB": "Misa Esports",
     "ScoreA": 0,
-    "ScoreB": 4,
+    "ScoreB": 2,
     "LatestGameTime": "2026-06-12 16:00:00"
   },
   {
@@ -332,15 +356,15 @@
     "TeamA": "Karmine Corp Blue",
     "TeamB": "Team Heretics Academy",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-10 17:42:00"
   },
   {
     "OverviewPage": "Streamers Clash/Season 4",
     "TeamA": "FREEZŮV WOLT DŮCHOĎÁK",
     "TeamB": "SILNĚJŠÍ SE XNAPYM",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-06-10 17:15:00"
   },
   {
@@ -348,23 +372,7 @@
     "TeamA": "HMBLE",
     "TeamB": "UCAM Esports",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-10 16:51:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
-    "TeamA": "Bomba Team",
-    "TeamB": "Solary",
-    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-06-10 15:57:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
-    "TeamA": "G2 NORD",
-    "TeamB": "Partizan Sangal",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-10 15:51:00"
+    "LatestGameTime": "2026-06-10 16:51:00"
   }
 ]
