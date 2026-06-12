@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Relegation",
+    "TeamA": "Circus Kittens",
+    "TeamB": "Locked In (Dutch Team)",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-12 19:43:00"
+  },
+  {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "Forsaken (Polish Team)",
     "TeamB": "Karmine Corp Blue",
@@ -340,7 +348,7 @@
     "TeamA": "Forsaken (Polish Team)",
     "TeamB": "PCIFIC Esports",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-06-10 18:58:00"
   },
   {
@@ -366,13 +374,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-10 17:15:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
-    "TeamA": "HMBLE",
-    "TeamB": "UCAM Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-10 16:51:00"
   }
 ]
