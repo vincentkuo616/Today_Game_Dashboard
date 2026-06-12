@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "Esports World Cup 2026/Online Qualifiers/South America",
+    "TeamA": "LOUD",
+    "TeamB": "LØS",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-11 23:04:00"
+  },
+  {
+    "OverviewPage": "Esports World Cup 2026/Online Qualifiers/South America",
     "TeamA": "RED Canids",
     "TeamB": "Vivo Keyd Stars",
     "ScoreA": 2,
@@ -347,16 +355,8 @@
     "OverviewPage": "2026 Asia Masters",
     "TeamA": "Dplus Kia Challengers",
     "TeamB": "Top Esports Challenger",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-09 07:01:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 1 Playoffs",
-    "TeamA": "Fuego",
-    "TeamB": "G3V E-sports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-09 00:58:00"
   }
 ]
