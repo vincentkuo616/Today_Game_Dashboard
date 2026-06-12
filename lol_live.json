@@ -8,6 +8,30 @@
     "LatestGameTime": "2026-06-11 23:04:00"
   },
   {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Playoffs",
+    "TeamA": "CGN Esports",
+    "TeamB": "MT1 Esports",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-11 20:43:00"
+  },
+  {
+    "OverviewPage": "Streamers Clash/Season 4",
+    "TeamA": "HERDYNŮV LANGUSTA TÝM",
+    "TeamB": "STOPERCENTNÁ KAMILOVA TUTOFKA",
+    "ScoreA": 4,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-11 20:26:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Playoffs",
+    "TeamA": "Babos Gaming",
+    "TeamB": "DKB XPERION NXT",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-11 19:32:00"
+  },
+  {
     "OverviewPage": "Esports World Cup 2026/Online Qualifiers/South America",
     "TeamA": "RED Canids",
     "TeamB": "Vivo Keyd Stars",
@@ -40,12 +64,36 @@
     "LatestGameTime": "2026-06-11 18:31:00"
   },
   {
+    "OverviewPage": "Streamers Clash/Season 4",
+    "TeamA": "FREEZŮV WOLT DŮCHOĎÁK",
+    "TeamB": "STOPERCENTNÁ KAMILOVA TUTOFKA",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-11 18:24:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Playoffs",
+    "TeamA": "All for One Gaming",
+    "TeamB": "Reveal Multigaming",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-11 18:14:00"
+  },
+  {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "Karmine Corp Blue",
     "TeamB": "PCIFIC Esports",
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-11 18:13:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Playoffs",
+    "TeamA": "Hannover Esports e.V.",
+    "TeamB": "regnum4games",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-11 18:04:00"
   },
   {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
@@ -272,18 +320,10 @@
     "LatestGameTime": "2026-06-09 19:32:00"
   },
   {
-    "OverviewPage": "Streamers Clash/Season 4",
-    "TeamA": "HERDYNŮV LANGUSTA TÝM",
-    "TeamB": "STOPERCENTNÁ KAMILOVA TUTOFKA",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-09 19:05:00"
-  },
-  {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Play-In",
     "TeamA": "Bomba Team",
     "TeamB": "Frites Esports Club",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-09 17:47:00"
   },
@@ -291,7 +331,7 @@
     "OverviewPage": "EMEA Masters/2026 Season/Spring Play-In",
     "TeamA": "Karmine Corp Blue",
     "TeamB": "Verdant",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-09 17:42:00"
   },
@@ -300,63 +340,7 @@
     "TeamA": "Hannover Esports e.V.",
     "TeamB": "Reveal Multigaming",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-09 17:12:00"
-  },
-  {
-    "OverviewPage": "Streamers Clash/Season 4",
-    "TeamA": "FREEZŮV WOLT DŮCHOĎÁK",
-    "TeamB": "VEDICI DEEMONS",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-09 17:11:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Playoffs",
-    "TeamA": "All for One Gaming",
-    "TeamB": "regnum4games",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-09 17:09:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Play-In",
-    "TeamA": "E WIE EINFACH E-SPORTS",
-    "TeamB": "GOAL",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-09 15:58:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Play-In",
-    "TeamA": "CITA Kaizen",
-    "TeamB": "Partizan Sangal",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-09 15:54:00"
-  },
-  {
-    "OverviewPage": "2026 Asia Masters",
-    "TeamA": "Nongshim Esports Academy",
-    "TeamB": "Weibo Gaming Youth Team",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-09 10:26:00"
-  },
-  {
-    "OverviewPage": "2026 Asia Masters",
-    "TeamA": "Bilibili Gaming Junior",
-    "TeamB": "T1 Esports Academy",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-09 08:41:00"
-  },
-  {
-    "OverviewPage": "2026 Asia Masters",
-    "TeamA": "Dplus Kia Challengers",
-    "TeamB": "Top Esports Challenger",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-09 07:01:00"
   }
 ]
