@@ -1,11 +1,35 @@
 [
   {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "Anubis Gaming",
+    "TeamB": "Eintracht Spandau",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-06-12 16:53:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "G2 NORD",
+    "TeamB": "WLGaming Esports",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-12 16:26:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "E WIE EINFACH E-SPORTS",
+    "TeamB": "Misa Esports",
+    "ScoreA": 0,
+    "ScoreB": 4,
+    "LatestGameTime": "2026-06-12 16:00:00"
+  },
+  {
     "OverviewPage": "VCS/2026 Season/Summer Playoffs",
     "TeamA": "Saigon Dino",
     "TeamB": "ZEN Esports (Vietnamese Team)",
     "ScoreA": 2,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-12 12:57:00"
+    "ScoreB": 3,
+    "LatestGameTime": "2026-06-12 13:47:00"
   },
   {
     "OverviewPage": "LCK/2026 Season/Road to MSI",
@@ -305,14 +329,6 @@
   },
   {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
-    "TeamA": "Anubis Gaming",
-    "TeamB": "Eintracht Spandau",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-10 17:54:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "Karmine Corp Blue",
     "TeamB": "Team Heretics Academy",
     "ScoreA": 0,
@@ -331,7 +347,7 @@
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "HMBLE",
     "TeamB": "UCAM Esports",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-06-10 16:51:00"
   },
@@ -340,39 +356,15 @@
     "TeamA": "Bomba Team",
     "TeamB": "Solary",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-10 15:57:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
-    "TeamA": "E WIE EINFACH E-SPORTS",
-    "TeamB": "Misa Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-10 15:53:00"
   },
   {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "G2 NORD",
     "TeamB": "Partizan Sangal",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-10 15:51:00"
-  },
-  {
-    "OverviewPage": "2026 Asia Masters",
-    "TeamA": "CTBC Flying Oyster Academy",
-    "TeamB": "EDward Gaming Youth Team",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-10 10:21:00"
-  },
-  {
-    "OverviewPage": "2026 Asia Masters",
-    "TeamA": "FENNEL",
-    "TeamB": "KT Rolster Challengers",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-10 08:36:00"
   }
 ]
