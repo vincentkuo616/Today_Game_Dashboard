@@ -17,12 +17,12 @@
         "id": 184113,
         "venue": "澄清湖棒球場",
         "display_time": "6/12 (五) 18:35",
-        "status_long": "Inning 6",
-        "status_key": "live",
+        "status_long": "Finished",
+        "status_key": "finished",
         "home_name": "台鋼雄鷹",
         "away_name": "樂天桃猿",
         "home_score": 0,
-        "away_score": 0
+        "away_score": 1
       },
       {
         "id": 184114,
