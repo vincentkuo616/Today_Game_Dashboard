@@ -1,11 +1,51 @@
 [
   {
     "OverviewPage": "2026 Asian Games/Qualifier",
+    "TeamA": "Jordan (National Team)",
+    "TeamB": "Sri Lanka (National Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-13 09:30:00"
+  },
+  {
+    "OverviewPage": "LJL/2026 Season/Spring Series",
+    "TeamA": "Arneb",
+    "TeamB": "Rising Gaming",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-13 09:09:00"
+  },
+  {
+    "OverviewPage": "2026 Asian Games/Qualifier",
+    "TeamA": "Oman (National Team)",
+    "TeamB": "Pakistan (National Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-13 08:05:00"
+  },
+  {
+    "OverviewPage": "2026 Asian Games/Qualifier",
+    "TeamA": "Kyrgyzstan (National Team)",
+    "TeamB": "Malaysia (National Team)",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-13 08:02:00"
+  },
+  {
+    "OverviewPage": "2026 Asian Games/Qualifier",
     "TeamA": "Mongolia (National Team)",
     "TeamB": "Vietnam (National Team)",
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-06-13 06:38:00"
+  },
+  {
+    "OverviewPage": "2026 Asian Games/Qualifier",
+    "TeamA": "India (National Team)",
+    "TeamB": "Jordan (National Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-13 06:28:00"
   },
   {
     "OverviewPage": "2026 Asian Games/Qualifier",
@@ -44,7 +84,7 @@
     "TeamA": "Anubis Gaming",
     "TeamB": "Eintracht Spandau",
     "ScoreA": 1,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-06-12 18:55:00"
   },
   {
@@ -355,32 +395,8 @@
     "OverviewPage": "Streamers Clash/Season 4",
     "TeamA": "STOPERCENTNÁ KAMILOVA TUTOFKA",
     "TeamB": "TYBLÁHO MEWING SOCIETY",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-10 19:15:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026/Online Qualifiers/South America",
-    "TeamA": "Fluxo W7M",
-    "TeamB": "LOUD",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-10 19:10:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
-    "TeamA": "Forsaken (Polish Team)",
-    "TeamB": "PCIFIC Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-10 18:58:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
-    "TeamA": "Galions",
-    "TeamB": "WLGaming Esports",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-06-10 18:22:00"
+    "LatestGameTime": "2026-06-10 19:15:00"
   }
 ]
