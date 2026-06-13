@@ -4,24 +4,24 @@
     "TeamA": "Eintracht Spandau",
     "TeamB": "Team Heretics Academy",
     "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-13 17:03:00"
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-13 17:53:00"
   },
   {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "Karmine Corp Blue",
     "TeamB": "UCAM Esports",
     "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-13 16:47:00"
+    "ScoreB": 3,
+    "LatestGameTime": "2026-06-13 17:33:00"
   },
   {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "G2 NORD",
     "TeamB": "Solary",
     "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-13 16:35:00"
+    "ScoreB": 3,
+    "LatestGameTime": "2026-06-13 17:32:00"
   },
   {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
@@ -371,7 +371,7 @@
     "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Playoffs",
     "TeamA": "All for One Gaming",
     "TeamB": "Reveal Multigaming",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-11 18:14:00"
   },
@@ -379,7 +379,7 @@
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "Karmine Corp Blue",
     "TeamB": "PCIFIC Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-11 18:13:00"
   },
@@ -396,7 +396,7 @@
     "TeamA": "Forsaken (Polish Team)",
     "TeamB": "Team Heretics Academy",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-11 17:51:00"
   }
 ]
