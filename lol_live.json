@@ -1,35 +1,35 @@
 [
   {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
-    "TeamA": "Galions",
-    "TeamB": "Misa Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-13 15:02:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "Eintracht Spandau",
     "TeamB": "Team Heretics Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-13 15:02:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
-    "TeamA": "G2 NORD",
-    "TeamB": "Solary",
-    "ScoreA": 0,
+    "ScoreA": 2,
     "ScoreB": 1,
-    "LatestGameTime": "2026-06-13 15:02:00"
+    "LatestGameTime": "2026-06-13 17:03:00"
   },
   {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "Karmine Corp Blue",
     "TeamB": "UCAM Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-13 15:02:00"
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-13 16:47:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "G2 NORD",
+    "TeamB": "Solary",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-13 16:35:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "Galions",
+    "TeamB": "Misa Esports",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-13 16:33:00"
   },
   {
     "OverviewPage": "VCS/2026 Season/Summer Playoffs",
@@ -340,7 +340,7 @@
     "TeamA": "SNOOZE Esports",
     "TeamB": "ZennIT",
     "ScoreA": 1,
-    "ScoreB": 3,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-11 18:52:00"
   },
   {
@@ -348,7 +348,7 @@
     "TeamA": "Partizan Sangal",
     "TeamB": "WLGaming Esports",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-11 18:31:00"
   },
   {
@@ -364,7 +364,7 @@
     "TeamA": "FREEZŮV WOLT DŮCHOĎÁK",
     "TeamB": "STOPERCENTNÁ KAMILOVA TUTOFKA",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-11 18:24:00"
   },
   {
@@ -372,7 +372,7 @@
     "TeamA": "All for One Gaming",
     "TeamB": "Reveal Multigaming",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-06-11 18:14:00"
   },
   {
@@ -387,8 +387,8 @@
     "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Playoffs",
     "TeamA": "Hannover Esports e.V.",
     "TeamB": "regnum4games",
-    "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreA": 0,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-11 18:04:00"
   },
   {
