@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Esports World Cup 2026/Online Qualifiers/South America",
+    "TeamA": "LØS",
+    "TeamB": "RED Canids",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-14 18:09:00"
+  },
+  {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "Eintracht Spandau",
     "TeamB": "Galions",
@@ -14,6 +22,22 @@
     "ScoreA": 3,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-14 16:24:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Playoffs",
+    "TeamA": "Babos Gaming",
+    "TeamB": "Reveal Multigaming",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-14 15:22:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Playoffs",
+    "TeamA": "MT1 Esports",
+    "TeamB": "regnum4games",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-14 14:20:00"
   },
   {
     "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Spring Playoffs",
@@ -275,7 +299,7 @@
     "OverviewPage": "LCK/2026 Season/Road to MSI",
     "TeamA": "Gen.G",
     "TeamB": "KT Rolster",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-13 08:25:00"
   },
@@ -310,45 +334,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-13 06:28:00"
-  },
-  {
-    "OverviewPage": "2026 Asian Games/Qualifier",
-    "TeamA": "Pakistan (National Team)",
-    "TeamB": "United Arab Emirates (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-13 05:10:00"
-  },
-  {
-    "OverviewPage": "2026 Asian Games/Qualifier",
-    "TeamA": "Kazakhstan (National Team)",
-    "TeamB": "Sri Lanka (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-13 05:09:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Relegation",
-    "TeamA": "Circus Kittens",
-    "TeamB": "Locked In (Dutch Team)",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-12 19:43:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
-    "TeamA": "Forsaken (Polish Team)",
-    "TeamB": "Karmine Corp Blue",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-12 19:14:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
-    "TeamA": "Anubis Gaming",
-    "TeamB": "Eintracht Spandau",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-12 18:55:00"
   }
 ]
