@@ -4,8 +4,8 @@
     "TeamA": "Cloud9",
     "TeamB": "Team Liquid",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-13 21:09:00"
+    "ScoreB": 3,
+    "LatestGameTime": "2026-06-13 21:59:00"
   },
   {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
@@ -390,13 +390,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-11 18:14:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
-    "TeamA": "Karmine Corp Blue",
-    "TeamB": "PCIFIC Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-11 18:13:00"
   }
 ]
