@@ -1,19 +1,19 @@
 [
   {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
-    "TeamA": "Solary",
-    "TeamB": "UCAM Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-14 15:01:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "Eintracht Spandau",
     "TeamB": "Galions",
     "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-14 15:00:00"
+    "ScoreB": 3,
+    "LatestGameTime": "2026-06-14 16:36:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "Solary",
+    "TeamB": "UCAM Esports",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-14 16:24:00"
   },
   {
     "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Spring Playoffs",
@@ -22,6 +22,14 @@
     "ScoreA": 3,
     "ScoreB": 2,
     "LatestGameTime": "2026-06-14 13:55:00"
+  },
+  {
+    "OverviewPage": "VCS/2026 Season/Summer Playoffs",
+    "TeamA": "SN CyberCore Esports",
+    "TeamB": "Saigon Dino",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-06-14 13:51:00"
   },
   {
     "OverviewPage": "2026 Asian Games/Qualifier",
@@ -339,40 +347,8 @@
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "Anubis Gaming",
     "TeamB": "Eintracht Spandau",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-12 18:55:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
-    "TeamA": "G2 NORD",
-    "TeamB": "WLGaming Esports",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-12 17:20:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Relegation",
-    "TeamA": "Spongecord prime",
-    "TeamB": "Team Rift",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-12 17:14:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Relegation",
-    "TeamA": "LOOKSMAXXER",
-    "TeamB": "TeamOrangeGaming Academy",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-12 17:11:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
-    "TeamA": "E WIE EINFACH E-SPORTS",
-    "TeamB": "Misa Esports",
     "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-06-12 16:00:00"
+    "LatestGameTime": "2026-06-12 18:55:00"
   }
 ]
