@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "Solary",
+    "TeamB": "UCAM Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-14 15:01:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
+    "TeamA": "Eintracht Spandau",
+    "TeamB": "Galions",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-14 15:00:00"
+  },
+  {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Spring Playoffs",
+    "TeamA": "Ethereal Enigmas",
+    "TeamB": "Priority",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-14 13:55:00"
+  },
+  {
     "OverviewPage": "2026 Asian Games/Qualifier",
     "TeamA": "Malaysia (National Team)",
     "TeamB": "Mongolia (National Team)",
@@ -323,7 +347,7 @@
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "G2 NORD",
     "TeamB": "WLGaming Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-06-12 17:20:00"
   },
@@ -348,23 +372,7 @@
     "TeamA": "E WIE EINFACH E-SPORTS",
     "TeamB": "Misa Esports",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-12 16:00:00"
-  },
-  {
-    "OverviewPage": "VCS/2026 Season/Summer Playoffs",
-    "TeamA": "Saigon Dino",
-    "TeamB": "ZEN Esports (Vietnamese Team)",
-    "ScoreA": 1,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-06-12 13:47:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Road to MSI",
-    "TeamA": "Hanwha Life Esports",
-    "TeamB": "T1",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-12 11:22:00"
   }
 ]
