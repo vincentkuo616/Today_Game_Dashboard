@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LCS/2026 Season/Spring Playoffs",
+    "TeamA": "LYON (2024 American Team)",
+    "TeamB": "Team Liquid",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-14 20:16:00"
+  },
+  {
     "OverviewPage": "Esports World Cup 2026/Online Qualifiers/South America",
     "TeamA": "LØS",
     "TeamB": "RED Canids",
@@ -326,13 +334,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-06-13 06:38:00"
-  },
-  {
-    "OverviewPage": "2026 Asian Games/Qualifier",
-    "TeamA": "India (National Team)",
-    "TeamB": "Jordan (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-13 06:28:00"
   }
 ]
