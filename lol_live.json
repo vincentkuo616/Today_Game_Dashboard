@@ -3,9 +3,9 @@
     "OverviewPage": "LCS/2026 Season/Spring Playoffs",
     "TeamA": "LYON (2024 American Team)",
     "TeamB": "Team Liquid",
-    "ScoreA": 1,
+    "ScoreA": 2,
     "ScoreB": 0,
-    "LatestGameTime": "2026-06-14 20:16:00"
+    "LatestGameTime": "2026-06-14 21:23:00"
   },
   {
     "OverviewPage": "Esports World Cup 2026/Online Qualifiers/South America",
@@ -326,13 +326,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-06-13 08:02:00"
-  },
-  {
-    "OverviewPage": "2026 Asian Games/Qualifier",
-    "TeamA": "Mongolia (National Team)",
-    "TeamB": "Vietnam (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-13 06:38:00"
   }
 ]
