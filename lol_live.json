@@ -1,11 +1,27 @@
 [
   {
     "OverviewPage": "2026 Asia Masters",
+    "TeamA": "Saigon Warriors",
+    "TeamB": "Top Esports Challenger",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-15 11:33:00"
+  },
+  {
+    "OverviewPage": "2026 Asia Masters",
+    "TeamA": "KT Rolster Challengers",
+    "TeamB": "Top Esports Challenger",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-15 08:51:00"
+  },
+  {
+    "OverviewPage": "2026 Asia Masters",
     "TeamA": "KT Rolster Challengers",
     "TeamB": "Saigon Warriors",
-    "ScoreA": 1,
+    "ScoreA": 2,
     "ScoreB": 0,
-    "LatestGameTime": "2026-06-15 06:08:00"
+    "LatestGameTime": "2026-06-15 06:57:00"
   },
   {
     "OverviewPage": "LCS/2026 Season/Spring Playoffs",
@@ -259,8 +275,8 @@
     "OverviewPage": "LPL/2026 Season/Split 2 Playoffs",
     "TeamA": "Bilibili Gaming",
     "TeamB": "Team WE",
-    "ScoreA": 3,
-    "ScoreB": 2,
+    "ScoreA": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-13 12:26:00"
   },
   {
@@ -302,29 +318,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-13 09:30:00"
-  },
-  {
-    "OverviewPage": "LJL/2026 Season/Spring Series",
-    "TeamA": "Arneb",
-    "TeamB": "Rising Gaming",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-13 09:09:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Road to MSI",
-    "TeamA": "Gen.G",
-    "TeamB": "KT Rolster",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-13 08:25:00"
-  },
-  {
-    "OverviewPage": "2026 Asian Games/Qualifier",
-    "TeamA": "Oman (National Team)",
-    "TeamB": "Pakistan (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-13 08:05:00"
   }
 ]
