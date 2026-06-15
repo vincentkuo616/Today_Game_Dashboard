@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 Asia Masters",
+    "TeamA": "KT Rolster Challengers",
+    "TeamB": "Saigon Warriors",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-15 06:08:00"
+  },
+  {
     "OverviewPage": "LCS/2026 Season/Spring Playoffs",
     "TeamA": "LYON (2024 American Team)",
     "TeamB": "Team Liquid",
@@ -318,13 +326,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-13 08:05:00"
-  },
-  {
-    "OverviewPage": "2026 Asian Games/Qualifier",
-    "TeamA": "Kyrgyzstan (National Team)",
-    "TeamB": "Malaysia (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-13 08:02:00"
   }
 ]
