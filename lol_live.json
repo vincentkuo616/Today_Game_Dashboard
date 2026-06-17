@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Relegation",
+    "TeamA": "Locked In (Dutch Team)",
+    "TeamB": "Team Rift",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-17 17:22:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Relegation",
+    "TeamA": "Circus Kittens",
+    "TeamB": "LOOKSMAXXER",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-17 17:04:00"
+  },
+  {
     "OverviewPage": "2026 Asia Masters",
     "TeamA": "Nongshim Esports Academy",
     "TeamB": "T1 Esports Academy",
@@ -259,7 +275,7 @@
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "Eintracht Spandau",
     "TeamB": "Team Heretics Academy",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 2,
     "LatestGameTime": "2026-06-13 18:39:00"
   },
@@ -284,7 +300,7 @@
     "TeamA": "G2 NORD",
     "TeamB": "Solary",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-13 17:32:00"
   },
   {
@@ -292,14 +308,14 @@
     "TeamA": "Bitfix RG",
     "TeamB": "VES Japan",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-13 17:26:00"
   },
   {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "Galions",
     "TeamB": "Misa Esports",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-13 16:33:00"
   }
