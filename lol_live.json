@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Playoffs",
+    "TeamA": "Babos Gaming",
+    "TeamB": "MT1 Esports",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-16 20:13:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Playoffs",
     "TeamA": "All for One Gaming",
     "TeamB": "CGN Esports",
     "ScoreA": 0,
@@ -283,7 +291,7 @@
     "OverviewPage": "VCS/2026 Season/Summer Playoffs",
     "TeamA": "Saigon Warriors",
     "TeamB": "ZEN Esports (Vietnamese Team)",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-06-13 12:53:00"
   },
@@ -291,7 +299,7 @@
     "OverviewPage": "LPL/2026 Season/Split 2 Playoffs",
     "TeamA": "Bilibili Gaming",
     "TeamB": "Team WE",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-13 12:26:00"
   },
@@ -300,23 +308,7 @@
     "TeamA": "EXILE esports Academy",
     "TeamB": "Priority",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-06-13 12:19:00"
-  },
-  {
-    "OverviewPage": "LJL/2026 Season/Spring Series",
-    "TeamA": "FENNEL",
-    "TeamB": "Uwinks",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-13 11:10:00"
-  },
-  {
-    "OverviewPage": "2026 Asian Games/Qualifier",
-    "TeamA": "India (National Team)",
-    "TeamB": "Kazakhstan (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-13 11:04:00"
   }
 ]
