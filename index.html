@@ -16,11 +16,24 @@
         .dashboard-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px; }
         
         /* 運動賽事大卡片區塊 */
-        .sport-section { background: var(--card-bg); border-radius: 12px; padding: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); }
-        .sport-title { font-size: 1.3em; font-weight: bold; margin-top: 0; padding-bottom: 8px; border-bottom: 3px solid #1d428a; display: flex; justify-content: space-between; }
+        .sport-section { background: var(--card-bg); border-radius: 12px; padding: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); height: fit-content; }
+        
+        /* 修正需求一：大標題改為可點擊樣式 pointer */
+        .sport-title { 
+            font-size: 1.3em; 
+            font-weight: bold; 
+            margin-top: 0; 
+            padding-bottom: 8px; 
+            border-bottom: 3px solid #1d428a; 
+            display: flex; 
+            justify-content: space-between; 
+            cursor: pointer; 
+            user-select: none;
+        }
         .sport-title.mlb { border-bottom-color: #041e42; }
         .sport-title.lol { border-bottom-color: #00a3e0; }
         .sport-title.cpbl { border-bottom-color: #005a9c; }
+        .sport-toggle-icon { font-size: 0.8em; color: #888; transition: transform 0.2s; }
         
         /* 具體比賽對戰小卡片 */
         .game-card { border: 1px solid #eee; border-radius: 8px; padding: 12px; margin-bottom: 10px; background: #fafafa; transition: transform 0.2s; }
@@ -31,12 +44,11 @@
         .team-row { display: flex; justify-content: space-between; align-items: center; margin: 5px 0; font-size: 1em; }
         .team-name { font-weight: 500; }
         .team-score { font-size: 1.2em; font-weight: bold; color: #111; }
-        .winner { color: #28a745; } /* 獲勝隊伍分數變綠 */
-
-        /* 強化 1：道奇隊專用高亮樣式 */
+        .winner { color: #28a745; }
+        
         .dodgers-highlight { color: #e63946 !important; font-weight: bold !important; }
 
-        /* 強化 2：LOL 風琴折疊專用樣式 */
+        /* LOL 風琴折疊專用樣式 */
         .lol-group-header {
             background: #e6f7ff;
             border-left: 4px solid #00a3e0;
@@ -73,22 +85,22 @@
 
 <div class="dashboard-grid">
     <div class="sport-section">
-        <div class="sport-title">🏀 NBA 比分直播</div>
+        <div class="sport-title" id="title-nba"><span>🏀 NBA 比分直播</span><span class="sport-toggle-icon">▼</span></div>
         <div id="nba-games" class="games-container"><p>載入中...</p></div>
     </div>
 
     <div class="sport-section">
-        <div class="sport-title mlb">⚾ MLB 比分直播</div>
+        <div class="sport-title mlb" id="title-mlb"><span>⚾ MLB 比分直播</span><span class="sport-toggle-icon">▼</span></div>
         <div id="mlb-games" class="games-container"><p>載入中...</p></div>
     </div>
 
     <div class="sport-section">
-        <div class="sport-title cpbl">🥎 CPBL 中職比分</div>
-        <div id="cpbl-games" class="games-container"><p>接口開發中 / 需中轉代理...</p></div>
+        <div class="sport-title cpbl" id="title-cpbl"><span>🥎 CPBL 中職比分</span><span class="sport-toggle-icon">▼</span></div>
+        <div id="cpbl-games" class="games-container"><p>載入中...</p></div>
     </div>
 
     <div class="sport-section">
-        <div class="sport-title lol">🎮 LoL 電競賽程 (點擊聯賽可收合)</div>
+        <div class="sport-title lol" id="title-lol"><span>🎮 LoL 電競賽程</span><span class="sport-toggle-icon">▼</span></div>
         <div id="lol-games" class="games-container"><p>載入中...</p></div>
     </div>
 </div>
@@ -98,25 +110,45 @@
     const API_NBA = 'https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard';
     const API_MLB = 'https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard';
 
+    // ⏳ 在地化日期動態防禦機制
+    const now = new Date();
+    const todayStr = now.getFullYear() + '-' + String(now.getMonth() + 1).padStart(2, '0') + '-' + String(now.getDate()).padStart(2, '0');
+    
+    const yesterdayObj = new Date();
+    yesterdayObj.setDate(now.getDate() - 1);
+    const yesterdayStr = yesterdayObj.getFullYear() + '-' + String(yesterdayObj.getMonth() + 1).padStart(2, '0') + '-' + String(yesterdayObj.getDate()).padStart(2, '0');
+
+    // 🔒 狀態保護鎖：防止定時刷新時蓋掉使用者手動折疊的狀態
+    let firstLoad = { nba: true, mlb: true, cpbl: true, lol: true };
+
     $(document).ready(function() {
         refreshAllScores();
         setInterval(refreshAllScores, 60000); // 每 60 秒自動更新
+
+        // 🛠️ 修正需求一：大標題點擊綁定收合事件
+        $('.sport-title').on('click', function() {
+            const $container = $(this).next('.games-container');
+            const $icon = $(this).find('.sport-toggle-icon');
+            $container.slideToggle(200, function() {
+                $icon.text($container.is(':visible') ? '▼' : '▲');
+            });
+        });
     });
 
     function refreshAllScores() {
         $('#updateTime').text('正在同步最新比分...');
         
-        fetchEspnScoreboard(API_NBA, '#nba-games');
-        fetchEspnScoreboard(API_MLB, '#mlb-games');
+        fetchEspnScoreboard(API_NBA, '#nba-games', 'nba');
+        fetchEspnScoreboard(API_MLB, '#mlb-games', 'mlb');
         fetchCpblPlaceholder();
         fetchLolPlaceholder();
 
-        const now = new Date();
-        $('#updateTime').text(`上次更新: ${now.toLocaleTimeString()}`);
+        const timeNow = new Date();
+        $('#updateTime').text(`上次更新: ${timeNow.toLocaleTimeString()}`);
     }
 
     // 泛用 ESPN JSON API 解析器
-    function fetchEspnScoreboard(url, containerId) {
+    function fetchEspnScoreboard(url, containerId, sportKey) {
         $.ajax({
             url: url,
             type: 'GET',
@@ -124,24 +156,30 @@
             success: function(data) {
                 let html = '';
                 const events = data.events || [];
+                let hasRecentGame = false;
                 
                 if (events.length === 0) {
                     $(containerId).html('<p style="color:#999;">今日無安排賽事</p>');
+                    handleDefaultCollapse(containerId, sportKey, false);
                     return;
                 }
 
                 events.forEach(event => {
+                    // 掃描是否有今天或昨天的比賽
+                    if (event.date && (event.date.includes(todayStr) || event.date.includes(yesterdayStr))) {
+                        hasRecentGame = true;
+                    }
+
                     const status = event.status.type;
                     const isLive = status.state === 'in';
                     const statusText = isLive ? `<span class="live-badge">● LIVE - ${event.status.type.detail}</span>` : status.detail;
                     
-                    const teamAway = event.competitions[0].competitors[1]; // 客隊
-                    const teamHome = event.competitions[0].competitors[0]; // 主隊
+                    const teamAway = event.competitions[0].competitors[1]; 
+                    const teamHome = event.competitions[0].competitors[0]; 
 
                     const awayWinner = teamAway.winner ? 'winner' : '';
                     const homeWinner = teamHome.winner ? 'winner' : '';
 
-                    // 🛠️ 強化 1：動態檢查是否為洛杉磯道奇隊，若是則賦予高亮 Class
                     const isAwayDodgers = teamAway.team.displayName === "Los Angeles Dodgers" ? "dodgers-highlight" : "";
                     const isHomeDodgers = teamHome.team.displayName === "Los Angeles Dodgers" ? "dodgers-highlight" : "";
 
@@ -160,6 +198,9 @@
                     `;
                 });
                 $(containerId).html(html);
+                
+                // 執行初次加載收合防禦
+                handleDefaultCollapse(containerId, sportKey, hasRecentGame);
             },
             error: function() {
                 $(containerId).html('<p style="color:var(--live-color);">連線失敗，無法取得即時資料</p>');
@@ -167,7 +208,7 @@
         });
     }
 
-    // 1. CPBL 三日倒序動態渲染
+    // CPBL 三日倒序動態渲染
     function fetchCpblPlaceholder() {
         $.ajax({
             url: './cpbl_live.json',
@@ -176,15 +217,20 @@
             cache: false,
             success: function(data) {
                 let html = '';
+                let hasRecentGame = false;
                 
                 if (!data || data.length === 0) {
                     $('#cpbl-games').html('<p style="color:#999;">暫無 CPBL 賽事資料</p>');
+                    handleDefaultCollapse('#cpbl-games', 'cpbl', false);
                     return;
                 }
-    
-                // 後端傳來的陣列已經是 [今天, 昨天, 前天]
+
                 data.forEach(dayGroup => {
-                    // 產生日期分組小表頭
+                    // 掃描今天或昨天是否有排定比賽
+                    if ((dayGroup.date === todayStr || dayGroup.date === yesterdayStr) && dayGroup.games.length > 0) {
+                        hasRecentGame = true;
+                    }
+
                     html += `
                         <div style="font-weight: bold; margin: 15px 0 8px 0; color: #005a9c; border-bottom: 2px dashed #d0e1fd; padding-bottom: 4px; font-size: 0.95em;">
                             📅 賽事日期：${dayGroup.date}
@@ -195,7 +241,7 @@
                         html += '<p style="color:#999; font-size:0.85em; padding-left:10px; margin-bottom: 15px;">🚫 當日無排定一軍賽事</p>';
                         return;
                     }
-    
+
                     dayGroup.games.forEach(game => {
                         let statusText = '';
                         const status = game.status_key.toLowerCase();
@@ -209,14 +255,14 @@
                         } else {
                             statusText = `<span class="live-badge">● LIVE - ${game.status_long}</span>`;
                         }
-    
+
                         let winAway = '';
                         let winHome = '';
                         if (status === 'finished') {
                             if (parseInt(game.away_score) > parseInt(game.home_score)) winAway = 'winner';
                             if (parseInt(game.home_score) > parseInt(game.away_score)) winHome = 'winner';
                         }
-    
+
                         html += `
                             <div class="game-card">
                                 <div class="game-status">
@@ -236,14 +282,16 @@
                     });
                 });
                 $('#cpbl-games').html(html);
+                
+                handleDefaultCollapse('#cpbl-games', 'cpbl', hasRecentGame);
             },
             error: function() {
                 $('#cpbl-games').html('<p style="color:var(--live-color);">暫無 CPBL 資料，等待 Actions 初始化...</p>');
             }
         });
     }
-    
-    // 2. LOL 群組倒序、預設隱藏 ＆ 【今日有賽事紅字高亮】
+
+    // LOL 群組倒序、預設隱藏 ＆ 【今日/昨日有賽事紅字高亮】
     function fetchLolPlaceholder() {
         $.ajax({
             url: './lol_live.json',
@@ -253,9 +301,10 @@
             success: function(data) {
                 if (!data || data.length === 0) {
                     $('#lol-games').html('<p style="color:#999;">今日無 LOL 安排賽事</p>');
+                    handleDefaultCollapse('#lol-games', 'lol', false);
                     return;
                 }
-    
+
                 let groupedMatches = {};
                 data.forEach(match => {
                     if (!groupedMatches[match.OverviewPage]) {
@@ -263,24 +312,25 @@
                     }
                     groupedMatches[match.OverviewPage].push(match);
                 });
-    
-                // 聯賽名稱字串倒序排序
+
                 const sortedOverviewPages = Object.keys(groupedMatches).sort().reverse();
-    
+                
+                // 掃描整個 LOL JSON 判定全區塊是否含有今天或昨天的比賽
+                const hasAnyRecentGame = data.some(match => match.LatestGameTime.includes(todayStr) || match.LatestGameTime.includes(yesterdayStr));
+
                 let html = '';
                 let groupIdx = 0;
-                const todayStr = new Date().toISOString().split('T')[0]; // 自動追蹤當前日期 (2026-06-10)
-    
+
                 sortedOverviewPages.forEach(overviewPage => {
                     groupIdx++;
                     
-                    // 🛠️ 修正需求二：精確動態檢查該聯賽群組內，有沒有任何一場比賽是今天的
-                    const hasTodayGame = groupedMatches[overviewPage].some(match => match.LatestGameTime.includes(todayStr));
+                    // 🛠️ 修正需求二：精確動態檢查（今天 OR 昨天）有比賽，OverviewPage 變紅字
+                    const hasRecentMatch = groupedMatches[overviewPage].some(match => 
+                        match.LatestGameTime.includes(todayStr) || match.LatestGameTime.includes(yesterdayStr)
+                    );
                     
-                    // 如果今天有比賽，將字體與左側邊框動態改為紅色，否則維持預設樣式
-                    const highlightStyle = hasTodayGame ? 'style="color: #e63946; border-left-color: #e63946; background: #fff1f0;"' : '';
-    
-                    // 預設隱藏 style="display: none;" 
+                    const highlightStyle = hasRecentMatch ? 'style="color: #e63946; border-left-color: #e63946; background: #fff1f0;"' : '';
+
                     html += `
                         <div class="lol-group">
                             <div class="lol-group-header" data-target="lol-group-${groupIdx}" ${highlightStyle}>
@@ -289,14 +339,14 @@
                             </div>
                             <div id="lol-group-${groupIdx}" class="lol-group-content" style="display: none;">
                     `;
-    
+
                     groupedMatches[overviewPage].forEach(match => {
                         const isLive = match.LatestGameTime.includes(todayStr); 
                         const statusText = isLive ? `<span class="live-badge">● LIVE - 進行中</span>` : '已結束/歷史';
                         
                         const winA = match.ScoreA > match.ScoreB ? 'winner' : '';
                         const winB = match.ScoreB > match.ScoreA ? 'winner' : '';
-    
+
                         html += `
                             <div class="game-card">
                                 <div class="game-status">
@@ -316,33 +366,45 @@
                             </div>
                         `;
                     });
-    
+
                     html += `
                             </div>
                         </div>
                     `;
                 });
                 $('#lol-games').html(html);
-    
-                // 綁定收合事件
+
+                // 內部風琴折疊綁定
                 $('.lol-group-header').off('click').on('click', function() {
                     const targetId = $(this).data('target');
                     const $content = $(`#${targetId}`);
                     const $icon = $(this).find('.toggle-icon');
-                    
                     $content.slideToggle(200, function() {
-                        if ($content.is(':visible')) {
-                            $icon.text('▼');
-                        } else {
-                            $icon.text('▲');
-                        }
+                        $icon.text($content.is(':visible') ? '▼' : '▲');
                     });
                 });
+
+                handleDefaultCollapse('#lol-games', 'lol', hasAnyRecentGame);
             },
             error: function() {
                 $('#lol-games').html('<p style="color:var(--live-color);">暫無 LOL 賽事資料，等待 Actions 首次初始化...</p>');
             }
         });
+    }
+
+    // 🛠️ 核心自動折疊控制中心 (狀態鎖定)
+    function handleDefaultCollapse(containerId, sportKey, hasRecentGame) {
+        if (firstLoad[sportKey]) {
+            const $title = $(containerId).prev('.sport-title');
+            if (!hasRecentGame) {
+                $(containerId).hide();
+                $title.find('.sport-toggle-icon').text('▲');
+            } else {
+                $(containerId).show();
+                $title.find('.sport-toggle-icon').text('▼');
+            }
+            firstLoad[sportKey] = false; // 鎖定狀態，後端定時輪詢刷新時不再插手變更
+        }
     }
 </script>
 </body>
