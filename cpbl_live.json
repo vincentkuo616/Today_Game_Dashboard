@@ -77,17 +77,6 @@
         "away_name": "中信兄弟",
         "home_score": 6,
         "away_score": 1
-      },
-      {
-        "id": 184122,
-        "venue": "亞太主球場",
-        "display_time": "6/16 (二) 18:35",
-        "status_long": "Postponed",
-        "status_key": "postponed",
-        "home_name": "統一獅",
-        "away_name": "樂天桃猿",
-        "home_score": "-",
-        "away_score": "-"
       }
     ]
   }

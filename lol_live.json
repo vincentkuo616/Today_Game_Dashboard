@@ -1,5 +1,45 @@
 [
   {
+    "OverviewPage": "2026 Asia Masters",
+    "TeamA": "Dplus Kia Challengers",
+    "TeamB": "T1 Esports Academy",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-18 07:01:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Promotion",
+    "TeamA": "Apex Mission Impossible",
+    "TeamB": "Contingent Esports",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-18 01:23:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Promotion",
+    "TeamA": "Blue Otter",
+    "TeamB": "DeathMark E-Sports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-18 00:31:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Promotion",
+    "TeamA": "Contingent Esports",
+    "TeamB": "Nine Lives Esports",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-17 22:17:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Promotion",
+    "TeamA": "DeathMark E-Sports",
+    "TeamB": "Lotus (North American Team)",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-17 22:11:00"
+  },
+  {
     "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Relegation",
     "TeamA": "Spongecord prime",
     "TeamB": "TeamOrangeGaming Academy",
@@ -276,55 +316,7 @@
     "TeamA": "Cloud9",
     "TeamB": "Team Liquid",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-06-13 21:59:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
-    "TeamA": "Eintracht Spandau",
-    "TeamB": "Team Heretics Academy",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-13 18:39:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026/Online Qualifiers/South America",
-    "TeamA": "LØS",
-    "TeamB": "Vivo Keyd Stars",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-13 18:00:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
-    "TeamA": "Karmine Corp Blue",
-    "TeamB": "UCAM Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-13 17:33:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
-    "TeamA": "G2 NORD",
-    "TeamB": "Solary",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-13 17:32:00"
-  },
-  {
-    "OverviewPage": "Komplettligaen/2026 Season/Spring Playoffs",
-    "TeamA": "Bitfix RG",
-    "TeamB": "VES Japan",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-13 17:26:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
-    "TeamA": "Galions",
-    "TeamB": "Misa Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-13 16:33:00"
   }
 ]
