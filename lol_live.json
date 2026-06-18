@@ -3,9 +3,9 @@
     "OverviewPage": "2026 Asia Masters",
     "TeamA": "Dplus Kia Challengers",
     "TeamB": "T1 Esports Academy",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-18 07:01:00"
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-18 09:33:00"
   },
   {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Promotion",
@@ -302,21 +302,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-14 05:09:00"
-  },
-  {
-    "OverviewPage": "2026 Asian Games/Qualifier",
-    "TeamA": "Saudi Arabia (National Team)",
-    "TeamB": "Vietnam (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-14 05:06:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Spring Playoffs",
-    "TeamA": "Cloud9",
-    "TeamB": "Team Liquid",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-13 21:59:00"
   }
 ]
