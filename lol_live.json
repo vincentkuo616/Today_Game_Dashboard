@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Relegation",
+    "TeamA": "Spongecord prime",
+    "TeamB": "TeamOrangeGaming Academy",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-17 20:48:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Relegation",
     "TeamA": "Locked In (Dutch Team)",
     "TeamB": "Team Rift",
     "ScoreA": 0,
@@ -20,8 +28,8 @@
     "TeamA": "Nongshim Esports Academy",
     "TeamB": "T1 Esports Academy",
     "ScoreA": 2,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-17 12:30:00"
+    "ScoreB": 3,
+    "LatestGameTime": "2026-06-17 13:21:00"
   },
   {
     "OverviewPage": "2026 Asia Masters",
@@ -275,7 +283,7 @@
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "Eintracht Spandau",
     "TeamB": "Team Heretics Academy",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-06-13 18:39:00"
   },
@@ -284,14 +292,14 @@
     "TeamA": "LØS",
     "TeamB": "Vivo Keyd Stars",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-06-13 18:00:00"
   },
   {
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "Karmine Corp Blue",
     "TeamB": "UCAM Esports",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-06-13 17:33:00"
   },
@@ -315,7 +323,7 @@
     "OverviewPage": "EMEA Masters/2026 Season/Spring Main Event",
     "TeamA": "Galions",
     "TeamB": "Misa Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-13 16:33:00"
   }
