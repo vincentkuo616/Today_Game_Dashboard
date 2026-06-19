@@ -1,11 +1,43 @@
 [
   {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Promotion",
+    "TeamA": "Blue Otter",
+    "TeamB": "Nine Lives Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-18 22:56:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Promotion",
+    "TeamA": "Contingent Esports",
+    "TeamB": "DeathMark E-Sports",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-18 22:33:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Promotion",
+    "TeamA": "Apex Mission Impossible",
+    "TeamB": "Lotus (North American Team)",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-18 21:01:00"
+  },
+  {
     "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Playoffs",
     "TeamA": "All for One Gaming",
     "TeamB": "Babos Gaming",
     "ScoreA": 3,
     "ScoreB": 2,
     "LatestGameTime": "2026-06-18 20:30:00"
+  },
+  {
+    "OverviewPage": "2026 Asia Masters",
+    "TeamA": "KT Rolster Challengers",
+    "TeamB": "Nongshim Esports Academy",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-18 12:59:00"
   },
   {
     "OverviewPage": "2026 Asia Masters",
@@ -219,8 +251,8 @@
     "OverviewPage": "LJL/2026 Season/Spring Series",
     "TeamA": "FENNEL",
     "TeamB": "Rising Gaming",
-    "ScoreA": 3,
-    "ScoreB": 2,
+    "ScoreA": 1,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-14 11:51:00"
   },
   {
@@ -243,48 +275,16 @@
     "OverviewPage": "LCK/2026 Season/Road to MSI",
     "TeamA": "Gen.G",
     "TeamB": "T1",
-    "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreA": 0,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-14 10:35:00"
   },
   {
     "OverviewPage": "LPL/2026 Season/Split 2 Playoffs",
     "TeamA": "Bilibili Gaming",
     "TeamB": "Top Esports",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-14 10:20:00"
-  },
-  {
-    "OverviewPage": "2026 Asian Games/Qualifier",
-    "TeamA": "Jordan (National Team)",
-    "TeamB": "Mongolia (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-14 09:29:00"
-  },
-  {
-    "OverviewPage": "2026 Asian Games/Qualifier",
-    "TeamA": "Malaysia (National Team)",
-    "TeamB": "United Arab Emirates (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-14 09:23:00"
-  },
-  {
-    "OverviewPage": "2026 Asian Games/Qualifier",
-    "TeamA": "Hong Kong (National Team)",
-    "TeamB": "Saudi Arabia (National Team)",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-06-14 08:13:00"
-  },
-  {
-    "OverviewPage": "2026 Asian Games/Qualifier",
-    "TeamA": "India (National Team)",
-    "TeamB": "Vietnam (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-14 08:07:00"
+    "LatestGameTime": "2026-06-14 10:20:00"
   }
 ]
