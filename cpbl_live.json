@@ -1,14 +1,105 @@
 [
   {
     "date": "2026-06-19",
-    "games": []
+    "games": [
+      {
+        "id": 184127,
+        "venue": "亞太主球場",
+        "display_time": "6/19 (五) 16:05",
+        "status_long": "Finished",
+        "status_key": "finished",
+        "home_name": "統一獅",
+        "away_name": "台鋼雄鷹",
+        "home_score": 0,
+        "away_score": 1
+      },
+      {
+        "id": 184128,
+        "venue": "台中洲際棒球場",
+        "display_time": "6/19 (五) 17:05",
+        "status_long": "Finished",
+        "status_key": "finished",
+        "home_name": "中信兄弟",
+        "away_name": "富邦悍將",
+        "home_score": 6,
+        "away_score": 11
+      },
+      {
+        "id": 184129,
+        "venue": "桃園國際棒球場",
+        "display_time": "6/19 (五) 17:05",
+        "status_long": "Finished",
+        "status_key": "finished",
+        "home_name": "樂天桃猿",
+        "away_name": "味全龍",
+        "home_score": 3,
+        "away_score": 11
+      }
+    ]
   },
   {
     "date": "2026-06-18",
-    "games": []
+    "games": [
+      {
+        "id": 184124,
+        "venue": "台中洲際棒球場",
+        "display_time": "6/18 (四) 18:35",
+        "status_long": "Finished",
+        "status_key": "finished",
+        "home_name": "中信兄弟",
+        "away_name": "富邦悍將",
+        "home_score": 5,
+        "away_score": 4
+      },
+      {
+        "id": 184125,
+        "venue": "桃園國際棒球場",
+        "display_time": "6/18 (四) 18:35",
+        "status_long": "Finished",
+        "status_key": "finished",
+        "home_name": "樂天桃猿",
+        "away_name": "味全龍",
+        "home_score": 0,
+        "away_score": 7
+      },
+      {
+        "id": 184126,
+        "venue": "亞太主球場",
+        "display_time": "6/18 (四) 18:35",
+        "status_long": "Finished",
+        "status_key": "finished",
+        "home_name": "統一獅",
+        "away_name": "台鋼雄鷹",
+        "home_score": 7,
+        "away_score": 1
+      }
+    ]
   },
   {
     "date": "2026-06-17",
-    "games": []
+    "games": [
+      {
+        "id": 184111,
+        "venue": "澄清湖棒球場",
+        "display_time": "6/17 (三) 18:35",
+        "status_long": "Finished",
+        "status_key": "finished",
+        "home_name": "台鋼雄鷹",
+        "away_name": "樂天桃猿",
+        "home_score": 7,
+        "away_score": 9
+      },
+      {
+        "id": 184123,
+        "venue": "天母棒球場",
+        "display_time": "6/17 (三) 18:35",
+        "status_long": "Finished",
+        "status_key": "finished",
+        "home_name": "味全龍",
+        "away_name": "富邦悍將",
+        "home_score": 3,
+        "away_score": 1
+      }
+    ]
   }
 ]
