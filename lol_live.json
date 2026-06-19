@@ -4,8 +4,8 @@
     "TeamA": "KT Rolster Challengers",
     "TeamB": "T1 Esports Academy",
     "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-19 10:44:00"
+    "ScoreB": 3,
+    "LatestGameTime": "2026-06-19 12:34:00"
   },
   {
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/SEA & OCE",
@@ -283,7 +283,7 @@
     "OverviewPage": "VCS/2026 Season/Summer Playoffs",
     "TeamA": "SN CyberCore Esports",
     "TeamB": "Saigon Dino",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-06-14 13:51:00"
   },
@@ -294,13 +294,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-14 12:32:00"
-  },
-  {
-    "OverviewPage": "2026 Asian Games/Qualifier",
-    "TeamA": "Jordan (National Team)",
-    "TeamB": "United Arab Emirates (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-14 12:08:00"
   }
 ]
