@@ -6,34 +6,34 @@
         "id": 184127,
         "venue": "亞太主球場",
         "display_time": "6/19 (五) 16:05",
-        "status_long": "Not Started",
-        "status_key": "scheduled",
+        "status_long": "Finished",
+        "status_key": "finished",
         "home_name": "統一獅",
         "away_name": "台鋼雄鷹",
-        "home_score": "-",
-        "away_score": "-"
+        "home_score": 0,
+        "away_score": 1
       },
       {
         "id": 184128,
         "venue": "台中洲際棒球場",
         "display_time": "6/19 (五) 17:05",
-        "status_long": "Not Started",
-        "status_key": "scheduled",
+        "status_long": "Inning 7",
+        "status_key": "live",
         "home_name": "中信兄弟",
         "away_name": "富邦悍將",
-        "home_score": "-",
-        "away_score": "-"
+        "home_score": 3,
+        "away_score": 11
       },
       {
         "id": 184129,
         "venue": "桃園國際棒球場",
         "display_time": "6/19 (五) 17:05",
-        "status_long": "Not Started",
-        "status_key": "scheduled",
+        "status_long": "Inning 8",
+        "status_key": "live",
         "home_name": "樂天桃猿",
         "away_name": "味全龍",
-        "home_score": "-",
-        "away_score": "-"
+        "home_score": 2,
+        "away_score": 10
       }
     ]
   },
