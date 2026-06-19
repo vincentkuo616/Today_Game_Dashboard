@@ -1,5 +1,53 @@
 [
   {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
+    "TeamA": "Kuwait (National Team)",
+    "TeamB": "Lebanon (National Team)",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-19 14:42:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
+    "TeamA": "Kazakhstan (National Team)",
+    "TeamB": "Saudi Arabia (National Team)",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-19 14:32:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
+    "TeamA": "Madagascar (National Team)",
+    "TeamB": "Tunisia (National Team)",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-19 14:31:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
+    "TeamA": "Djibouti (National Team)",
+    "TeamB": "Lebanon (National Team)",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-19 13:53:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
+    "TeamA": "Jordan (National Team)",
+    "TeamB": "Kuwait (National Team)",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-19 13:27:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
+    "TeamA": "Palestine (National Team)",
+    "TeamB": "United Arab Emirates (National Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-19 13:17:00"
+  },
+  {
     "OverviewPage": "2026 Asia Masters",
     "TeamA": "KT Rolster Challengers",
     "TeamB": "T1 Esports Academy",
@@ -260,14 +308,14 @@
     "TeamA": "Babos Gaming",
     "TeamB": "Reveal Multigaming",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-06-14 15:22:00"
   },
   {
     "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Playoffs",
     "TeamA": "MT1 Esports",
     "TeamB": "regnum4games",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-14 14:20:00"
   },
@@ -275,7 +323,7 @@
     "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Spring Playoffs",
     "TeamA": "Ethereal Enigmas",
     "TeamB": "Priority",
-    "ScoreA": 3,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-14 13:55:00"
   },
@@ -284,15 +332,7 @@
     "TeamA": "SN CyberCore Esports",
     "TeamB": "Saigon Dino",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-14 13:51:00"
-  },
-  {
-    "OverviewPage": "2026 Asian Games/Qualifier",
-    "TeamA": "Malaysia (National Team)",
-    "TeamB": "Mongolia (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-14 12:32:00"
   }
 ]
