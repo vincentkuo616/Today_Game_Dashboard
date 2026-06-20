@@ -2,6 +2,46 @@
   {
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Asia",
     "TeamA": "Mongolia (National Team)",
+    "TeamB": "Sri Lanka (National Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-20 12:10:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Asia",
+    "TeamA": "Bangladesh (National Team)",
+    "TeamB": "India (National Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-20 11:58:00"
+  },
+  {
+    "OverviewPage": "VCS/2026 Season/Summer Playoffs",
+    "TeamA": "Saigon Dino",
+    "TeamB": "Saigon Warriors",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-06-20 11:39:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Asia",
+    "TeamA": "Hong Kong (National Team)",
+    "TeamB": "Sri Lanka (National Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-20 11:04:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Asia",
+    "TeamA": "India (National Team)",
+    "TeamB": "Japan (National Team)",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-20 10:35:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Asia",
+    "TeamA": "Mongolia (National Team)",
     "TeamB": "Pakistan (National Team)",
     "ScoreA": 1,
     "ScoreB": 0,
@@ -358,45 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-19 16:33:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe West",
-    "TeamA": "Belgium (National Team)",
-    "TeamB": "Malta (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-19 16:29:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe East",
-    "TeamA": "Bulgaria (National Team)",
-    "TeamB": "Croatia (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-19 16:26:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe West",
-    "TeamA": "Norway (National Team)",
-    "TeamB": "Republic of Ireland (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-19 16:23:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe East",
-    "TeamA": "Hungary (National Team)",
-    "TeamB": "Israel (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-19 16:22:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe East",
-    "TeamA": "Albania (National Team)",
-    "TeamB": "Macedonia (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-19 16:22:00"
   }
 ]
