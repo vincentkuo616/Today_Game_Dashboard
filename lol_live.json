@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
+    "TeamA": "Kazakhstan (National Team)",
+    "TeamB": "Palestine (National Team)",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-20 13:18:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
     "TeamA": "Georgia (National Team)",
     "TeamB": "Kuwait (National Team)",
     "ScoreA": 1,
@@ -38,6 +46,14 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-20 13:05:00"
+  },
+  {
+    "OverviewPage": "Streamers Clash/Season 4",
+    "TeamA": "FREEZŮV WOLT DŮCHOĎÁK",
+    "TeamB": "STOPERCENTNÁ KAMILOVA TUTOFKA",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-20 12:22:00"
   },
   {
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Asia",
@@ -382,21 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-19 17:03:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
-    "TeamA": "Jordan (National Team)",
-    "TeamB": "Oman (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-19 17:02:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
-    "TeamA": "Kyrgyzstan (National Team)",
-    "TeamB": "South Africa (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-19 17:00:00"
   }
 ]
