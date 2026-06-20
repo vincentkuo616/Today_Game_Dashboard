@@ -1,5 +1,53 @@
 [
   {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Promotion",
+    "TeamA": "Blue Otter",
+    "TeamB": "Lotus (North American Team)",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-19 23:00:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/North America",
+    "TeamA": "El Salvador (National Team)",
+    "TeamB": "Honduras (National Team)",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-19 22:48:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/North America",
+    "TeamA": "El Salvador (National Team)",
+    "TeamB": "Guatemala (National Team)",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-19 21:44:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/North America",
+    "TeamA": "Costa Rica (National Team)",
+    "TeamB": "Panama (National Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-19 21:38:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/North America",
+    "TeamA": "Dominican Republic (National Team)",
+    "TeamB": "Mexico (National Team)",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-19 21:34:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/North America",
+    "TeamA": "Jamaica (National Team)",
+    "TeamB": "Puerto Rico (National Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-19 21:32:00"
+  },
+  {
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/North America",
     "TeamA": "Dominican Republic (National Team)",
     "TeamB": "Honduras (National Team)",
@@ -350,53 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-06-19 15:44:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
-    "TeamA": "Azerbaijan (National Team)",
-    "TeamB": "Oman (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-19 15:42:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
-    "TeamA": "Morocco (National Team)",
-    "TeamB": "Palestine (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-19 15:41:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
-    "TeamA": "Ghana (National Team)",
-    "TeamB": "Kazakhstan (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-19 15:40:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
-    "TeamA": "Lebanon (National Team)",
-    "TeamB": "Tunisia (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-19 15:39:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
-    "TeamA": "Egypt (National Team)",
-    "TeamB": "Saudi Arabia (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-19 15:39:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe East",
-    "TeamA": "Estonia (National Team)",
-    "TeamB": "Moldova (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-19 15:18:00"
   }
 ]
