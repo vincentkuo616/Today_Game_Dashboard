@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Promotion",
+    "TeamA": "Blue Otter",
+    "TeamB": "DeathMark E-Sports",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-20 23:37:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/South America",
+    "TeamA": "Colombia (National Team)",
+    "TeamB": "Ecuador (National Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-20 22:55:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/South America",
+    "TeamA": "Uruguay (National Team)",
+    "TeamB": "Venezuela (National Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-20 22:30:00"
+  },
+  {
+    "OverviewPage": "IDL Kings Lendas Season 4",
+    "TeamA": "Gaytriotas",
+    "TeamB": "Vôs Grandes",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-20 21:52:00"
+  },
+  {
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/South America",
     "TeamA": "Colombia (National Team)",
     "TeamB": "Peru (National Team)",
@@ -16,19 +48,27 @@
     "LatestGameTime": "2026-06-20 21:32:00"
   },
   {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/North America",
+    "TeamA": "Costa Rica (National Team)",
+    "TeamB": "Dominican Republic (National Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-20 21:20:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/North America",
+    "TeamA": "Jamaica (National Team)",
+    "TeamB": "Panama (National Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-20 21:06:00"
+  },
+  {
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/South America",
     "TeamA": "Chile (National Team)",
     "TeamB": "Uruguay (National Team)",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-06-20 20:50:00"
-  },
-  {
-    "OverviewPage": "IDL Kings Lendas Season 4",
-    "TeamA": "Gaytriotas",
-    "TeamB": "Vôs Grandes",
-    "ScoreA": 0,
-    "ScoreB": 1,
     "LatestGameTime": "2026-06-20 20:50:00"
   },
   {
@@ -38,6 +78,30 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-20 20:43:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/North America",
+    "TeamA": "Honduras (National Team)",
+    "TeamB": "Panama (National Team)",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-20 20:15:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/North America",
+    "TeamA": "Jamaica (National Team)",
+    "TeamB": "Mexico (National Team)",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-20 20:10:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/North America",
+    "TeamA": "Costa Rica (National Team)",
+    "TeamB": "Guatemala (National Team)",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-20 20:06:00"
   },
   {
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/South America",
@@ -83,7 +147,7 @@
     "OverviewPage": "Prime League 2nd Division/2026 Season/Spring Relegation",
     "TeamA": "Circus Kittens",
     "TeamB": "Spongecord prime",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-06-20 18:09:00"
   },
@@ -334,69 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-20 11:58:00"
-  },
-  {
-    "OverviewPage": "VCS/2026 Season/Summer Playoffs",
-    "TeamA": "Saigon Dino",
-    "TeamB": "Saigon Warriors",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-06-20 11:39:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Asia",
-    "TeamA": "Hong Kong (National Team)",
-    "TeamB": "Sri Lanka (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-20 11:04:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Asia",
-    "TeamA": "India (National Team)",
-    "TeamB": "Japan (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-20 10:35:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Asia",
-    "TeamA": "Mongolia (National Team)",
-    "TeamB": "Pakistan (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-20 10:34:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Asia",
-    "TeamA": "Bangladesh (National Team)",
-    "TeamB": "Sri Lanka (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-20 09:46:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Asia",
-    "TeamA": "India (National Team)",
-    "TeamB": "Pakistan (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-20 09:18:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Asia",
-    "TeamA": "Japan (National Team)",
-    "TeamB": "Mongolia (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-20 09:18:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/SEA & OCE",
-    "TeamA": "Australia (National Team)",
-    "TeamB": "Thailand (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-20 08:03:00"
   }
 ]
