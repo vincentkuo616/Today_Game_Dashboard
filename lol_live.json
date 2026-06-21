@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Asia",
+    "TeamA": "Japan (National Team)",
+    "TeamB": "Mongolia (National Team)",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-21 11:46:00"
+  },
+  {
+    "OverviewPage": "2026 Asia Masters",
+    "TeamA": "Dplus Kia Challengers",
+    "TeamB": "T1 Esports Academy",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-21 11:38:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Asia",
     "TeamA": "Hong Kong (National Team)",
     "TeamB": "Japan (National Team)",
     "ScoreA": 2,
@@ -22,14 +38,6 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-21 09:19:00"
-  },
-  {
-    "OverviewPage": "2026 Asia Masters",
-    "TeamA": "Dplus Kia Challengers",
-    "TeamB": "T1 Esports Academy",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-21 09:07:00"
   },
   {
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/SEA & OCE",
@@ -389,14 +397,6 @@
     "TeamB": "Tunisia (National Team)",
     "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-06-20 13:17:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
-    "TeamA": "Georgia (National Team)",
-    "TeamB": "Kuwait (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
     "LatestGameTime": "2026-06-20 13:17:00"
   }
 ]
