@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/SEA & OCE",
+    "TeamA": "New Zealand (National Team)",
+    "TeamB": "Singapore (National Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-21 06:10:00"
+  },
+  {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Promotion",
     "TeamA": "Blue Otter",
     "TeamB": "DeathMark E-Sports",
@@ -390,13 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-20 12:10:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Asia",
-    "TeamA": "Bangladesh (National Team)",
-    "TeamB": "India (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-20 11:58:00"
   }
 ]
