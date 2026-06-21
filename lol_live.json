@@ -1,11 +1,27 @@
 [
   {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
+    "TeamA": "Algeria (National Team)",
+    "TeamB": "Tunisia (National Team)",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-21 14:22:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
+    "TeamA": "Lebanon (National Team)",
+    "TeamB": "Saudi Arabia (National Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-21 13:38:00"
+  },
+  {
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Asia",
     "TeamA": "Japan (National Team)",
     "TeamB": "Mongolia (National Team)",
     "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-21 11:46:00"
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-21 12:40:00"
   },
   {
     "OverviewPage": "2026 Asia Masters",
@@ -382,21 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-06-20 14:17:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
-    "TeamA": "Kazakhstan (National Team)",
-    "TeamB": "Palestine (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-20 13:18:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
-    "TeamA": "Saudi Arabia (National Team)",
-    "TeamB": "Tunisia (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-20 13:17:00"
   }
 ]
