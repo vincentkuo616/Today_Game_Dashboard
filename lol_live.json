@@ -1,11 +1,35 @@
 [
   {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/South America",
+    "TeamA": "Chile (National Team)",
+    "TeamB": "Peru (National Team)",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-21 20:27:00"
+  },
+  {
+    "OverviewPage": "IDL Kings Lendas Season 4",
+    "TeamA": "Green GG",
+    "TeamB": "Oreiudos Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-21 20:19:00"
+  },
+  {
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe East",
     "TeamA": "Hungary (National Team)",
     "TeamB": "Romania (National Team)",
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-06-21 19:16:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/South America",
+    "TeamA": "Colombia (National Team)",
+    "TeamB": "Uruguay (National Team)",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-21 19:14:00"
   },
   {
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe West",
@@ -374,29 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-06-20 16:14:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe West",
-    "TeamA": "Switzerland (National Team)",
-    "TeamB": "United Kingdom (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-20 16:12:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe West",
-    "TeamA": "Italy (National Team)",
-    "TeamB": "Netherlands (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-20 16:11:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe West",
-    "TeamA": "Belgium (National Team)",
-    "TeamB": "Germany (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-20 16:06:00"
   }
 ]
