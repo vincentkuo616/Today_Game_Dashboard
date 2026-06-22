@@ -1,11 +1,27 @@
 [
   {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/North America",
+    "TeamA": "Costa Rica (National Team)",
+    "TeamB": "Guatemala (National Team)",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-06-22 00:34:00"
+  },
+  {
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/South America",
     "TeamA": "Peru (National Team)",
     "TeamB": "Uruguay (National Team)",
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-21 23:17:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/North America",
+    "TeamA": "Guatemala (National Team)",
+    "TeamB": "Mexico (National Team)",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-21 21:16:00"
   },
   {
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/South America",
@@ -22,6 +38,14 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-21 20:19:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/North America",
+    "TeamA": "Costa Rica (National Team)",
+    "TeamB": "Jamaica (National Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-21 20:12:00"
   },
   {
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe East",
@@ -280,14 +304,6 @@
     "LatestGameTime": "2026-06-20 20:10:00"
   },
   {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/North America",
-    "TeamA": "Costa Rica (National Team)",
-    "TeamB": "Guatemala (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-20 20:06:00"
-  },
-  {
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/South America",
     "TeamA": "Colombia (National Team)",
     "TeamB": "Venezuela (National Team)",
@@ -382,21 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-20 16:31:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe East",
-    "TeamA": "Serbia (National Team)",
-    "TeamB": "Ukraine (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-20 16:28:00"
-  },
-  {
-    "OverviewPage": "Streamers Clash/Season 4",
-    "TeamA": "HERDYNŮV LANGUSTA TÝM",
-    "TeamB": "VEDICI DEEMONS",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-20 16:19:00"
   }
 ]
