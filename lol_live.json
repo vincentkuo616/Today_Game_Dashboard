@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/South America",
+    "TeamA": "Peru (National Team)",
+    "TeamB": "Uruguay (National Team)",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-21 23:17:00"
+  },
+  {
+    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/South America",
     "TeamA": "Chile (National Team)",
     "TeamB": "Peru (National Team)",
     "ScoreA": 2,
@@ -390,13 +398,5 @@
     "ScoreA": 3,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-20 16:19:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe West",
-    "TeamA": "Finland (National Team)",
-    "TeamB": "Portugal (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-20 16:14:00"
   }
 ]
