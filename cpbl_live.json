@@ -6,23 +6,23 @@
         "id": 184012,
         "venue": "桃園國際棒球場",
         "display_time": "6/24 (三) 18:35",
-        "status_long": "Not Started",
-        "status_key": "scheduled",
+        "status_long": "Inning 6",
+        "status_key": "live",
         "home_name": "樂天桃猿",
         "away_name": "味全龍",
-        "home_score": "-",
-        "away_score": "-"
+        "home_score": 6,
+        "away_score": 2
       },
       {
         "id": 184096,
         "venue": "澄清湖棒球場",
         "display_time": "6/24 (三) 18:35",
-        "status_long": "Not Started",
-        "status_key": "scheduled",
+        "status_long": "Inning 7",
+        "status_key": "live",
         "home_name": "台鋼雄鷹",
         "away_name": "富邦悍將",
-        "home_score": "-",
-        "away_score": "-"
+        "home_score": 0,
+        "away_score": 3
       }
     ]
   },
