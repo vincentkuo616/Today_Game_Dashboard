@@ -18,7 +18,7 @@
         /* 運動賽事大卡片區塊 */
         .sport-section { background: var(--card-bg); border-radius: 12px; padding: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); height: fit-content; }
         
-        /* 修正需求一：大標題改為可點擊樣式 pointer */
+        /* 大標題改為可點擊樣式 pointer */
         .sport-title { 
             font-size: 1.3em; 
             font-weight: bold; 
@@ -47,6 +47,9 @@
         .winner { color: #28a745; }
         
         .dodgers-highlight { color: #e63946 !important; font-weight: bold !important; }
+
+        /* 🛠️ 新增樣式：MLB 五局逆轉勝專用橘色高亮（具備最高優先權防禦） */
+        .orange-highlight { color: #ff7f00 !important; font-weight: bold !important; }
 
         /* LOL 風琴折疊專用樣式 */
         .lol-group-header {
@@ -125,7 +128,7 @@
         refreshAllScores();
         setInterval(refreshAllScores, 60000); // 每 60 秒自動更新
 
-        // 🛠️ 修正需求一：大標題點擊綁定收合事件
+        // 大標題點擊綁定收合事件
         $('.sport-title').on('click', function() {
             const $container = $(this).next('.games-container');
             const $icon = $(this).find('.sport-toggle-icon');
@@ -172,6 +175,7 @@
 
                     const status = event.status.type;
                     const isLive = status.state === 'in';
+                    const isFinished = status.state === 'post'; // 判定是否完賽
                     const statusText = isLive ? `<span class="live-badge">● LIVE - ${event.status.type.detail}</span>` : status.detail;
                     
                     const teamAway = event.competitions[0].competitors[1]; 
@@ -183,23 +187,52 @@
                     const isAwayDodgers = teamAway.team.displayName === "Los Angeles Dodgers" ? "dodgers-highlight" : "";
                     const isHomeDodgers = teamHome.team.displayName === "Los Angeles Dodgers" ? "dodgers-highlight" : "";
 
+                    // 🛠️ 核心演算法：MLB 五局逆轉勝判定邏輯
+                    let isAwayOrange = "";
+                    let isHomeOrange = "";
+
+                    if (sportKey === 'mlb' && isFinished) {
+                        const awayLines = teamAway.linescores;
+                        const homeLines = teamHome.linescores;
+
+                        // 防禦條件：確保局數有記到 5 局以上才進行加總
+                        if (awayLines && homeLines && awayLines.length >= 5 && homeLines.length >= 5) {
+                            let away5thSum = 0;
+                            let home5thSum = 0;
+
+                            // 迴圈加總前五局分數 (Index 0 ~ 4)
+                            for (let i = 0; i < 5; i++) {
+                                away5thSum += (awayLines[i].value || 0);
+                                home5thSum += (homeLines[i].value || 0);
+                            }
+
+                            // 情況一：五局結束客隊領先，但最終主隊贏球 -> 主隊標橘色
+                            if (away5thSum > home5thSum && teamHome.winner) {
+                                isHomeOrange = "orange-highlight";
+                            }
+                            // 情況二：五局結束主隊領先，但最終客隊贏球 -> 客隊標橘色
+                            else if (home5thSum > away5thSum && teamAway.winner) {
+                                isAwayOrange = "orange-highlight";
+                            }
+                        }
+                    }
+
                     html += `
                         <div class="game-card">
                             <div class="game-status">${statusText}</div>
                             <div class="team-row">
-                                <span class="team-name ${isAwayDodgers}">🚩 ${teamAway.team.displayName} (客)</span>
-                                <span class="team-score ${awayWinner} ${isAwayDodgers}">${teamAway.score}</span>
+                                <span class="team-name ${isAwayDodgers} ${isAwayOrange}">🚩 ${teamAway.team.displayName} (客)</span>
+                                <span class="team-score ${awayWinner} ${isAwayDodgers} ${isAwayOrange}">${teamAway.score}</span>
                             </div>
                             <div class="team-row">
-                                <span class="team-name ${isHomeDodgers}">🏠 ${teamHome.team.displayName} (主)</span>
-                                <span class="team-score ${homeWinner} ${isHomeDodgers}">${teamHome.score}</span>
+                                <span class="team-name ${isHomeDodgers} ${isHomeOrange}">🏠 ${teamHome.team.displayName} (主)</span>
+                                <span class="team-score ${homeWinner} ${isHomeDodgers} ${isHomeOrange}">${teamHome.score}</span>
                             </div>
                         </div>
                     `;
                 });
                 $(containerId).html(html);
                 
-                // 執行初次加載收合防禦
                 handleDefaultCollapse(containerId, sportKey, hasRecentGame);
             },
             error: function() {
@@ -226,7 +259,6 @@
                 }
 
                 data.forEach(dayGroup => {
-                    // 掃描今天或昨天是否有排定比賽
                     if ((dayGroup.date === todayStr || dayGroup.date === yesterdayStr) && dayGroup.games.length > 0) {
                         hasRecentGame = true;
                     }
@@ -314,8 +346,6 @@
                 });
 
                 const sortedOverviewPages = Object.keys(groupedMatches).sort().reverse();
-                
-                // 掃描整個 LOL JSON 判定全區塊是否含有今天或昨天的比賽
                 const hasAnyRecentGame = data.some(match => match.LatestGameTime.includes(todayStr) || match.LatestGameTime.includes(yesterdayStr));
 
                 let html = '';
@@ -324,7 +354,6 @@
                 sortedOverviewPages.forEach(overviewPage => {
                     groupIdx++;
                     
-                    // 🛠️ 修正需求二：精確動態檢查（今天 OR 昨天）有比賽，OverviewPage 變紅字
                     const hasRecentMatch = groupedMatches[overviewPage].some(match => 
                         match.LatestGameTime.includes(todayStr) || match.LatestGameTime.includes(yesterdayStr)
                     );
@@ -374,7 +403,6 @@
                 });
                 $('#lol-games').html(html);
 
-                // 內部風琴折疊綁定
                 $('.lol-group-header').off('click').on('click', function() {
                     const targetId = $(this).data('target');
                     const $content = $(`#${targetId}`);
@@ -392,7 +420,7 @@
         });
     }
 
-    // 🛠️ 核心自動折疊控制中心 (狀態鎖定)
+    // 核心自動折疊控制中心
     function handleDefaultCollapse(containerId, sportKey, hasRecentGame) {
         if (firstLoad[sportKey]) {
             const $title = $(containerId).prev('.sport-title');
@@ -403,7 +431,7 @@
                 $(containerId).show();
                 $title.find('.sport-toggle-icon').text('▼');
             }
-            firstLoad[sportKey] = false; // 鎖定狀態，後端定時輪詢刷新時不再插手變更
+            firstLoad[sportKey] = false;
         }
     }
 </script>
