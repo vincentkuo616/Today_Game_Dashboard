@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "IDL Kings Lendas Season 4",
+    "TeamA": "Gaytriotas",
+    "TeamB": "MEC9",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-27 22:02:00"
+  },
+  {
+    "OverviewPage": "IDL Kings Lendas Season 4",
+    "TeamA": "Green GG",
+    "TeamB": "Vôs Grandes",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-27 19:37:00"
+  },
+  {
+    "OverviewPage": "IDL Kings Lendas Season 4",
     "TeamA": "Mad Science",
     "TeamB": "Oreiudos Esports",
     "ScoreA": 2,
@@ -382,21 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-06-20 17:41:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe East",
-    "TeamA": "Croatia (National Team)",
-    "TeamB": "Serbia (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-20 17:39:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe West",
-    "TeamA": "Italy (National Team)",
-    "TeamB": "Portugal (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-20 17:21:00"
   }
 ]
