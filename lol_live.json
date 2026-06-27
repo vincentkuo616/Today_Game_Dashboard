@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "IDL Kings Lendas Season 4",
+    "TeamA": "Mad Science",
+    "TeamB": "Oreiudos Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-27 17:03:00"
+  },
+  {
+    "OverviewPage": "IDL Kings Lendas Season 4",
     "TeamA": "Oreiudos Esports",
     "TeamB": "Vôs Grandes",
     "ScoreA": 1,
@@ -390,13 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-06-20 17:21:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe West",
-    "TeamA": "Belgium (National Team)",
-    "TeamB": "Switzerland (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-20 17:17:00"
   }
 ]
