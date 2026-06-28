@@ -1,14 +1,83 @@
 [
   {
     "date": "2026-06-28",
-    "games": []
+    "games": [
+      {
+        "id": 184105,
+        "venue": "台中洲際棒球場",
+        "display_time": "6/28 (日) 17:05",
+        "status_long": "Postponed",
+        "status_key": "postponed",
+        "home_name": "中信兄弟",
+        "away_name": "樂天桃猿",
+        "home_score": "-",
+        "away_score": "-"
+      },
+      {
+        "id": 184107,
+        "venue": "台北大巨蛋",
+        "display_time": "6/28 (日) 17:05",
+        "status_long": "Finished",
+        "status_key": "finished",
+        "home_name": "富邦悍將",
+        "away_name": "味全龍",
+        "home_score": 0,
+        "away_score": 0
+      }
+    ]
   },
   {
     "date": "2026-06-27",
-    "games": []
+    "games": [
+      {
+        "id": 183969,
+        "venue": "台中洲際棒球場",
+        "display_time": "6/27 (六) 17:05",
+        "status_long": "Postponed",
+        "status_key": "postponed",
+        "home_name": "中信兄弟",
+        "away_name": "統一獅",
+        "home_score": "-",
+        "away_score": "-"
+      },
+      {
+        "id": 183970,
+        "venue": "台北大巨蛋",
+        "display_time": "6/27 (六) 17:05",
+        "status_long": "Finished",
+        "status_key": "finished",
+        "home_name": "富邦悍將",
+        "away_name": "樂天桃猿",
+        "home_score": 9,
+        "away_score": 2
+      }
+    ]
   },
   {
     "date": "2026-06-26",
-    "games": []
+    "games": [
+      {
+        "id": 184035,
+        "venue": "台北大巨蛋",
+        "display_time": "6/26 (五) 18:35",
+        "status_long": "Finished",
+        "status_key": "finished",
+        "home_name": "富邦悍將",
+        "away_name": "樂天桃猿",
+        "home_score": 1,
+        "away_score": 3
+      },
+      {
+        "id": 184106,
+        "venue": "台中洲際棒球場",
+        "display_time": "6/26 (五) 18:35",
+        "status_long": "Finished",
+        "status_key": "finished",
+        "home_name": "中信兄弟",
+        "away_name": "台鋼雄鷹",
+        "home_score": 3,
+        "away_score": 2
+      }
+    ]
   }
 ]
