@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "IDL Kings Lendas Season 4",
+    "TeamA": "MEC9",
+    "TeamB": "Oreiudos Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-06-28 20:43:00"
+  },
+  {
+    "OverviewPage": "IDL Kings Lendas Season 4",
     "TeamA": "Mad Science",
     "TeamB": "Vôs Grandes",
     "ScoreA": 1,
@@ -390,13 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-20 19:28:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/South America",
-    "TeamA": "Paraguay (National Team)",
-    "TeamB": "Uruguay (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-20 19:27:00"
   }
 ]
