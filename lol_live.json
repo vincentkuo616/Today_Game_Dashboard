@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "IDL Kings Lendas Season 4",
+    "TeamA": "Mad Science",
+    "TeamB": "Vôs Grandes",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-28 17:06:00"
+  },
+  {
     "OverviewPage": "2026 Mid-Season Invitational",
     "TeamA": "Deep Cross Gaming",
     "TeamB": "Karmine Corp",
@@ -390,13 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-06-20 19:27:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/South America",
-    "TeamA": "Bolivia (National Team)",
-    "TeamB": "Peru (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-20 19:18:00"
   }
 ]
