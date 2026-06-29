@@ -4,8 +4,16 @@
     "TeamA": "MEC9",
     "TeamB": "Oreiudos Esports",
     "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-06-28 22:14:00"
+  },
+  {
+    "OverviewPage": "IDL Kings Lendas Season 4",
+    "TeamA": "Green GG",
+    "TeamB": "MEC9",
+    "ScoreA": 2,
     "ScoreB": 0,
-    "LatestGameTime": "2026-06-28 20:43:00"
+    "LatestGameTime": "2026-06-28 19:55:00"
   },
   {
     "OverviewPage": "IDL Kings Lendas Season 4",
@@ -387,16 +395,8 @@
     "OverviewPage": "IDL Kings Lendas Season 4",
     "TeamA": "MEC9",
     "TeamB": "Mad Science",
-    "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreA": 0,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-20 19:39:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/South America",
-    "TeamA": "Chile (National Team)",
-    "TeamB": "Ecuador (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-20 19:28:00"
   }
 ]
