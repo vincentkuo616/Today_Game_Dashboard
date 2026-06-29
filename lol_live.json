@@ -1,11 +1,19 @@
 [
   {
     "OverviewPage": "2026 Mid-Season Invitational",
+    "TeamA": "Deep Cross Gaming",
+    "TeamB": "Team Liquid",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-06-29 07:36:00"
+  },
+  {
+    "OverviewPage": "2026 Mid-Season Invitational",
     "TeamA": "Karmine Corp",
     "TeamB": "T1",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-29 04:00:00"
+    "ScoreB": 3,
+    "LatestGameTime": "2026-06-29 04:54:00"
   },
   {
     "OverviewPage": "IDL Kings Lendas Season 4",
@@ -92,7 +100,7 @@
     "TeamA": "Costa Rica (National Team)",
     "TeamB": "Guatemala (National Team)",
     "ScoreA": 1,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-06-22 00:34:00"
   },
   {
@@ -390,13 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-06-20 20:10:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/South America",
-    "TeamA": "Colombia (National Team)",
-    "TeamB": "Venezuela (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-20 19:41:00"
   }
 ]
