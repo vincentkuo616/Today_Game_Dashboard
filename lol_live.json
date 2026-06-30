@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "IDL Kings Lendas Season 4",
+    "TeamA": "Gaytriotas",
+    "TeamB": "Mad Science",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-06-29 23:02:00"
+  },
+  {
     "OverviewPage": "2026 Mid-Season Invitational",
     "TeamA": "Deep Cross Gaming",
     "TeamB": "Team Liquid",
@@ -308,7 +316,7 @@
     "TeamA": "Blue Otter",
     "TeamB": "DeathMark E-Sports",
     "ScoreA": 3,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-20 23:37:00"
   },
   {
@@ -382,21 +390,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-20 20:43:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/North America",
-    "TeamA": "Honduras (National Team)",
-    "TeamB": "Panama (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-20 20:15:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/North America",
-    "TeamA": "Jamaica (National Team)",
-    "TeamB": "Mexico (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-20 20:10:00"
   }
 ]
