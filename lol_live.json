@@ -4,8 +4,8 @@
     "TeamA": "Karmine Corp",
     "TeamB": "Team Liquid",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-30 08:59:00"
+    "ScoreB": 3,
+    "LatestGameTime": "2026-06-30 09:55:00"
   },
   {
     "OverviewPage": "IDL Kings Lendas Season 4",
@@ -382,13 +382,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-20 21:06:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/South America",
-    "TeamA": "Chile (National Team)",
-    "TeamB": "Uruguay (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-20 20:50:00"
   }
 ]
