@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "9z Globant",
+    "TeamB": "Seven Dark",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-02 00:19:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "Malvinas Gaming",
+    "TeamB": "Maze Gaming",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-01 23:18:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "Docta Esports",
+    "TeamB": "Volticons",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-01 21:55:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "Golden Lions",
+    "TeamB": "ZEN Esports (Argentinian Team)",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-01 20:53:00"
+  },
+  {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
     "TeamA": "Berlin International Gaming",
     "TeamB": "Kaufland Hangry Knights",
@@ -315,7 +347,7 @@
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
     "TeamA": "Lebanon (National Team)",
     "TeamB": "Tunisia (National Team)",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-06-21 17:31:00"
   },
@@ -350,45 +382,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-21 16:06:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe East",
-    "TeamA": "Romania (National Team)",
-    "TeamB": "Serbia (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-21 15:20:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
-    "TeamA": "Algeria (National Team)",
-    "TeamB": "Tunisia (National Team)",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-21 14:22:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
-    "TeamA": "Lebanon (National Team)",
-    "TeamB": "Saudi Arabia (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-21 13:38:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Asia",
-    "TeamA": "Japan (National Team)",
-    "TeamB": "Mongolia (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-21 12:40:00"
-  },
-  {
-    "OverviewPage": "2026 Asia Masters",
-    "TeamA": "Dplus Kia Challengers",
-    "TeamB": "T1 Esports Academy",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-21 11:38:00"
   }
 ]
