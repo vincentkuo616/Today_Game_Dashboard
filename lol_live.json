@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
+    "TeamA": "Team Phantasma",
+    "TeamB": "Valerion",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-02 16:18:00"
+  },
+  {
+    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
+    "TeamA": "Spartans EU",
+    "TeamB": "Zerolag Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-02 14:23:00"
+  },
+  {
     "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
     "TeamA": "9z Globant",
     "TeamB": "Seven Dark",
@@ -355,7 +371,7 @@
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe West",
     "TeamA": "Germany (National Team)",
     "TeamB": "Netherlands (National Team)",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-21 17:22:00"
   },
@@ -364,7 +380,7 @@
     "TeamA": "Gaytriotas",
     "TeamB": "Green GG",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-21 17:07:00"
   },
   {
@@ -372,15 +388,7 @@
     "TeamA": "Hungary (National Team)",
     "TeamB": "Lithuania (National Team)",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-21 16:24:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe West",
-    "TeamA": "Belgium (National Team)",
-    "TeamB": "Portugal (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-21 16:06:00"
   }
 ]
