@@ -6,12 +6,12 @@
         "id": 184120,
         "venue": "台中洲際棒球場",
         "display_time": "7/2 (四) 18:35",
-        "status_long": "Not Started",
-        "status_key": "scheduled",
+        "status_long": "Inning 4",
+        "status_key": "live",
         "home_name": "中信兄弟",
         "away_name": "樂天桃猿",
-        "home_score": "-",
-        "away_score": "-"
+        "home_score": 4,
+        "away_score": 5
       }
     ]
   },
