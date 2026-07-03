@@ -17,12 +17,27 @@ cpbl_three_days_data = []
 
 print(f"🚀 開始同步 CPBL 三日數據... ({dates_to_fetch[-1]} ~ {dates_to_fetch[0]})")
 
+import sys
+from requests.adapters import HTTPAdapter
+from urllib3.util import Retry
+
+# 建立具備指數退避（Exponential Backoff）的重試策略
+retry_strategy = Retry(
+    total=3,  # 最多重試 3 次
+    status_forcelist=[429, 500, 502, 503, 504],
+    backoff_factor=2,  # 每次重試間隔時間加倍 (2s, 4s, 8s)
+)
+adapter = HTTPAdapter(max_retries=retry_strategy)
+session = requests.Session()
+session.mount("https://", adapter)
+
 for date_str in dates_to_fetch:
     url = f"https://atplayertw.com.tw/wp-json/atplayertw/v1/sport-games/cpbl?date={date_str}"
     day_info = {"date": date_str, "games": []}
 
     try:
-        response = requests.get(url, headers=headers)
+        # 強制設定 timeout=(連線逾時, 讀取逾時) 秒數，防止無限阻塞
+        response = session.get(url, headers=headers, timeout=(5, 10))
         if response.status_code == 200:
             data = response.json()
             if data.get("ok") and data.get("games"):
