@@ -242,6 +242,7 @@
     }
 
     // CPBL 三日倒序動態渲染
+    // 🛠️ 修正點一：優化後的 CPBL 三日倒序動態渲染函數
     function fetchCpblPlaceholder() {
         $.ajax({
             url: './cpbl_live.json',
@@ -257,12 +258,12 @@
                     handleDefaultCollapse('#cpbl-games', 'cpbl', false);
                     return;
                 }
-
+    
                 data.forEach(dayGroup => {
                     if ((dayGroup.date === todayStr || dayGroup.date === yesterdayStr) && dayGroup.games.length > 0) {
                         hasRecentGame = true;
                     }
-
+    
                     html += `
                         <div style="font-weight: bold; margin: 15px 0 8px 0; color: #005a9c; border-bottom: 2px dashed #d0e1fd; padding-bottom: 4px; font-size: 0.95em;">
                             📅 賽事日期：${dayGroup.date}
@@ -273,7 +274,7 @@
                         html += '<p style="color:#999; font-size:0.85em; padding-left:10px; margin-bottom: 15px;">🚫 當日無排定一軍賽事</p>';
                         return;
                     }
-
+    
                     dayGroup.games.forEach(game => {
                         let statusText = '';
                         const status = game.status_key.toLowerCase();
@@ -282,19 +283,19 @@
                             statusText = '<span style="color:#999;">❌ 因雨延賽</span>';
                         } else if (status === 'finished') {
                             statusText = '<span>✅ 完賽</span>';
-                        } else if (status === 'not_started') {
+                        } else if (status === 'scheduled') { // ◄── 修正對齊：將 'not_started' 改為 'scheduled'
                             statusText = `<span style="color:#005a9c;">⏰ 未開始</span>`;
                         } else {
                             statusText = `<span class="live-badge">● LIVE - ${game.status_long}</span>`;
                         }
-
+    
                         let winAway = '';
                         let winHome = '';
                         if (status === 'finished') {
                             if (parseInt(game.away_score) > parseInt(game.home_score)) winAway = 'winner';
                             if (parseInt(game.home_score) > parseInt(game.away_score)) winHome = 'winner';
                         }
-
+    
                         html += `
                             <div class="game-card">
                                 <div class="game-status">
@@ -321,6 +322,27 @@
                 $('#cpbl-games').html('<p style="color:var(--live-color);">暫無 CPBL 資料，等待 Actions 初始化...</p>');
             }
         });
+    }
+    
+    // 🛠️ 修正點二：升級版的自動折疊控制中心（新增死鎖動態解鎖器）
+    function handleDefaultCollapse(containerId, sportKey, hasRecentGame) {
+        if (firstLoad[sportKey]) {
+            const $title = $(containerId).prev('.sport-title');
+            if (!hasRecentGame) {
+                $(containerId).hide();
+                $title.find('.sport-toggle-icon').text('▲');
+            } else {
+                $(containerId).show();
+                $title.find('.sport-toggle-icon').text('▼');
+            }
+            firstLoad[sportKey] = false;
+        } else {
+            // 🛡️ 狀態動態解鎖：如果後續背景輪詢發現今天有新比賽了，而原本面板是隱藏的，必須強行喚醒展開
+            if (hasRecentGame && !$(containerId).is(':visible')) {
+                $(containerId).show();
+                $(containerId).prev('.sport-title').find('.sport-toggle-icon').text('▼');
+            }
+        }
     }
 
     // LOL 群組倒序、預設隱藏 ＆ 【今日/昨日有賽事紅字高亮】
