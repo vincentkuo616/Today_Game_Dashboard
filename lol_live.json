@@ -3,9 +3,9 @@
     "OverviewPage": "2026 Mid-Season Invitational",
     "TeamA": "G2 Esports",
     "TeamB": "Top Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-03 05:45:00"
+    "ScoreA": 2,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-03 08:16:00"
   },
   {
     "OverviewPage": "2026 Mid-Season Invitational",
@@ -382,21 +382,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-06-21 21:16:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/South America",
-    "TeamA": "Chile (National Team)",
-    "TeamB": "Peru (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-21 20:27:00"
-  },
-  {
-    "OverviewPage": "IDL Kings Lendas Season 4",
-    "TeamA": "Green GG",
-    "TeamB": "Oreiudos Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-21 20:19:00"
   }
 ]
