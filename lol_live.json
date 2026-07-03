@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "9z Globant",
+    "TeamB": "Golden Lions",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-03 00:11:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "Maze Gaming",
+    "TeamB": "Volticons",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-02 22:52:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "Malvinas Gaming",
+    "TeamB": "ZEN Esports (Argentinian Team)",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-02 21:02:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "Docta Esports",
+    "TeamB": "Seven Dark",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-02 20:57:00"
+  },
+  {
     "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
     "TeamA": "Team Phantasma",
     "TeamB": "Valerion",
@@ -324,7 +356,7 @@
     "TeamA": "Hungary (National Team)",
     "TeamB": "Romania (National Team)",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-21 19:16:00"
   },
   {
@@ -348,7 +380,7 @@
     "TeamA": "MEC9",
     "TeamB": "Vôs Grandes",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-21 18:37:00"
   },
   {
@@ -356,39 +388,7 @@
     "TeamA": "All for One Gaming",
     "TeamB": "CGN Esports",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-21 18:14:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Middle East & Africa",
-    "TeamA": "Lebanon (National Team)",
-    "TeamB": "Tunisia (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-21 17:31:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe West",
-    "TeamA": "Germany (National Team)",
-    "TeamB": "Netherlands (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-21 17:22:00"
-  },
-  {
-    "OverviewPage": "IDL Kings Lendas Season 4",
-    "TeamA": "Gaytriotas",
-    "TeamB": "Green GG",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-21 17:07:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/Europe East",
-    "TeamA": "Hungary (National Team)",
-    "TeamB": "Lithuania (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-21 16:24:00"
   }
 ]
