@@ -1,11 +1,19 @@
 [
   {
     "OverviewPage": "2026 Mid-Season Invitational",
+    "TeamA": "G2 Esports",
+    "TeamB": "Top Esports",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-03 05:45:00"
+  },
+  {
+    "OverviewPage": "2026 Mid-Season Invitational",
     "TeamA": "Hanwha Life Esports",
     "TeamB": "Team Secret Whales",
-    "ScoreA": 2,
+    "ScoreA": 3,
     "ScoreB": 0,
-    "LatestGameTime": "2026-07-03 03:59:00"
+    "LatestGameTime": "2026-07-03 04:46:00"
   },
   {
     "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
@@ -379,7 +387,7 @@
     "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/South America",
     "TeamA": "Chile (National Team)",
     "TeamB": "Peru (National Team)",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-21 20:27:00"
   },
@@ -387,16 +395,8 @@
     "OverviewPage": "IDL Kings Lendas Season 4",
     "TeamA": "Green GG",
     "TeamB": "Oreiudos Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-21 20:19:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/North America",
-    "TeamA": "Costa Rica (National Team)",
-    "TeamB": "Jamaica (National Team)",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-06-21 20:12:00"
+    "LatestGameTime": "2026-06-21 20:19:00"
   }
 ]
