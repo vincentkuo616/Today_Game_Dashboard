@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
+    "TeamA": "Panathinaikos Esports",
+    "TeamB": "Spartans Javelins",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-04 12:11:00"
+  },
+  {
+    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
+    "TeamA": "HatTrick Gaming",
+    "TeamB": "Team Refuse",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-04 11:28:00"
+  },
+  {
+    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
+    "TeamA": "Gamespace Genesis",
+    "TeamB": "R5 Esports",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-04 11:01:00"
+  },
+  {
+    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
+    "TeamA": "The ParadOx Academy",
+    "TeamB": "WLGaming Esports Academy",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-04 10:57:00"
+  },
+  {
     "OverviewPage": "2026 Mid-Season Invitational",
     "TeamA": "Bilibili Gaming",
     "TeamB": "T1",
@@ -243,7 +275,7 @@
     "OverviewPage": "2026 Mid-Season Invitational",
     "TeamA": "T1",
     "TeamB": "Team Liquid",
-    "ScoreA": 5,
+    "ScoreA": 3,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-01 10:00:00"
   },
@@ -347,24 +379,8 @@
     "OverviewPage": "IDL Kings Lendas Season 4",
     "TeamA": "Green GG",
     "TeamB": "MEC9",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-28 19:55:00"
-  },
-  {
-    "OverviewPage": "IDL Kings Lendas Season 4",
-    "TeamA": "Mad Science",
-    "TeamB": "Vôs Grandes",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-28 17:06:00"
-  },
-  {
-    "OverviewPage": "2026 Mid-Season Invitational",
-    "TeamA": "Deep Cross Gaming",
-    "TeamB": "Karmine Corp",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-06-28 07:47:00"
   }
 ]
