@@ -1,6 +1,46 @@
 [
   {
     "OverviewPage": "2026 Mid-Season Invitational",
+    "TeamA": "FURIA",
+    "TeamB": "LYON (2024 American Team)",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-04 03:14:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "Seven Dark",
+    "TeamB": "ZEN Esports (Argentinian Team)",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-04 00:39:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "Docta Esports",
+    "TeamB": "Golden Lions",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-04 00:00:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "9z Globant",
+    "TeamB": "Maze Gaming",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-03 21:51:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "Malvinas Gaming",
+    "TeamB": "Volticons",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-03 21:02:00"
+  },
+  {
+    "OverviewPage": "2026 Mid-Season Invitational",
     "TeamA": "G2 Esports",
     "TeamB": "Top Esports",
     "ScoreA": 3,
@@ -342,45 +382,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-06-27 17:03:00"
-  },
-  {
-    "OverviewPage": "IDL Kings Lendas Season 4",
-    "TeamA": "Oreiudos Esports",
-    "TeamB": "Vôs Grandes",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-23 02:20:00"
-  },
-  {
-    "OverviewPage": "IDL Kings Lendas Season 4",
-    "TeamA": "Green GG",
-    "TeamB": "Mad Science",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-22 23:51:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/North America",
-    "TeamA": "Costa Rica (National Team)",
-    "TeamB": "Guatemala (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-22 00:34:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/South America",
-    "TeamA": "Peru (National Team)",
-    "TeamB": "Uruguay (National Team)",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-21 23:17:00"
-  },
-  {
-    "OverviewPage": "Esports Nations Cup 2026/Online Qualifiers/North America",
-    "TeamA": "Guatemala (National Team)",
-    "TeamB": "Mexico (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-21 21:16:00"
   }
 ]
