@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "IDL Kings Lendas Season 4",
+    "TeamA": "Gaytriotas",
+    "TeamB": "Mad Science",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-07-04 20:09:00"
+  },
+  {
+    "OverviewPage": "IDL Kings Lendas Season 4",
+    "TeamA": "MEC9",
+    "TeamB": "Vôs Grandes",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-04 18:35:00"
+  },
+  {
+    "OverviewPage": "IDL Kings Lendas Season 4",
+    "TeamA": "Gaytriotas",
+    "TeamB": "Oreiudos Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-04 16:53:00"
+  },
+  {
     "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
     "TeamA": "Panathinaikos Esports",
     "TeamB": "Spartans Javelins",
@@ -344,14 +368,6 @@
     "LatestGameTime": "2026-06-30 09:55:00"
   },
   {
-    "OverviewPage": "IDL Kings Lendas Season 4",
-    "TeamA": "Gaytriotas",
-    "TeamB": "Mad Science",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-29 23:02:00"
-  },
-  {
     "OverviewPage": "2026 Mid-Season Invitational",
     "TeamA": "Deep Cross Gaming",
     "TeamB": "Team Liquid",
@@ -364,23 +380,7 @@
     "TeamA": "Karmine Corp",
     "TeamB": "T1",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 1,
     "LatestGameTime": "2026-06-29 04:54:00"
-  },
-  {
-    "OverviewPage": "IDL Kings Lendas Season 4",
-    "TeamA": "MEC9",
-    "TeamB": "Oreiudos Esports",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-28 22:14:00"
-  },
-  {
-    "OverviewPage": "IDL Kings Lendas Season 4",
-    "TeamA": "Green GG",
-    "TeamB": "MEC9",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-28 19:55:00"
   }
 ]
