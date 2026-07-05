@@ -4,8 +4,8 @@
     "TeamA": "G2 Esports",
     "TeamB": "Hanwha Life Esports",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-05 07:41:00"
+    "ScoreB": 3,
+    "LatestGameTime": "2026-07-05 08:24:00"
   },
   {
     "OverviewPage": "2026 Mid-Season Invitational",
@@ -374,13 +374,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-06-30 17:13:00"
-  },
-  {
-    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
-    "TeamA": "Gamespace Mediterranean College Esports",
-    "TeamB": "WLGaming Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-30 16:52:00"
   }
 ]
