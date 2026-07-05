@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "IDL Kings Lendas Season 4",
+    "TeamA": "Green GG",
+    "TeamB": "Vôs Grandes",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-05 16:59:00"
+  },
+  {
     "OverviewPage": "2026 Mid-Season Invitational",
     "TeamA": "G2 Esports",
     "TeamB": "Hanwha Life Esports",
@@ -350,29 +358,5 @@
     "ScoreA": 3,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-01 10:00:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "TeamOrangeGaming",
-    "TeamB": "VfB eSports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-30 19:25:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Eintracht Spandau",
-    "TeamB": "Kaufland Hangry Knights",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-30 18:17:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "G2 NORD",
-    "TeamB": "ROSSMANN Centaurs",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-30 17:13:00"
   }
 ]
