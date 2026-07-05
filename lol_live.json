@@ -1,11 +1,35 @@
 [
   {
     "OverviewPage": "2026 Mid-Season Invitational",
+    "TeamA": "G2 Esports",
+    "TeamB": "Hanwha Life Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-05 07:41:00"
+  },
+  {
+    "OverviewPage": "2026 Mid-Season Invitational",
     "TeamA": "Team Secret Whales",
     "TeamB": "Top Esports",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-05 05:41:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
+    "TeamA": "NCG Esports",
+    "TeamB": "SDM Tigres",
     "ScoreA": 2,
     "ScoreB": 1,
-    "LatestGameTime": "2026-07-05 04:49:00"
+    "LatestGameTime": "2026-07-04 23:09:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
+    "TeamA": "Polar Squad Esports",
+    "TeamB": "Zeu5 Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-04 22:32:00"
   },
   {
     "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
@@ -355,40 +379,8 @@
     "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
     "TeamA": "Gamespace Mediterranean College Esports",
     "TeamB": "WLGaming Esports",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-06-30 16:52:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Eintracht Frankfurt",
-    "TeamB": "Unicorns of Love Sexy Edition",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-06-30 16:18:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Berlin International Gaming",
-    "TeamB": "E WIE EINFACH E-SPORTS",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-06-30 15:12:00"
-  },
-  {
-    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
-    "TeamA": "ALMO Players",
-    "TeamB": "Valerion",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-06-30 14:08:00"
-  },
-  {
-    "OverviewPage": "2026 Mid-Season Invitational",
-    "TeamA": "Karmine Corp",
-    "TeamB": "Team Liquid",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-06-30 09:55:00"
   }
 ]
