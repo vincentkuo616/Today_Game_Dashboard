@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 Mid-Season Invitational",
+    "TeamA": "Bilibili Gaming",
+    "TeamB": "LYON (2024 American Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-06 03:13:00"
+  },
+  {
     "OverviewPage": "IDL Kings Lendas Season 4",
     "TeamA": "Green GG",
     "TeamB": "Vôs Grandes",
@@ -355,7 +363,7 @@
     "OverviewPage": "2026 Mid-Season Invitational",
     "TeamA": "T1",
     "TeamB": "Team Liquid",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-01 10:00:00"
   }
