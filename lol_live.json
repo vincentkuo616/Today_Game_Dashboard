@@ -4,8 +4,8 @@
     "TeamA": "FURIA",
     "TeamB": "T1",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-06 06:53:00"
+    "ScoreB": 3,
+    "LatestGameTime": "2026-07-06 07:42:00"
   },
   {
     "OverviewPage": "2026 Mid-Season Invitational",
@@ -350,13 +350,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-01 16:06:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Eintracht Frankfurt",
-    "TeamB": "TeamOrangeGaming",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-01 15:08:00"
   }
 ]
