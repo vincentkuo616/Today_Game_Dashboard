@@ -1,11 +1,19 @@
 [
   {
     "OverviewPage": "2026 Mid-Season Invitational",
+    "TeamA": "FURIA",
+    "TeamB": "T1",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-06 06:53:00"
+  },
+  {
+    "OverviewPage": "2026 Mid-Season Invitational",
     "TeamA": "Bilibili Gaming",
     "TeamB": "LYON (2024 American Team)",
-    "ScoreA": 1,
+    "ScoreA": 3,
     "ScoreB": 0,
-    "LatestGameTime": "2026-07-06 03:13:00"
+    "LatestGameTime": "2026-07-06 04:54:00"
   },
   {
     "OverviewPage": "IDL Kings Lendas Season 4",
@@ -350,21 +358,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-01 15:08:00"
-  },
-  {
-    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
-    "TeamA": "Spartans EU",
-    "TeamB": "The ParadOx Invaders",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-01 14:10:00"
-  },
-  {
-    "OverviewPage": "2026 Mid-Season Invitational",
-    "TeamA": "T1",
-    "TeamB": "Team Liquid",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-01 10:00:00"
   }
 ]
