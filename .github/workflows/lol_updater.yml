@@ -1,16 +1,19 @@
-name: 🎮 Auto Update LoL Scores
+name: 🎮 Auto Update Scores & Deploy Pages
 
 on:
   schedule:
     - cron: '*/30 * * * *' # 每 30 分鐘自動執行一次
   workflow_dispatch: # 允許你在 GitHub 介面上手動點擊執行
 
-jobs:
-  update-scores:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write # 賦予 Actions 推送檔案回 Repo 的權限
+# 🛡️ 核心強化：資深架構師安全權限閘門（Pages 部署與身分驗證必備）
+permissions:
+  contents: write      # 賦予 Actions 推送 JSON 檔案回 Repo 的權限
+  pages: write         # 賦予 Actions 呼叫 Pages 部署 API 的權限
+  id-token: write      # 賦予 Actions 產生安全憑證認證身分的權限
 
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
     steps:
     - name: 📥 複製專案代碼
       uses: actions/checkout@v4
@@ -18,19 +21,18 @@ jobs:
     - name: 🐍 設定 Python 環境
       uses: actions/setup-python@v5
       with:
-        python-family: '3.x'
+        python-version: '3.10' # 🛠️ 修正點：將原本錯誤的 python-family 改為正確的 python-version
 
     - name: 📦 安裝依賴套件
       run: |
-        pip install requests
+        python -m pip install --upgrade pip
+        pip install requests urllib3
 
-    - name: 🚀 執行 LoL 數據抓取
+    - name: 🚀 執行數據抓取 (LoL & CPBL)
       env:
-        # 🔒 安全防護：將密碼藏在 GitHub Secrets 裡
         BOT_USER: ${{ secrets.LOL_BOT_USER }}
         BOT_PASS: ${{ secrets.LOL_BOT_PASS }}
       run: |
-        # 如果你的 py 檔有用到環境變數，可以在 python 中用 os.environ.get('BOT_PASS') 讀取
         python update_lol.py
         python update_cpbl.py 
 
@@ -40,3 +42,16 @@ jobs:
         git config --local user.name "GitHub Action"
         git add lol_live.json cpbl_live.json
         git diff --cached --quiet || (git commit -m "🔄 自動更新 LoL & CPBL 即時比分" && git push)
+
+    # 🛠️ 新增點：以下三步是真正讓網頁更新上線的關鍵（對齊後台 GitHub Actions 設定）
+    - name: 🌐 設定 GitHub Pages 基礎設施
+      uses: actions/configure-pages@v4
+
+    - name: 📦 打包網頁靜態資產 (Upload Artifact)
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: '.' # 如果你的 index.html 在根目錄，請維持 '.' ；若在某資料夾，請寫該資料夾路徑
+
+    - name: 🚀 正式分發部署至 GitHub Pages (Deploy)
+      id: deployment
+      uses: actions/deploy-pages@v5
