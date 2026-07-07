@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
+    "TeamA": "E WIE EINFACH E-SPORTS",
+    "TeamB": "TeamOrangeGaming",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-07 15:08:00"
+  },
+  {
+    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
+    "TeamA": "The ParadOx Invaders",
+    "TeamB": "WLGaming Esports",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-07 13:57:00"
+  },
+  {
     "OverviewPage": "IDL Kings Lendas Season 4",
     "TeamA": "Green GG",
     "TeamB": "Oreiudos Esports",
@@ -318,21 +334,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-02 15:08:00"
-  },
-  {
-    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
-    "TeamA": "Spartans EU",
-    "TeamB": "Zerolag Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-02 14:23:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
-    "TeamA": "9z Globant",
-    "TeamB": "Seven Dark",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-02 00:19:00"
   }
 ]
