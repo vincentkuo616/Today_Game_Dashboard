@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
+    "TeamA": "G2 NORD",
+    "TeamB": "Kaufland Hangry Knights",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-07 19:09:00"
+  },
+  {
+    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
+    "TeamA": "Berlin International Gaming",
+    "TeamB": "ROSSMANN Centaurs",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-07 18:07:00"
+  },
+  {
+    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
     "TeamA": "Eintracht Frankfurt",
     "TeamB": "G2 NORD",
     "ScoreA": 0,
@@ -318,21 +334,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-02 19:30:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "G2 NORD",
-    "TeamB": "VfB eSports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-02 18:25:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Eintracht Spandau",
-    "TeamB": "TeamOrangeGaming",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-02 17:24:00"
   }
 ]
