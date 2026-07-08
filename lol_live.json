@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
+    "TeamA": "Berlin International Gaming",
+    "TeamB": "Eintracht Frankfurt",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-08 19:07:00"
+  },
+  {
+    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
     "TeamA": "Eintracht Spandau",
     "TeamB": "VfB eSports",
     "ScoreA": 1,
@@ -355,7 +363,7 @@
     "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
     "TeamA": "Docta Esports",
     "TeamB": "Golden Lions",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-04 00:00:00"
   }
