@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 Mid-Season Invitational",
+    "TeamA": "Bilibili Gaming",
+    "TeamB": "Hanwha Life Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-09 08:12:00"
+  },
+  {
     "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
     "TeamA": "Volticons",
     "TeamB": "ZEN Esports (Argentinian Team)",
@@ -372,7 +380,7 @@
     "TeamA": "Bilibili Gaming",
     "TeamB": "T1",
     "ScoreA": 1,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-07-04 10:13:00"
   }
 ]
