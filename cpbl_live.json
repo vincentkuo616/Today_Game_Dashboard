@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-07-09",
+    "games": [
+      {
+        "id": 184150,
+        "venue": "天母棒球場",
+        "display_time": "7/9 (四) 18:35",
+        "status_long": "Not Started",
+        "status_key": "scheduled",
+        "home_name": "味全龍",
+        "away_name": "台鋼雄鷹",
+        "home_score": "-",
+        "away_score": "-"
+      }
+    ]
+  },
+  {
     "date": "2026-07-08",
     "games": [
       {
@@ -63,9 +79,5 @@
         "away_score": 0
       }
     ]
-  },
-  {
-    "date": "2026-07-06",
-    "games": []
   }
 ]
