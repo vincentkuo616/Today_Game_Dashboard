@@ -3,9 +3,9 @@
     "OverviewPage": "2026 Mid-Season Invitational",
     "TeamA": "Bilibili Gaming",
     "TeamB": "Hanwha Life Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-09 08:12:00"
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-09 10:57:00"
   },
   {
     "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
@@ -24,6 +24,14 @@
     "LatestGameTime": "2026-07-08 22:39:00"
   },
   {
+    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
+    "TeamA": "Eterna",
+    "TeamB": "Solary Eclipse",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-08 21:18:00"
+  },
+  {
     "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
     "TeamA": "9z Globant",
     "TeamB": "Docta Esports",
@@ -40,6 +48,14 @@
     "LatestGameTime": "2026-07-08 20:53:00"
   },
   {
+    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
+    "TeamA": "Blue Otter Europe",
+    "TeamB": "G2 Hel",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-08 19:07:00"
+  },
+  {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
     "TeamA": "Berlin International Gaming",
     "TeamB": "Eintracht Frankfurt",
@@ -48,12 +64,28 @@
     "LatestGameTime": "2026-07-08 19:07:00"
   },
   {
+    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
+    "TeamA": "Mental Rush",
+    "TeamB": "Vitality Rising Bees",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-08 18:09:00"
+  },
+  {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
     "TeamA": "Eintracht Spandau",
     "TeamB": "VfB eSports",
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-08 18:09:00"
+  },
+  {
+    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
+    "TeamA": "Barcząca Esports Babylon",
+    "TeamB": "SK Gaming Avarosa",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-08 17:06:00"
   },
   {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
@@ -326,61 +358,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-04 20:09:00"
-  },
-  {
-    "OverviewPage": "IDL Kings Lendas Season 4",
-    "TeamA": "MEC9",
-    "TeamB": "Vôs Grandes",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-04 18:35:00"
-  },
-  {
-    "OverviewPage": "IDL Kings Lendas Season 4",
-    "TeamA": "Gaytriotas",
-    "TeamB": "Oreiudos Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-04 16:53:00"
-  },
-  {
-    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
-    "TeamA": "Panathinaikos Esports",
-    "TeamB": "Spartans Javelins",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-04 12:11:00"
-  },
-  {
-    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
-    "TeamA": "HatTrick Gaming",
-    "TeamB": "Team Refuse",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-04 11:28:00"
-  },
-  {
-    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
-    "TeamA": "Gamespace Genesis",
-    "TeamB": "R5 Esports",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-04 11:01:00"
-  },
-  {
-    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
-    "TeamA": "The ParadOx Academy",
-    "TeamB": "WLGaming Esports Academy",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-04 10:57:00"
-  },
-  {
-    "OverviewPage": "2026 Mid-Season Invitational",
-    "TeamA": "Bilibili Gaming",
-    "TeamB": "T1",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-04 10:13:00"
   }
 ]
