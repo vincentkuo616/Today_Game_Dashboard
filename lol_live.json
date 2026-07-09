@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
+    "TeamA": "Eintracht Frankfurt",
+    "TeamB": "VfB eSports",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-09 19:04:00"
+  },
+  {
+    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
     "TeamA": "Berlin International Gaming",
     "TeamB": "TeamOrangeGaming",
     "ScoreA": 1,
@@ -371,7 +379,7 @@
     "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
     "TeamA": "NCG Esports",
     "TeamB": "SDM Tigres",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-04 23:09:00"
   },
