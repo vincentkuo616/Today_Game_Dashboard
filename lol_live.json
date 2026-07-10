@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "9z Globant",
+    "TeamB": "Volticons",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-09 22:08:00"
+  },
+  {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
     "TeamA": "Eintracht Frankfurt",
     "TeamB": "VfB eSports",
@@ -371,24 +379,8 @@
     "OverviewPage": "2026 Mid-Season Invitational",
     "TeamA": "Team Secret Whales",
     "TeamB": "Top Esports",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-05 05:41:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
-    "TeamA": "NCG Esports",
-    "TeamB": "SDM Tigres",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-04 23:09:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
-    "TeamA": "Polar Squad Esports",
-    "TeamB": "Zeu5 Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-04 22:32:00"
   }
 ]
