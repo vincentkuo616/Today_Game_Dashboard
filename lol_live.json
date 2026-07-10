@@ -1,11 +1,59 @@
 [
   {
+    "OverviewPage": "2026 Mid-Season Invitational",
+    "TeamA": "G2 Esports",
+    "TeamB": "LYON (2024 American Team)",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-10 09:08:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "Golden Lions",
+    "TeamB": "Seven Dark",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-10 00:10:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "Docta Esports",
+    "TeamB": "Malvinas Gaming",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-09 23:01:00"
+  },
+  {
     "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
     "TeamA": "9z Globant",
     "TeamB": "Volticons",
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-09 22:08:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "Maze Gaming",
+    "TeamB": "ZEN Esports (Argentinian Team)",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-09 21:05:00"
+  },
+  {
+    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
+    "TeamA": "SK Gaming Avarosa",
+    "TeamB": "Solary Eclipse",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-09 19:19:00"
+  },
+  {
+    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
+    "TeamA": "Barcząca Esports Babylon",
+    "TeamB": "Eterna",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-09 19:08:00"
   },
   {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
@@ -30,6 +78,22 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-09 17:00:00"
+  },
+  {
+    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
+    "TeamA": "G2 Hel",
+    "TeamB": "Mental Rush",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-09 16:59:00"
+  },
+  {
+    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
+    "TeamA": "Blue Otter Europe",
+    "TeamB": "Vitality Rising Bees",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-09 16:54:00"
   },
   {
     "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
@@ -332,55 +396,7 @@
     "TeamA": "Kits Esports",
     "TeamB": "NCG Esports",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-05 23:10:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
-    "TeamA": "LYON Academy",
-    "TeamB": "SDM Tigres",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-05 22:56:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
-    "TeamA": "Fuego",
-    "TeamB": "Zeu5 Esports",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-05 20:57:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
-    "TeamA": "3v Team",
-    "TeamB": "Polar Squad Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-05 19:58:00"
-  },
-  {
-    "OverviewPage": "IDL Kings Lendas Season 4",
-    "TeamA": "Green GG",
-    "TeamB": "Vôs Grandes",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-05 16:59:00"
-  },
-  {
-    "OverviewPage": "2026 Mid-Season Invitational",
-    "TeamA": "G2 Esports",
-    "TeamB": "Hanwha Life Esports",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-07-05 08:24:00"
-  },
-  {
-    "OverviewPage": "2026 Mid-Season Invitational",
-    "TeamA": "Team Secret Whales",
-    "TeamB": "Top Esports",
-    "ScoreA": 2,
     "ScoreB": 1,
-    "LatestGameTime": "2026-07-05 05:41:00"
+    "LatestGameTime": "2026-07-05 23:10:00"
   }
 ]
