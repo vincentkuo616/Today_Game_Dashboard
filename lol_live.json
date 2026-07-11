@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "IDL Kings Lendas Season 4",
+    "TeamA": "Mad Science",
+    "TeamB": "Oreiudos Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-11 19:25:00"
+  },
+  {
+    "OverviewPage": "IDL Kings Lendas Season 4",
+    "TeamA": "Gaytriotas",
+    "TeamB": "Oreiudos Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-11 17:51:00"
+  },
+  {
+    "OverviewPage": "IDL Kings Lendas Season 4",
+    "TeamA": "Mad Science",
+    "TeamB": "Vôs Grandes",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-11 16:09:00"
+  },
+  {
     "OverviewPage": "2026 Mid-Season Invitational",
     "TeamA": "Hanwha Life Esports",
     "TeamB": "LYON (2024 American Team)",
@@ -340,7 +364,7 @@
     "TeamA": "Barcząca Esports Babylon",
     "TeamB": "Blue Otter Europe",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-07 18:12:00"
   },
   {
@@ -366,37 +390,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-07 17:10:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Eintracht Spandau",
-    "TeamB": "Unicorns of Love Sexy Edition",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-07 16:10:00"
-  },
-  {
-    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
-    "TeamA": "ALMO Players",
-    "TeamB": "Gamespace Mediterranean College Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-07 15:59:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "E WIE EINFACH E-SPORTS",
-    "TeamB": "TeamOrangeGaming",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-07 15:08:00"
-  },
-  {
-    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
-    "TeamA": "The ParadOx Invaders",
-    "TeamB": "WLGaming Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-07 13:57:00"
   }
 ]
