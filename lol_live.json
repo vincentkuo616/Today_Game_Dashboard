@@ -1,6 +1,46 @@
 [
   {
     "OverviewPage": "2026 Mid-Season Invitational",
+    "TeamA": "Hanwha Life Esports",
+    "TeamB": "LYON (2024 American Team)",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-11 10:03:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "Docta Esports",
+    "TeamB": "Maze Gaming",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-10 23:57:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "9z Globant",
+    "TeamB": "ZEN Esports (Argentinian Team)",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-10 22:56:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "Golden Lions",
+    "TeamB": "Volticons",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-10 22:02:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "Malvinas Gaming",
+    "TeamB": "Seven Dark",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-10 20:59:00"
+  },
+  {
+    "OverviewPage": "2026 Mid-Season Invitational",
     "TeamA": "G2 Esports",
     "TeamB": "LYON (2024 American Team)",
     "ScoreA": 0,
@@ -358,45 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-07 13:57:00"
-  },
-  {
-    "OverviewPage": "IDL Kings Lendas Season 4",
-    "TeamA": "Green GG",
-    "TeamB": "Oreiudos Esports",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-07 00:14:00"
-  },
-  {
-    "OverviewPage": "IDL Kings Lendas Season 4",
-    "TeamA": "Gaytriotas",
-    "TeamB": "MEC9",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-06 21:58:00"
-  },
-  {
-    "OverviewPage": "2026 Mid-Season Invitational",
-    "TeamA": "FURIA",
-    "TeamB": "T1",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-07-06 07:42:00"
-  },
-  {
-    "OverviewPage": "2026 Mid-Season Invitational",
-    "TeamA": "Bilibili Gaming",
-    "TeamB": "LYON (2024 American Team)",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-06 04:54:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
-    "TeamA": "Kits Esports",
-    "TeamB": "NCG Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-05 23:10:00"
   }
 ]
