@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 Mid-Season Invitational",
+    "TeamA": "Bilibili Gaming",
+    "TeamB": "Hanwha Life Esports",
+    "ScoreA": 4,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-12 08:32:00"
+  },
+  {
     "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
     "TeamA": "Kits Esports",
     "TeamB": "Zeu5 Esports",
@@ -280,14 +288,6 @@
     "LatestGameTime": "2026-07-09 14:08:00"
   },
   {
-    "OverviewPage": "2026 Mid-Season Invitational",
-    "TeamA": "Bilibili Gaming",
-    "TeamB": "Hanwha Life Esports",
-    "ScoreA": 3,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-09 10:57:00"
-  },
-  {
     "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
     "TeamA": "Volticons",
     "TeamB": "ZEN Esports (Argentinian Team)",
@@ -374,21 +374,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-08 17:02:00"
-  },
-  {
-    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
-    "TeamA": "ALMO Players",
-    "TeamB": "The ParadOx Invaders",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-08 16:04:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "G2 NORD",
-    "TeamB": "Unicorns of Love Sexy Edition",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-08 16:01:00"
   }
 ]
