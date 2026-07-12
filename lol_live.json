@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
+    "TeamA": "Kits Esports",
+    "TeamB": "Zeu5 Esports",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-11 23:02:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
+    "TeamA": "Fuego",
+    "TeamB": "LYON Academy",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-11 22:04:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
+    "TeamA": "NCG Esports",
+    "TeamB": "Polar Squad Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-11 20:07:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
+    "TeamA": "3v Team",
+    "TeamB": "SDM Tigres",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-11 20:03:00"
+  },
+  {
     "OverviewPage": "IDL Kings Lendas Season 4",
     "TeamA": "Mad Science",
     "TeamB": "Oreiudos Esports",
@@ -348,7 +380,7 @@
     "TeamA": "ALMO Players",
     "TeamB": "The ParadOx Invaders",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-08 16:04:00"
   },
   {
@@ -358,37 +390,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-08 16:01:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "E WIE EINFACH E-SPORTS",
-    "TeamB": "ROSSMANN Centaurs",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-08 15:05:00"
-  },
-  {
-    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
-    "TeamA": "WLGaming Esports",
-    "TeamB": "Zerolag Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-08 14:20:00"
-  },
-  {
-    "OverviewPage": "2026 Mid-Season Invitational",
-    "TeamA": "G2 Esports",
-    "TeamB": "T1",
-    "ScoreA": 3,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-08 08:52:00"
-  },
-  {
-    "OverviewPage": "2026 Mid-Season Invitational",
-    "TeamA": "LYON (2024 American Team)",
-    "TeamB": "Team Secret Whales",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-08 04:52:00"
   }
 ]
