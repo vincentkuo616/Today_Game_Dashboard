@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "IDL Kings Lendas Season 4",
+    "TeamA": "Mad Science",
+    "TeamB": "Vôs Grandes",
+    "ScoreA": 3,
+    "ScoreB": 4,
+    "LatestGameTime": "2026-07-12 19:44:00"
+  },
+  {
     "OverviewPage": "2026 Mid-Season Invitational",
     "TeamA": "Bilibili Gaming",
     "TeamB": "Hanwha Life Esports",
@@ -54,14 +62,6 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-11 17:51:00"
-  },
-  {
-    "OverviewPage": "IDL Kings Lendas Season 4",
-    "TeamA": "Mad Science",
-    "TeamB": "Vôs Grandes",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-11 16:09:00"
   },
   {
     "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
@@ -340,39 +340,7 @@
     "TeamA": "Blue Otter Europe",
     "TeamB": "G2 Hel",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-08 19:07:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Eintracht Spandau",
-    "TeamB": "VfB eSports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-08 18:09:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
-    "TeamA": "Mental Rush",
-    "TeamB": "Vitality Rising Bees",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-08 18:09:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
-    "TeamA": "Barcząca Esports Babylon",
-    "TeamB": "SK Gaming Avarosa",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-08 17:06:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Kaufland Hangry Knights",
-    "TeamB": "TeamOrangeGaming",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-08 17:02:00"
   }
 ]
