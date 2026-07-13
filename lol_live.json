@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
+    "TeamA": "3v Team",
+    "TeamB": "Kits Esports",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-12 23:08:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
+    "TeamA": "LYON Academy",
+    "TeamB": "Polar Squad Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-12 22:14:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
+    "TeamA": "Fuego",
+    "TeamB": "SDM Tigres",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-12 20:24:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
+    "TeamA": "NCG Esports",
+    "TeamB": "Zeu5 Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-12 20:06:00"
+  },
+  {
     "OverviewPage": "IDL Kings Lendas Season 4",
     "TeamA": "Mad Science",
     "TeamB": "Vôs Grandes",
@@ -302,45 +334,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-08 22:39:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
-    "TeamA": "Eterna",
-    "TeamB": "Solary Eclipse",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-08 21:18:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
-    "TeamA": "9z Globant",
-    "TeamB": "Docta Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-08 20:55:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
-    "TeamA": "Maze Gaming",
-    "TeamB": "Seven Dark",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-08 20:53:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Berlin International Gaming",
-    "TeamB": "Eintracht Frankfurt",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-08 19:07:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
-    "TeamA": "Blue Otter Europe",
-    "TeamB": "G2 Hel",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-08 19:07:00"
   }
 ]
