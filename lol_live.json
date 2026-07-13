@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
+    "TeamA": "Berlin International Gaming",
+    "TeamB": "VfB eSports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-13 19:00:00"
+  },
+  {
+    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
+    "TeamA": "E WIE EINFACH E-SPORTS",
+    "TeamB": "Eintracht Frankfurt",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-13 18:03:00"
+  },
+  {
+    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
     "TeamA": "ROSSMANN Centaurs",
     "TeamB": "TeamOrangeGaming",
     "ScoreA": 0,
@@ -342,21 +358,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-09 14:08:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
-    "TeamA": "Volticons",
-    "TeamB": "ZEN Esports (Argentinian Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-08 23:22:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
-    "TeamA": "Golden Lions",
-    "TeamB": "Malvinas Gaming",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-08 22:39:00"
   }
 ]
