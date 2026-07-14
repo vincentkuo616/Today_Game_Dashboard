@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
+    "TeamA": "Dynasty",
+    "TeamB": "mCon esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-14 17:56:00"
+  },
+  {
+    "OverviewPage": "LES/2026 Season/Summer Split",
+    "TeamA": "Falke Esports",
+    "TeamB": "LUA Gaming",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-14 16:50:00"
+  },
+  {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
     "TeamA": "Berlin International Gaming",
     "TeamB": "VfB eSports",
@@ -83,8 +99,8 @@
     "OverviewPage": "2026 Mid-Season Invitational",
     "TeamA": "Bilibili Gaming",
     "TeamB": "Hanwha Life Esports",
-    "ScoreA": 5,
-    "ScoreB": 4,
+    "ScoreA": 2,
+    "ScoreB": 3,
     "LatestGameTime": "2026-07-12 11:11:00"
   },
   {
@@ -356,7 +372,7 @@
     "TeamA": "Gamespace Mediterranean College Esports",
     "TeamB": "Valerion",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-09 14:08:00"
   }
 ]
