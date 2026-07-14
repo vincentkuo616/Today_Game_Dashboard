@@ -16,6 +16,30 @@
     "LatestGameTime": "2026-07-14 16:50:00"
   },
   {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
+    "TeamA": "Polar Squad Esports",
+    "TeamB": "SDM Tigres",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-14 01:54:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
+    "TeamA": "Kits Esports",
+    "TeamB": "LYON Academy",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-14 00:29:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
+    "TeamA": "3v Team",
+    "TeamB": "Zeu5 Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-14 00:03:00"
+  },
+  {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
     "TeamA": "Berlin International Gaming",
     "TeamB": "VfB eSports",
@@ -340,39 +364,7 @@
     "TeamA": "Blue Otter Europe",
     "TeamB": "Vitality Rising Bees",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-09 16:54:00"
-  },
-  {
-    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
-    "TeamA": "Spartans EU",
-    "TeamB": "Team Phantasma",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-09 16:08:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "E WIE EINFACH E-SPORTS",
-    "TeamB": "Eintracht Spandau",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-09 16:00:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Kaufland Hangry Knights",
-    "TeamB": "Unicorns of Love Sexy Edition",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-09 15:06:00"
-  },
-  {
-    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
-    "TeamA": "Gamespace Mediterranean College Esports",
-    "TeamB": "Valerion",
-    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-07-09 14:08:00"
+    "LatestGameTime": "2026-07-09 16:54:00"
   }
 ]
