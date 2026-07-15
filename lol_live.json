@@ -104,6 +104,14 @@
     "LatestGameTime": "2026-07-14 20:10:00"
   },
   {
+    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
+    "TeamA": "Blue Otter Europe",
+    "TeamB": "Solary Eclipse",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-14 19:10:00"
+  },
+  {
     "OverviewPage": "LES/2026 Season/Summer Split",
     "TeamA": "Team Heretics Academy",
     "TeamB": "UCAM Esports",
@@ -118,6 +126,14 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-14 17:56:00"
+  },
+  {
+    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
+    "TeamA": "SK Gaming Avarosa",
+    "TeamB": "Vitality Rising Bees",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-14 17:01:00"
   },
   {
     "OverviewPage": "LES/2026 Season/Summer Split",
@@ -371,16 +387,8 @@
     "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
     "TeamA": "Golden Lions",
     "TeamB": "Volticons",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-07-10 22:02:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
-    "TeamA": "Malvinas Gaming",
-    "TeamB": "Seven Dark",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-10 20:59:00"
   }
 ]
