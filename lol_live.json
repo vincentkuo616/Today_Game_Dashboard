@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "Sentinels",
+    "TeamB": "Team Secret (Vietnamese Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-15 09:51:00"
+  },
+  {
+    "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "Gen.G",
+    "TeamB": "Karmine Corp",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-15 09:41:00"
+  },
+  {
     "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
     "TeamA": "Seven Dark",
     "TeamB": "Volticons",
@@ -339,16 +355,8 @@
     "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
     "TeamA": "Docta Esports",
     "TeamB": "Malvinas Gaming",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-09 23:01:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
-    "TeamA": "9z Globant",
-    "TeamB": "Volticons",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-09 22:08:00"
   }
 ]
