@@ -1,6 +1,38 @@
 [
   {
     "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "Hanwha Life Esports",
+    "TeamB": "MIBR.LOS",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-15 13:13:00"
+  },
+  {
+    "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "JD Gaming",
+    "TeamB": "LYON (2024 American Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-15 13:04:00"
+  },
+  {
+    "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "FURIA",
+    "TeamB": "G2 Esports",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-15 12:07:00"
+  },
+  {
+    "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "AG.AL",
+    "TeamB": "Dplus Kia",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-15 11:59:00"
+  },
+  {
+    "OverviewPage": "Esports World Cup 2026",
     "TeamA": "Bilibili Gaming",
     "TeamB": "Movistar KOI",
     "ScoreA": 1,
@@ -350,21 +382,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-10 20:59:00"
-  },
-  {
-    "OverviewPage": "2026 Mid-Season Invitational",
-    "TeamA": "G2 Esports",
-    "TeamB": "LYON (2024 American Team)",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-07-10 09:58:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
-    "TeamA": "Golden Lions",
-    "TeamB": "Seven Dark",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-10 00:10:00"
   }
 ]
