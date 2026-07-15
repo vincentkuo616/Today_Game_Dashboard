@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "Seven Dark",
+    "TeamB": "Volticons",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-14 23:28:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "9z Globant",
+    "TeamB": "Malvinas Gaming",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-14 22:54:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "Docta Esports",
+    "TeamB": "ZEN Esports (Argentinian Team)",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-14 21:48:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
+    "TeamA": "Golden Lions",
+    "TeamB": "Maze Gaming",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-14 21:08:00"
+  },
+  {
     "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
     "TeamA": "Dynasty",
     "TeamB": "mCon esports",
@@ -315,56 +347,8 @@
     "OverviewPage": "Equal Esports Cup 2026/Group Stage",
     "TeamA": "SK Gaming Avarosa",
     "TeamB": "Solary Eclipse",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-09 19:19:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
-    "TeamA": "Barcząca Esports Babylon",
-    "TeamB": "Eterna",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-09 19:08:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Eintracht Frankfurt",
-    "TeamB": "VfB eSports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-09 19:04:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Berlin International Gaming",
-    "TeamB": "TeamOrangeGaming",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-09 18:04:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "ROSSMANN Centaurs",
-    "TeamB": "VfB eSports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-09 17:00:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
-    "TeamA": "G2 Hel",
-    "TeamB": "Mental Rush",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-09 16:59:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
-    "TeamA": "Blue Otter Europe",
-    "TeamB": "Vitality Rising Bees",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-09 16:54:00"
   }
 ]
