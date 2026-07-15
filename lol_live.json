@@ -33,6 +33,22 @@
   },
   {
     "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
+    "TeamA": "Senshi eSports (Benelux Team)",
+    "TeamB": "ZennIT",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-14 20:10:00"
+  },
+  {
+    "OverviewPage": "LES/2026 Season/Summer Split",
+    "TeamA": "Team Heretics Academy",
+    "TeamB": "UCAM Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-14 18:48:00"
+  },
+  {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
     "TeamA": "Dynasty",
     "TeamB": "mCon esports",
     "ScoreA": 0,
@@ -331,24 +347,8 @@
     "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
     "TeamA": "9z Globant",
     "TeamB": "Volticons",
-    "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreA": 0,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-09 22:08:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
-    "TeamA": "Maze Gaming",
-    "TeamB": "ZEN Esports (Argentinian Team)",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-09 21:05:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
-    "TeamA": "SK Gaming Avarosa",
-    "TeamB": "Solary Eclipse",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-09 19:19:00"
   }
 ]
