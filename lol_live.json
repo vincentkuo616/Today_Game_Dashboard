@@ -1,6 +1,38 @@
 [
   {
     "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "Dplus Kia",
+    "TeamB": "FURIA",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-15 18:23:00"
+  },
+  {
+    "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "LYON (2024 American Team)",
+    "TeamB": "MIBR.LOS",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-15 18:17:00"
+  },
+  {
+    "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "Karmine Corp",
+    "TeamB": "Team Secret (Vietnamese Team)",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-15 16:11:00"
+  },
+  {
+    "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "GAM Esports",
+    "TeamB": "Movistar KOI",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-15 16:10:00"
+  },
+  {
+    "OverviewPage": "Esports World Cup 2026",
     "TeamA": "Hanwha Life Esports",
     "TeamB": "MIBR.LOS",
     "ScoreA": 1,
@@ -355,8 +387,8 @@
     "OverviewPage": "2026 Mid-Season Invitational",
     "TeamA": "Hanwha Life Esports",
     "TeamB": "LYON (2024 American Team)",
-    "ScoreA": 3,
-    "ScoreB": 2,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-07-11 11:44:00"
   },
   {
@@ -364,31 +396,7 @@
     "TeamA": "Gamespace Genesis",
     "TeamB": "The ParadOx Academy",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-11 11:25:00"
-  },
-  {
-    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
-    "TeamA": "Panathinaikos Esports",
-    "TeamB": "WLGaming Esports Academy",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-11 11:12:00"
-  },
-  {
-    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
-    "TeamA": "HatTrick Gaming",
-    "TeamB": "R5 Esports",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-11 10:59:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
-    "TeamA": "Docta Esports",
-    "TeamB": "Maze Gaming",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-10 23:57:00"
   }
 ]
