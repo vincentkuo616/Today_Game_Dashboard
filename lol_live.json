@@ -112,6 +112,14 @@
     "LatestGameTime": "2026-07-14 19:10:00"
   },
   {
+    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
+    "TeamA": "Eterna",
+    "TeamB": "G2 Hel",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-14 18:55:00"
+  },
+  {
     "OverviewPage": "LES/2026 Season/Summer Split",
     "TeamA": "Team Heretics Academy",
     "TeamB": "UCAM Esports",
@@ -126,6 +134,14 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-14 17:56:00"
+  },
+  {
+    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
+    "TeamA": "Barcząca Esports Babylon",
+    "TeamB": "Mental Rush",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-14 17:02:00"
   },
   {
     "OverviewPage": "Equal Esports Cup 2026/Group Stage",
@@ -372,23 +388,7 @@
     "TeamA": "Docta Esports",
     "TeamB": "Maze Gaming",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-10 23:57:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
-    "TeamA": "9z Globant",
-    "TeamB": "ZEN Esports (Argentinian Team)",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-10 22:56:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
-    "TeamA": "Golden Lions",
-    "TeamB": "Volticons",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-10 22:02:00"
   }
 ]
