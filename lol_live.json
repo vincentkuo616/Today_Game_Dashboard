@@ -1,19 +1,35 @@
 [
   {
     "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "JD Gaming",
+    "TeamB": "MIBR.LOS",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-16 14:00:00"
+  },
+  {
+    "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "Dplus Kia",
+    "TeamB": "G2 Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-16 13:47:00"
+  },
+  {
+    "OverviewPage": "Esports World Cup 2026",
     "TeamA": "GAM Esports",
     "TeamB": "T1",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-16 11:31:00"
+    "ScoreB": 3,
+    "LatestGameTime": "2026-07-16 12:35:00"
   },
   {
     "OverviewPage": "Esports World Cup 2026",
     "TeamA": "Karmine Corp",
     "TeamB": "Sentinels",
-    "ScoreA": 1,
+    "ScoreA": 2,
     "ScoreB": 0,
-    "LatestGameTime": "2026-07-16 11:07:00"
+    "LatestGameTime": "2026-07-16 12:04:00"
   },
   {
     "OverviewPage": "Esports World Cup 2026",
@@ -382,21 +398,5 @@
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-12 23:08:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
-    "TeamA": "LYON Academy",
-    "TeamB": "Polar Squad Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-12 22:14:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
-    "TeamA": "Fuego",
-    "TeamB": "SDM Tigres",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-12 20:24:00"
   }
 ]
