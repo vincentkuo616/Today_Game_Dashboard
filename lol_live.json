@@ -1,11 +1,59 @@
 [
   {
+    "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "Hanwha Life Esports",
+    "TeamB": "JD Gaming",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-16 10:08:00"
+  },
+  {
+    "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "Bilibili Gaming",
+    "TeamB": "T1",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-16 09:16:00"
+  },
+  {
+    "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "Gen.G",
+    "TeamB": "Sentinels",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-16 09:08:00"
+  },
+  {
     "OverviewPage": "Arabian League/2026 Season/Summer Split",
     "TeamA": "JSK Esports",
     "TeamB": "One More Esports",
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-15 21:11:00"
+  },
+  {
+    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
+    "TeamA": "Barcząca Esports Babylon",
+    "TeamB": "Solary Eclipse",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-15 20:55:00"
+  },
+  {
+    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
+    "TeamA": "Blue Otter Europe",
+    "TeamB": "SK Gaming Avarosa",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-15 19:52:00"
+  },
+  {
+    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
+    "TeamA": "Blue Otter Europe",
+    "TeamB": "Solary Eclipse",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-15 18:57:00"
   },
   {
     "OverviewPage": "Esports World Cup 2026",
@@ -40,12 +88,28 @@
     "LatestGameTime": "2026-07-15 18:10:00"
   },
   {
+    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
+    "TeamA": "Barcząca Esports Babylon",
+    "TeamB": "SK Gaming Avarosa",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-15 18:01:00"
+  },
+  {
     "OverviewPage": "Arabian League/2026 Season/Summer Split",
     "TeamA": "Anubis Gaming",
     "TeamB": "Baam Esports",
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-15 18:01:00"
+  },
+  {
+    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
+    "TeamA": "Barcząca Esports Babylon",
+    "TeamB": "Blue Otter Europe",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-15 16:58:00"
   },
   {
     "OverviewPage": "LES/2026 Season/Summer Split",
@@ -62,6 +126,14 @@
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-15 16:11:00"
+  },
+  {
+    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
+    "TeamA": "SK Gaming Avarosa",
+    "TeamB": "Solary Eclipse",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-15 16:10:00"
   },
   {
     "OverviewPage": "Esports World Cup 2026",
@@ -174,14 +246,6 @@
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-14 20:10:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
-    "TeamA": "Blue Otter Europe",
-    "TeamB": "Solary Eclipse",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-14 19:10:00"
   },
   {
     "OverviewPage": "Equal Esports Cup 2026/Group Stage",
@@ -332,63 +396,7 @@
     "TeamA": "Mad Science",
     "TeamB": "Vôs Grandes",
     "ScoreA": 3,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-07-12 19:44:00"
-  },
-  {
-    "OverviewPage": "2026 Mid-Season Invitational",
-    "TeamA": "Bilibili Gaming",
-    "TeamB": "Hanwha Life Esports",
-    "ScoreA": 2,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-07-12 11:11:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
-    "TeamA": "Kits Esports",
-    "TeamB": "Zeu5 Esports",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-11 23:02:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
-    "TeamA": "Fuego",
-    "TeamB": "LYON Academy",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-11 22:04:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
-    "TeamA": "NCG Esports",
-    "TeamB": "Polar Squad Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-11 20:07:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
-    "TeamA": "3v Team",
-    "TeamB": "SDM Tigres",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-11 20:03:00"
-  },
-  {
-    "OverviewPage": "IDL Kings Lendas Season 4",
-    "TeamA": "Mad Science",
-    "TeamB": "Oreiudos Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-11 19:25:00"
-  },
-  {
-    "OverviewPage": "IDL Kings Lendas Season 4",
-    "TeamA": "Gaytriotas",
-    "TeamB": "Oreiudos Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-11 17:51:00"
   }
 ]
