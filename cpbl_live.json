@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-07-16",
+    "games": [
+      {
+        "id": 184165,
+        "venue": "桃園國際棒球場",
+        "display_time": "7/16 (四) 18:35",
+        "status_long": "Not Started",
+        "status_key": "scheduled",
+        "home_name": "樂天桃猿",
+        "away_name": "統一獅",
+        "home_score": "-",
+        "away_score": "-"
+      }
+    ]
+  },
+  {
     "date": "2026-07-15",
     "games": [
       {
@@ -63,9 +79,5 @@
         "away_score": 2
       }
     ]
-  },
-  {
-    "date": "2026-07-13",
-    "games": []
   }
 ]
