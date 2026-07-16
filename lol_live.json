@@ -1,19 +1,43 @@
 [
   {
+    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
+    "TeamA": "Team Phantasma",
+    "TeamB": "WLGaming Esports",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-16 16:17:00"
+  },
+  {
+    "OverviewPage": "LES/2026 Season/Summer Split",
+    "TeamA": "Falke Esports",
+    "TeamB": "UCAM Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-16 15:56:00"
+  },
+  {
+    "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "Dplus Kia",
+    "TeamB": "G2 Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-16 14:36:00"
+  },
+  {
+    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
+    "TeamA": "Gamespace Mediterranean College Esports",
+    "TeamB": "The ParadOx Invaders",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-16 14:04:00"
+  },
+  {
     "OverviewPage": "Esports World Cup 2026",
     "TeamA": "JD Gaming",
     "TeamB": "MIBR.LOS",
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-16 14:00:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "Dplus Kia",
-    "TeamB": "G2 Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-16 13:47:00"
   },
   {
     "OverviewPage": "Esports World Cup 2026",
@@ -374,29 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-13 17:05:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Eintracht Frankfurt",
-    "TeamB": "Kaufland Hangry Knights",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-13 16:06:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "E WIE EINFACH E-SPORTS",
-    "TeamB": "Unicorns of Love Sexy Edition",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-13 15:06:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
-    "TeamA": "3v Team",
-    "TeamB": "Kits Esports",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-12 23:08:00"
   }
 ]
