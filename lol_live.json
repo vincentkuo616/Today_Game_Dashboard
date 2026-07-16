@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Arabian League/2026 Season/Summer Split",
+    "TeamA": "JSK Esports",
+    "TeamB": "One More Esports",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-15 21:11:00"
+  },
+  {
     "OverviewPage": "Esports World Cup 2026",
     "TeamA": "Dplus Kia",
     "TeamB": "FURIA",
@@ -324,7 +332,7 @@
     "TeamA": "Mad Science",
     "TeamB": "Vôs Grandes",
     "ScoreA": 3,
-    "ScoreB": 4,
+    "ScoreB": 3,
     "LatestGameTime": "2026-07-12 19:44:00"
   },
   {
@@ -382,21 +390,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-11 17:51:00"
-  },
-  {
-    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
-    "TeamA": "Spartans Javelins",
-    "TeamB": "WLGaming Esports Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-11 13:39:00"
-  },
-  {
-    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
-    "TeamA": "Gamespace Genesis",
-    "TeamB": "Panathinaikos Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-11 13:20:00"
   }
 ]
