@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "AG.AL",
+    "TeamB": "Karmine Corp",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-17 13:25:00"
+  },
+  {
+    "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "Bilibili Gaming",
+    "TeamB": "Dplus Kia",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-17 13:10:00"
+  },
+  {
+    "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "Hanwha Life Esports",
+    "TeamB": "T1",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-17 12:04:00"
+  },
+  {
+    "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "Gen.G",
+    "TeamB": "JD Gaming",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-17 11:58:00"
+  },
+  {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
     "TeamA": "Dorado Gaming",
     "TeamB": "Maryville University",
@@ -366,37 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-14 23:28:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
-    "TeamA": "9z Globant",
-    "TeamB": "Malvinas Gaming",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-14 22:54:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
-    "TeamA": "Docta Esports",
-    "TeamB": "ZEN Esports (Argentinian Team)",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-14 21:48:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
-    "TeamA": "Golden Lions",
-    "TeamB": "Maze Gaming",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-14 21:08:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
-    "TeamA": "Senshi eSports (Benelux Team)",
-    "TeamB": "ZennIT",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-14 20:10:00"
   }
 ]
