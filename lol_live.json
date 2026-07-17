@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "Dorado Gaming",
+    "TeamB": "Maryville University",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-17 00:37:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "Conviction",
+    "TeamB": "Cupid Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-16 22:04:00"
+  },
+  {
     "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
     "TeamA": "Myth Esports",
     "TeamB": "Once Upon A Team",
@@ -382,21 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-14 17:01:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Summer Split",
-    "TeamA": "Falke Esports",
-    "TeamB": "LUA Gaming",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-14 16:50:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
-    "TeamA": "Polar Squad Esports",
-    "TeamB": "SDM Tigres",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-14 01:54:00"
   }
 ]
