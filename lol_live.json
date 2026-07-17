@@ -1,19 +1,19 @@
 [
   {
     "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "Bilibili Gaming",
+    "TeamB": "Dplus Kia",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-17 15:09:00"
+  },
+  {
+    "OverviewPage": "Esports World Cup 2026",
     "TeamA": "AG.AL",
     "TeamB": "Karmine Corp",
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-17 14:16:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "Bilibili Gaming",
-    "TeamB": "Dplus Kia",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-17 14:14:00"
   },
   {
     "OverviewPage": "Esports World Cup 2026",
@@ -243,7 +243,7 @@
     "OverviewPage": "Equal Esports Cup 2026/Group Stage",
     "TeamA": "Blue Otter Europe",
     "TeamB": "Solary Eclipse",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-15 18:57:00"
   },
