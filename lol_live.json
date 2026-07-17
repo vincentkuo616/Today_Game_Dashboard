@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Arabian League/2026 Season/Summer Split",
+    "TeamA": "Disruptors",
+    "TeamB": "GnG Amazigh",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-17 20:21:00"
+  },
+  {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
     "TeamA": "ROSSMANN Centaurs",
     "TeamB": "Unicorns of Love Sexy Edition",
@@ -14,6 +22,14 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-17 18:21:00"
+  },
+  {
+    "OverviewPage": "Arabian League/2026 Season/Summer Split",
+    "TeamA": "Anubis Gaming",
+    "TeamB": "JSK Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-17 17:28:00"
   },
   {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
@@ -382,21 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-15 13:13:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "JD Gaming",
-    "TeamB": "LYON (2024 American Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-15 13:04:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "FURIA",
-    "TeamB": "G2 Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-15 12:07:00"
   }
 ]
