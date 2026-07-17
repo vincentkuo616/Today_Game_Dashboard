@@ -1,5 +1,45 @@
 [
   {
+    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
+    "TeamA": "ROSSMANN Centaurs",
+    "TeamB": "Unicorns of Love Sexy Edition",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-17 19:22:00"
+  },
+  {
+    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
+    "TeamA": "E WIE EINFACH E-SPORTS",
+    "TeamB": "VfB eSports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-17 18:21:00"
+  },
+  {
+    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
+    "TeamA": "Eintracht Spandau",
+    "TeamB": "G2 NORD",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-17 17:28:00"
+  },
+  {
+    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
+    "TeamA": "Berlin International Gaming",
+    "TeamB": "Eintracht Spandau",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-17 16:25:00"
+  },
+  {
+    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
+    "TeamA": "Berlin International Gaming",
+    "TeamB": "G2 NORD",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-17 15:15:00"
+  },
+  {
     "OverviewPage": "Esports World Cup 2026",
     "TeamA": "Bilibili Gaming",
     "TeamB": "Dplus Kia",
@@ -243,7 +283,7 @@
     "OverviewPage": "Equal Esports Cup 2026/Group Stage",
     "TeamA": "Blue Otter Europe",
     "TeamB": "Solary Eclipse",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-15 18:57:00"
   },
@@ -358,45 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-15 12:07:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "AG.AL",
-    "TeamB": "Dplus Kia",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-15 11:59:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "Bilibili Gaming",
-    "TeamB": "Movistar KOI",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-15 11:02:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "Sentinels",
-    "TeamB": "Team Secret (Vietnamese Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-15 09:51:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "Gen.G",
-    "TeamB": "Karmine Corp",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-15 09:41:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2",
-    "TeamA": "Seven Dark",
-    "TeamB": "Volticons",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-14 23:28:00"
   }
 ]
