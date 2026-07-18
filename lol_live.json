@@ -1,5 +1,45 @@
 [
   {
+    "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "Karmine Corp",
+    "TeamB": "T1",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-18 12:55:00"
+  },
+  {
+    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
+    "TeamA": "R5 Esports",
+    "TeamB": "Team Refuse",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-18 11:19:00"
+  },
+  {
+    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
+    "TeamA": "Gamespace Genesis",
+    "TeamB": "Spartans Javelins",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-18 11:16:00"
+  },
+  {
+    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
+    "TeamA": "HatTrick Gaming",
+    "TeamB": "Panathinaikos Esports",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-18 11:07:00"
+  },
+  {
+    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
+    "TeamA": "Alpha Impact",
+    "TeamB": "The ParadOx Academy",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-18 11:05:00"
+  },
+  {
     "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
     "TeamA": "Bilibili Gaming Junior",
     "TeamB": "LGD Gaming Young Team",
@@ -358,45 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-15 18:13:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer LCQ",
-    "TeamA": "Absolved",
-    "TeamB": "Fortress Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-15 18:10:00"
-  },
-  {
-    "OverviewPage": "Arabian League/2026 Season/Summer Split",
-    "TeamA": "Anubis Gaming",
-    "TeamB": "Baam Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-15 18:01:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
-    "TeamA": "Barcząca Esports Babylon",
-    "TeamB": "SK Gaming Avarosa",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-15 18:01:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
-    "TeamA": "Barcząca Esports Babylon",
-    "TeamB": "Blue Otter Europe",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-15 16:58:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Summer Split",
-    "TeamA": "GIANTX iTero",
-    "TeamB": "UB Alma Mater",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-15 16:25:00"
   }
 ]
