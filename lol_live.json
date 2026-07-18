@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "Dplus Kia",
+    "TeamB": "Gen.G",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-18 14:18:00"
+  },
+  {
+    "OverviewPage": "Esports World Cup 2026",
     "TeamA": "Karmine Corp",
     "TeamB": "T1",
     "ScoreA": 2,
@@ -390,13 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-15 18:17:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Summer Split",
-    "TeamA": "Barça eSports",
-    "TeamB": "Movistar KOI Fénix",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-15 18:13:00"
   }
 ]
