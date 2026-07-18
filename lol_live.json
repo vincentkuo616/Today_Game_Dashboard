@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "University of Mississippi",
+    "TeamB": "Winthrop University",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-18 00:00:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "Blue Otter",
+    "TeamB": "CCG Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-17 21:09:00"
+  },
+  {
     "OverviewPage": "Arabian League/2026 Season/Summer Split",
     "TeamA": "Disruptors",
     "TeamB": "GnG Amazigh",
@@ -382,21 +398,5 @@
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-15 16:11:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
-    "TeamA": "SK Gaming Avarosa",
-    "TeamB": "Solary Eclipse",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-15 16:10:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "GAM Esports",
-    "TeamB": "Movistar KOI",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-15 16:10:00"
   }
 ]
