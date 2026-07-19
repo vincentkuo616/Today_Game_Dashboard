@@ -56,6 +56,14 @@
     "LatestGameTime": "2026-07-18 10:31:00"
   },
   {
+    "OverviewPage": "LJL/2026 Season/Summer Championship",
+    "TeamA": "Arneb",
+    "TeamB": "New Meta",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-07-18 10:24:00"
+  },
+  {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
     "TeamA": "University of Mississippi",
     "TeamB": "Winthrop University",
@@ -390,13 +398,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-15 18:23:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "LYON (2024 American Team)",
-    "TeamB": "MIBR.LOS",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-15 18:17:00"
   }
 ]
