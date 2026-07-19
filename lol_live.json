@@ -8,12 +8,36 @@
     "LatestGameTime": "2026-07-18 16:33:00"
   },
   {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Crystal Rose (French Team)",
+    "TeamB": "Zephyr Esport",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-18 14:02:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Karmine Corp Blue Stars",
+    "TeamB": "Lille Esport",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-18 13:08:00"
+  },
+  {
     "OverviewPage": "Esports World Cup 2026",
     "TeamA": "Karmine Corp",
     "TeamB": "T1",
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-18 12:55:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Ancient Ones",
+    "TeamB": "Galions Sharks",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-18 12:03:00"
   },
   {
     "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
@@ -48,6 +72,14 @@
     "LatestGameTime": "2026-07-18 11:05:00"
   },
   {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Lausanne-Sport Esports",
+    "TeamB": "Team High Ground",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-18 11:01:00"
+  },
+  {
     "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
     "TeamA": "Bilibili Gaming Junior",
     "TeamB": "LGD Gaming Young Team",
@@ -62,6 +94,14 @@
     "ScoreA": 0,
     "ScoreB": 3,
     "LatestGameTime": "2026-07-18 10:24:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Caldya Esport",
+    "TeamB": "Project Conquerors",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-18 10:07:00"
   },
   {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
@@ -358,45 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-16 09:08:00"
-  },
-  {
-    "OverviewPage": "Arabian League/2026 Season/Summer Split",
-    "TeamA": "JSK Esports",
-    "TeamB": "One More Esports",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-15 21:11:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
-    "TeamA": "Barcząca Esports Babylon",
-    "TeamB": "Solary Eclipse",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-15 20:55:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
-    "TeamA": "Blue Otter Europe",
-    "TeamB": "SK Gaming Avarosa",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-15 19:52:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Group Stage",
-    "TeamA": "Blue Otter Europe",
-    "TeamB": "Solary Eclipse",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-15 18:57:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "Dplus Kia",
-    "TeamB": "FURIA",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-15 18:23:00"
   }
 ]
