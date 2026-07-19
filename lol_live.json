@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
+    "TeamA": "EDward Gaming Youth Team",
+    "TeamB": "Xi Lai Gaming",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-19 07:37:00"
+  },
+  {
     "OverviewPage": "Esports World Cup 2026",
     "TeamA": "Dplus Kia",
     "TeamB": "Gen.G",
@@ -390,13 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-16 09:16:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "Gen.G",
-    "TeamB": "Sentinels",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-16 09:08:00"
   }
 ]
