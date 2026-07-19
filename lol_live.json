@@ -1,11 +1,19 @@
 [
   {
+    "OverviewPage": "LJL/2026 Season/Summer Championship",
+    "TeamA": "FENNEL",
+    "TeamB": "L Guide Gaming",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-19 11:02:00"
+  },
+  {
     "OverviewPage": "Esports World Cup 2026",
     "TeamA": "Gen.G",
     "TeamB": "T1",
     "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-19 10:13:00"
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-19 11:01:00"
   },
   {
     "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
@@ -390,13 +398,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-16 12:04:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "AG.AL",
-    "TeamB": "G2 Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-16 10:22:00"
   }
 ]
