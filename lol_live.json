@@ -1,19 +1,19 @@
 [
   {
+    "OverviewPage": "Esports World Cup 2026",
+    "TeamA": "Gen.G",
+    "TeamB": "T1",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-19 12:02:00"
+  },
+  {
     "OverviewPage": "LJL/2026 Season/Summer Championship",
     "TeamA": "FENNEL",
     "TeamB": "L Guide Gaming",
     "ScoreA": 3,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-19 11:02:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "Gen.G",
-    "TeamB": "T1",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-19 11:01:00"
   },
   {
     "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
@@ -395,7 +395,7 @@
     "OverviewPage": "Esports World Cup 2026",
     "TeamA": "Karmine Corp",
     "TeamB": "Sentinels",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-16 12:04:00"
   }
