@@ -40,6 +40,30 @@
     "LatestGameTime": "2026-07-19 07:37:00"
   },
   {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
+    "TeamA": "Kits Esports",
+    "TeamB": "Polar Squad Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-19 02:09:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
+    "TeamA": "3v Team",
+    "TeamB": "Fuego",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-19 00:11:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
+    "TeamA": "SDM Tigres",
+    "TeamB": "Zeu5 Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-19 00:04:00"
+  },
+  {
     "OverviewPage": "Esports World Cup 2026",
     "TeamA": "Dplus Kia",
     "TeamB": "Gen.G",
@@ -371,32 +395,8 @@
     "OverviewPage": "Esports World Cup 2026",
     "TeamA": "Dplus Kia",
     "TeamB": "G2 Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-16 14:36:00"
-  },
-  {
-    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
-    "TeamA": "Gamespace Mediterranean College Esports",
-    "TeamB": "The ParadOx Invaders",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-16 14:04:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "JD Gaming",
-    "TeamB": "MIBR.LOS",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-16 14:00:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "GAM Esports",
-    "TeamB": "T1",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-16 12:35:00"
   }
 ]
