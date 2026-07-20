@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "DN SOOPers",
+    "TeamB": "HANJIN BRION",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-20 08:54:00"
+  },
+  {
+    "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "KT Rolster",
+    "TeamB": "Nongshim RedForce",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-20 07:59:00"
+  },
+  {
+    "OverviewPage": "2026 LoL KeSPA Cup",
     "TeamA": "BNK FEARX",
     "TeamB": "DN SOOPers",
     "ScoreA": 0,
@@ -382,21 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-16 18:58:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Summer Split",
-    "TeamA": "Barça eSports",
-    "TeamB": "Team Heretics Academy",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-16 18:45:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Eintracht Frankfurt",
-    "TeamB": "Eintracht Spandau",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-16 17:58:00"
   }
 ]
