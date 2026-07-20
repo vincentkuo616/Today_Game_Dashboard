@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "B2U",
+    "TeamB": "Lundqvist Lightside",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-20 19:23:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Arctic Pandas",
+    "TeamB": "Sørby eSport",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-20 18:54:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Brod n Friends",
+    "TeamB": "Bulldog Esports",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-20 18:15:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Absolved",
+    "TeamB": "Verdant",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-20 17:04:00"
+  },
+  {
     "OverviewPage": "2026 LoL KeSPA Cup",
     "TeamA": "KT Rolster",
     "TeamB": "Kiwoom DRX",
@@ -366,37 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-17 16:25:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Berlin International Gaming",
-    "TeamB": "G2 NORD",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-17 15:15:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "Bilibili Gaming",
-    "TeamB": "Dplus Kia",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-17 15:09:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "AG.AL",
-    "TeamB": "Karmine Corp",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-17 14:16:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "Hanwha Life Esports",
-    "TeamB": "T1",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-17 12:04:00"
   }
 ]
