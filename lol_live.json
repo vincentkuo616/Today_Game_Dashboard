@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "KT Rolster",
+    "TeamB": "Kiwoom DRX",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-20 13:29:00"
+  },
+  {
+    "OverviewPage": "2026 LoL KeSPA Cup",
     "TeamA": "BNK FEARX",
     "TeamB": "Nongshim RedForce",
     "ScoreA": 0,
@@ -390,13 +398,5 @@
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-17 00:37:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
-    "TeamA": "Conviction",
-    "TeamB": "Cupid Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-16 22:04:00"
   }
 ]
