@@ -72,6 +72,30 @@
     "LatestGameTime": "2026-07-20 06:16:00"
   },
   {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
+    "TeamA": "LYON Academy",
+    "TeamB": "Zeu5 Esports",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-20 02:19:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
+    "TeamA": "Kits Esports",
+    "TeamB": "SDM Tigres",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-20 00:36:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
+    "TeamA": "Fuego",
+    "TeamB": "Polar Squad Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-19 23:50:00"
+  },
+  {
     "OverviewPage": "Esports World Cup 2026",
     "TeamA": "Dplus Kia",
     "TeamB": "Karmine Corp",
@@ -374,29 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-17 12:04:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "Gen.G",
-    "TeamB": "JD Gaming",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-17 11:58:00"
-  },
-  {
-    "OverviewPage": "LJL/2026 Season/Summer Championship",
-    "TeamA": "L Guide Gaming",
-    "TeamB": "RAYN Clocks",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-17 10:03:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
-    "TeamA": "Dorado Gaming",
-    "TeamB": "Maryville University",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-17 00:37:00"
   }
 ]
