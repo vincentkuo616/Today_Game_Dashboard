@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "Gen.G",
+    "TeamB": "T1",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-21 08:18:00"
+  },
+  {
+    "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "BNK FEARX",
+    "TeamB": "Dplus Kia",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-21 07:07:00"
+  },
+  {
+    "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "Gen.G",
+    "TeamB": "Hanwha Life Esports",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-21 06:14:00"
+  },
+  {
     "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
     "TeamA": "Estral Esports",
     "TeamB": "paiN Gaming Academy",
@@ -374,29 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 3,
     "LatestGameTime": "2026-07-18 10:24:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Caldya Esport",
-    "TeamB": "Project Conquerors",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-18 10:07:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
-    "TeamA": "University of Mississippi",
-    "TeamB": "Winthrop University",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-18 00:00:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
-    "TeamA": "Blue Otter",
-    "TeamB": "CCG Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-17 22:01:00"
   }
 ]
