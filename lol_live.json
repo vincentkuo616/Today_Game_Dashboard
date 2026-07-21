@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LFL/2026 Season/Summer Split",
+    "TeamA": "Skillcamp",
+    "TeamB": "Solary",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-21 20:00:00"
+  },
+  {
     "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
     "TeamA": "Frites Esports Club",
     "TeamB": "Senshi eSports (Benelux Team)",
@@ -14,6 +22,14 @@
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-21 19:00:00"
+  },
+  {
+    "OverviewPage": "LFL/2026 Season/Summer Split",
+    "TeamA": "Galions",
+    "TeamB": "Joblife",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-21 18:56:00"
   },
   {
     "OverviewPage": "Arabian League/2026 Season/Summer Split",
@@ -382,21 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-19 11:46:00"
-  },
-  {
-    "OverviewPage": "LJL/2026 Season/Summer Championship",
-    "TeamA": "FENNEL",
-    "TeamB": "L Guide Gaming",
-    "ScoreA": 3,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-19 11:02:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Crystal Rose (French Team)",
-    "TeamB": "Galions Sharks",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-19 10:47:00"
   }
 ]
