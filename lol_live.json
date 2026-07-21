@@ -32,6 +32,14 @@
     "LatestGameTime": "2026-07-20 20:53:00"
   },
   {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
+    "TeamA": "DKB XPERION NXT",
+    "TeamB": "PvB (Swiss Team)",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-07-20 20:26:00"
+  },
+  {
     "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
     "TeamA": "KaBuM! Ilha das Lendas",
     "TeamB": "Vivo Keyd Stars Academy",
@@ -390,13 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-17 22:01:00"
-  },
-  {
-    "OverviewPage": "Arabian League/2026 Season/Summer Split",
-    "TeamA": "Disruptors",
-    "TeamB": "GnG Amazigh",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-17 20:21:00"
   }
 ]
