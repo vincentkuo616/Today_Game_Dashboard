@@ -208,6 +208,14 @@
     "LatestGameTime": "2026-07-20 10:43:00"
   },
   {
+    "OverviewPage": "LJL/2026 Season/Summer Championship",
+    "TeamA": "New Meta",
+    "TeamB": "Uwinks",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-20 10:07:00"
+  },
+  {
     "OverviewPage": "2026 LoL KeSPA Cup",
     "TeamA": "BNK FEARX",
     "TeamB": "Kiwoom DRX",
@@ -390,13 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-18 14:02:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Karmine Corp Blue Stars",
-    "TeamB": "Lille Esport",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-18 13:08:00"
   }
 ]
