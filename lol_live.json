@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "Estral Esports",
+    "TeamB": "KaBuM! Ilha das Lendas",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-21 21:27:00"
+  },
+  {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "RMD Gaming",
+    "TeamB": "paiN Gaming Academy",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-21 20:41:00"
+  },
+  {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "INTZ",
+    "TeamB": "RED Academy",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-21 20:04:00"
+  },
+  {
     "OverviewPage": "LFL/2026 Season/Summer Split",
     "TeamA": "Skillcamp",
     "TeamB": "Solary",
@@ -374,29 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-19 13:29:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Ancient Ones",
-    "TeamB": "Caldya Esport",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-19 12:37:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "Gen.G",
-    "TeamB": "T1",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-19 12:02:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Karmine Corp Blue Stars",
-    "TeamB": "Lausanne-Sport Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-19 11:46:00"
   }
 ]
