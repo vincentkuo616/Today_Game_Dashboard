@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "DN SOOPers",
+    "TeamB": "Hanwha Life Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-21 12:38:00"
+  },
+  {
+    "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "Kiwoom DRX",
+    "TeamB": "T1",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-21 11:43:00"
+  },
+  {
+    "OverviewPage": "2026 LoL KeSPA Cup",
     "TeamA": "Hanwha Life Esports",
     "TeamB": "Nongshim RedForce",
     "ScoreA": 1,
@@ -382,21 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-18 11:16:00"
-  },
-  {
-    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
-    "TeamA": "HatTrick Gaming",
-    "TeamB": "Panathinaikos Esports",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-18 11:07:00"
-  },
-  {
-    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
-    "TeamA": "Alpha Impact",
-    "TeamB": "The ParadOx Academy",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-18 11:05:00"
   }
 ]
