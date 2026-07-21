@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "LFL/2026 Season/Summer Split",
+    "TeamA": "Ici Japon Corp. Esport",
+    "TeamB": "TLN Pirates",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-21 16:06:00"
+  },
+  {
+    "OverviewPage": "LES/2026 Season/Summer Split",
+    "TeamA": "LUA Gaming",
+    "TeamB": "UB Alma Mater",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-21 16:01:00"
+  },
+  {
+    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
+    "TeamA": "Spartans EU",
+    "TeamB": "Valerion",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-21 15:56:00"
+  },
+  {
+    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
+    "TeamA": "ALMO Players",
+    "TeamB": "Zerolag Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-21 14:07:00"
+  },
+  {
     "OverviewPage": "2026 LoL KeSPA Cup",
     "TeamA": "DN SOOPers",
     "TeamB": "Hanwha Life Esports",
@@ -366,37 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-18 13:08:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "Karmine Corp",
-    "TeamB": "T1",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-18 12:55:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Ancient Ones",
-    "TeamB": "Galions Sharks",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-18 12:03:00"
-  },
-  {
-    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
-    "TeamA": "R5 Esports",
-    "TeamB": "Team Refuse",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-18 11:19:00"
-  },
-  {
-    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
-    "TeamA": "Gamespace Genesis",
-    "TeamB": "Spartans Javelins",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-18 11:16:00"
   }
 ]
