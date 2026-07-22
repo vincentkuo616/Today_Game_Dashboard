@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "7REX",
+    "TeamB": "Vivo Keyd Stars Academy",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-21 22:52:00"
+  },
+  {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "Ei Nerd Esports",
+    "TeamB": "Team Solid (Brazilian Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-21 22:06:00"
+  },
+  {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
     "TeamA": "Estral Esports",
     "TeamB": "KaBuM! Ilha das Lendas",
     "ScoreA": 1,
@@ -14,6 +30,14 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-21 20:41:00"
+  },
+  {
+    "OverviewPage": "Arabian League/2026 Season/Summer Split",
+    "TeamA": "Baam Esports",
+    "TeamB": "Pyramid IV Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-21 20:29:00"
   },
   {
     "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
@@ -374,29 +398,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-20 00:36:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
-    "TeamA": "Fuego",
-    "TeamB": "Polar Squad Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-19 23:50:00"
-  },
-  {
-    "OverviewPage": "Esports World Cup 2026",
-    "TeamA": "Dplus Kia",
-    "TeamB": "Karmine Corp",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-19 15:15:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Lille Esport",
-    "TeamB": "Project Conquerors",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-19 13:29:00"
   }
 ]
