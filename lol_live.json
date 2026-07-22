@@ -1,11 +1,99 @@
 [
   {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "Francesinhas",
+    "TeamB": "Way Gaming Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-22 20:11:00"
+  },
+  {
+    "OverviewPage": "LFL/2026 Season/Summer Split",
+    "TeamA": "Esprit Shōnen",
+    "TeamB": "Karmine Corp Blue",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-22 20:02:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Lund Esports Organization",
+    "TeamB": "Volda E-Sport",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-22 19:38:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "Aeterna Esports",
+    "TeamB": "P11 Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-22 19:24:00"
+  },
+  {
+    "OverviewPage": "Arabian League/2026 Season/Summer Split",
+    "TeamA": "3BL Esports",
+    "TeamB": "Anubis Gaming",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-22 19:18:00"
+  },
+  {
+    "OverviewPage": "LFL/2026 Season/Summer Split",
+    "TeamA": "Joblife",
+    "TeamB": "Solary",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-22 18:53:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "2 Massive",
+    "TeamB": "Deer Gaming",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-22 18:51:00"
+  },
+  {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
     "TeamA": "Kaufland Hangry Knights",
     "TeamB": "Unicorns of Love Sexy Edition",
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-22 18:22:00"
+  },
+  {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "Dominion Goblins",
+    "TeamB": "Dream Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-22 18:13:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "EKO Esports",
+    "TeamB": "TITANS",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-22 18:08:00"
+  },
+  {
+    "OverviewPage": "LFL/2026 Season/Summer Split",
+    "TeamA": "Galions",
+    "TeamB": "Ici Japon Corp. Esport",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-22 17:55:00"
+  },
+  {
+    "OverviewPage": "LES/2026 Season/Summer Split",
+    "TeamA": "Barça eSports",
+    "TeamB": "UCAM Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-22 17:46:00"
   },
   {
     "OverviewPage": "LIT/2026 Season/Summer Split",
@@ -310,93 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-20 23:22:00"
-  },
-  {
-    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
-    "TeamA": "RMD Gaming",
-    "TeamB": "Team Solid (Brazilian Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-20 22:25:00"
-  },
-  {
-    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
-    "TeamA": "Ei Nerd Esports",
-    "TeamB": "RED Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-20 21:38:00"
-  },
-  {
-    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
-    "TeamA": "7REX",
-    "TeamB": "INTZ",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-20 20:53:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
-    "TeamA": "DKB XPERION NXT",
-    "TeamB": "PvB (Swiss Team)",
-    "ScoreA": 2,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-07-20 20:26:00"
-  },
-  {
-    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
-    "TeamA": "KaBuM! Ilha das Lendas",
-    "TeamB": "Vivo Keyd Stars Academy",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-20 20:05:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "B2U",
-    "TeamB": "Lundqvist Lightside",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-20 19:23:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Arctic Pandas",
-    "TeamB": "Sørby eSport",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-20 18:54:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Brod n Friends",
-    "TeamB": "Bulldog Esports",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-20 18:15:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Absolved",
-    "TeamB": "Verdant",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-20 17:04:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "KT Rolster",
-    "TeamB": "Kiwoom DRX",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-20 13:29:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "BNK FEARX",
-    "TeamB": "Nongshim RedForce",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-20 12:39:00"
   }
 ]
