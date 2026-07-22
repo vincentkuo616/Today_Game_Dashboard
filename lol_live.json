@@ -1,5 +1,69 @@
 [
   {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "GMBLERS Esports",
+    "TeamB": "HMBLE",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-22 17:12:00"
+  },
+  {
+    "OverviewPage": "LFL/2026 Season/Summer Split",
+    "TeamA": "Skillcamp",
+    "TeamB": "ZYB Esport",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-22 17:00:00"
+  },
+  {
+    "OverviewPage": "Arabian League/2026 Season/Summer Split",
+    "TeamA": "GnG Amazigh",
+    "TeamB": "One More Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-22 16:56:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Rich Gang (Norwegian Team)",
+    "TeamB": "Ruddy Corporation",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-22 16:54:00"
+  },
+  {
+    "OverviewPage": "LES/2026 Season/Summer Split",
+    "TeamA": "Falke Esports",
+    "TeamB": "UB Alma Mater",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-22 16:12:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "Colossal Gaming",
+    "TeamB": "Zena Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-22 16:06:00"
+  },
+  {
+    "OverviewPage": "LFL/2026 Season/Summer Split",
+    "TeamA": "TLN Pirates",
+    "TeamB": "Vitality.Bee",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-22 16:05:00"
+  },
+  {
+    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
+    "TeamA": "Spartans EU",
+    "TeamB": "WLGaming Esports",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-22 13:51:00"
+  },
+  {
     "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
     "TeamA": "7REX",
     "TeamB": "Vivo Keyd Stars Academy",
@@ -334,69 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-20 10:43:00"
-  },
-  {
-    "OverviewPage": "LJL/2026 Season/Summer Championship",
-    "TeamA": "New Meta",
-    "TeamB": "Uwinks",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-20 10:07:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "BNK FEARX",
-    "TeamB": "Kiwoom DRX",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-20 09:43:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "DN SOOPers",
-    "TeamB": "HANJIN BRION",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-20 08:54:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "KT Rolster",
-    "TeamB": "Nongshim RedForce",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-20 07:59:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "BNK FEARX",
-    "TeamB": "DN SOOPers",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-20 07:11:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "HANJIN BRION",
-    "TeamB": "Nongshim RedForce",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-20 06:16:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
-    "TeamA": "LYON Academy",
-    "TeamB": "Zeu5 Esports",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-20 02:19:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2",
-    "TeamA": "Kits Esports",
-    "TeamB": "SDM Tigres",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-20 00:36:00"
   }
 ]
