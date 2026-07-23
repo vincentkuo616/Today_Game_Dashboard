@@ -1,11 +1,59 @@
 [
   {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "RED Academy",
+    "TeamB": "paiN Gaming Academy",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-22 23:11:00"
+  },
+  {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "7REX",
+    "TeamB": "Ei Nerd Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-22 22:24:00"
+  },
+  {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "RMD Gaming",
+    "TeamB": "Vivo Keyd Stars Academy",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-22 21:29:00"
+  },
+  {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "Bubliki",
+    "TeamB": "NORTHERNGRADE ESPORTS",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-22 21:19:00"
+  },
+  {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "Estral Esports",
+    "TeamB": "Team Solid (Brazilian Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-22 20:53:00"
+  },
+  {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "Francesinhas",
     "TeamB": "Way Gaming Esports",
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-22 20:11:00"
+  },
+  {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "INTZ",
+    "TeamB": "KaBuM! Ilha das Lendas",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-22 20:05:00"
   },
   {
     "OverviewPage": "LFL/2026 Season/Summer Split",
@@ -350,53 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-21 10:44:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "Gen.G",
-    "TeamB": "HANJIN BRION",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-21 09:55:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "Dplus Kia",
-    "TeamB": "KT Rolster",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-21 09:02:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "Gen.G",
-    "TeamB": "T1",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-21 08:18:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "BNK FEARX",
-    "TeamB": "Dplus Kia",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-21 07:07:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "Gen.G",
-    "TeamB": "Hanwha Life Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-21 06:14:00"
-  },
-  {
-    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
-    "TeamA": "Estral Esports",
-    "TeamB": "paiN Gaming Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-20 23:22:00"
   }
 ]
