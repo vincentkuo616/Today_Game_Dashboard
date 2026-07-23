@@ -1,5 +1,117 @@
 [
   {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "Colossal Gaming",
+    "TeamB": "HMBLE",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-23 19:28:00"
+  },
+  {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
+    "TeamA": "The Bandits",
+    "TeamB": "ZennIT",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-23 19:18:00"
+  },
+  {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
+    "TeamA": "Dynasty",
+    "TeamB": "Myth Esports",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-23 18:58:00"
+  },
+  {
+    "OverviewPage": "LFL/2026 Season/Summer Split",
+    "TeamA": "Solary",
+    "TeamB": "ZYB Esport",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-23 18:51:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "GMBLERS Esports",
+    "TeamB": "TITANS",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-23 18:34:00"
+  },
+  {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "Capybara Esports",
+    "TeamB": "EXSAD Gaming",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-23 18:16:00"
+  },
+  {
+    "OverviewPage": "LES/2026 Season/Summer Split",
+    "TeamA": "GIANTX iTero",
+    "TeamB": "Team Heretics Academy",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-23 18:04:00"
+  },
+  {
+    "OverviewPage": "LFL/2026 Season/Summer Split",
+    "TeamA": "Galions",
+    "TeamB": "Vitality.Bee",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-23 17:51:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "Aeterna Esports",
+    "TeamB": "Zena Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-23 17:34:00"
+  },
+  {
+    "OverviewPage": "Arabian League/2026 Season/Summer Split",
+    "TeamA": "Baam Esports",
+    "TeamB": "JSK Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-23 17:12:00"
+  },
+  {
+    "OverviewPage": "LFL/2026 Season/Summer Split",
+    "TeamA": "Ici Japon Corp. Esport",
+    "TeamB": "Joblife",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-23 17:00:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "EKO Esports",
+    "TeamB": "P11 Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-23 16:21:00"
+  },
+  {
+    "OverviewPage": "LES/2026 Season/Summer Split",
+    "TeamA": "LUA Gaming",
+    "TeamB": "Movistar KOI Fénix",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-23 16:07:00"
+  },
+  {
+    "OverviewPage": "LFL/2026 Season/Summer Split",
+    "TeamA": "Esprit Shōnen",
+    "TeamB": "Skillcamp",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-23 16:06:00"
+  },
+  {
     "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
     "TeamA": "RED Academy",
     "TeamB": "paiN Gaming Academy",
@@ -286,117 +398,5 @@
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-21 19:00:00"
-  },
-  {
-    "OverviewPage": "LFL/2026 Season/Summer Split",
-    "TeamA": "Galions",
-    "TeamB": "Joblife",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-21 18:56:00"
-  },
-  {
-    "OverviewPage": "Arabian League/2026 Season/Summer Split",
-    "TeamA": "3BL Esports",
-    "TeamB": "One More Esports",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-21 18:29:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Summer Split",
-    "TeamA": "GIANTX iTero",
-    "TeamB": "Movistar KOI Fénix",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-21 18:03:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
-    "TeamA": "Once Upon A Team",
-    "TeamB": "mCon esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-21 18:02:00"
-  },
-  {
-    "OverviewPage": "LFL/2026 Season/Summer Split",
-    "TeamA": "Karmine Corp Blue",
-    "TeamB": "ZYB Esport",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-21 17:55:00"
-  },
-  {
-    "OverviewPage": "LFL/2026 Season/Summer Split",
-    "TeamA": "Esprit Shōnen",
-    "TeamB": "Vitality.Bee",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-21 17:00:00"
-  },
-  {
-    "OverviewPage": "LFL/2026 Season/Summer Split",
-    "TeamA": "Ici Japon Corp. Esport",
-    "TeamB": "TLN Pirates",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-21 16:06:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Summer Split",
-    "TeamA": "LUA Gaming",
-    "TeamB": "UB Alma Mater",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-21 16:01:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Eintracht Frankfurt",
-    "TeamB": "Eintracht Spandau",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-21 15:57:00"
-  },
-  {
-    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
-    "TeamA": "Spartans EU",
-    "TeamB": "Valerion",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-21 15:56:00"
-  },
-  {
-    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
-    "TeamA": "ALMO Players",
-    "TeamB": "Zerolag Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-21 14:07:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "DN SOOPers",
-    "TeamB": "Hanwha Life Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-21 12:38:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "Kiwoom DRX",
-    "TeamB": "T1",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-21 11:43:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "Hanwha Life Esports",
-    "TeamB": "Nongshim RedForce",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-21 10:44:00"
   }
 ]
