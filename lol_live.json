@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "Conviction",
+    "TeamB": "Winthrop University",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-24 00:47:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "Blue Otter",
+    "TeamB": "Cupid Esports",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-23 22:52:00"
+  },
+  {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "Role Swappers",
     "TeamB": "White Dragons",
@@ -14,6 +30,14 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-23 20:44:00"
+  },
+  {
+    "OverviewPage": "Arabian League/2026 Season/Summer Split",
+    "TeamA": "Disruptors",
+    "TeamB": "Pyramid IV Esports",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-23 20:07:00"
   },
   {
     "OverviewPage": "LFL/2026 Season/Summer Split",
@@ -144,6 +168,14 @@
     "LatestGameTime": "2026-07-23 16:06:00"
   },
   {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "Contingent Esports",
+    "TeamB": "University of Mississippi",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-23 00:50:00"
+  },
+  {
     "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
     "TeamA": "RED Academy",
     "TeamB": "paiN Gaming Academy",
@@ -158,6 +190,14 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-22 22:24:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "CCG Esports",
+    "TeamB": "NRG",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-22 22:00:00"
   },
   {
     "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
@@ -358,45 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-22 13:51:00"
-  },
-  {
-    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
-    "TeamA": "7REX",
-    "TeamB": "Vivo Keyd Stars Academy",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-21 22:52:00"
-  },
-  {
-    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
-    "TeamA": "Ei Nerd Esports",
-    "TeamB": "Team Solid (Brazilian Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-21 22:06:00"
-  },
-  {
-    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
-    "TeamA": "Estral Esports",
-    "TeamB": "KaBuM! Ilha das Lendas",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-21 21:27:00"
-  },
-  {
-    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
-    "TeamA": "RMD Gaming",
-    "TeamB": "paiN Gaming Academy",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-21 20:41:00"
-  },
-  {
-    "OverviewPage": "Arabian League/2026 Season/Summer Split",
-    "TeamA": "Baam Esports",
-    "TeamB": "Pyramid IV Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-21 20:29:00"
   }
 ]
