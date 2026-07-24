@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LJL/2026 Season/Summer Championship",
+    "TeamA": "Arneb",
+    "TeamB": "RAYN Clocks",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-24 10:26:00"
+  },
+  {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
     "TeamA": "Conviction",
     "TeamB": "Winthrop University",
@@ -390,13 +398,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-22 16:04:00"
-  },
-  {
-    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
-    "TeamA": "Spartans EU",
-    "TeamB": "WLGaming Esports",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-22 13:51:00"
   }
 ]
