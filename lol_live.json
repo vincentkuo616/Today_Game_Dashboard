@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "Role Swappers",
+    "TeamB": "White Dragons",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-23 21:45:00"
+  },
+  {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "GD Esports",
+    "TeamB": "ZeroZone Gaming",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-23 20:44:00"
+  },
+  {
+    "OverviewPage": "LFL/2026 Season/Summer Split",
+    "TeamA": "Karmine Corp Blue",
+    "TeamB": "TLN Pirates",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-23 19:47:00"
+  },
+  {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "Hyperion (Portuguese Team)",
+    "TeamB": "Tung Tung Bogi",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-23 19:31:00"
+  },
+  {
     "OverviewPage": "LIT/2026 Season/Summer Split",
     "TeamA": "Colossal Gaming",
     "TeamB": "HMBLE",
@@ -366,37 +398,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-21 20:29:00"
-  },
-  {
-    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
-    "TeamA": "INTZ",
-    "TeamB": "RED Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-21 20:04:00"
-  },
-  {
-    "OverviewPage": "LFL/2026 Season/Summer Split",
-    "TeamA": "Skillcamp",
-    "TeamB": "Solary",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-21 20:00:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
-    "TeamA": "Frites Esports Club",
-    "TeamB": "Senshi eSports (Benelux Team)",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-21 19:14:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Berlin International Gaming",
-    "TeamB": "E WIE EINFACH E-SPORTS",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-21 19:00:00"
   }
 ]
