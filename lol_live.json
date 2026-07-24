@@ -152,6 +152,14 @@
     "LatestGameTime": "2026-07-23 17:00:00"
   },
   {
+    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
+    "TeamA": "Berlin International Gaming",
+    "TeamB": "Eintracht Frankfurt",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-23 16:48:00"
+  },
+  {
     "OverviewPage": "LIT/2026 Season/Summer Split",
     "TeamA": "EKO Esports",
     "TeamB": "P11 Esports",
@@ -390,13 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-22 16:05:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "G2 NORD",
-    "TeamB": "TeamOrangeGaming",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-22 16:04:00"
   }
 ]
