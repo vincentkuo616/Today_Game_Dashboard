@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Karmine Corp",
+    "TeamB": "Movistar KOI",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-25 16:38:00"
+  },
+  {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "G2 Esports",
     "TeamB": "Team Vitality",
     "ScoreA": 2,
@@ -390,13 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-22 21:19:00"
-  },
-  {
-    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
-    "TeamA": "Estral Esports",
-    "TeamB": "Team Solid (Brazilian Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-22 20:53:00"
   }
 ]
