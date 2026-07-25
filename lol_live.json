@@ -1,11 +1,67 @@
 [
   {
     "OverviewPage": "LCP/2026 Season/Split 3",
+    "TeamA": "Fukuoka SoftBank HAWKS gaming",
+    "TeamB": "Team Secret Whales",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-25 12:11:00"
+  },
+  {
+    "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "Ground Zero Gaming",
     "TeamB": "MVK Esports",
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-25 10:12:00"
+  },
+  {
+    "OverviewPage": "University Esports Masters 2026",
+    "TeamA": "Albalqa Warriors",
+    "TeamB": "Tehničko veleučilište u Zagrebu",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-25 09:47:00"
+  },
+  {
+    "OverviewPage": "University Esports Masters 2026",
+    "TeamA": "PoliTo E-sports",
+    "TeamB": "UCAM University Esports",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-25 09:44:00"
+  },
+  {
+    "OverviewPage": "University Esports Masters 2026",
+    "TeamA": "Confrérie Secrète de l’Ombre",
+    "TeamB": "Steel Crows Red",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-25 09:31:00"
+  },
+  {
+    "OverviewPage": "University Esports Masters 2026",
+    "TeamA": "Dorans Green Tea Love",
+    "TeamB": "Manifest (Turkish Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-25 09:29:00"
+  },
+  {
+    "OverviewPage": "University Esports Masters 2026",
+    "TeamA": "Abertay Winner's Queue",
+    "TeamB": "Morsy Uniwersytet Gdański",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-25 09:25:00"
+  },
+  {
+    "OverviewPage": "University Esports Masters 2026",
+    "TeamA": "Esport UHK",
+    "TeamB": "Göttinger (G)Rizzlies",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-25 09:21:00"
   },
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
@@ -342,61 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-22 20:11:00"
-  },
-  {
-    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
-    "TeamA": "INTZ",
-    "TeamB": "KaBuM! Ilha das Lendas",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-22 20:05:00"
-  },
-  {
-    "OverviewPage": "LFL/2026 Season/Summer Split",
-    "TeamA": "Esprit Shōnen",
-    "TeamB": "Karmine Corp Blue",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-22 20:02:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Lund Esports Organization",
-    "TeamB": "Volda E-Sport",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-22 19:38:00"
-  },
-  {
-    "OverviewPage": "LIT/2026 Season/Summer Split",
-    "TeamA": "Aeterna Esports",
-    "TeamB": "P11 Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-22 19:24:00"
-  },
-  {
-    "OverviewPage": "Arabian League/2026 Season/Summer Split",
-    "TeamA": "3BL Esports",
-    "TeamB": "Anubis Gaming",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-22 19:18:00"
-  },
-  {
-    "OverviewPage": "LFL/2026 Season/Summer Split",
-    "TeamA": "Joblife",
-    "TeamB": "Solary",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-22 18:53:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "2 Massive",
-    "TeamB": "Deer Gaming",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-22 18:51:00"
   }
 ]
