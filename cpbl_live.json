@@ -6,7 +6,7 @@
         "id": 184175,
         "venue": "澄清湖棒球場",
         "display_time": "7/25 (六) 16:05",
-        "status_long": "Inning 4",
+        "status_long": "Inning 8",
         "status_key": "live",
         "home_name": "台鋼雄鷹",
         "away_name": "味全龍",
@@ -17,7 +17,7 @@
         "id": 184176,
         "venue": "台中洲際棒球場",
         "display_time": "7/25 (六) 17:05",
-        "status_long": "Inning 2",
+        "status_long": "Inning 5",
         "status_key": "live",
         "home_name": "中信兄弟",
         "away_name": "統一獅",
@@ -28,12 +28,12 @@
         "id": 184177,
         "venue": "桃園國際棒球場",
         "display_time": "7/25 (六) 17:05",
-        "status_long": "Inning 2",
+        "status_long": "Inning 4",
         "status_key": "live",
         "home_name": "樂天桃猿",
         "away_name": "富邦悍將",
         "home_score": 2,
-        "away_score": 0
+        "away_score": 1
       }
     ]
   },
