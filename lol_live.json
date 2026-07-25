@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "FURIA",
+    "TeamB": "LØS",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-25 18:27:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Karmine Corp",
     "TeamB": "Movistar KOI",
@@ -390,13 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-22 21:29:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Bubliki",
-    "TeamB": "NORTHERNGRADE ESPORTS",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-22 21:19:00"
   }
 ]
