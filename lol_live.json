@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "G2 Esports",
+    "TeamB": "Team Vitality",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-25 14:52:00"
+  },
+  {
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "Fukuoka SoftBank HAWKS gaming",
     "TeamB": "Team Secret Whales",
@@ -390,13 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-22 20:53:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Francesinhas",
-    "TeamB": "Way Gaming Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-22 20:11:00"
   }
 ]
