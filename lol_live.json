@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "LOUD",
+    "TeamB": "paiN Gaming",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-25 21:16:00"
+  },
+  {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
     "TeamA": "FURIA",
     "TeamB": "LØS",
     "ScoreA": 0,
@@ -390,13 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-22 22:00:00"
-  },
-  {
-    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
-    "TeamA": "RMD Gaming",
-    "TeamB": "Vivo Keyd Stars Academy",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-22 21:29:00"
   }
 ]
