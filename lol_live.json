@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Movistar KOI",
+    "TeamB": "Team Vitality",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-26 15:32:00"
+  },
+  {
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "DetonatioN FocusMe",
     "TeamB": "GAM Esports",
@@ -390,13 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-25 10:12:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Ancient Ones",
-    "TeamB": "Lille Esport",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-25 10:03:00"
   }
 ]
