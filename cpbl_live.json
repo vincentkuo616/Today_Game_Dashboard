@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-07-26",
+    "games": []
+  },
+  {
     "date": "2026-07-25",
     "games": [
       {
@@ -72,22 +76,6 @@
         "away_name": "統一獅",
         "home_score": 2,
         "away_score": 5
-      }
-    ]
-  },
-  {
-    "date": "2026-07-23",
-    "games": [
-      {
-        "id": 184171,
-        "venue": "亞太主球場",
-        "display_time": "7/23 (四) 18:35",
-        "status_long": "Finished",
-        "status_key": "finished",
-        "home_name": "統一獅",
-        "away_name": "富邦悍將",
-        "home_score": 0,
-        "away_score": 6
       }
     ]
   }
