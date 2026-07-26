@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LCP/2026 Season/Split 3",
+    "TeamA": "DetonatioN FocusMe",
+    "TeamB": "GAM Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-26 10:10:00"
+  },
+  {
     "OverviewPage": "LCS/2026 Season/Summer Season",
     "TeamA": "Dignitas",
     "TeamB": "Sentinels",
@@ -390,13 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-25 10:03:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Albalqa Warriors",
-    "TeamB": "Tehničko veleučilište u Zagrebu",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 09:47:00"
   }
 ]
