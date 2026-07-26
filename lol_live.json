@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LCS/2026 Season/Summer Season",
+    "TeamA": "Dignitas",
+    "TeamB": "Sentinels",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-25 22:59:00"
+  },
+  {
     "OverviewPage": "CBLOL/2026 Season/Split 2",
     "TeamA": "LOUD",
     "TeamB": "paiN Gaming",
@@ -390,13 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-25 09:47:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "PoliTo E-sports",
-    "TeamB": "UCAM University Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 09:44:00"
   }
 ]
