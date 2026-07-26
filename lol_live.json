@@ -3,9 +3,9 @@
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "G2 Esports",
     "TeamB": "Karmine Corp",
-    "ScoreA": 0,
+    "ScoreA": 1,
     "ScoreB": 1,
-    "LatestGameTime": "2026-07-26 17:38:00"
+    "LatestGameTime": "2026-07-26 18:38:00"
   },
   {
     "OverviewPage": "CBLOL/2026 Season/Split 2",
@@ -24,12 +24,84 @@
     "LatestGameTime": "2026-07-26 16:27:00"
   },
   {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Caldya Esport",
+    "TeamB": "Lille Esport",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-26 13:34:00"
+  },
+  {
+    "OverviewPage": "University Esports Masters 2026",
+    "TeamA": "Göttinger (G)Rizzlies",
+    "TeamB": "Tehničko veleučilište u Zagrebu",
+    "ScoreA": 2,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-26 12:56:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Galions Sharks",
+    "TeamB": "Team High Ground",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-26 12:42:00"
+  },
+  {
+    "OverviewPage": "University Esports Masters 2026",
+    "TeamA": "Morsy Uniwersytet Gdański",
+    "TeamB": "Steel Crows Red",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-26 12:35:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Crystal Rose (French Team)",
+    "TeamB": "Karmine Corp Blue Stars",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-26 11:48:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Ancient Ones",
+    "TeamB": "Lausanne-Sport Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-26 10:51:00"
+  },
+  {
+    "OverviewPage": "University Esports Masters 2026",
+    "TeamA": "Göttinger (G)Rizzlies",
+    "TeamB": "Morsy Uniwersytet Gdański",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-26 10:18:00"
+  },
+  {
+    "OverviewPage": "University Esports Masters 2026",
+    "TeamA": "Steel Crows Red",
+    "TeamB": "Tehničko veleučilište u Zagrebu",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-26 10:10:00"
+  },
+  {
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "DetonatioN FocusMe",
     "TeamB": "GAM Esports",
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-26 10:10:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Project Conquerors",
+    "TeamB": "Zephyr Esport",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-26 10:06:00"
   },
   {
     "OverviewPage": "LCS/2026 Season/Summer Season",
@@ -201,14 +273,6 @@
   },
   {
     "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Steel Crows Red",
-    "TeamB": "Tehničko veleučilište u Zagrebu",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 13:05:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
     "TeamA": "Dorans Green Tea Love",
     "TeamB": "UCAM University Esports",
     "ScoreA": 0,
@@ -320,14 +384,6 @@
     "LatestGameTime": "2026-07-25 11:50:00"
   },
   {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Göttinger (G)Rizzlies",
-    "TeamB": "Tehničko veleučilište u Zagrebu",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 11:50:00"
-  },
-  {
     "OverviewPage": "Nexus League/2026 Season/Summer Split",
     "TeamA": "Caldya Esport",
     "TeamB": "Galions Sharks",
@@ -342,61 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-25 11:19:00"
-  },
-  {
-    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
-    "TeamA": "R5 Esports",
-    "TeamB": "The ParadOx Academy",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 11:16:00"
-  },
-  {
-    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
-    "TeamA": "HatTrick Gaming",
-    "TeamB": "WLGaming Esports Academy",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-25 10:55:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Lausanne-Sport Esports",
-    "TeamB": "Project Conquerors",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 10:51:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Albalqa Warriors",
-    "TeamB": "Manifest (Turkish Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 10:49:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Confrérie Secrète de l’Ombre",
-    "TeamB": "Esport UHK",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 10:46:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Dorans Green Tea Love",
-    "TeamB": "Göttinger (G)Rizzlies",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 10:44:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Abertay Winner's Queue",
-    "TeamB": "UCAM University Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 10:40:00"
   }
 ]
