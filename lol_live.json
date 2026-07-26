@@ -1,11 +1,27 @@
 [
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "G2 Esports",
+    "TeamB": "Karmine Corp",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-26 17:38:00"
+  },
+  {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "Fluxo W7M",
+    "TeamB": "Leviatan",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-26 16:59:00"
+  },
+  {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Movistar KOI",
     "TeamB": "Team Vitality",
     "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-26 15:32:00"
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-26 16:27:00"
   },
   {
     "OverviewPage": "LCP/2026 Season/Split 3",
@@ -382,21 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-25 10:40:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Morsy Uniwersytet Gdański",
-    "TeamB": "Steel Crows Red",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 10:40:00"
-  },
-  {
-    "OverviewPage": "LCP/2026 Season/Split 3",
-    "TeamA": "Ground Zero Gaming",
-    "TeamB": "MVK Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-25 10:12:00"
   }
 ]
