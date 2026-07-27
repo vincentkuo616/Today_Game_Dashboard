@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "LCK CL/2026 Season/Rounds 3-4",
+    "TeamA": "BNK FEARX Youth",
+    "TeamB": "Gen.G Global Academy",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-27 12:38:00"
+  },
+  {
+    "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "DN SOOPers",
+    "TeamB": "T1",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-27 12:16:00"
+  },
+  {
+    "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "Dplus Kia",
+    "TeamB": "HANJIN BRION",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-27 11:27:00"
+  },
+  {
     "OverviewPage": "2026 LoL KeSPA Cup",
     "TeamA": "Nongshim RedForce",
     "TeamB": "T1",
@@ -124,7 +148,7 @@
     "TeamA": "Göttinger (G)Rizzlies",
     "TeamB": "Tehničko veleučilište u Zagrebu",
     "ScoreA": 2,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-26 12:56:00"
   },
   {
@@ -374,29 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-25 13:04:00"
-  },
-  {
-    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
-    "TeamA": "Alpha Impact",
-    "TeamB": "WLGaming Esports Academy",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-25 13:03:00"
-  },
-  {
-    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
-    "TeamA": "Panathinaikos Esports",
-    "TeamB": "R5 Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-25 13:02:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Esport UHK",
-    "TeamB": "Morsy Uniwersytet Gdański",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 13:02:00"
   }
 ]
