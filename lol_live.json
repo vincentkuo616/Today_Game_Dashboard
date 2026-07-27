@@ -24,6 +24,14 @@
     "LatestGameTime": "2026-07-26 19:52:00"
   },
   {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
+    "TeamA": "All for One Gaming",
+    "TeamB": "Babos Gaming",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-26 19:47:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "G2 Esports",
     "TeamB": "Karmine Corp",
@@ -80,6 +88,14 @@
     "LatestGameTime": "2026-07-26 12:35:00"
   },
   {
+    "OverviewPage": "LCP/2026 Season/Split 3",
+    "TeamA": "CTBC Flying Oyster",
+    "TeamB": "Deep Cross Gaming",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-26 12:18:00"
+  },
+  {
     "OverviewPage": "Nexus League/2026 Season/Summer Split",
     "TeamA": "Crystal Rose (French Team)",
     "TeamB": "Karmine Corp Blue Stars",
@@ -104,19 +120,19 @@
     "LatestGameTime": "2026-07-26 10:18:00"
   },
   {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Steel Crows Red",
-    "TeamB": "Tehničko veleučilište u Zagrebu",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-26 10:10:00"
-  },
-  {
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "DetonatioN FocusMe",
     "TeamB": "GAM Esports",
     "ScoreA": 0,
     "ScoreB": 2,
+    "LatestGameTime": "2026-07-26 10:10:00"
+  },
+  {
+    "OverviewPage": "University Esports Masters 2026",
+    "TeamA": "Steel Crows Red",
+    "TeamB": "Tehničko veleučilište u Zagrebu",
+    "ScoreA": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-26 10:10:00"
   },
   {
@@ -382,21 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-25 11:57:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Esport UHK",
-    "TeamB": "UCD Leviathans",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-25 11:55:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Manifest (Turkish Team)",
-    "TeamB": "Morsy Uniwersytet Gdański",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 11:51:00"
   }
 ]
