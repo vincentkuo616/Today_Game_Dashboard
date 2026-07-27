@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "LCS/2026 Season/Summer Season",
+    "TeamA": "Disguised",
+    "TeamB": "Shopify Rebellion",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-26 23:12:00"
+  },
+  {
+    "OverviewPage": "LCS/2026 Season/Summer Season",
     "TeamA": "Cloud9",
     "TeamB": "Team Liquid",
     "ScoreA": 0,
@@ -390,13 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-25 11:51:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Steel Crows Red",
-    "TeamB": "UCAM University Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-25 11:50:00"
   }
 ]
