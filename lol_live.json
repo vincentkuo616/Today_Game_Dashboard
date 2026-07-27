@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "Gen.G",
+    "TeamB": "KT Rolster",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-27 07:56:00"
+  },
+  {
+    "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "Dplus Kia",
+    "TeamB": "Hanwha Life Esports",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-27 07:02:00"
+  },
+  {
+    "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "BNK FEARX",
+    "TeamB": "Gen.G",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-27 06:15:00"
+  },
+  {
     "OverviewPage": "LCS/2026 Season/Summer Season",
     "TeamA": "Disguised",
     "TeamB": "Shopify Rebellion",
@@ -84,7 +108,7 @@
     "TeamA": "Morsy Uniwersytet Gdański",
     "TeamB": "Steel Crows Red",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-07-26 12:35:00"
   },
   {
@@ -374,29 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-25 12:32:00"
-  },
-  {
-    "OverviewPage": "LCP/2026 Season/Split 3",
-    "TeamA": "Fukuoka SoftBank HAWKS gaming",
-    "TeamB": "Team Secret Whales",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-25 12:11:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Albalqa Warriors",
-    "TeamB": "Confrérie Secrète de l’Ombre",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 11:59:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Dorans Green Tea Love",
-    "TeamB": "PoliTo E-sports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-25 11:57:00"
   }
 ]
