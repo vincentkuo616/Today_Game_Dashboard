@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
+    "TeamA": "ALMO Players",
+    "TeamB": "Team Phantasma",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-27 14:07:00"
+  },
+  {
     "OverviewPage": "LCK CL/2026 Season/Rounds 3-4",
     "TeamA": "BNK FEARX Youth",
     "TeamB": "Gen.G Global Academy",
@@ -390,13 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-25 13:07:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Dorans Green Tea Love",
-    "TeamB": "UCAM University Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 13:04:00"
   }
 ]
