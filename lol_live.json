@@ -1,5 +1,53 @@
 [
   {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Arctic Pandas",
+    "TeamB": "Bulldog Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-27 19:12:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Lundqvist Lightside",
+    "TeamB": "Verdant",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-27 18:58:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
+    "TeamA": "DKB XPERION NXT",
+    "TeamB": "Team Rift",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-27 18:48:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Deer Gaming",
+    "TeamB": "Epic Avalanche",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-27 17:05:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Ruddy Corporation",
+    "TeamB": "Volda E-Sport",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-27 16:51:00"
+  },
+  {
+    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
+    "TeamA": "The ParadOx Invaders",
+    "TeamB": "Valerion",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-27 16:04:00"
+  },
+  {
     "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
     "TeamA": "ALMO Players",
     "TeamB": "Team Phantasma",
@@ -350,53 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-25 13:59:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Morsy Uniwersytet Gdański",
-    "TeamB": "Tehničko veleučilište u Zagrebu",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-25 13:59:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Göttinger (G)Rizzlies",
-    "TeamB": "Steel Crows Red",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 13:59:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Confrérie Secrète de l’Ombre",
-    "TeamB": "UCAM University Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 13:58:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Manifest (Turkish Team)",
-    "TeamB": "PoliTo E-sports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-25 13:54:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Karmine Corp Blue Stars",
-    "TeamB": "Zephyr Esport",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-25 13:41:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Göttinger (G)Rizzlies",
-    "TeamB": "Manifest (Turkish Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-25 13:07:00"
   }
 ]
