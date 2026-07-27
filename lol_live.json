@@ -1,6 +1,38 @@
 [
   {
     "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "Nongshim RedForce",
+    "TeamB": "T1",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-27 10:27:00"
+  },
+  {
+    "OverviewPage": "LCK CL/2026 Season/Rounds 3-4",
+    "TeamA": "Nongshim Esports Academy",
+    "TeamB": "T1 Esports Academy",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-27 09:53:00"
+  },
+  {
+    "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "Hanwha Life Esports",
+    "TeamB": "Kiwoom DRX",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-27 09:32:00"
+  },
+  {
+    "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "Dplus Kia",
+    "TeamB": "T1",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-27 08:44:00"
+  },
+  {
+    "OverviewPage": "2026 LoL KeSPA Cup",
     "TeamA": "Gen.G",
     "TeamB": "KT Rolster",
     "ScoreA": 1,
@@ -366,37 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-25 13:02:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Abertay Winner's Queue",
-    "TeamB": "Confrérie Secrète de l’Ombre",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 13:01:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "PoliTo E-sports",
-    "TeamB": "UCD Leviathans",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 12:58:00"
-  },
-  {
-    "OverviewPage": "Hellenic Challengers Cup/2026 Season/Summer Split",
-    "TeamA": "Gamespace Genesis",
-    "TeamB": "HatTrick Gaming",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-25 12:54:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Crystal Rose (French Team)",
-    "TeamB": "Team High Ground",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 12:32:00"
   }
 ]
