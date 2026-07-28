@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "Arabian League/2026 Season/Summer Split",
+    "TeamA": "One More Esports",
+    "TeamB": "Pyramid IV Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-28 19:07:00"
+  },
+  {
+    "OverviewPage": "LFL/2026 Season/Summer Split",
+    "TeamA": "Joblife",
+    "TeamB": "Vitality.Bee",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-28 18:55:00"
+  },
+  {
     "OverviewPage": "LES/2026 Season/Summer Split",
     "TeamA": "Barça eSports",
     "TeamB": "GIANTX iTero",
@@ -16,12 +32,28 @@
     "LatestGameTime": "2026-07-28 18:19:00"
   },
   {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "Otter Side",
+    "TeamB": "White Dragons",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-28 18:09:00"
+  },
+  {
     "OverviewPage": "LFL/2026 Season/Summer Split",
     "TeamA": "Galions",
     "TeamB": "Karmine Corp Blue",
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-28 18:02:00"
+  },
+  {
+    "OverviewPage": "Esports Balkan League/2026 Season/Summer Split",
+    "TeamA": "Hooligans",
+    "TeamB": "Lupus Esports",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-28 17:56:00"
   },
   {
     "OverviewPage": "Arabian League/2026 Season/Summer Split",
@@ -366,37 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-26 12:42:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Morsy Uniwersytet Gdański",
-    "TeamB": "Steel Crows Red",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-26 12:35:00"
-  },
-  {
-    "OverviewPage": "LCP/2026 Season/Split 3",
-    "TeamA": "CTBC Flying Oyster",
-    "TeamB": "Deep Cross Gaming",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-26 12:18:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Crystal Rose (French Team)",
-    "TeamB": "Karmine Corp Blue Stars",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-26 11:48:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Ancient Ones",
-    "TeamB": "Lausanne-Sport Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-26 10:51:00"
   }
 ]
