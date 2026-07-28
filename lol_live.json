@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
+    "TeamA": "Gamespace Mediterranean College Esports",
+    "TeamB": "Team Phantasma",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-28 14:04:00"
+  },
+  {
     "OverviewPage": "2026 LoL KeSPA Cup",
     "TeamA": "DN SOOPers",
     "TeamB": "HANJIN BRION",
@@ -390,13 +398,5 @@
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-25 21:16:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Season",
-    "TeamA": "FlyQuest",
-    "TeamB": "LYON (2024 American Team)",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-25 21:01:00"
   }
 ]
