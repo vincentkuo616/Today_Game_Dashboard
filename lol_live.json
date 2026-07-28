@@ -1,5 +1,69 @@
 [
   {
+    "OverviewPage": "LES/2026 Season/Summer Split",
+    "TeamA": "Barça eSports",
+    "TeamB": "GIANTX iTero",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-28 18:37:00"
+  },
+  {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
+    "TeamA": "Dynasty",
+    "TeamB": "ZennIT",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-28 18:19:00"
+  },
+  {
+    "OverviewPage": "LFL/2026 Season/Summer Split",
+    "TeamA": "Galions",
+    "TeamB": "Karmine Corp Blue",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-28 18:02:00"
+  },
+  {
+    "OverviewPage": "Arabian League/2026 Season/Summer Split",
+    "TeamA": "3BL Esports",
+    "TeamB": "JSK Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-28 17:08:00"
+  },
+  {
+    "OverviewPage": "LFL/2026 Season/Summer Split",
+    "TeamA": "Esprit Shōnen",
+    "TeamB": "ZYB Esport",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-28 17:05:00"
+  },
+  {
+    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
+    "TeamA": "ALMO Players",
+    "TeamB": "Spartans EU",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-28 16:12:00"
+  },
+  {
+    "OverviewPage": "LFL/2026 Season/Summer Split",
+    "TeamA": "Skillcamp",
+    "TeamB": "TLN Pirates",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-28 16:07:00"
+  },
+  {
+    "OverviewPage": "LES/2026 Season/Summer Split",
+    "TeamA": "UB Alma Mater",
+    "TeamB": "UCAM Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-28 15:49:00"
+  },
+  {
     "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
     "TeamA": "Gamespace Mediterranean College Esports",
     "TeamB": "Team Phantasma",
@@ -334,69 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-26 10:51:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Göttinger (G)Rizzlies",
-    "TeamB": "Morsy Uniwersytet Gdański",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-26 10:18:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "EDward Gaming",
-    "TeamB": "ThunderTalk Gaming",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-26 10:16:00"
-  },
-  {
-    "OverviewPage": "LCP/2026 Season/Split 3",
-    "TeamA": "DetonatioN FocusMe",
-    "TeamB": "GAM Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-26 10:10:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Steel Crows Red",
-    "TeamB": "Tehničko veleučilište u Zagrebu",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-26 10:10:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Project Conquerors",
-    "TeamB": "Zephyr Esport",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-26 10:06:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "LNG Esports",
-    "TeamB": "Ninjas in Pyjamas.CN",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-26 08:03:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Season",
-    "TeamA": "Dignitas",
-    "TeamB": "Sentinels",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-25 23:45:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2",
-    "TeamA": "LOUD",
-    "TeamB": "paiN Gaming",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 21:16:00"
   }
 ]
