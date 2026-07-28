@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "DN SOOPers",
+    "TeamB": "HANJIN BRION",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-28 12:43:00"
+  },
+  {
+    "OverviewPage": "LCK CL/2026 Season/Rounds 3-4",
+    "TeamA": "Dplus Kia Challengers",
+    "TeamB": "KT Rolster Challengers",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-28 11:51:00"
+  },
+  {
+    "OverviewPage": "2026 LoL KeSPA Cup",
     "TeamA": "KT Rolster",
     "TeamB": "Kiwoom DRX",
     "ScoreA": 0,
@@ -14,6 +30,46 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-28 09:08:00"
+  },
+  {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "INTZ",
+    "TeamB": "RMD Gaming",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-27 23:30:00"
+  },
+  {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "Estral Esports",
+    "TeamB": "Vivo Keyd Stars Academy",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-27 22:38:00"
+  },
+  {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "KaBuM! Ilha das Lendas",
+    "TeamB": "Team Solid (Brazilian Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-27 21:41:00"
+  },
+  {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "Ei Nerd Esports",
+    "TeamB": "paiN Gaming Academy",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-27 20:52:00"
+  },
+  {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "7REX",
+    "TeamB": "RED Academy",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-27 20:04:00"
   },
   {
     "OverviewPage": "NLC/2026 Season/Summer Split",
@@ -342,61 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-25 21:01:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2",
-    "TeamA": "FURIA",
-    "TeamB": "LØS",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-25 18:27:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
-    "TeamA": "CGN Esports",
-    "TeamB": "PvB (Swiss Team)",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-25 18:02:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "Karmine Corp",
-    "TeamB": "Movistar KOI",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-25 17:35:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "G2 Esports",
-    "TeamB": "Team Vitality",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-25 15:40:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Esport UHK",
-    "TeamB": "Steel Crows Red",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-25 15:00:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Dorans Green Tea Love",
-    "TeamB": "Tehničko veleučilište u Zagrebu",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-25 14:59:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Confrérie Secrète de l’Ombre",
-    "TeamB": "Göttinger (G)Rizzlies",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 14:57:00"
   }
 ]
