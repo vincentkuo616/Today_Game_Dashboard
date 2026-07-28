@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "KT Rolster",
+    "TeamB": "Kiwoom DRX",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-28 09:28:00"
+  },
+  {
+    "OverviewPage": "LCK CL/2026 Season/Rounds 3-4",
+    "TeamA": "HANJIN BRION Challengers",
+    "TeamB": "Hanwha Life Esports Challengers",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-28 09:08:00"
+  },
+  {
     "OverviewPage": "NLC/2026 Season/Summer Split",
     "TeamA": "Arctic Pandas",
     "TeamB": "Bulldog Esports",
@@ -355,7 +371,7 @@
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "G2 Esports",
     "TeamB": "Team Vitality",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-25 15:40:00"
   },
@@ -382,21 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-25 14:57:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Morsy Uniwersytet Gdański",
-    "TeamB": "UCAM University Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-25 14:56:00"
-  },
-  {
-    "OverviewPage": "University Esports Masters 2026",
-    "TeamA": "Manifest (Turkish Team)",
-    "TeamB": "UCD Leviathans",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-25 14:55:00"
   }
 ]
