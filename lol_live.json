@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "KT Rolster",
+    "TeamB": "T1",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-29 11:12:00"
+  },
+  {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "Kiwoom DRX",
     "TeamB": "Nongshim RedForce",
     "ScoreA": 0,
@@ -390,13 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-27 09:53:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "Hanwha Life Esports",
-    "TeamB": "Kiwoom DRX",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-27 09:32:00"
   }
 ]
