@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "Bubliki",
+    "TeamB": "EXSAD Gaming",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-29 20:34:00"
+  },
+  {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "Ei Nerd Esports",
+    "TeamB": "INTZ",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-29 20:06:00"
+  },
+  {
     "OverviewPage": "LFL/2026 Season/Summer Split",
     "TeamA": "Galions",
     "TeamB": "Skillcamp",
@@ -62,6 +78,14 @@
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-29 18:57:00"
+  },
+  {
+    "OverviewPage": "TCL/2026 Season/Summer Split",
+    "TeamA": "DIA Ozarox Esports",
+    "TeamB": "Team Phoenix (Turkish Team)",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-29 18:49:00"
   },
   {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
@@ -134,6 +158,14 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-29 16:41:00"
+  },
+  {
+    "OverviewPage": "TCL/2026 Season/Summer Split",
+    "TeamA": "Dark Passage",
+    "TeamB": "Shark Attack",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-29 16:33:00"
   },
   {
     "OverviewPage": "LFL/2026 Season/Summer Split",
@@ -366,37 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-28 17:08:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Playoffs",
-    "TeamA": "G2 Hel",
-    "TeamB": "Vitality Rising Bees",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-28 17:06:00"
-  },
-  {
-    "OverviewPage": "LFL/2026 Season/Summer Split",
-    "TeamA": "Esprit Shōnen",
-    "TeamB": "ZYB Esport",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-28 17:05:00"
-  },
-  {
-    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
-    "TeamA": "ALMO Players",
-    "TeamB": "Spartans EU",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-28 16:12:00"
-  },
-  {
-    "OverviewPage": "LFL/2026 Season/Summer Split",
-    "TeamA": "Skillcamp",
-    "TeamB": "TLN Pirates",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-28 16:07:00"
   }
 ]
