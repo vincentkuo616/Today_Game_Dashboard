@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "LCK CL/2026 Season/Rounds 3-4",
+    "TeamA": "Gen.G Global Academy",
+    "TeamB": "Kiwoom DRX Challengers",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-29 06:01:00"
+  },
+  {
+    "OverviewPage": "LCK CL/2026 Season/Rounds 3-4",
+    "TeamA": "DN SOOPers Challengers",
+    "TeamB": "Nongshim Esports Academy",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-29 06:00:00"
+  },
+  {
     "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
     "TeamA": "RED Academy",
     "TeamB": "RMD Gaming",
@@ -382,21 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-27 08:44:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "Gen.G",
-    "TeamB": "KT Rolster",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-27 07:56:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "Dplus Kia",
-    "TeamB": "Hanwha Life Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-27 07:02:00"
   }
 ]
