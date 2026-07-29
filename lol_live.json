@@ -64,12 +64,44 @@
     "LatestGameTime": "2026-07-28 20:04:00"
   },
   {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
+    "TeamA": "Myth Esports",
+    "TeamB": "The Bandits",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-28 19:57:00"
+  },
+  {
+    "OverviewPage": "LFL/2026 Season/Summer Split",
+    "TeamA": "Ici Japon Corp. Esport",
+    "TeamB": "Solary",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-28 19:51:00"
+  },
+  {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "GD Esports",
+    "TeamB": "NORTHERNGRADE ESPORTS",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-28 19:07:00"
+  },
+  {
     "OverviewPage": "Arabian League/2026 Season/Summer Split",
     "TeamA": "One More Esports",
     "TeamB": "Pyramid IV Esports",
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-28 19:07:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
+    "TeamA": "MT1 Esports",
+    "TeamB": "Reveal Multigaming",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-28 19:02:00"
   },
   {
     "OverviewPage": "LFL/2026 Season/Summer Split",
@@ -366,37 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-27 07:02:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "BNK FEARX",
-    "TeamB": "Gen.G",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-27 06:15:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Season",
-    "TeamA": "Disguised",
-    "TeamB": "Shopify Rebellion",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-26 23:12:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Season",
-    "TeamA": "Cloud9",
-    "TeamB": "Team Liquid",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-26 21:25:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2",
-    "TeamA": "RED Canids",
-    "TeamB": "Vivo Keyd Stars",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-26 19:52:00"
   }
 ]
