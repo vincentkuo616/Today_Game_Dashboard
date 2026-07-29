@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Hellenic Legends League/2026 Season/Summer Split",
+    "TeamA": "Valerion",
+    "TeamB": "WLGaming Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-29 14:22:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "KT Rolster",
     "TeamB": "T1",
@@ -390,13 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-27 12:16:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "Dplus Kia",
-    "TeamB": "HANJIN BRION",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-27 11:27:00"
   }
 ]
