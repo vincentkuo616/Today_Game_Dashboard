@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "RED Academy",
+    "TeamB": "RMD Gaming",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-28 23:45:00"
+  },
+  {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "7REX",
+    "TeamB": "KaBuM! Ilha das Lendas",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-28 22:55:00"
+  },
+  {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "Estral Esports",
+    "TeamB": "INTZ",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-28 22:06:00"
+  },
+  {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "Francesinhas",
     "TeamB": "Hyperion (Portuguese Team)",
@@ -374,29 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-26 19:52:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
-    "TeamA": "All for One Gaming",
-    "TeamB": "Babos Gaming",
-    "ScoreA": 3,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-26 19:47:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "G2 Esports",
-    "TeamB": "Karmine Corp",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-26 19:35:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2",
-    "TeamA": "Fluxo W7M",
-    "TeamB": "Leviatan",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-26 16:59:00"
   }
 ]
