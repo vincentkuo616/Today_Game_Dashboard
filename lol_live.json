@@ -96,6 +96,14 @@
     "LatestGameTime": "2026-07-28 20:04:00"
   },
   {
+    "OverviewPage": "Equal Esports Cup 2026/Playoffs",
+    "TeamA": "AZ Rising Eterna",
+    "TeamB": "Mental Rush",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-28 20:00:00"
+  },
+  {
     "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
     "TeamA": "Myth Esports",
     "TeamB": "The Bandits",
@@ -190,6 +198,14 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-28 17:08:00"
+  },
+  {
+    "OverviewPage": "Equal Esports Cup 2026/Playoffs",
+    "TeamA": "G2 Hel",
+    "TeamB": "Vitality Rising Bees",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-28 17:06:00"
   },
   {
     "OverviewPage": "LFL/2026 Season/Summer Split",
@@ -382,21 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-27 11:27:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "Nongshim RedForce",
-    "TeamB": "T1",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-27 10:27:00"
-  },
-  {
-    "OverviewPage": "LCK CL/2026 Season/Rounds 3-4",
-    "TeamA": "Nongshim Esports Academy",
-    "TeamB": "T1 Esports Academy",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-27 09:53:00"
   }
 ]
