@@ -1,11 +1,19 @@
 [
   {
+    "OverviewPage": "LCP/2026 Season/Split 3",
+    "TeamA": "DetonatioN FocusMe",
+    "TeamB": "Fukuoka SoftBank HAWKS gaming",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-30 11:15:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "BNK FEARX",
     "TeamB": "DN SOOPers",
-    "ScoreA": 1,
+    "ScoreA": 2,
     "ScoreB": 0,
-    "LatestGameTime": "2026-07-30 08:07:00"
+    "LatestGameTime": "2026-07-30 09:02:00"
   },
   {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
@@ -371,7 +379,7 @@
     "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
     "TeamA": "All for One Gaming",
     "TeamB": "Babos Gaming",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-26 19:47:00"
   },
@@ -387,16 +395,8 @@
     "OverviewPage": "CBLOL/2026 Season/Split 2",
     "TeamA": "Fluxo W7M",
     "TeamB": "Leviatan",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-26 16:59:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "Movistar KOI",
-    "TeamB": "Team Vitality",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-26 16:27:00"
   }
 ]
