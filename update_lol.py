@@ -42,7 +42,7 @@ try:
             "action": "cargoquery",
             "tables": "ScoreboardGames",
             "fields": "OverviewPage, DateTime_UTC, Team1, Team2, WinTeam",
-            "where": "OverviewPage NOT LIKE '%Hellenic%' AND OverviewPage NOT LIKE '%Arabian%' AND OverviewPage NOT LIKE '%LCK CL%' AND OverviewPage NOT LIKE '%LFL%' AND OverviewPage NOT LIKE 'Circuito%' AND OverviewPage NOT LIKE '%Balkan%'"
+            "where": "OverviewPage NOT LIKE '%Hellenic%' AND OverviewPage NOT LIKE '%Arabian%' AND OverviewPage NOT LIKE '%LCK CL%' AND OverviewPage NOT LIKE '%LFL%' AND OverviewPage NOT LIKE 'Circuito%' AND OverviewPage NOT LIKE '%Balkan%'",
             "order_by": "DateTime_UTC DESC",
             "limit": "100", 
             "format": "json"
