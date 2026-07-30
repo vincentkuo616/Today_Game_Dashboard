@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "Estral Esports",
+    "TeamB": "RED Academy",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-29 22:49:00"
+  },
+  {
+    "OverviewPage": "Circuito Desafiante/2026 Season/Split 2",
+    "TeamA": "7REX",
+    "TeamB": "paiN Gaming Academy",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-29 21:56:00"
+  },
+  {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "Panelão LHC",
+    "TeamB": "Role Swappers",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-29 21:42:00"
+  },
+  {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "Bubliki",
     "TeamB": "EXSAD Gaming",
@@ -374,29 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-28 18:09:00"
-  },
-  {
-    "OverviewPage": "LFL/2026 Season/Summer Split",
-    "TeamA": "Galions",
-    "TeamB": "Karmine Corp Blue",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-28 18:02:00"
-  },
-  {
-    "OverviewPage": "Esports Balkan League/2026 Season/Summer Split",
-    "TeamA": "Hooligans",
-    "TeamB": "Lupus Esports",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-28 17:56:00"
-  },
-  {
-    "OverviewPage": "Arabian League/2026 Season/Summer Split",
-    "TeamA": "3BL Esports",
-    "TeamB": "JSK Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-28 17:08:00"
   }
 ]
