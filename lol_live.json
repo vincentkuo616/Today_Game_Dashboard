@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
+    "TeamA": "Senshi eSports (Benelux Team)",
+    "TeamB": "mCon esports",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-30 19:49:00"
+  },
+  {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
     "TeamA": "Kaufland Hangry Knights",
     "TeamB": "VfB eSports",
@@ -371,7 +379,7 @@
     "OverviewPage": "NLC/2026 Season/Summer Split",
     "TeamA": "Deer Gaming",
     "TeamB": "Epic Avalanche",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-27 17:05:00"
   },
@@ -379,16 +387,8 @@
     "OverviewPage": "NLC/2026 Season/Summer Split",
     "TeamA": "Ruddy Corporation",
     "TeamB": "Volda E-Sport",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-27 16:51:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "DN SOOPers",
-    "TeamB": "T1",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-27 12:16:00"
   }
 ]
