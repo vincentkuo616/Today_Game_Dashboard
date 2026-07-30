@@ -6,12 +6,12 @@
         "id": 184186,
         "venue": "桃園國際棒球場",
         "display_time": "7/30 (四) 18:35",
-        "status_long": "Inning 9",
-        "status_key": "live",
+        "status_long": "Finished",
+        "status_key": "finished",
         "home_name": "樂天桃猿",
         "away_name": "中信兄弟",
-        "home_score": 4,
-        "away_score": 9
+        "home_score": 5,
+        "away_score": 10
       }
     ]
   },

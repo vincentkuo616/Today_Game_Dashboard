@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "Dplus Kia",
+    "TeamB": "Hanwha Life Esports",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-30 12:07:00"
+  },
+  {
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "DetonatioN FocusMe",
     "TeamB": "Fukuoka SoftBank HAWKS gaming",
@@ -380,7 +388,7 @@
     "TeamA": "All for One Gaming",
     "TeamB": "Babos Gaming",
     "ScoreA": 2,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-26 19:47:00"
   },
   {
@@ -390,13 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-26 19:35:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2",
-    "TeamA": "Fluxo W7M",
-    "TeamB": "Leviatan",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-26 16:59:00"
   }
 ]
