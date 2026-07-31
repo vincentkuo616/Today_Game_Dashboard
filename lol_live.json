@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "NRG",
+    "TeamB": "Winthrop University",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-30 23:07:00"
+  },
+  {
     "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
     "TeamA": "Senshi eSports (Benelux Team)",
     "TeamB": "mCon esports",
@@ -96,6 +104,14 @@
     "LatestGameTime": "2026-07-30 15:40:00"
   },
   {
+    "OverviewPage": "LCP/2026 Season/Split 3",
+    "TeamA": "Deep Cross Gaming",
+    "TeamB": "Ground Zero Gaming",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-30 14:34:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "Dplus Kia",
     "TeamB": "Hanwha Life Esports",
@@ -118,6 +134,22 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-30 09:02:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "Blue Otter",
+    "TeamB": "Contingent Esports",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-30 02:11:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "CCG Esports",
+    "TeamB": "University of Mississippi",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-29 22:54:00"
   },
   {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
@@ -342,53 +374,5 @@
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-28 12:43:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "KT Rolster",
-    "TeamB": "Kiwoom DRX",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-28 09:28:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Arctic Pandas",
-    "TeamB": "Bulldog Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-27 19:12:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Lundqvist Lightside",
-    "TeamB": "Verdant",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-27 18:58:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
-    "TeamA": "DKB XPERION NXT",
-    "TeamB": "Team Rift",
-    "ScoreA": 3,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-27 18:48:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Deer Gaming",
-    "TeamB": "Epic Avalanche",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-27 17:05:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Ruddy Corporation",
-    "TeamB": "Volda E-Sport",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-27 16:51:00"
   }
 ]
