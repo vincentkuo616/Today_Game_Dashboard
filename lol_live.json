@@ -1,6 +1,30 @@
 [
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Movistar KOI",
+    "TeamB": "Shifters",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-31 18:01:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "HMBLE",
+    "TeamB": "P11 Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-31 17:18:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "EKO Esports",
+    "TeamB": "GMBLERS Esports",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-31 16:07:00"
+  },
+  {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Team Heretics",
     "TeamB": "Team Vitality",
     "ScoreA": 0,
@@ -348,7 +372,7 @@
     "TeamA": "Dark Passage",
     "TeamB": "Shark Attack",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-29 16:33:00"
   },
   {
@@ -356,15 +380,7 @@
     "TeamA": "LUA Gaming",
     "TeamB": "Team Heretics Academy",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-29 16:03:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "G2 NORD",
-    "TeamB": "VfB eSports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-29 15:51:00"
   }
 ]
