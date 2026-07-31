@@ -1,11 +1,35 @@
 [
   {
     "OverviewPage": "LCP/2026 Season/Split 3",
+    "TeamA": "CTBC Flying Oyster",
+    "TeamB": "GAM Esports",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-31 13:30:00"
+  },
+  {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "HANJIN BRION",
+    "TeamB": "Kiwoom DRX",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-31 12:30:00"
+  },
+  {
+    "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "MVK Esports",
     "TeamB": "Team Secret Whales",
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-31 10:10:00"
+  },
+  {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "Bilibili Gaming",
+    "TeamB": "Team WE",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-31 10:06:00"
   },
   {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
@@ -14,6 +38,14 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-31 09:08:00"
+  },
+  {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "Anyone's Legend",
+    "TeamB": "EDward Gaming",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-31 08:02:00"
   },
   {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
@@ -136,6 +168,14 @@
     "LatestGameTime": "2026-07-30 14:34:00"
   },
   {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "JD Gaming",
+    "TeamB": "ThunderTalk Gaming",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-30 13:22:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "Dplus Kia",
     "TeamB": "Hanwha Life Esports",
@@ -152,12 +192,28 @@
     "LatestGameTime": "2026-07-30 11:15:00"
   },
   {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "EDward Gaming",
+    "TeamB": "Team WE",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-30 10:13:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "BNK FEARX",
     "TeamB": "DN SOOPers",
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-30 09:02:00"
+  },
+  {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "Ninjas in Pyjamas.CN",
+    "TeamB": "Weibo Gaming",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-30 08:06:00"
   },
   {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
@@ -304,91 +360,11 @@
     "LatestGameTime": "2026-07-29 15:51:00"
   },
   {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "KT Rolster",
-    "TeamB": "T1",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-29 11:12:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "Kiwoom DRX",
-    "TeamB": "Nongshim RedForce",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-29 08:53:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Francesinhas",
-    "TeamB": "Hyperion (Portuguese Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-28 21:21:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Capybara Esports",
-    "TeamB": "Dominion Goblins",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-28 20:12:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Playoffs",
-    "TeamA": "AZ Rising Eterna",
-    "TeamB": "Mental Rush",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-28 20:00:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
-    "TeamA": "Myth Esports",
-    "TeamB": "The Bandits",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-28 19:57:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "GD Esports",
-    "TeamB": "NORTHERNGRADE ESPORTS",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-28 19:07:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
-    "TeamA": "MT1 Esports",
-    "TeamB": "Reveal Multigaming",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-28 19:02:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Summer Split",
-    "TeamA": "Barça eSports",
-    "TeamB": "GIANTX iTero",
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "Bilibili Gaming",
+    "TeamB": "LGD Gaming",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-07-28 18:37:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
-    "TeamA": "Dynasty",
-    "TeamB": "ZennIT",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-28 18:19:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Otter Side",
-    "TeamB": "White Dragons",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-28 18:09:00"
+    "LatestGameTime": "2026-07-29 13:31:00"
   }
 ]
