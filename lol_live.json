@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "Conviction",
+    "TeamB": "Dorado Gaming",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-31 02:17:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
     "TeamA": "NRG",
     "TeamB": "Winthrop University",
     "ScoreA": 2,
@@ -366,13 +374,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-28 15:49:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "DN SOOPers",
-    "TeamB": "HANJIN BRION",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-28 12:43:00"
   }
 ]
