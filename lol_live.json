@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Team Heretics",
+    "TeamB": "Team Vitality",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-31 15:09:00"
+  },
+  {
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "CTBC Flying Oyster",
     "TeamB": "GAM Esports",
@@ -358,13 +366,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-29 15:51:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "Bilibili Gaming",
-    "TeamB": "LGD Gaming",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-29 13:31:00"
   }
 ]
