@@ -1,11 +1,27 @@
 [
   {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "TITANS",
+    "TeamB": "Zena Esports",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-31 19:38:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Movistar KOI",
     "TeamB": "Shifters",
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-31 18:52:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "Aeterna Esports",
+    "TeamB": "Colossal Gaming",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-07-31 18:36:00"
   },
   {
     "OverviewPage": "LIT/2026 Season/Summer Split",
@@ -24,19 +40,19 @@
     "LatestGameTime": "2026-07-31 17:06:00"
   },
   {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "Team Heretics",
-    "TeamB": "Team Vitality",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-31 16:07:00"
-  },
-  {
     "OverviewPage": "LIT/2026 Season/Summer Split",
     "TeamA": "EKO Esports",
     "TeamB": "GMBLERS Esports",
     "ScoreA": 0,
     "ScoreB": 1,
+    "LatestGameTime": "2026-07-31 16:07:00"
+  },
+  {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Team Heretics",
+    "TeamB": "Team Vitality",
+    "ScoreA": 0,
+    "ScoreB": 2,
     "LatestGameTime": "2026-07-31 16:07:00"
   },
   {
@@ -356,7 +372,7 @@
     "TeamA": "Lund Esports Organization",
     "TeamB": "Rich Gang (Norwegian Team)",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-07-29 17:54:00"
   },
   {
@@ -374,13 +390,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-29 17:04:00"
-  },
-  {
-    "OverviewPage": "TCL/2026 Season/Summer Split",
-    "TeamA": "Dark Passage",
-    "TeamB": "Shark Attack",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-29 16:33:00"
   }
 ]
