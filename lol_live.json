@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "Gen.G",
+    "TeamB": "T1",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-31 09:08:00"
+  },
+  {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
     "TeamA": "Conviction",
     "TeamB": "Dorado Gaming",
@@ -366,13 +374,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-28 17:06:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Summer Split",
-    "TeamA": "UB Alma Mater",
-    "TeamB": "UCAM Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-28 15:49:00"
   }
 ]
