@@ -3,9 +3,9 @@
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Movistar KOI",
     "TeamB": "Shifters",
-    "ScoreA": 1,
+    "ScoreA": 2,
     "ScoreB": 1,
-    "LatestGameTime": "2026-07-31 18:01:00"
+    "LatestGameTime": "2026-07-31 18:52:00"
   },
   {
     "OverviewPage": "LIT/2026 Season/Summer Split",
@@ -16,12 +16,12 @@
     "LatestGameTime": "2026-07-31 17:18:00"
   },
   {
-    "OverviewPage": "LIT/2026 Season/Summer Split",
-    "TeamA": "EKO Esports",
-    "TeamB": "GMBLERS Esports",
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
+    "TeamA": "Babos Gaming",
+    "TeamB": "DKB XPERION NXT",
     "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-31 16:07:00"
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-31 17:06:00"
   },
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
@@ -29,6 +29,14 @@
     "TeamB": "Team Vitality",
     "ScoreA": 0,
     "ScoreB": 2,
+    "LatestGameTime": "2026-07-31 16:07:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "EKO Esports",
+    "TeamB": "GMBLERS Esports",
+    "ScoreA": 0,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-31 16:07:00"
   },
   {
@@ -331,7 +339,7 @@
     "OverviewPage": "Equal Esports Cup 2026/Playoffs",
     "TeamA": "G2 Hel",
     "TeamB": "SK Gaming Avarosa",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-29 18:14:00"
   },
@@ -364,7 +372,7 @@
     "TeamA": "Absolved",
     "TeamB": "B2U",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-29 17:04:00"
   },
   {
@@ -374,13 +382,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-29 16:33:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Summer Split",
-    "TeamA": "LUA Gaming",
-    "TeamB": "Team Heretics Academy",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-29 16:03:00"
   }
 ]
