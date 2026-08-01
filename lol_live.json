@@ -3,9 +3,9 @@
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "BNK FEARX",
     "TeamB": "Nongshim RedForce",
-    "ScoreA": 0,
+    "ScoreA": 1,
     "ScoreB": 1,
-    "LatestGameTime": "2026-08-01 08:05:00"
+    "LatestGameTime": "2026-08-01 08:59:00"
   },
   {
     "OverviewPage": "LPL/2026 Season/Split 3",
@@ -382,13 +382,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-29 19:11:00"
-  },
-  {
-    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
-    "TeamA": "BiPOLAR",
-    "TeamB": "FUSE",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-29 18:59:00"
   }
 ]
