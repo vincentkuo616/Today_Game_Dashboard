@@ -16,6 +16,14 @@
     "LatestGameTime": "2026-08-01 17:17:00"
   },
   {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Galions Sharks",
+    "TeamB": "Lille Esport",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-01 13:53:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "Bilibili Gaming",
     "TeamB": "JD Gaming",
@@ -24,12 +32,36 @@
     "LatestGameTime": "2026-08-01 13:05:00"
   },
   {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Ancient Ones",
+    "TeamB": "Zephyr Esport",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-01 12:56:00"
+  },
+  {
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "GAM Esports",
     "TeamB": "MVK Esports",
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-01 12:28:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Karmine Corp Blue Stars",
+    "TeamB": "Team High Ground",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-01 11:55:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Crystal Rose (French Team)",
+    "TeamB": "Project Conquerors",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-01 10:59:00"
   },
   {
     "OverviewPage": "LPL/2026 Season/Split 3",
@@ -46,6 +78,14 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-01 10:24:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Caldya Esport",
+    "TeamB": "Lausanne-Sport Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-01 10:05:00"
   },
   {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
@@ -339,24 +379,8 @@
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "DetonatioN FocusMe",
     "TeamB": "Fukuoka SoftBank HAWKS gaming",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-30 11:15:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "EDward Gaming",
-    "TeamB": "Team WE",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-30 10:13:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "BNK FEARX",
-    "TeamB": "DN SOOPers",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-30 09:02:00"
   }
 ]
