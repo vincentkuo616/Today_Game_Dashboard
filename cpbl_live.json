@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-08-01",
+    "games": [
+      {
+        "id": 184190,
+        "venue": "亞太主球場",
+        "display_time": "8/1 (六) 16:05",
+        "status_long": "Not Started",
+        "status_key": "scheduled",
+        "home_name": "統一獅",
+        "away_name": "樂天桃猿",
+        "home_score": "-",
+        "away_score": "-"
+      },
+      {
+        "id": 184191,
+        "venue": "台北大巨蛋",
+        "display_time": "8/1 (六) 17:05",
+        "status_long": "Not Started",
+        "status_key": "scheduled",
+        "home_name": "富邦悍將",
+        "away_name": "台鋼雄鷹",
+        "home_score": "-",
+        "away_score": "-"
+      },
+      {
+        "id": 184192,
+        "venue": "天母棒球場",
+        "display_time": "8/1 (六) 17:05",
+        "status_long": "Not Started",
+        "status_key": "scheduled",
+        "home_name": "味全龍",
+        "away_name": "中信兄弟",
+        "home_score": "-",
+        "away_score": "-"
+      }
+    ]
+  },
+  {
     "date": "2026-07-31",
     "games": [
       {
@@ -50,44 +88,6 @@
         "away_name": "中信兄弟",
         "home_score": 5,
         "away_score": 10
-      }
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "games": [
-      {
-        "id": 184183,
-        "venue": "亞太主球場",
-        "display_time": "7/29 (三) 18:35",
-        "status_long": "Finished",
-        "status_key": "finished",
-        "home_name": "統一獅",
-        "away_name": "台鋼雄鷹",
-        "home_score": 4,
-        "away_score": 5
-      },
-      {
-        "id": 184184,
-        "venue": "桃園國際棒球場",
-        "display_time": "7/29 (三) 18:35",
-        "status_long": "Finished",
-        "status_key": "finished",
-        "home_name": "樂天桃猿",
-        "away_name": "中信兄弟",
-        "home_score": 12,
-        "away_score": 5
-      },
-      {
-        "id": 184185,
-        "venue": "台北大巨蛋",
-        "display_time": "7/29 (三) 18:35",
-        "status_long": "Finished",
-        "status_key": "finished",
-        "home_name": "富邦悍將",
-        "away_name": "味全龍",
-        "home_score": 1,
-        "away_score": 3
       }
     ]
   }
