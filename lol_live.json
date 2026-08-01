@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "BNK FEARX",
+    "TeamB": "Nongshim RedForce",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-01 08:05:00"
+  },
+  {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "Anyone's Legend",
+    "TeamB": "ThunderTalk Gaming",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-01 08:02:00"
+  },
+  {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
     "TeamA": "Dorado Gaming",
     "TeamB": "NRG",
@@ -16,12 +32,28 @@
     "LatestGameTime": "2026-07-31 21:54:00"
   },
   {
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
+    "TeamA": "Frost Tails",
+    "TeamB": "Mind Blue eSports",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-07-31 20:20:00"
+  },
+  {
     "OverviewPage": "LIT/2026 Season/Summer Split",
     "TeamA": "TITANS",
     "TeamB": "Zena Esports",
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-31 19:38:00"
+  },
+  {
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
+    "TeamA": "Meavedron Benelux",
+    "TeamB": "Nameless (Benelux Team)",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-07-31 19:20:00"
   },
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
@@ -56,19 +88,19 @@
     "LatestGameTime": "2026-07-31 17:18:00"
   },
   {
-    "OverviewPage": "LIT/2026 Season/Summer Split",
-    "TeamA": "EKO Esports",
-    "TeamB": "GMBLERS Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-31 16:07:00"
-  },
-  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Team Heretics",
     "TeamB": "Team Vitality",
     "ScoreA": 0,
     "ScoreB": 2,
+    "LatestGameTime": "2026-07-31 16:07:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "EKO Esports",
+    "TeamB": "GMBLERS Esports",
+    "ScoreA": 0,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-31 16:07:00"
   },
   {
@@ -340,63 +372,23 @@
     "TeamA": "2 Massive",
     "TeamB": "DMG Esports",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-29 19:15:00"
   },
   {
     "OverviewPage": "NLC/2026 Season/Summer Split",
     "TeamA": "Brod n Friends",
     "TeamB": "Sørby eSport",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-29 19:11:00"
   },
   {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "TeamOrangeGaming",
-    "TeamB": "Unicorns of Love Sexy Edition",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-29 18:57:00"
-  },
-  {
-    "OverviewPage": "TCL/2026 Season/Summer Split",
-    "TeamA": "DIA Ozarox Esports",
-    "TeamB": "Team Phoenix (Turkish Team)",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-29 18:49:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Playoffs",
-    "TeamA": "G2 Hel",
-    "TeamB": "SK Gaming Avarosa",
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
+    "TeamA": "BiPOLAR",
+    "TeamB": "FUSE",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-07-29 18:14:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Way Gaming Esports",
-    "TeamB": "ZeroZone Gaming",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-29 18:10:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Lund Esports Organization",
-    "TeamB": "Rich Gang (Norwegian Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-29 17:54:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Summer Split",
-    "TeamA": "Falke Esports",
-    "TeamB": "Movistar KOI Fénix",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-29 17:41:00"
+    "LatestGameTime": "2026-07-29 18:59:00"
   }
 ]
