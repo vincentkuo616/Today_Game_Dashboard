@@ -1,11 +1,27 @@
 [
   {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "LGD Gaming",
+    "TeamB": "Top Esports",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-01 10:53:00"
+  },
+  {
+    "OverviewPage": "LCP/2026 Season/Split 3",
+    "TeamA": "Deep Cross Gaming",
+    "TeamB": "DetonatioN FocusMe",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-01 10:24:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "BNK FEARX",
     "TeamB": "Nongshim RedForce",
     "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-01 08:59:00"
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-01 09:52:00"
   },
   {
     "OverviewPage": "LPL/2026 Season/Split 3",
@@ -342,45 +358,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-29 21:42:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Bubliki",
-    "TeamB": "EXSAD Gaming",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-29 20:34:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Playoffs",
-    "TeamA": "AZ Rising Eterna",
-    "TeamB": "Barcząca Esports Babylon",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-29 20:24:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Dream Esports",
-    "TeamB": "Tung Tung Bogi",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-29 19:16:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "2 Massive",
-    "TeamB": "DMG Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-29 19:15:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Brod n Friends",
-    "TeamB": "Sørby eSport",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-29 19:11:00"
   }
 ]
