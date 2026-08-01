@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "Bilibili Gaming",
+    "TeamB": "JD Gaming",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-01 13:05:00"
+  },
+  {
+    "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "LGD Gaming",
     "TeamB": "Top Esports",
     "ScoreA": 1,
@@ -347,16 +355,8 @@
     "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
     "TeamA": "CCG Esports",
     "TeamB": "University of Mississippi",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-29 22:54:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Panelão LHC",
-    "TeamB": "Role Swappers",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-29 21:42:00"
   }
 ]
