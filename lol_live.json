@@ -3,9 +3,9 @@
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "GIANTX",
     "TeamB": "SK Gaming",
-    "ScoreA": 0,
+    "ScoreA": 1,
     "ScoreB": 1,
-    "LatestGameTime": "2026-08-01 15:08:00"
+    "LatestGameTime": "2026-08-01 16:10:00"
   },
   {
     "OverviewPage": "LPL/2026 Season/Split 3",
@@ -14,6 +14,14 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-01 13:05:00"
+  },
+  {
+    "OverviewPage": "LCP/2026 Season/Split 3",
+    "TeamA": "GAM Esports",
+    "TeamB": "MVK Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-01 12:28:00"
   },
   {
     "OverviewPage": "LPL/2026 Season/Split 3",
@@ -355,16 +363,8 @@
     "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
     "TeamA": "Blue Otter",
     "TeamB": "Contingent Esports",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-07-30 02:11:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
-    "TeamA": "CCG Esports",
-    "TeamB": "University of Mississippi",
     "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-07-29 22:54:00"
+    "LatestGameTime": "2026-07-30 02:11:00"
   }
 ]
