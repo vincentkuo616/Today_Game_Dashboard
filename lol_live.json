@@ -4,8 +4,8 @@
     "TeamA": "GIANTX",
     "TeamB": "SK Gaming",
     "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-01 16:10:00"
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-01 17:17:00"
   },
   {
     "OverviewPage": "LPL/2026 Season/Split 3",
@@ -358,13 +358,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-30 08:06:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
-    "TeamA": "Blue Otter",
-    "TeamB": "Contingent Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-30 02:11:00"
   }
 ]
