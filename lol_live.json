@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LCS/2026 Season/Summer Season",
+    "TeamA": "Disguised",
+    "TeamB": "FlyQuest",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-02 00:18:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Karmine Corp",
     "TeamB": "Natus Vincere",
@@ -372,15 +380,7 @@
     "TeamA": "Deep Cross Gaming",
     "TeamB": "Ground Zero Gaming",
     "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-30 14:34:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "JD Gaming",
-    "TeamB": "ThunderTalk Gaming",
-    "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-07-30 13:22:00"
+    "LatestGameTime": "2026-07-30 14:34:00"
   }
 ]
