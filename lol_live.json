@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Galions Sharks",
+    "TeamB": "Karmine Corp Blue Stars",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-02 11:48:00"
+  },
+  {
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "CTBC Flying Oyster",
     "TeamB": "Team Secret Whales",
@@ -371,7 +379,7 @@
     "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
     "TeamA": "Frites Esports Club",
     "TeamB": "Once Upon A Team",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-30 17:53:00"
   },
