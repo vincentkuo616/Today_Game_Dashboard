@@ -48,6 +48,14 @@
     "LatestGameTime": "2026-08-02 13:47:00"
   },
   {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "Hanwha Life Esports",
+    "TeamB": "KT Rolster",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-02 13:18:00"
+  },
+  {
     "OverviewPage": "Nexus League/2026 Season/Summer Split",
     "TeamA": "Project Conquerors",
     "TeamB": "Team High Ground",
@@ -379,16 +387,8 @@
     "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
     "TeamA": "Conviction",
     "TeamB": "Dorado Gaming",
-    "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreA": 0,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-31 02:17:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
-    "TeamA": "NRG",
-    "TeamB": "Winthrop University",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-30 23:07:00"
   }
 ]
