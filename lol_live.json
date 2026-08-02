@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "LCP/2026 Season/Split 3",
+    "TeamA": "CTBC Flying Oyster",
+    "TeamB": "Team Secret Whales",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-02 11:04:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Lausanne-Sport Esports",
+    "TeamB": "Lille Esport",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-02 11:00:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Ancient Ones",
+    "TeamB": "Crystal Rose (French Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-02 10:10:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "DN SOOPers",
     "TeamB": "HANJIN BRION",
@@ -86,14 +110,6 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-01 12:28:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "Dplus Kia",
-    "TeamB": "Gen.G",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-01 12:05:00"
   },
   {
     "OverviewPage": "Nexus League/2026 Season/Summer Split",
@@ -348,7 +364,7 @@
     "TeamA": "Falke Esports",
     "TeamB": "Team Heretics Academy",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-30 18:10:00"
   },
   {
@@ -363,24 +379,8 @@
     "OverviewPage": "TCL/2026 Season/Summer Split",
     "TeamA": "Bushido Wildcats",
     "TeamB": "SU Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-30 17:44:00"
-  },
-  {
-    "OverviewPage": "LIT/2026 Season/Summer Split",
-    "TeamA": "Aeterna Esports",
-    "TeamB": "GMBLERS Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-30 16:58:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Eintracht Spandau",
-    "TeamB": "ROSSMANN Centaurs",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-30 16:56:00"
   }
 ]
