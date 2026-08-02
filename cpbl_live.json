@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-08-02",
+    "games": []
+  },
+  {
     "date": "2026-08-01",
     "games": [
       {
@@ -72,22 +76,6 @@
         "away_name": "中信兄弟",
         "home_score": 4,
         "away_score": 2
-      }
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "games": [
-      {
-        "id": 184186,
-        "venue": "桃園國際棒球場",
-        "display_time": "7/30 (四) 18:35",
-        "status_long": "Finished",
-        "status_key": "finished",
-        "home_name": "樂天桃猿",
-        "away_name": "中信兄弟",
-        "home_score": 5,
-        "away_score": 10
       }
     ]
   }
