@@ -8,6 +8,14 @@
     "LatestGameTime": "2026-08-02 00:18:00"
   },
   {
+    "OverviewPage": "LCS/2026 Season/Summer Season",
+    "TeamA": "Cloud9",
+    "TeamB": "Dignitas",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-01 22:15:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Karmine Corp",
     "TeamB": "Natus Vincere",
@@ -30,6 +38,14 @@
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-01 17:17:00"
+  },
+  {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "FURIA",
+    "TeamB": "Vivo Keyd Stars",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-01 16:57:00"
   },
   {
     "OverviewPage": "Nexus League/2026 Season/Summer Split",
@@ -348,7 +364,7 @@
     "TeamA": "Eintracht Spandau",
     "TeamB": "ROSSMANN Centaurs",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-07-30 16:56:00"
   },
   {
@@ -363,7 +379,7 @@
     "OverviewPage": "LES/2026 Season/Summer Split",
     "TeamA": "Barça eSports",
     "TeamB": "LUA Gaming",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-30 16:08:00"
   },
@@ -372,15 +388,7 @@
     "TeamA": "BoostGate Esports",
     "TeamB": "PCIFIC Esports",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-30 15:40:00"
-  },
-  {
-    "OverviewPage": "LCP/2026 Season/Split 3",
-    "TeamA": "Deep Cross Gaming",
-    "TeamB": "Ground Zero Gaming",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-30 14:34:00"
   }
 ]
