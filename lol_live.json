@@ -1,11 +1,27 @@
 [
   {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "LØS",
+    "TeamB": "RED Canids",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-02 17:48:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Fnatic",
     "TeamB": "Movistar KOI",
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-02 17:19:00"
+  },
+  {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "Fluxo W7M",
+    "TeamB": "LOUD",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-02 17:00:00"
   },
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
@@ -355,7 +371,7 @@
     "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
     "TeamA": "Senshi eSports (Benelux Team)",
     "TeamB": "mCon esports",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-07-30 19:49:00"
   },
@@ -374,21 +390,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-30 19:14:00"
-  },
-  {
-    "OverviewPage": "LIT/2026 Season/Summer Split",
-    "TeamA": "Colossal Gaming",
-    "TeamB": "P11 Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-30 18:12:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Summer Split",
-    "TeamA": "Falke Esports",
-    "TeamB": "Team Heretics Academy",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-30 18:10:00"
   }
 ]
