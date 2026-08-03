@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Karmine Corp",
+    "TeamB": "Team Heretics",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-03 17:12:00"
+  },
+  {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Natus Vincere",
     "TeamB": "Shifters",
     "ScoreA": 2,
@@ -22,6 +30,14 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-03 11:41:00"
+  },
+  {
+    "OverviewPage": "PCS/2026 Season/Summer Season",
+    "TeamA": "CTBC Flying Oyster Academy",
+    "TeamB": "Sponge Gaming",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-03 09:51:00"
   },
   {
     "OverviewPage": "2026 LoL KeSPA Cup",
@@ -256,6 +272,14 @@
     "LatestGameTime": "2026-08-01 12:28:00"
   },
   {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "Dplus Kia",
+    "TeamB": "Gen.G",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-01 12:05:00"
+  },
+  {
     "OverviewPage": "Nexus League/2026 Season/Summer Split",
     "TeamA": "Karmine Corp Blue Stars",
     "TeamB": "Team High Ground",
@@ -356,14 +380,14 @@
     "TeamA": "Meavedron Benelux",
     "TeamB": "Nameless (Benelux Team)",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-31 19:20:00"
   },
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Movistar KOI",
     "TeamB": "Shifters",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-31 18:52:00"
   },
@@ -374,21 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-31 18:36:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
-    "TeamA": "Babos Gaming",
-    "TeamB": "DKB XPERION NXT",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-31 17:53:00"
-  },
-  {
-    "OverviewPage": "LIT/2026 Season/Summer Split",
-    "TeamA": "HMBLE",
-    "TeamB": "P11 Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-31 17:18:00"
   }
 ]
