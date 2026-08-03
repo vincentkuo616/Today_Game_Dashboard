@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "Gen.G",
+    "TeamB": "Hanwha Life Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-03 09:01:00"
+  },
+  {
     "OverviewPage": "LCS/2026 Season/Summer Season",
     "TeamA": "Sentinels",
     "TeamB": "Team Liquid",
@@ -379,16 +387,8 @@
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "CTBC Flying Oyster",
     "TeamB": "GAM Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-07-31 13:30:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "HANJIN BRION",
-    "TeamB": "Kiwoom DRX",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-07-31 12:30:00"
   }
 ]
