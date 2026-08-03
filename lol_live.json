@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "PCS/2026 Season/Summer Season",
+    "TeamA": "Embrace Whatever Happens",
+    "TeamB": "Ground Zero Academy",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-03 11:41:00"
+  },
+  {
     "OverviewPage": "2026 LoL KeSPA Cup",
     "TeamA": "Gen.G",
     "TeamB": "Hanwha Life Esports",
@@ -372,7 +380,7 @@
     "TeamA": "Team Heretics",
     "TeamB": "Team Vitality",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-31 16:07:00"
   },
   {
@@ -382,13 +390,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-07-31 16:07:00"
-  },
-  {
-    "OverviewPage": "LCP/2026 Season/Split 3",
-    "TeamA": "CTBC Flying Oyster",
-    "TeamB": "GAM Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-07-31 13:30:00"
   }
 ]
