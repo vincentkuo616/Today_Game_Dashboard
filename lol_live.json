@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Natus Vincere",
+    "TeamB": "Shifters",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-03 16:10:00"
+  },
+  {
     "OverviewPage": "2026 LoL KeSPA Cup",
     "TeamA": "Nongshim RedForce",
     "TeamB": "T1",
@@ -356,7 +364,7 @@
     "TeamA": "Movistar KOI",
     "TeamB": "Shifters",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-07-31 18:52:00"
   },
   {
@@ -372,7 +380,7 @@
     "TeamA": "Babos Gaming",
     "TeamB": "DKB XPERION NXT",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-07-31 17:53:00"
   },
   {
