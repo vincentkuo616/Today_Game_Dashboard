@@ -1,5 +1,45 @@
 [
   {
+    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
+    "TeamA": "Bomba Team",
+    "TeamB": "devils.one inStreamly",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-05 18:09:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Arctic Pandas",
+    "TeamB": "DMG Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-05 17:11:00"
+  },
+  {
+    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
+    "TeamA": "Forsaken (Polish Team)",
+    "TeamB": "UP2UMEDIA Cebulaki",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-05 17:07:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Absolved",
+    "TeamB": "Sørby eSport",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-05 17:02:00"
+  },
+  {
+    "OverviewPage": "LES/2026 Season/Summer Split",
+    "TeamA": "GIANTX iTero",
+    "TeamB": "LUA Gaming",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-05 16:53:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "Gen.G",
     "TeamB": "Hanwha Life Esports",
@@ -284,7 +324,7 @@
     "TeamA": "Fnatic",
     "TeamB": "Movistar KOI",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-02 19:00:00"
   },
   {
@@ -300,47 +340,7 @@
     "TeamA": "MT1 Esports",
     "TeamB": "PvB (Swiss Team)",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-02 17:50:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2",
-    "TeamA": "Fluxo W7M",
-    "TeamB": "LOUD",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-02 17:00:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "G2 Esports",
-    "TeamB": "SK Gaming",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-02 16:10:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Caldya Esport",
-    "TeamB": "Zephyr Esport",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-02 13:47:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "Hanwha Life Esports",
-    "TeamB": "KT Rolster",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-02 13:18:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "JD Gaming",
-    "TeamB": "Top Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-02 13:10:00"
   }
 ]
