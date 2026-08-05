@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "LJL/2026 Season/Summer Championship",
+    "TeamA": "FENNEL",
+    "TeamB": "New Meta",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-05 10:08:00"
+  },
+  {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "HANJIN BRION",
+    "TeamB": "Nongshim RedForce",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-05 09:59:00"
+  },
+  {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "Bubliki",
     "TeamB": "Francesinhas",
@@ -14,6 +30,14 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-04 20:19:00"
+  },
+  {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
+    "TeamA": "Once Upon A Team",
+    "TeamB": "ZennIT",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-04 19:49:00"
   },
   {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
@@ -48,6 +72,22 @@
     "LatestGameTime": "2026-08-04 18:11:00"
   },
   {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
+    "TeamA": "The Bandits",
+    "TeamB": "mCon esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-04 18:10:00"
+  },
+  {
+    "OverviewPage": "LES/2026 Season/Summer Split",
+    "TeamA": "GIANTX iTero",
+    "TeamB": "UCAM Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-04 17:49:00"
+  },
+  {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
     "TeamA": "Berlin International Gaming",
     "TeamB": "Eintracht Spandau",
@@ -62,6 +102,14 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-04 16:39:00"
+  },
+  {
+    "OverviewPage": "LES/2026 Season/Summer Split",
+    "TeamA": "Movistar KOI Fénix",
+    "TeamB": "UB Alma Mater",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-04 15:52:00"
   },
   {
     "OverviewPage": "2026 LoL KeSPA Cup",
@@ -300,7 +348,7 @@
     "TeamA": "CTBC Flying Oyster",
     "TeamB": "Team Secret Whales",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-08-02 11:04:00"
   },
   {
@@ -323,48 +371,8 @@
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "DN SOOPers",
     "TeamB": "HANJIN BRION",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-02 10:02:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "Team WE",
-    "TeamB": "ThunderTalk Gaming",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-02 09:00:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Season",
-    "TeamA": "Disguised",
-    "TeamB": "FlyQuest",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-02 00:18:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Season",
-    "TeamA": "Cloud9",
-    "TeamB": "Dignitas",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-01 22:15:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "Karmine Corp",
-    "TeamB": "Natus Vincere",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-08-01 19:41:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2",
-    "TeamA": "Leviatan",
-    "TeamB": "paiN Gaming",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-01 18:50:00"
+    "LatestGameTime": "2026-08-02 10:02:00"
   }
 ]
