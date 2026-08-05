@@ -24,6 +24,14 @@
     "LatestGameTime": "2026-08-05 09:59:00"
   },
   {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2 Playoffs",
+    "TeamA": "Malvinas Gaming",
+    "TeamB": "Maze Gaming",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-04 23:55:00"
+  },
+  {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "Bubliki",
     "TeamB": "Francesinhas",
@@ -158,6 +166,14 @@
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-04 08:26:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2 Playoffs",
+    "TeamA": "Docta Esports",
+    "TeamB": "Volticons",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-03 22:52:00"
   },
   {
     "OverviewPage": "NLC/2026 Season/Summer Split",
@@ -315,8 +331,8 @@
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "Hanwha Life Esports",
     "TeamB": "KT Rolster",
-    "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreA": 0,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-02 13:18:00"
   },
   {
@@ -324,47 +340,7 @@
     "TeamA": "JD Gaming",
     "TeamB": "Top Esports",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-02 13:10:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Project Conquerors",
-    "TeamB": "Team High Ground",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-02 12:52:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Galions Sharks",
-    "TeamB": "Karmine Corp Blue Stars",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-02 11:48:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "Invictus Gaming",
-    "TeamB": "LNG Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-02 11:10:00"
-  },
-  {
-    "OverviewPage": "LCP/2026 Season/Split 3",
-    "TeamA": "CTBC Flying Oyster",
-    "TeamB": "Team Secret Whales",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-02 11:04:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Lausanne-Sport Esports",
-    "TeamB": "Lille Esport",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-02 11:00:00"
   }
 ]
