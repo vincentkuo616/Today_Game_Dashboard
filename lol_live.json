@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "Gen.G",
+    "TeamB": "Hanwha Life Esports",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-05 13:15:00"
+  },
+  {
     "OverviewPage": "LJL/2026 Season/Summer Championship",
     "TeamA": "FENNEL",
     "TeamB": "New Meta",
@@ -348,7 +356,7 @@
     "TeamA": "CTBC Flying Oyster",
     "TeamB": "Team Secret Whales",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-02 11:04:00"
   },
   {
@@ -358,21 +366,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-02 11:00:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Ancient Ones",
-    "TeamB": "Crystal Rose (French Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-02 10:10:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "DN SOOPers",
-    "TeamB": "HANJIN BRION",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-02 10:02:00"
   }
 ]
