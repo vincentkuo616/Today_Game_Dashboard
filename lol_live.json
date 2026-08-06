@@ -56,6 +56,14 @@
     "LatestGameTime": "2026-08-05 19:44:00"
   },
   {
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
+    "TeamA": "Mind Blue eSports",
+    "TeamB": "RED OUAT",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-05 19:05:00"
+  },
+  {
     "OverviewPage": "NLC/2026 Season/Summer Split",
     "TeamA": "Brod n Friends",
     "TeamB": "Epic Avalanche",
@@ -70,6 +78,14 @@
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-05 18:48:00"
+  },
+  {
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
+    "TeamA": "Frost Tails",
+    "TeamB": "Nameless (Benelux Team)",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-05 18:03:00"
   },
   {
     "OverviewPage": "NLC/2026 Season/Summer Split",
@@ -120,12 +136,28 @@
     "LatestGameTime": "2026-08-05 15:33:00"
   },
   {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "EDward Gaming",
+    "TeamB": "Top Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-05 13:29:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "Gen.G",
     "TeamB": "Hanwha Life Esports",
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-05 13:15:00"
+  },
+  {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "JD Gaming",
+    "TeamB": "LGD Gaming",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-05 11:17:00"
   },
   {
     "OverviewPage": "LJL/2026 Season/Summer Championship",
@@ -299,40 +331,8 @@
     "OverviewPage": "NLC/2026 Season/Summer Split",
     "TeamA": "Deer Gaming",
     "TeamB": "Ruddy Corporation",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-03 20:05:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
-    "TeamA": "Babos Gaming",
-    "TeamB": "Reveal Multigaming",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-03 19:53:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Lund Esports Organization",
-    "TeamB": "Lundqvist Lightside",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-03 19:48:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "Karmine Corp",
-    "TeamB": "Team Heretics",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-03 18:12:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "B2U",
-    "TeamB": "Volda E-Sport",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-03 18:12:00"
   }
 ]
