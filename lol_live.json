@@ -1,11 +1,35 @@
 [
   {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "Cupid Esports",
+    "TeamB": "NRG",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-06 00:48:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "Blue Otter",
+    "TeamB": "Winthrop University",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-05 22:56:00"
+  },
+  {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "NORTHERNGRADE ESPORTS",
     "TeamB": "White Dragons",
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-05 21:34:00"
+  },
+  {
+    "OverviewPage": "LES/2026 Season/Summer Split",
+    "TeamA": "Movistar KOI Fénix",
+    "TeamB": "UCAM Esports",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-05 20:14:00"
   },
   {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
@@ -209,7 +233,7 @@
   },
   {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "Barcząca Esports",
+    "TeamA": "Barcząca Esports by Yumisu",
     "TeamB": "LODIS (Polish Team)",
     "ScoreA": 0,
     "ScoreB": 2,
@@ -283,8 +307,8 @@
     "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
     "TeamA": "Babos Gaming",
     "TeamB": "Reveal Multigaming",
-    "ScoreA": 2,
-    "ScoreB": 3,
+    "ScoreA": 1,
+    "ScoreB": 2,
     "LatestGameTime": "2026-08-03 19:53:00"
   },
   {
@@ -292,14 +316,14 @@
     "TeamA": "Lund Esports Organization",
     "TeamB": "Lundqvist Lightside",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-03 19:48:00"
   },
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Karmine Corp",
     "TeamB": "Team Heretics",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-03 18:12:00"
   },
@@ -307,24 +331,8 @@
     "OverviewPage": "NLC/2026 Season/Summer Split",
     "TeamA": "B2U",
     "TeamB": "Volda E-Sport",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-03 18:12:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Bulldog Esports",
-    "TeamB": "Verdant",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-03 17:08:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "Natus Vincere",
-    "TeamB": "Shifters",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-08-03 16:10:00"
+    "LatestGameTime": "2026-08-03 18:12:00"
   }
 ]
