@@ -3,9 +3,17 @@
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Fnatic",
     "TeamB": "Team Heretics",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-07 18:48:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "EKO Esports",
+    "TeamB": "HMBLE",
     "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-08-07 17:56:00"
+    "LatestGameTime": "2026-08-07 18:43:00"
   },
   {
     "OverviewPage": "LIT/2026 Season/Summer Split",
@@ -332,7 +340,7 @@
     "TeamA": "Forsaken (Polish Team)",
     "TeamB": "UP2UMEDIA Cebulaki",
     "ScoreA": 1,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-05 17:07:00"
   },
   {
@@ -347,7 +355,7 @@
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
     "TeamA": "E WIE EINFACH E-SPORTS",
     "TeamB": "Eintracht Frankfurt",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-05 16:57:00"
   },
