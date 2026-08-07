@@ -16,6 +16,14 @@
     "LatestGameTime": "2026-08-06 23:12:00"
   },
   {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "CCG Esports",
+    "TeamB": "Maryville University",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-06 22:53:00"
+  },
+  {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "EXSAD Gaming",
     "TeamB": "ZeroZone Gaming",
@@ -323,7 +331,7 @@
     "OverviewPage": "LJL/2026 Season/Summer Championship",
     "TeamA": "FENNEL",
     "TeamB": "New Meta",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-05 10:08:00"
   },
@@ -331,8 +339,8 @@
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "HANJIN BRION",
     "TeamB": "Nongshim RedForce",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-05 09:59:00"
   }
 ]
