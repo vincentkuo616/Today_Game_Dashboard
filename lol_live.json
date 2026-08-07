@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Fnatic",
+    "TeamB": "Team Heretics",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-07 17:56:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "P11 Esports",
+    "TeamB": "Zena Esports",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-07 17:43:00"
+  },
+  {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "GIANTX",
     "TeamB": "Shifters",
     "ScoreA": 2,
@@ -8,11 +24,19 @@
     "LatestGameTime": "2026-08-07 17:03:00"
   },
   {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "Aeterna Esports",
+    "TeamB": "TITANS",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-07 16:18:00"
+  },
+  {
     "OverviewPage": "TCL/2026 Season/Summer Split",
     "TeamA": "BoostGate Esports",
     "TeamB": "SU Esports",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-08-07 16:06:00"
   },
   {
@@ -332,15 +356,7 @@
     "TeamA": "GIANTX iTero",
     "TeamB": "LUA Gaming",
     "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-05 16:53:00"
-  },
-  {
-    "OverviewPage": "TCL/2026 Season/Summer Split",
-    "TeamA": "DIA Ozarox Esports",
-    "TeamB": "Shark Attack",
-    "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-08-05 15:33:00"
+    "LatestGameTime": "2026-08-05 16:53:00"
   }
 ]
