@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "Contingent Esports",
+    "TeamB": "Conviction",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-07 00:53:00"
+  },
+  {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "Panelão LHC",
+    "TeamB": "Tung Tung Bogi",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-06 23:12:00"
+  },
+  {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "EXSAD Gaming",
     "TeamB": "ZeroZone Gaming",
@@ -324,31 +340,7 @@
     "TeamA": "Once Upon A Team",
     "TeamB": "ZennIT",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-04 19:49:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Unicorns of Love Sexy Edition",
-    "TeamB": "VfB eSports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-04 19:24:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Dream Esports",
-    "TeamB": "GD Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-04 19:15:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "Anonymo Esports",
-    "TeamB": "DOCISK",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-04 18:37:00"
   }
 ]
