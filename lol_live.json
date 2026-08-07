@@ -1,5 +1,101 @@
 [
   {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "EXSAD Gaming",
+    "TeamB": "ZeroZone Gaming",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-06 20:18:00"
+  },
+  {
+    "OverviewPage": "LES/2026 Season/Summer Split",
+    "TeamA": "Barça eSports",
+    "TeamB": "Falke Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-06 19:17:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "P11 Esports",
+    "TeamB": "TITANS",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-06 19:06:00"
+  },
+  {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
+    "TeamA": "Dynasty",
+    "TeamB": "Frites Esports Club",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-06 19:01:00"
+  },
+  {
+    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
+    "TeamA": "Berlin International Gaming",
+    "TeamB": "ROSSMANN Centaurs",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-06 18:42:00"
+  },
+  {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
+    "TeamA": "Myth Esports",
+    "TeamB": "Senshi eSports (Benelux Team)",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-06 17:56:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "GMBLERS Esports",
+    "TeamB": "Zena Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-06 17:53:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "Colossal Gaming",
+    "TeamB": "EKO Esports",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-06 17:01:00"
+  },
+  {
+    "OverviewPage": "LES/2026 Season/Summer Split",
+    "TeamA": "Team Heretics Academy",
+    "TeamB": "UB Alma Mater",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-06 17:01:00"
+  },
+  {
+    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
+    "TeamA": "G2 NORD",
+    "TeamB": "Unicorns of Love Sexy Edition",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-06 16:55:00"
+  },
+  {
+    "OverviewPage": "TCL/2026 Season/Summer Split",
+    "TeamA": "Dark Passage",
+    "TeamB": "Team Phoenix (Turkish Team)",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-06 16:32:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "Aeterna Esports",
+    "TeamB": "HMBLE",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-06 16:08:00"
+  },
+  {
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "Fukuoka SoftBank HAWKS gaming",
     "TeamB": "Ground Zero Gaming",
@@ -227,7 +323,7 @@
     "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
     "TeamA": "Once Upon A Team",
     "TeamB": "ZennIT",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-04 19:49:00"
   },
@@ -251,96 +347,8 @@
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "Anonymo Esports",
     "TeamB": "DOCISK",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-04 18:37:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Capybara Esports",
-    "TeamB": "Way Gaming Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-04 18:11:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
-    "TeamA": "The Bandits",
-    "TeamB": "mCon esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-04 18:10:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Summer Split",
-    "TeamA": "GIANTX iTero",
-    "TeamB": "UCAM Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-04 17:49:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Berlin International Gaming",
-    "TeamB": "Eintracht Spandau",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-04 17:11:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "Barcząca Esports by Yumisu",
-    "TeamB": "LODIS (Polish Team)",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-04 16:39:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Summer Split",
-    "TeamA": "Movistar KOI Fénix",
-    "TeamB": "UB Alma Mater",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-04 15:52:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "HANJIN BRION",
-    "TeamB": "Kiwoom DRX",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-04 13:13:00"
-  },
-  {
-    "OverviewPage": "PCS/2026 Season/Summer Season",
-    "TeamA": "Reignfall",
-    "TeamB": "SillySilly Gaming",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-04 11:23:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "DN SOOPers",
-    "TeamB": "Gen.G",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-04 10:18:00"
-  },
-  {
-    "OverviewPage": "PCS/2026 Season/Summer Season",
-    "TeamA": "Frank Esports",
-    "TeamB": "RogerSaMa",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-04 09:51:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "Hanwha Life Esports",
-    "TeamB": "T1",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-04 08:26:00"
   }
 ]
