@@ -1,18 +1,18 @@
 [
   {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "GIANTX",
+    "TeamB": "Shifters",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-07 17:03:00"
+  },
+  {
     "OverviewPage": "TCL/2026 Season/Summer Split",
     "TeamA": "BoostGate Esports",
     "TeamB": "SU Esports",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-07 16:06:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "GIANTX",
-    "TeamB": "Shifters",
-    "ScoreA": 1,
-    "ScoreB": 1,
+    "ScoreB": 3,
     "LatestGameTime": "2026-08-07 16:06:00"
   },
   {
@@ -324,7 +324,7 @@
     "TeamA": "E WIE EINFACH E-SPORTS",
     "TeamB": "Eintracht Frankfurt",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-05 16:57:00"
   },
   {
@@ -339,7 +339,7 @@
     "OverviewPage": "TCL/2026 Season/Summer Split",
     "TeamA": "DIA Ozarox Esports",
     "TeamB": "Shark Attack",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-05 15:33:00"
   }
