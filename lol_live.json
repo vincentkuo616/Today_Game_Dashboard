@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "GIANTX",
+    "TeamB": "Movistar KOI",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-08 18:02:00"
+  },
+  {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "RED Canids",
+    "TeamB": "paiN Gaming",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-08 17:05:00"
+  },
+  {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Natus Vincere",
     "TeamB": "SK Gaming",
     "ScoreA": 2,
@@ -358,29 +374,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-06 17:01:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Summer Split",
-    "TeamA": "Team Heretics Academy",
-    "TeamB": "UB Alma Mater",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-06 17:01:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "G2 NORD",
-    "TeamB": "Unicorns of Love Sexy Edition",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-06 16:55:00"
-  },
-  {
-    "OverviewPage": "TCL/2026 Season/Summer Split",
-    "TeamA": "Dark Passage",
-    "TeamB": "Team Phoenix (Turkish Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-06 16:32:00"
   }
 ]
