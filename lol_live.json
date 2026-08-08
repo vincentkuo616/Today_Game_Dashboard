@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "FURIA",
+    "TeamB": "LOUD",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-08 00:46:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "Contingent Esports",
+    "TeamB": "Maryville University",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-08 00:10:00"
+  },
+  {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
     "TeamA": "Blue Otter",
     "TeamB": "Dorado Gaming",
@@ -72,19 +88,19 @@
     "LatestGameTime": "2026-08-07 11:32:00"
   },
   {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "BNK FEARX",
-    "TeamB": "HANJIN BRION",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-07 11:12:00"
-  },
-  {
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "DetonatioN FocusMe",
     "TeamB": "GAM Esports",
     "ScoreA": 0,
     "ScoreB": 3,
+    "LatestGameTime": "2026-08-07 11:12:00"
+  },
+  {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "BNK FEARX",
+    "TeamB": "HANJIN BRION",
+    "ScoreA": 0,
+    "ScoreB": 2,
     "LatestGameTime": "2026-08-07 11:12:00"
   },
   {
@@ -299,7 +315,7 @@
     "OverviewPage": "LES/2026 Season/Summer Split",
     "TeamA": "Movistar KOI Fénix",
     "TeamB": "UCAM Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-05 20:14:00"
   },
@@ -315,7 +331,7 @@
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
     "TeamA": "Kaufland Hangry Knights",
     "TeamB": "TeamOrangeGaming",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-05 19:48:00"
   },
@@ -348,15 +364,7 @@
     "TeamA": "Bushido Wildcats",
     "TeamB": "PCIFIC Esports",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-05 18:48:00"
-  },
-  {
-    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
-    "TeamA": "Frost Tails",
-    "TeamB": "Nameless (Benelux Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-05 18:03:00"
   }
 ]
