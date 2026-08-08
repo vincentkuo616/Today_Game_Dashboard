@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "Hanwha Life Esports",
+    "TeamB": "T1",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-08 09:56:00"
+  },
+  {
     "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
     "TeamA": "Bilibili Gaming Junior",
     "TeamB": "Xi Lai Gaming",
@@ -30,6 +38,14 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-07 22:05:00"
+  },
+  {
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
+    "TeamA": "FUSE",
+    "TeamB": "Last Dance (Benelux Team)",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-07 20:04:00"
   },
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
@@ -70,6 +86,14 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-07 17:43:00"
+  },
+  {
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
+    "TeamA": "BiPOLAR (Benelux Team)",
+    "TeamB": "Meavedron Benelux",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-07 17:28:00"
   },
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
@@ -332,47 +356,7 @@
     "TeamA": "NORTHERNGRADE ESPORTS",
     "TeamB": "White Dragons",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-05 21:34:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Summer Split",
-    "TeamA": "Movistar KOI Fénix",
-    "TeamB": "UCAM Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-05 20:14:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "Bomba Team",
-    "TeamB": "devils.one inStreamly",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-05 20:04:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Kaufland Hangry Knights",
-    "TeamB": "TeamOrangeGaming",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-05 19:48:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Dominion Goblins",
-    "TeamB": "Hyperion (Portuguese Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-05 19:44:00"
-  },
-  {
-    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
-    "TeamA": "Mind Blue eSports",
-    "TeamB": "RED OUAT",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-05 19:05:00"
   }
 ]
