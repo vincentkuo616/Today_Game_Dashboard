@@ -3,9 +3,9 @@
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Natus Vincere",
     "TeamB": "SK Gaming",
-    "ScoreA": 1,
+    "ScoreA": 2,
     "ScoreB": 1,
-    "LatestGameTime": "2026-08-08 16:03:00"
+    "LatestGameTime": "2026-08-08 16:55:00"
   },
   {
     "OverviewPage": "Nexus League/2026 Season/Summer Split",
@@ -382,13 +382,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-06 16:32:00"
-  },
-  {
-    "OverviewPage": "LIT/2026 Season/Summer Split",
-    "TeamA": "Aeterna Esports",
-    "TeamB": "HMBLE",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-06 16:08:00"
   }
 ]
