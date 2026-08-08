@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
+    "TeamA": "EDward Gaming Youth Team",
+    "TeamB": "Top Esports Challenger",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-08 13:01:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "Hanwha Life Esports",
     "TeamB": "T1",
@@ -331,7 +339,7 @@
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "LGD Gaming",
     "TeamB": "ThunderTalk Gaming",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-06 09:06:00"
   },
@@ -342,21 +350,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-06 08:57:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
-    "TeamA": "Cupid Esports",
-    "TeamB": "NRG",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-06 00:48:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
-    "TeamA": "Blue Otter",
-    "TeamB": "Winthrop University",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-05 22:56:00"
   }
 ]
