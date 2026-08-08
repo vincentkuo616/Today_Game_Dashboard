@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
+    "TeamA": "Bilibili Gaming Junior",
+    "TeamB": "Xi Lai Gaming",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-08 08:57:00"
+  },
+  {
     "OverviewPage": "CBLOL/2026 Season/Split 2",
     "TeamA": "FURIA",
     "TeamB": "LOUD",
@@ -332,7 +340,7 @@
     "TeamA": "Movistar KOI Fénix",
     "TeamB": "UCAM Esports",
     "ScoreA": 1,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-05 20:14:00"
   },
   {
@@ -348,14 +356,14 @@
     "TeamA": "Kaufland Hangry Knights",
     "TeamB": "TeamOrangeGaming",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-05 19:48:00"
   },
   {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "Dominion Goblins",
     "TeamB": "Hyperion (Portuguese Team)",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-05 19:44:00"
   },
@@ -366,13 +374,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-05 19:05:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Brod n Friends",
-    "TeamB": "Epic Avalanche",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-05 19:03:00"
   }
 ]
