@@ -3,9 +3,17 @@
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "GIANTX",
     "TeamB": "Movistar KOI",
-    "ScoreA": 1,
+    "ScoreA": 2,
     "ScoreB": 0,
-    "LatestGameTime": "2026-08-08 18:02:00"
+    "LatestGameTime": "2026-08-08 18:54:00"
+  },
+  {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "Leviatan",
+    "TeamB": "LØS",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-08 18:48:00"
   },
   {
     "OverviewPage": "CBLOL/2026 Season/Split 2",
@@ -347,7 +355,7 @@
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
     "TeamA": "Berlin International Gaming",
     "TeamB": "ROSSMANN Centaurs",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-06 18:42:00"
   },
@@ -356,7 +364,7 @@
     "TeamA": "Myth Esports",
     "TeamB": "Senshi eSports (Benelux Team)",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-06 17:56:00"
   },
   {
@@ -366,13 +374,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-06 17:53:00"
-  },
-  {
-    "OverviewPage": "LIT/2026 Season/Summer Split",
-    "TeamA": "Colossal Gaming",
-    "TeamB": "EKO Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-06 17:01:00"
   }
 ]
