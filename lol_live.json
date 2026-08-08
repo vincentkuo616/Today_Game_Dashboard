@@ -33,6 +33,22 @@
   },
   {
     "OverviewPage": "LIT/2026 Season/Summer Split",
+    "TeamA": "Colossal Gaming",
+    "TeamB": "GMBLERS Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-07 19:32:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
+    "TeamA": "MT1 Esports",
+    "TeamB": "Team Rift",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-07 18:59:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Split",
     "TeamA": "EKO Esports",
     "TeamB": "HMBLE",
     "ScoreA": 0,
@@ -88,19 +104,19 @@
     "LatestGameTime": "2026-08-07 11:32:00"
   },
   {
-    "OverviewPage": "LCP/2026 Season/Split 3",
-    "TeamA": "DetonatioN FocusMe",
-    "TeamB": "GAM Esports",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-08-07 11:12:00"
-  },
-  {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "BNK FEARX",
     "TeamB": "HANJIN BRION",
     "ScoreA": 0,
     "ScoreB": 2,
+    "LatestGameTime": "2026-08-07 11:12:00"
+  },
+  {
+    "OverviewPage": "LCP/2026 Season/Split 3",
+    "TeamA": "DetonatioN FocusMe",
+    "TeamB": "GAM Esports",
+    "ScoreA": 0,
+    "ScoreB": 3,
     "LatestGameTime": "2026-08-07 11:12:00"
   },
   {
@@ -323,7 +339,7 @@
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "Bomba Team",
     "TeamB": "devils.one inStreamly",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-05 20:04:00"
   },
@@ -340,14 +356,14 @@
     "TeamA": "Dominion Goblins",
     "TeamB": "Hyperion (Portuguese Team)",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-05 19:44:00"
   },
   {
     "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
     "TeamA": "Mind Blue eSports",
     "TeamB": "RED OUAT",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-05 19:05:00"
   },
@@ -355,16 +371,8 @@
     "OverviewPage": "NLC/2026 Season/Summer Split",
     "TeamA": "Brod n Friends",
     "TeamB": "Epic Avalanche",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-05 19:03:00"
-  },
-  {
-    "OverviewPage": "TCL/2026 Season/Summer Split",
-    "TeamA": "Bushido Wildcats",
-    "TeamB": "PCIFIC Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-05 18:48:00"
   }
 ]
