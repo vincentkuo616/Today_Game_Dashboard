@@ -32,6 +32,14 @@
     "LatestGameTime": "2026-08-08 00:10:00"
   },
   {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "Fluxo W7M",
+    "TeamB": "Vivo Keyd Stars",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-07 22:50:00"
+  },
+  {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
     "TeamA": "Blue Otter",
     "TeamB": "Dorado Gaming",
@@ -347,16 +355,8 @@
     "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
     "TeamA": "Blue Otter",
     "TeamB": "Winthrop University",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-05 22:56:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "NORTHERNGRADE ESPORTS",
-    "TeamB": "White Dragons",
     "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-08-05 21:34:00"
+    "LatestGameTime": "2026-08-05 22:56:00"
   }
 ]
