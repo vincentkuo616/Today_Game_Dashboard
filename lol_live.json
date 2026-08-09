@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "LOUD",
+    "TeamB": "Vivo Keyd Stars",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-09 17:01:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "G2 Esports",
     "TeamB": "Team Heretics",
@@ -347,7 +355,7 @@
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "GIANTX",
     "TeamB": "Shifters",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-07 17:03:00"
   },
@@ -364,7 +372,7 @@
     "TeamA": "BoostGate Esports",
     "TeamB": "SU Esports",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-07 16:06:00"
   }
 ]
