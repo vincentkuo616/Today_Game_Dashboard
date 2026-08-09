@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Lausanne-Sport Esports",
+    "TeamB": "Zephyr Esport",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-09 13:55:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Galions Sharks",
+    "TeamB": "Project Conquerors",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-09 12:52:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "JD Gaming",
     "TeamB": "Team WE",
@@ -16,6 +32,14 @@
     "LatestGameTime": "2026-08-09 12:10:00"
   },
   {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Ancient Ones",
+    "TeamB": "Karmine Corp Blue Stars",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-09 11:56:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "BNK FEARX",
     "TeamB": "Kiwoom DRX",
@@ -24,12 +48,28 @@
     "LatestGameTime": "2026-08-09 11:52:00"
   },
   {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Caldya Esport",
+    "TeamB": "Team High Ground",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-09 10:56:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "ThunderTalk Gaming",
     "TeamB": "Top Esports",
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-09 10:25:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Crystal Rose (French Team)",
+    "TeamB": "Lille Esport",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-09 10:05:00"
   },
   {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
@@ -326,29 +366,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-07 13:52:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "Team WE",
-    "TeamB": "ThunderTalk Gaming",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-07 11:32:00"
-  },
-  {
-    "OverviewPage": "LCP/2026 Season/Split 3",
-    "TeamA": "DetonatioN FocusMe",
-    "TeamB": "GAM Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-07 11:12:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "BNK FEARX",
-    "TeamB": "HANJIN BRION",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-07 11:12:00"
   }
 ]
