@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "G2 Esports",
+    "TeamB": "Team Heretics",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-09 16:05:00"
+  },
+  {
     "OverviewPage": "Nexus League/2026 Season/Summer Split",
     "TeamA": "Lausanne-Sport Esports",
     "TeamB": "Zephyr Esport",
@@ -358,13 +366,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-07 16:06:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "Bilibili Gaming",
-    "TeamB": "Top Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-07 13:52:00"
   }
 ]
