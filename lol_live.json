@@ -8,6 +8,14 @@
     "LatestGameTime": "2026-08-08 21:50:00"
   },
   {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
+    "TeamA": "DKB XPERION NXT",
+    "TeamB": "PvB (Swiss Team)",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-08 19:32:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "GIANTX",
     "TeamB": "Movistar KOI",
@@ -331,7 +339,7 @@
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "EXSAD Gaming",
     "TeamB": "ZeroZone Gaming",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-06 20:18:00"
   },
@@ -339,32 +347,8 @@
     "OverviewPage": "LES/2026 Season/Summer Split",
     "TeamA": "Barça eSports",
     "TeamB": "Falke Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-06 19:17:00"
-  },
-  {
-    "OverviewPage": "LIT/2026 Season/Summer Split",
-    "TeamA": "P11 Esports",
-    "TeamB": "TITANS",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-06 19:06:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
-    "TeamA": "Dynasty",
-    "TeamB": "Frites Esports Club",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-06 19:01:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "Berlin International Gaming",
-    "TeamB": "ROSSMANN Centaurs",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-08-06 18:42:00"
+    "LatestGameTime": "2026-08-06 19:17:00"
   }
 ]
