@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Fnatic",
+    "TeamB": "Karmine Corp",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-09 17:50:00"
+  },
+  {
     "OverviewPage": "CBLOL/2026 Season/Split 2",
     "TeamA": "LOUD",
     "TeamB": "Vivo Keyd Stars",
@@ -356,7 +364,7 @@
     "TeamA": "GIANTX",
     "TeamB": "Shifters",
     "ScoreA": 1,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-07 17:03:00"
   },
   {
@@ -366,13 +374,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-07 16:18:00"
-  },
-  {
-    "OverviewPage": "TCL/2026 Season/Summer Split",
-    "TeamA": "BoostGate Esports",
-    "TeamB": "SU Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-07 16:06:00"
   }
 ]
