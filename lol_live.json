@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "LCS/2026 Season/Summer Season",
+    "TeamA": "Sentinels",
+    "TeamB": "Shopify Rebellion",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-09 00:22:00"
+  },
+  {
+    "OverviewPage": "LCS/2026 Season/Summer Season",
     "TeamA": "Cloud9",
     "TeamB": "Disguised",
     "ScoreA": 2,
@@ -334,21 +342,5 @@
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-06 22:53:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "EXSAD Gaming",
-    "TeamB": "ZeroZone Gaming",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-06 20:18:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Summer Split",
-    "TeamA": "Barça eSports",
-    "TeamB": "Falke Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-06 19:17:00"
   }
 ]
