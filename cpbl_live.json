@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-08-09",
+    "games": [
+      {
+        "id": 184208,
+        "venue": "澄清湖棒球場",
+        "display_time": "8/9 (日) 16:05",
+        "status_long": "Not Started",
+        "status_key": "scheduled",
+        "home_name": "台鋼雄鷹",
+        "away_name": "中信兄弟",
+        "home_score": "-",
+        "away_score": "-"
+      },
+      {
+        "id": 184209,
+        "venue": "台北大巨蛋",
+        "display_time": "8/9 (日) 17:05",
+        "status_long": "Not Started",
+        "status_key": "scheduled",
+        "home_name": "富邦悍將",
+        "away_name": "統一獅",
+        "home_score": "-",
+        "away_score": "-"
+      },
+      {
+        "id": 184210,
+        "venue": "桃園國際棒球場",
+        "display_time": "8/9 (日) 17:05",
+        "status_long": "Not Started",
+        "status_key": "scheduled",
+        "home_name": "樂天桃猿",
+        "away_name": "味全龍",
+        "home_score": "-",
+        "away_score": "-"
+      }
+    ]
+  },
+  {
     "date": "2026-08-08",
     "games": [
       {
@@ -72,22 +110,6 @@
         "away_name": "中信兄弟",
         "home_score": 2,
         "away_score": 5
-      }
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "games": [
-      {
-        "id": 184201,
-        "venue": "天母棒球場",
-        "display_time": "8/6 (四) 18:35",
-        "status_long": "Finished",
-        "status_key": "finished",
-        "home_name": "味全龍",
-        "away_name": "統一獅",
-        "home_score": 2,
-        "away_score": 8
       }
     ]
   }
