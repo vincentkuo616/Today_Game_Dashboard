@@ -6,12 +6,12 @@
         "id": 184208,
         "venue": "澄清湖棒球場",
         "display_time": "8/9 (日) 16:05",
-        "status_long": "Inning 5",
-        "status_key": "live",
+        "status_long": "Finished",
+        "status_key": "finished",
         "home_name": "台鋼雄鷹",
         "away_name": "中信兄弟",
-        "home_score": 1,
-        "away_score": 6
+        "home_score": 2,
+        "away_score": 10
       },
       {
         "id": 184209,
