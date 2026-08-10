@@ -2,6 +2,22 @@
   {
     "OverviewPage": "2026 LoL KeSPA Cup",
     "TeamA": "DN SOOPers",
+    "TeamB": "Gen.G",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-10 12:52:00"
+  },
+  {
+    "OverviewPage": "PCS/2026 Season/Summer Season",
+    "TeamA": "Reignfall",
+    "TeamB": "RogerSaMa",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-10 12:23:00"
+  },
+  {
+    "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "DN SOOPers",
     "TeamB": "Kiwoom DRX",
     "ScoreA": 2,
     "ScoreB": 1,
@@ -331,7 +347,7 @@
     "OverviewPage": "CBLOL/2026 Season/Split 2",
     "TeamA": "FURIA",
     "TeamB": "LOUD",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-08 00:46:00"
   },
@@ -340,23 +356,7 @@
     "TeamA": "Contingent Esports",
     "TeamB": "Maryville University",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-08 00:10:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2",
-    "TeamA": "Fluxo W7M",
-    "TeamB": "Vivo Keyd Stars",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-07 22:50:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
-    "TeamA": "Blue Otter",
-    "TeamB": "Dorado Gaming",
-    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-08-07 22:05:00"
+    "LatestGameTime": "2026-08-08 00:10:00"
   }
 ]
