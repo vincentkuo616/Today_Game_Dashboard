@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "G2 Esports",
+    "TeamB": "Natus Vincere",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-10 17:55:00"
+  },
+  {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "SK Gaming",
     "TeamB": "Team Vitality",
     "ScoreA": 0,
@@ -339,8 +347,8 @@
     "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
     "TeamA": "Bilibili Gaming Junior",
     "TeamB": "Xi Lai Gaming",
-    "ScoreA": 3,
-    "ScoreB": 1,
+    "ScoreA": 2,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-08 08:57:00"
   },
   {
