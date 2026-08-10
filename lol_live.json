@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "DN SOOPers",
+    "TeamB": "Kiwoom DRX",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-10 10:59:00"
+  },
+  {
+    "OverviewPage": "PCS/2026 Season/Summer Season",
+    "TeamA": "Ground Zero Academy",
+    "TeamB": "Sponge Gaming",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-10 09:50:00"
+  },
+  {
+    "OverviewPage": "2026 LoL KeSPA Cup",
     "TeamA": "Gen.G",
     "TeamB": "Hanwha Life Esports",
     "ScoreA": 1,
@@ -331,7 +347,7 @@
     "OverviewPage": "CBLOL/2026 Season/Split 2",
     "TeamA": "Fluxo W7M",
     "TeamB": "Vivo Keyd Stars",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-07 22:50:00"
   },
@@ -340,31 +356,7 @@
     "TeamA": "Blue Otter",
     "TeamB": "Dorado Gaming",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-07 22:05:00"
-  },
-  {
-    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
-    "TeamA": "FUSE",
-    "TeamB": "Last Dance (Benelux Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-07 20:04:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "Fnatic",
-    "TeamB": "Team Heretics",
-    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-08-07 19:40:00"
-  },
-  {
-    "OverviewPage": "LIT/2026 Season/Summer Split",
-    "TeamA": "Colossal Gaming",
-    "TeamB": "GMBLERS Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-07 19:32:00"
+    "LatestGameTime": "2026-08-07 22:05:00"
   }
 ]
