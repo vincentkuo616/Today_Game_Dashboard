@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "SK Gaming",
+    "TeamB": "Team Vitality",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-10 16:03:00"
+  },
+  {
     "OverviewPage": "2026 LoL KeSPA Cup",
     "TeamA": "DN SOOPers",
     "TeamB": "Gen.G",
@@ -342,21 +350,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-08 08:15:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2",
-    "TeamA": "FURIA",
-    "TeamB": "LOUD",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-08 00:46:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
-    "TeamA": "Contingent Esports",
-    "TeamB": "Maryville University",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-08 00:10:00"
   }
 ]
