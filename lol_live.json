@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 LoL KeSPA Cup",
+    "TeamA": "Gen.G",
+    "TeamB": "Hanwha Life Esports",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-10 08:06:00"
+  },
+  {
     "OverviewPage": "LCS/2026 Season/Summer Season",
     "TeamA": "FlyQuest",
     "TeamB": "Team Liquid",
@@ -339,7 +347,7 @@
     "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
     "TeamA": "FUSE",
     "TeamB": "Last Dance (Benelux Team)",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-07 20:04:00"
   },
@@ -347,7 +355,7 @@
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Fnatic",
     "TeamB": "Team Heretics",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-07 19:40:00"
   },
@@ -358,13 +366,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-07 19:32:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
-    "TeamA": "MT1 Esports",
-    "TeamB": "Team Rift",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-07 18:59:00"
   }
 ]
