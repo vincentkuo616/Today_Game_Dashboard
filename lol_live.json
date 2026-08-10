@@ -1,11 +1,27 @@
 [
   {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "B2U",
+    "TeamB": "Bulldog Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-10 17:59:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "G2 Esports",
     "TeamB": "Natus Vincere",
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-10 17:55:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Lundqvist Lightside",
+    "TeamB": "Ruddy Corporation",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-10 16:53:00"
   },
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
@@ -340,23 +356,15 @@
     "TeamA": "Hanwha Life Esports",
     "TeamB": "T1",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-08 09:56:00"
   },
   {
     "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
     "TeamA": "Bilibili Gaming Junior",
     "TeamB": "Xi Lai Gaming",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-08 08:57:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "LNG Esports",
-    "TeamB": "Weibo Gaming",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-08 08:15:00"
   }
 ]
