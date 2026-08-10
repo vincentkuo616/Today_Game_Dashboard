@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
+    "TeamA": "MT1 Esports",
+    "TeamB": "Reveal Multigaming",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-09 18:58:00"
+  },
+  {
     "OverviewPage": "CBLOL/2026 Season/Split 2",
     "TeamA": "FURIA",
     "TeamB": "Fluxo W7M",
@@ -340,7 +348,7 @@
     "TeamA": "MT1 Esports",
     "TeamB": "Team Rift",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-07 18:59:00"
   },
   {
@@ -350,29 +358,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-07 18:43:00"
-  },
-  {
-    "OverviewPage": "LIT/2026 Season/Summer Split",
-    "TeamA": "P11 Esports",
-    "TeamB": "Zena Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-07 17:43:00"
-  },
-  {
-    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
-    "TeamA": "BiPOLAR (Benelux Team)",
-    "TeamB": "Meavedron Benelux",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-07 17:28:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "GIANTX",
-    "TeamB": "Shifters",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-07 17:03:00"
   }
 ]
