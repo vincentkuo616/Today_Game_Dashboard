@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "Leviatan",
+    "TeamB": "RED Canids",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-10 22:04:00"
+  },
+  {
     "OverviewPage": "NLC/2026 Season/Summer Split",
     "TeamA": "B2U",
     "TeamB": "Bulldog Esports",
@@ -355,16 +363,8 @@
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "Hanwha Life Esports",
     "TeamB": "T1",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-08 09:56:00"
-  },
-  {
-    "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
-    "TeamA": "Bilibili Gaming Junior",
-    "TeamB": "Xi Lai Gaming",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-08-08 08:57:00"
+    "LatestGameTime": "2026-08-08 09:56:00"
   }
 ]
