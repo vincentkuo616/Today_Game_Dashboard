@@ -1,7 +1,30 @@
 [
   {
     "date": "2026-08-11",
-    "games": []
+    "games": [
+      {
+        "id": 184211,
+        "venue": "澄清湖棒球場",
+        "display_time": "8/11 (二) 18:35",
+        "status_long": "Not Started",
+        "status_key": "scheduled",
+        "home_name": "台鋼雄鷹",
+        "away_name": "味全龍",
+        "home_score": "-",
+        "away_score": "-"
+      },
+      {
+        "id": 184212,
+        "venue": "亞太主球場",
+        "display_time": "8/11 (二) 18:35",
+        "status_long": "Not Started",
+        "status_key": "scheduled",
+        "home_name": "統一獅",
+        "away_name": "樂天桃猿",
+        "home_score": "-",
+        "away_score": "-"
+      }
+    ]
   },
   {
     "date": "2026-08-10",

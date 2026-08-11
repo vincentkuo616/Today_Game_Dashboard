@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "LØS",
+    "TeamB": "paiN Gaming",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-11 00:12:00"
+  },
+  {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
     "TeamA": "Leviatan",
     "TeamB": "RED Canids",
     "ScoreA": 2,
@@ -299,7 +307,7 @@
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "Deep Cross Gaming",
     "TeamB": "MVK Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 3,
     "LatestGameTime": "2026-08-08 12:57:00"
   },
@@ -347,7 +355,7 @@
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "Anyone's Legend",
     "TeamB": "LGD Gaming",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-08 10:40:00"
   },
