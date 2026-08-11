@@ -6,23 +6,23 @@
         "id": 184211,
         "venue": "澄清湖棒球場",
         "display_time": "8/11 (二) 18:35",
-        "status_long": "Inning 3",
+        "status_long": "Inning 6",
         "status_key": "live",
         "home_name": "台鋼雄鷹",
         "away_name": "味全龍",
         "home_score": 2,
-        "away_score": 0
+        "away_score": 1
       },
       {
         "id": 184212,
         "venue": "亞太主球場",
         "display_time": "8/11 (二) 18:35",
-        "status_long": "Inning 3",
+        "status_long": "Inning 5",
         "status_key": "live",
         "home_name": "統一獅",
         "away_name": "樂天桃猿",
         "home_score": 1,
-        "away_score": 1
+        "away_score": 2
       }
     ]
   },
