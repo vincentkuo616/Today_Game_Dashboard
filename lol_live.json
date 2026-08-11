@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
+    "TeamA": "Barcząca Esports by Yumisu",
+    "TeamB": "devils.one inStreamly",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-11 15:19:00"
+  },
+  {
     "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
     "TeamA": "Nightbirds",
     "TeamB": "Onion Team",
@@ -307,7 +315,7 @@
     "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
     "TeamA": "DKB XPERION NXT",
     "TeamB": "PvB (Swiss Team)",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 3,
     "LatestGameTime": "2026-08-08 19:32:00"
   },
