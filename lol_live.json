@@ -1,19 +1,19 @@
 [
   {
+    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
+    "TeamA": "Forsaken (Polish Team)",
+    "TeamB": "LODIS (Polish Team)",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-11 20:47:00"
+  },
+  {
     "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
     "TeamA": "Dynasty",
     "TeamB": "Senshi eSports (Benelux Team)",
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-11 19:57:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "Forsaken (Polish Team)",
-    "TeamB": "LODIS (Polish Team)",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-11 19:38:00"
   },
   {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
@@ -70,6 +70,14 @@
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-11 12:29:00"
+  },
+  {
+    "OverviewPage": "LJL/2026 Season/Summer Championship",
+    "TeamA": "L Guide Gaming",
+    "TeamB": "Uwinks",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-11 12:15:00"
   },
   {
     "OverviewPage": "2026 LoL KeSPA Cup",
@@ -284,7 +292,7 @@
     "TeamA": "CTBC Flying Oyster",
     "TeamB": "Ground Zero Gaming",
     "ScoreA": 3,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-09 12:10:00"
   },
   {
@@ -316,7 +324,7 @@
     "TeamA": "ThunderTalk Gaming",
     "TeamB": "Top Esports",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-09 10:25:00"
   },
   {
@@ -331,16 +339,8 @@
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "Dplus Kia",
     "TeamB": "KT Rolster",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-09 09:51:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "Invictus Gaming",
-    "TeamB": "LNG Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-08-09 08:16:00"
+    "LatestGameTime": "2026-08-09 09:51:00"
   }
 ]
