@@ -17,6 +17,22 @@
   },
   {
     "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Arctic Pandas",
+    "TeamB": "Brod n Friends",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-10 20:13:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
+    "TeamA": "All for One Gaming",
+    "TeamB": "CGN Esports",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-10 18:59:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
     "TeamA": "B2U",
     "TeamB": "Bulldog Esports",
     "ScoreA": 2,
@@ -299,8 +315,8 @@
     "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
     "TeamA": "EDward Gaming Youth Team",
     "TeamB": "Top Esports Challenger",
-    "ScoreA": 3,
-    "ScoreB": 1,
+    "ScoreA": 2,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-08 13:01:00"
   },
   {
@@ -308,7 +324,7 @@
     "TeamA": "Deep Cross Gaming",
     "TeamB": "MVK Esports",
     "ScoreA": 1,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-08-08 12:57:00"
   },
   {
@@ -342,37 +358,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-08 11:48:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Galions Sharks",
-    "TeamB": "Lausanne-Sport Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-08 10:51:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "Anyone's Legend",
-    "TeamB": "LGD Gaming",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-08 10:40:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Lille Esport",
-    "TeamB": "Zephyr Esport",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-08 10:04:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "Hanwha Life Esports",
-    "TeamB": "T1",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-08 09:56:00"
   }
 ]
