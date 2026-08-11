@@ -3,9 +3,9 @@
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "Barcząca Esports by Yumisu",
     "TeamB": "devils.one inStreamly",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-11 15:19:00"
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-11 17:31:00"
   },
   {
     "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
@@ -339,16 +339,8 @@
     "OverviewPage": "CBLOL/2026 Season/Split 2",
     "TeamA": "RED Canids",
     "TeamB": "paiN Gaming",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-08 17:05:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "Natus Vincere",
-    "TeamB": "SK Gaming",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-08-08 16:55:00"
+    "LatestGameTime": "2026-08-08 17:05:00"
   }
 ]
