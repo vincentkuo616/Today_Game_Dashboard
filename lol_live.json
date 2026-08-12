@@ -8,6 +8,14 @@
     "LatestGameTime": "2026-08-12 19:16:00"
   },
   {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Absolved",
+    "TeamB": "DMG Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-12 19:08:00"
+  },
+  {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
     "TeamA": "Eintracht Frankfurt",
     "TeamB": "ROSSMANN Centaurs",
@@ -308,15 +316,7 @@
     "TeamA": "FlyQuest",
     "TeamB": "Team Liquid",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-09 22:25:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Season",
-    "TeamA": "Dignitas",
-    "TeamB": "LYON (2024 American Team)",
-    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-08-09 20:57:00"
+    "LatestGameTime": "2026-08-09 22:25:00"
   }
 ]
