@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2 Playoffs",
+    "TeamA": "Kits Esports",
+    "TeamB": "SDM Tigres",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-12 02:44:00"
+  },
+  {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "Forsaken (Polish Team)",
     "TeamB": "LODIS (Polish Team)",
@@ -291,7 +299,7 @@
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "CTBC Flying Oyster",
     "TeamB": "Ground Zero Gaming",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-09 12:10:00"
   },
@@ -310,37 +318,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-09 11:52:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Caldya Esport",
-    "TeamB": "Team High Ground",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-09 10:56:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "ThunderTalk Gaming",
-    "TeamB": "Top Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-09 10:25:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Crystal Rose (French Team)",
-    "TeamB": "Lille Esport",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-09 10:05:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "Dplus Kia",
-    "TeamB": "KT Rolster",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-09 09:51:00"
   }
 ]
