@@ -1,6 +1,30 @@
 [
   {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
+    "TeamA": "DOCISK",
+    "TeamB": "UP2UMEDIA Cebulaki",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-12 18:04:00"
+  },
+  {
+    "OverviewPage": "LES/2026 Season/Summer Split",
+    "TeamA": "LUA Gaming",
+    "TeamB": "UCAM Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-12 17:40:00"
+  },
+  {
+    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
+    "TeamA": "CITA Kaizen",
+    "TeamB": "Meavedron",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-12 17:15:00"
+  },
+  {
+    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "Anonymo Esports",
     "TeamB": "Bomba Team",
     "ScoreA": 0,
@@ -268,7 +292,7 @@
     "TeamA": "MT1 Esports",
     "TeamB": "Reveal Multigaming",
     "ScoreA": 3,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-09 18:58:00"
   },
   {
@@ -284,31 +308,15 @@
     "TeamA": "Fnatic",
     "TeamB": "Karmine Corp",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-09 17:50:00"
   },
   {
     "OverviewPage": "CBLOL/2026 Season/Split 2",
     "TeamA": "LOUD",
     "TeamB": "Vivo Keyd Stars",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-09 17:01:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "G2 Esports",
-    "TeamB": "Team Heretics",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-09 16:05:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Lausanne-Sport Esports",
-    "TeamB": "Zephyr Esport",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-09 13:55:00"
   }
 ]
