@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-08-13",
+    "games": [
+      {
+        "id": 184216,
+        "venue": "台北大巨蛋",
+        "display_time": "8/13 (四) 18:35",
+        "status_long": "Not Started",
+        "status_key": "scheduled",
+        "home_name": "富邦悍將",
+        "away_name": "中信兄弟",
+        "home_score": "-",
+        "away_score": "-"
+      }
+    ]
+  },
+  {
     "date": "2026-08-12",
     "games": [
       {
@@ -63,9 +79,5 @@
         "away_score": 2
       }
     ]
-  },
-  {
-    "date": "2026-08-10",
-    "games": []
   }
 ]
