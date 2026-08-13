@@ -1,11 +1,19 @@
 [
   {
+    "OverviewPage": "LCP/2026 Season/Split 3",
+    "TeamA": "Deep Cross Gaming",
+    "TeamB": "GAM Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-13 09:19:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "BNK FEARX",
     "TeamB": "Kiwoom DRX",
-    "ScoreA": 0,
+    "ScoreA": 1,
     "ScoreB": 1,
-    "LatestGameTime": "2026-08-13 08:06:00"
+    "LatestGameTime": "2026-08-13 09:01:00"
   },
   {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
@@ -310,13 +318,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-11 00:12:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2",
-    "TeamA": "Leviatan",
-    "TeamB": "RED Canids",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-10 22:04:00"
   }
 ]
