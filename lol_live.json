@@ -120,6 +120,14 @@
     "LatestGameTime": "2026-08-12 15:06:00"
   },
   {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "Dplus Kia",
+    "TeamB": "KT Rolster",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-12 11:48:00"
+  },
+  {
     "OverviewPage": "Liga Regional Norte/2026 Season/Split 2 Playoffs",
     "TeamA": "Kits Esports",
     "TeamB": "SDM Tigres",
@@ -308,15 +316,7 @@
     "TeamA": "Reignfall",
     "TeamB": "RogerSaMa",
     "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-10 12:23:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "DN SOOPers",
-    "TeamB": "Kiwoom DRX",
-    "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-08-10 10:59:00"
+    "LatestGameTime": "2026-08-10 12:23:00"
   }
 ]
