@@ -6,12 +6,12 @@
         "id": 184216,
         "venue": "台北大巨蛋",
         "display_time": "8/13 (四) 18:35",
-        "status_long": "Inning 3",
+        "status_long": "Inning 5",
         "status_key": "live",
         "home_name": "富邦悍將",
         "away_name": "中信兄弟",
-        "home_score": 0,
-        "away_score": 3
+        "home_score": 3,
+        "away_score": 7
       }
     ]
   },
