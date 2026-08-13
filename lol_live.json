@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
+    "TeamA": "Nightbirds",
+    "TeamB": "eSuba",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-13 14:50:00"
+  },
+  {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "Bilibili Gaming",
+    "TeamB": "ThunderTalk Gaming",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-13 13:58:00"
+  },
+  {
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "Deep Cross Gaming",
     "TeamB": "GAM Esports",
@@ -16,12 +32,28 @@
     "LatestGameTime": "2026-08-13 12:06:00"
   },
   {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "LGD Gaming",
+    "TeamB": "Top Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-13 11:27:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "BNK FEARX",
     "TeamB": "Kiwoom DRX",
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-13 09:49:00"
+  },
+  {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "Ninjas in Pyjamas.CN",
+    "TeamB": "Weibo Gaming",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-13 09:09:00"
   },
   {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
@@ -283,32 +315,16 @@
     "OverviewPage": "PCS/2026 Season/Summer Season",
     "TeamA": "Frank Esports",
     "TeamB": "SillySilly Gaming",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-11 12:29:00"
   },
   {
     "OverviewPage": "LJL/2026 Season/Summer Championship",
     "TeamA": "L Guide Gaming",
     "TeamB": "Uwinks",
-    "ScoreA": 3,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-11 12:15:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "DN SOOPers",
-    "TeamB": "Hanwha Life Esports",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-11 10:50:00"
-  },
-  {
-    "OverviewPage": "PCS/2026 Season/Summer Season",
-    "TeamA": "CTBC Flying Oyster Academy",
-    "TeamB": "Embrace Whatever Happens",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-08-11 09:57:00"
+    "LatestGameTime": "2026-08-11 12:15:00"
   }
 ]
