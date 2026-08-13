@@ -1,11 +1,43 @@
 [
   {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "BNK FEARX",
+    "TeamB": "Kiwoom DRX",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-13 08:06:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "CCG Esports",
+    "TeamB": "Conviction",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-12 23:58:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "Cupid Esports",
+    "TeamB": "University of Mississippi",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-12 22:12:00"
+  },
+  {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "Bubliki",
     "TeamB": "Dominion Goblins",
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-12 21:30:00"
+  },
+  {
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
+    "TeamA": "Last Dance (Benelux Team)",
+    "TeamB": "Meavedron Benelux",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-12 20:12:00"
   },
   {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
@@ -38,6 +70,14 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-12 19:08:00"
+  },
+  {
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
+    "TeamA": "BiPOLAR (Benelux Team)",
+    "TeamB": "Frost Tails",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-12 18:14:00"
   },
   {
     "OverviewPage": "NLC/2026 Season/Summer Split",
@@ -120,12 +160,36 @@
     "LatestGameTime": "2026-08-12 15:06:00"
   },
   {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "Bilibili Gaming",
+    "TeamB": "JD Gaming",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-12 14:34:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "Dplus Kia",
     "TeamB": "KT Rolster",
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-12 11:48:00"
+  },
+  {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "Anyone's Legend",
+    "TeamB": "EDward Gaming",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-12 11:21:00"
+  },
+  {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "DN SOOPers",
+    "TeamB": "Nongshim RedForce",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-12 09:46:00"
   },
   {
     "OverviewPage": "Liga Regional Norte/2026 Season/Split 2 Playoffs",
@@ -254,69 +318,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-10 22:04:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Arctic Pandas",
-    "TeamB": "Brod n Friends",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-10 20:13:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
-    "TeamA": "All for One Gaming",
-    "TeamB": "CGN Esports",
-    "ScoreA": 1,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-08-10 18:59:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "B2U",
-    "TeamB": "Bulldog Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-10 17:59:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "G2 Esports",
-    "TeamB": "Natus Vincere",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-10 17:55:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Lundqvist Lightside",
-    "TeamB": "Ruddy Corporation",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-10 16:53:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "SK Gaming",
-    "TeamB": "Team Vitality",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-10 16:03:00"
-  },
-  {
-    "OverviewPage": "2026 LoL KeSPA Cup",
-    "TeamA": "DN SOOPers",
-    "TeamB": "Gen.G",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-10 12:52:00"
-  },
-  {
-    "OverviewPage": "PCS/2026 Season/Summer Season",
-    "TeamA": "Reignfall",
-    "TeamB": "RogerSaMa",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-10 12:23:00"
   }
 ]
