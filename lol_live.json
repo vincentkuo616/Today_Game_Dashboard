@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "Team WE",
+    "TeamB": "Top Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-14 10:12:00"
+  },
+  {
+    "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "EDward Gaming",
     "TeamB": "LGD Gaming",
     "ScoreA": 0,
@@ -326,21 +334,5 @@
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-12 14:34:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "Dplus Kia",
-    "TeamB": "KT Rolster",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-12 11:48:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "Anyone's Legend",
-    "TeamB": "EDward Gaming",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-12 11:21:00"
   }
 ]
