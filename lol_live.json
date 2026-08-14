@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
+    "TeamA": "All for One Gaming",
+    "TeamB": "PvB (Swiss Team)",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-14 19:44:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "GIANTX",
     "TeamB": "Team Vitality",
@@ -291,7 +299,7 @@
     "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
     "TeamA": "BiPOLAR (Benelux Team)",
     "TeamB": "Frost Tails",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-12 18:14:00"
   },
@@ -300,14 +308,14 @@
     "TeamA": "Epic Avalanche",
     "TeamB": "Lund Esports Organization",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-12 18:04:00"
   },
   {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "DOCISK",
     "TeamB": "UP2UMEDIA Cebulaki",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-12 18:04:00"
   },
@@ -318,21 +326,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-12 17:40:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
-    "TeamA": "E WIE EINFACH E-SPORTS",
-    "TeamB": "Eintracht Spandau",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-12 17:28:00"
-  },
-  {
-    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
-    "TeamA": "CITA Kaizen",
-    "TeamB": "Meavedron",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-12 17:15:00"
   }
 ]
