@@ -4,8 +4,8 @@
     "TeamA": "GIANTX",
     "TeamB": "Team Vitality",
     "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-14 17:48:00"
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-14 18:42:00"
   },
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
@@ -334,13 +334,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-12 17:15:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Rich Gang (Norwegian Team)",
-    "TeamB": "Volda E-Sport",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-12 16:59:00"
   }
 ]
