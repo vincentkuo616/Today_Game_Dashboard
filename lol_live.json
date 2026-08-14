@@ -16,6 +16,14 @@
     "LatestGameTime": "2026-08-14 01:47:00"
   },
   {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "Maryville University",
+    "TeamB": "Winthrop University",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-13 22:50:00"
+  },
+  {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "Role Swappers",
     "TeamB": "ZeroZone Gaming",
@@ -324,15 +332,7 @@
     "TeamA": "Anyone's Legend",
     "TeamB": "EDward Gaming",
     "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-12 11:21:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "DN SOOPers",
-    "TeamB": "Nongshim RedForce",
-    "ScoreA": 2,
     "ScoreB": 0,
-    "LatestGameTime": "2026-08-12 09:46:00"
+    "LatestGameTime": "2026-08-12 11:21:00"
   }
 ]
