@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "GIANTX",
+    "TeamB": "Team Vitality",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-14 17:48:00"
+  },
+  {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "SK Gaming",
     "TeamB": "Shifters",
     "ScoreA": 2,
@@ -308,14 +316,14 @@
     "TeamA": "LUA Gaming",
     "TeamB": "UCAM Esports",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-12 17:40:00"
   },
   {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Split",
     "TeamA": "E WIE EINFACH E-SPORTS",
     "TeamB": "Eintracht Spandau",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-12 17:28:00"
   },
