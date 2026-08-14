@@ -8,20 +8,20 @@
     "LatestGameTime": "2026-08-14 13:29:00"
   },
   {
+    "OverviewPage": "LCP/2026 Season/Split 3",
+    "TeamA": "CTBC Flying Oyster",
+    "TeamB": "MVK Esports",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-14 12:50:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "HANJIN BRION",
     "TeamB": "Nongshim RedForce",
     "ScoreA": 0,
     "ScoreB": 2,
-    "LatestGameTime": "2026-08-14 11:28:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "Team WE",
-    "TeamB": "Top Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-14 10:12:00"
+    "LatestGameTime": "2026-08-14 12:17:00"
   },
   {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
@@ -29,6 +29,14 @@
     "TeamB": "T1",
     "ScoreA": 2,
     "ScoreB": 1,
+    "LatestGameTime": "2026-08-14 10:12:00"
+  },
+  {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "Team WE",
+    "TeamB": "Top Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-14 10:12:00"
   },
   {
@@ -316,31 +324,7 @@
     "TeamA": "Rich Gang (Norwegian Team)",
     "TeamB": "Volda E-Sport",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-12 16:59:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "Anonymo Esports",
-    "TeamB": "Bomba Team",
-    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-08-12 16:08:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Summer Split",
-    "TeamA": "Barça eSports",
-    "TeamB": "UB Alma Mater",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-12 16:06:00"
-  },
-  {
-    "OverviewPage": "TCL/2026 Season/Summer Split",
-    "TeamA": "SU Esports",
-    "TeamB": "Shark Attack",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-12 15:28:00"
+    "LatestGameTime": "2026-08-12 16:59:00"
   }
 ]
