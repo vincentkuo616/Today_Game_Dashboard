@@ -1,5 +1,45 @@
 [
   {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "CCG Esports",
+    "TeamB": "Contingent Esports",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-15 01:55:00"
+  },
+  {
+    "OverviewPage": "2026 KeG Championship",
+    "TeamA": "Incheon",
+    "TeamB": "Ulsan",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-15 01:42:00"
+  },
+  {
+    "OverviewPage": "2026 KeG Championship",
+    "TeamA": "Daejeon",
+    "TeamB": "Gyeongbuk",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-15 01:40:00"
+  },
+  {
+    "OverviewPage": "2026 KeG Championship",
+    "TeamA": "Chungbuk",
+    "TeamB": "Chungnam",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-15 01:39:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
+    "TeamA": "Blue Otter",
+    "TeamB": "Conviction",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-14 23:05:00"
+  },
+  {
     "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
     "TeamA": "All for One Gaming",
     "TeamB": "PvB (Swiss Team)",
@@ -259,7 +299,7 @@
     "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
     "TeamA": "Last Dance (Benelux Team)",
     "TeamB": "Meavedron Benelux",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-12 20:12:00"
   },
@@ -267,7 +307,7 @@
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "Capybara Esports",
     "TeamB": "Dream Esports",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-12 19:58:00"
   },
@@ -276,14 +316,14 @@
     "TeamA": "Eintracht Frankfurt",
     "TeamB": "ROSSMANN Centaurs",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-12 19:25:00"
   },
   {
     "OverviewPage": "TCL/2026 Season/Summer Split",
     "TeamA": "Bushido Wildcats",
     "TeamB": "Dark Passage",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-12 19:16:00"
   },
@@ -292,39 +332,7 @@
     "TeamA": "Absolved",
     "TeamB": "DMG Esports",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-12 19:08:00"
-  },
-  {
-    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
-    "TeamA": "BiPOLAR (Benelux Team)",
-    "TeamB": "Frost Tails",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-12 18:14:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Epic Avalanche",
-    "TeamB": "Lund Esports Organization",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-12 18:04:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "DOCISK",
-    "TeamB": "UP2UMEDIA Cebulaki",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-12 18:04:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Summer Split",
-    "TeamA": "LUA Gaming",
-    "TeamB": "UCAM Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-12 17:40:00"
   }
 ]
