@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
+    "TeamA": "EDward Gaming Youth Team",
+    "TeamB": "LGD Gaming Young Team",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-15 13:19:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "Anyone's Legend",
     "TeamB": "ThunderTalk Gaming",
@@ -284,23 +292,15 @@
     "TeamA": "BNK FEARX",
     "TeamB": "Kiwoom DRX",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-13 09:49:00"
   },
   {
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "Ninjas in Pyjamas.CN",
     "TeamB": "Weibo Gaming",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-13 09:09:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
-    "TeamA": "CCG Esports",
-    "TeamB": "Conviction",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-08-12 23:58:00"
+    "LatestGameTime": "2026-08-13 09:09:00"
   }
 ]
