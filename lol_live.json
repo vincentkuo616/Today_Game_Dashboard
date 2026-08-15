@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Fnatic",
+    "TeamB": "SK Gaming",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-15 15:07:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "Bilibili Gaming",
     "TeamB": "Team WE",
@@ -331,7 +339,7 @@
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "LGD Gaming",
     "TeamB": "Top Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-13 11:27:00"
   }
