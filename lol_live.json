@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "Anyone's Legend",
+    "TeamB": "ThunderTalk Gaming",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-15 12:00:00"
+  },
+  {
     "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
     "TeamA": "Bilibili Gaming Junior",
     "TeamB": "Weibo Gaming Youth Team",
@@ -291,24 +299,8 @@
     "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
     "TeamA": "CCG Esports",
     "TeamB": "Conviction",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-12 23:58:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
-    "TeamA": "Cupid Esports",
-    "TeamB": "University of Mississippi",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-08-12 22:12:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Bubliki",
-    "TeamB": "Dominion Goblins",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-12 21:30:00"
+    "LatestGameTime": "2026-08-12 23:58:00"
   }
 ]

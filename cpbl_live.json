@@ -21,19 +21,19 @@
         "status_key": "finished",
         "home_name": "中信兄弟",
         "away_name": "台鋼雄鷹",
-        "home_score": 3,
-        "away_score": 4
+        "home_score": 4,
+        "away_score": 11
       },
       {
         "id": 184222,
         "venue": "天母棒球場",
         "display_time": "8/15 (六) 17:05",
-        "status_long": "Inning 8",
-        "status_key": "live",
+        "status_long": "Finished",
+        "status_key": "finished",
         "home_name": "味全龍",
         "away_name": "樂天桃猿",
         "home_score": 9,
-        "away_score": 2
+        "away_score": 3
       }
     ]
   },
