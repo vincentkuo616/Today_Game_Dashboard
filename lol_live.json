@@ -8,6 +8,14 @@
     "LatestGameTime": "2026-08-15 14:10:00"
   },
   {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Crystal Rose (French Team)",
+    "TeamB": "Lausanne-Sport Esports",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-15 13:46:00"
+  },
+  {
     "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
     "TeamA": "EDward Gaming Youth Team",
     "TeamB": "LGD Gaming Young Team",
@@ -16,12 +24,44 @@
     "LatestGameTime": "2026-08-15 13:19:00"
   },
   {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Caldya Esport",
+    "TeamB": "Karmine Corp Blue Stars",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-15 12:50:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "Anyone's Legend",
     "TeamB": "ThunderTalk Gaming",
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-15 12:00:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Lille Esport",
+    "TeamB": "Team High Ground",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-15 11:51:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Ancient Ones",
+    "TeamB": "Project Conquerors",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-15 10:58:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2026 Season/Summer Split",
+    "TeamA": "Galions Sharks",
+    "TeamB": "Zephyr Esport",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-15 10:04:00"
   },
   {
     "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
@@ -275,8 +315,8 @@
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "Deep Cross Gaming",
     "TeamB": "GAM Esports",
-    "ScoreA": 2,
-    "ScoreB": 4,
+    "ScoreA": 0,
+    "ScoreB": 2,
     "LatestGameTime": "2026-08-13 12:22:00"
   },
   {
@@ -294,13 +334,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-13 11:27:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "BNK FEARX",
-    "TeamB": "Kiwoom DRX",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-13 09:49:00"
   }
 ]
