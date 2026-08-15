@@ -16,6 +16,14 @@
     "LatestGameTime": "2026-08-15 17:58:00"
   },
   {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
+    "TeamA": "DKB XPERION NXT",
+    "TeamB": "MT1 Esports",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-15 17:56:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Fnatic",
     "TeamB": "SK Gaming",
@@ -316,7 +324,7 @@
     "TeamA": "E WIE EINFACH E-SPORTS",
     "TeamB": "ROSSMANN Centaurs",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-13 16:44:00"
   },
   {
@@ -324,15 +332,7 @@
     "TeamA": "Falke Esports",
     "TeamB": "GIANTX iTero",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-13 16:00:00"
-  },
-  {
-    "OverviewPage": "TCL/2026 Season/Summer Split",
-    "TeamA": "Shark Attack",
-    "TeamB": "Team Phoenix (Turkish Team)",
-    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-08-13 15:20:00"
+    "LatestGameTime": "2026-08-13 16:00:00"
   }
 ]
