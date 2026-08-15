@@ -136,12 +136,28 @@
     "LatestGameTime": "2026-08-14 19:44:00"
   },
   {
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
+    "TeamA": "Mind Blue eSports",
+    "TeamB": "Nameless (Benelux Team)",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-14 19:01:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "GIANTX",
     "TeamB": "Team Vitality",
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-14 18:42:00"
+  },
+  {
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
+    "TeamA": "FUSE",
+    "TeamB": "RED OUAT",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-14 18:15:00"
   },
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
@@ -318,29 +334,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-13 13:58:00"
-  },
-  {
-    "OverviewPage": "LCP/2026 Season/Split 3",
-    "TeamA": "Deep Cross Gaming",
-    "TeamB": "GAM Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-13 12:22:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "Gen.G",
-    "TeamB": "Hanwha Life Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-13 12:06:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "LGD Gaming",
-    "TeamB": "Top Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-13 11:27:00"
   }
 ]
