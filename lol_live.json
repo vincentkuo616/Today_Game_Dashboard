@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "LOUD",
+    "TeamB": "Leviatan",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-16 16:59:00"
+  },
+  {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Movistar KOI",
+    "TeamB": "Natus Vincere",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-16 16:03:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "EDward Gaming",
     "TeamB": "Top Esports",
@@ -291,15 +307,15 @@
     "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
     "TeamA": "All for One Gaming",
     "TeamB": "PvB (Swiss Team)",
-    "ScoreA": 2,
-    "ScoreB": 2,
+    "ScoreA": 1,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-14 19:44:00"
   },
   {
     "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
     "TeamA": "Mind Blue eSports",
     "TeamB": "Nameless (Benelux Team)",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-14 19:01:00"
   },
@@ -307,7 +323,7 @@
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "GIANTX",
     "TeamB": "Team Vitality",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-14 18:42:00"
   },
