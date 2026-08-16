@@ -20,8 +20,24 @@
     "TeamA": "Dignitas",
     "TeamB": "Shopify Rebellion",
     "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-15 21:49:00"
+  },
+  {
+    "OverviewPage": "LCS/2026 Season/Summer Season",
+    "TeamA": "Disguised",
+    "TeamB": "Team Liquid",
+    "ScoreA": 0,
     "ScoreB": 2,
-    "LatestGameTime": "2026-08-15 23:28:00"
+    "LatestGameTime": "2026-08-15 20:56:00"
+  },
+  {
+    "OverviewPage": "Equal Esports Cup 2026/Playoffs",
+    "TeamA": "Mental Rush",
+    "TeamB": "Vitality Rising Bees",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-15 20:20:00"
   },
   {
     "OverviewPage": "CBLOL/2026 Season/Split 2",
@@ -54,6 +70,14 @@
     "ScoreA": 3,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-15 17:56:00"
+  },
+  {
+    "OverviewPage": "Equal Esports Cup 2026/Playoffs",
+    "TeamA": "Barcząca Esports Babylon",
+    "TeamB": "SK Gaming Avarosa",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-15 16:53:00"
   },
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
@@ -142,6 +166,14 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-15 10:04:00"
+  },
+  {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "Hanwha Life Esports",
+    "TeamB": "KT Rolster",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-15 09:55:00"
   },
   {
     "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
@@ -294,45 +326,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-14 03:34:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
-    "TeamA": "Dorado Gaming",
-    "TeamB": "University of Mississippi",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-14 01:47:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
-    "TeamA": "Maryville University",
-    "TeamB": "Winthrop University",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-13 22:50:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Role Swappers",
-    "TeamB": "ZeroZone Gaming",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-13 22:45:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "NORTHERNGRADE ESPORTS",
-    "TeamB": "Otter Side",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-13 20:28:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
-    "TeamA": "Myth Esports",
-    "TeamB": "ZennIT",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-13 20:08:00"
   }
 ]
