@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "2026 KeG Championship",
+    "TeamA": "Busan",
+    "TeamB": "Jeonnam",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-16 06:21:00"
+  },
+  {
+    "OverviewPage": "2026 KeG Championship",
     "TeamA": "Chungbuk",
     "TeamB": "Gangwon",
     "ScoreA": 2,
@@ -315,8 +323,8 @@
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "Dplus Kia",
     "TeamB": "T1",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-14 10:12:00"
   }
 ]
