@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "Fluxo W7M",
+    "TeamB": "paiN Gaming",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-16 18:46:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Fnatic",
     "TeamB": "G2 Esports",
@@ -315,8 +323,8 @@
     "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
     "TeamA": "Blue Otter",
     "TeamB": "Conviction",
-    "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreA": 0,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-14 23:05:00"
   }
 ]
