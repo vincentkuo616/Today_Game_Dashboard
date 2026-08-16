@@ -3,9 +3,9 @@
     "OverviewPage": "2026 KeG Championship",
     "TeamA": "Chungbuk",
     "TeamB": "Jeonnam",
-    "ScoreA": 0,
+    "ScoreA": 1,
     "ScoreB": 1,
-    "LatestGameTime": "2026-08-16 01:17:00"
+    "LatestGameTime": "2026-08-16 02:05:00"
   },
   {
     "OverviewPage": "LCS/2026 Season/Summer Season",
@@ -110,6 +110,14 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-15 11:51:00"
+  },
+  {
+    "OverviewPage": "LCP/2026 Season/Split 3",
+    "TeamA": "DetonatioN FocusMe",
+    "TeamB": "Ground Zero Gaming",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-15 11:12:00"
   },
   {
     "OverviewPage": "Nexus League/2026 Season/Summer Split",
@@ -315,7 +323,7 @@
     "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
     "TeamA": "Myth Esports",
     "TeamB": "ZennIT",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-13 20:08:00"
   },
@@ -323,24 +331,8 @@
     "OverviewPage": "LES/2026 Season/Summer Split",
     "TeamA": "Movistar KOI Fénix",
     "TeamB": "Team Heretics Academy",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-13 18:59:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
-    "TeamA": "Once Upon A Team",
-    "TeamB": "The Bandits",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-13 18:16:00"
-  },
-  {
-    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
-    "TeamA": "EXILE esports",
-    "TeamB": "Meavedron",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-13 17:26:00"
   }
 ]
