@@ -8,6 +8,14 @@
     "LatestGameTime": "2026-08-16 14:21:00"
   },
   {
+    "OverviewPage": "LCP/2026 Season/Split 3",
+    "TeamA": "CTBC Flying Oyster",
+    "TeamB": "Team Secret Whales",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-16 12:40:00"
+  },
+  {
     "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
     "TeamA": "LGD Gaming Young Team",
     "TeamB": "Xi Lai Gaming",
@@ -283,7 +291,7 @@
     "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
     "TeamA": "All for One Gaming",
     "TeamB": "PvB (Swiss Team)",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-14 19:44:00"
   },
@@ -300,23 +308,15 @@
     "TeamA": "GIANTX",
     "TeamB": "Team Vitality",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-14 18:42:00"
   },
   {
     "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
     "TeamA": "FUSE",
     "TeamB": "RED OUAT",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-14 18:15:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "SK Gaming",
-    "TeamB": "Shifters",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-14 15:54:00"
   }
 ]
