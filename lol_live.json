@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "JD Gaming",
+    "TeamB": "LGD Gaming",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-16 09:03:00"
+  },
+  {
     "OverviewPage": "2026 KeG Championship",
     "TeamA": "Busan",
     "TeamB": "Jeonnam",
@@ -300,7 +308,7 @@
     "TeamA": "CTBC Flying Oyster",
     "TeamB": "MVK Esports",
     "ScoreA": 3,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-14 12:50:00"
   },
   {
@@ -315,14 +323,6 @@
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "Team WE",
     "TeamB": "Top Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-14 10:12:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "Dplus Kia",
-    "TeamB": "T1",
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-14 10:12:00"
