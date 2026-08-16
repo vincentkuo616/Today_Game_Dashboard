@@ -4,8 +4,16 @@
     "TeamA": "Chungbuk",
     "TeamB": "Jeonnam",
     "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-16 02:55:00"
+  },
+  {
+    "OverviewPage": "2026 KeG Championship",
+    "TeamA": "Busan",
+    "TeamB": "Gangwon",
+    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-08-16 02:05:00"
+    "LatestGameTime": "2026-08-16 01:39:00"
   },
   {
     "OverviewPage": "LCS/2026 Season/Summer Season",
@@ -315,7 +323,7 @@
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "NORTHERNGRADE ESPORTS",
     "TeamB": "Otter Side",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-13 20:28:00"
   },
@@ -326,13 +334,5 @@
     "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-13 20:08:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Summer Split",
-    "TeamA": "Movistar KOI Fénix",
-    "TeamB": "Team Heretics Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-13 18:59:00"
   }
 ]
