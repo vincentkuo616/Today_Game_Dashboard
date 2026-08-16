@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Fnatic",
+    "TeamB": "G2 Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-16 18:11:00"
+  },
+  {
     "OverviewPage": "CBLOL/2026 Season/Split 2",
     "TeamA": "LOUD",
     "TeamB": "Leviatan",
@@ -318,21 +326,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-14 19:01:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "GIANTX",
-    "TeamB": "Team Vitality",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-14 18:42:00"
-  },
-  {
-    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
-    "TeamA": "FUSE",
-    "TeamB": "RED OUAT",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-14 18:15:00"
   }
 ]
