@@ -17,6 +17,14 @@
   },
   {
     "OverviewPage": "LCS/2026 Season/Summer Season",
+    "TeamA": "LYON (2024 American Team)",
+    "TeamB": "Sentinels",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-17 00:02:00"
+  },
+  {
+    "OverviewPage": "LCS/2026 Season/Summer Season",
     "TeamA": "Cloud9",
     "TeamB": "FlyQuest",
     "ScoreA": 2,
@@ -307,7 +315,7 @@
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "Hanwha Life Esports",
     "TeamB": "KT Rolster",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-15 09:55:00"
   },
@@ -315,16 +323,8 @@
     "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
     "TeamA": "Bilibili Gaming Junior",
     "TeamB": "Weibo Gaming Youth Team",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-15 09:44:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "LNG Esports",
-    "TeamB": "Ninjas in Pyjamas.CN",
     "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-08-15 09:01:00"
+    "LatestGameTime": "2026-08-15 09:44:00"
   }
 ]
