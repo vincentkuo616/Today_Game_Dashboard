@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Natus Vincere",
+    "TeamB": "Team Heretics",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-17 15:56:00"
+  },
+  {
     "OverviewPage": "2026 LoL KeSPA Cup",
     "TeamA": "DN SOOPers",
     "TeamB": "T1",
@@ -292,7 +300,7 @@
     "TeamA": "DetonatioN FocusMe",
     "TeamB": "Ground Zero Gaming",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-08-15 11:12:00"
   },
   {
@@ -318,13 +326,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-15 09:55:00"
-  },
-  {
-    "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
-    "TeamA": "Bilibili Gaming Junior",
-    "TeamB": "Weibo Gaming Youth Team",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-15 09:44:00"
   }
 ]
