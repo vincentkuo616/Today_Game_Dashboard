@@ -17,6 +17,14 @@
   },
   {
     "OverviewPage": "PCS/2026 Season/Summer Season",
+    "TeamA": "Embrace Whatever Happens",
+    "TeamB": "Reignfall",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-17 12:47:00"
+  },
+  {
+    "OverviewPage": "PCS/2026 Season/Summer Season",
     "TeamA": "SillySilly Gaming",
     "TeamB": "Sponge Gaming",
     "ScoreA": 2,
@@ -276,7 +284,7 @@
     "TeamA": "Anyone's Legend",
     "TeamB": "ThunderTalk Gaming",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-15 12:00:00"
   },
   {
@@ -310,21 +318,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-15 10:58:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Galions Sharks",
-    "TeamB": "Zephyr Esport",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-15 10:04:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "Hanwha Life Esports",
-    "TeamB": "KT Rolster",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-15 09:55:00"
   }
 ]
