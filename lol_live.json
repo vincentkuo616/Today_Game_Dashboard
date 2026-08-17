@@ -1,11 +1,27 @@
 [
   {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Bulldog Esports",
+    "TeamB": "Lund Esports Organization",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-17 18:01:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "GIANTX",
     "TeamB": "Karmine Corp",
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-17 17:40:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Brod n Friends",
+    "TeamB": "DMG Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-17 17:04:00"
   },
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
@@ -291,7 +307,7 @@
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "Anyone's Legend",
     "TeamB": "ThunderTalk Gaming",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-15 12:00:00"
   },
@@ -300,7 +316,7 @@
     "TeamA": "BNK FEARX",
     "TeamB": "DN SOOPers",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-15 11:59:00"
   },
   {
@@ -310,21 +326,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-15 11:51:00"
-  },
-  {
-    "OverviewPage": "LCP/2026 Season/Split 3",
-    "TeamA": "DetonatioN FocusMe",
-    "TeamB": "Ground Zero Gaming",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-15 11:12:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Ancient Ones",
-    "TeamB": "Project Conquerors",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-15 10:58:00"
   }
 ]
