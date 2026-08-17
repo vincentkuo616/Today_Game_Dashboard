@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LCS/2026 Season/Summer Season",
+    "TeamA": "Cloud9",
+    "TeamB": "FlyQuest",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-16 21:07:00"
+  },
+  {
     "OverviewPage": "CBLOL/2026 Season/Split 2",
     "TeamA": "Fluxo W7M",
     "TeamB": "paiN Gaming",
@@ -56,6 +64,14 @@
     "LatestGameTime": "2026-08-16 12:40:00"
   },
   {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "HANJIN BRION",
+    "TeamB": "Kiwoom DRX",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-16 12:38:00"
+  },
+  {
     "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
     "TeamA": "LGD Gaming Young Team",
     "TeamB": "Xi Lai Gaming",
@@ -70,6 +86,14 @@
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-16 12:13:00"
+  },
+  {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "Gen.G",
+    "TeamB": "T1",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-16 09:15:00"
   },
   {
     "OverviewPage": "LPL/2026 Season/Split 3",
@@ -286,45 +310,5 @@
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-15 09:01:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
-    "TeamA": "CCG Esports",
-    "TeamB": "Contingent Esports",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-15 01:55:00"
-  },
-  {
-    "OverviewPage": "2026 KeG Championship",
-    "TeamA": "Incheon",
-    "TeamB": "Ulsan",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-15 01:42:00"
-  },
-  {
-    "OverviewPage": "2026 KeG Championship",
-    "TeamA": "Daejeon",
-    "TeamB": "Gyeongbuk",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-15 01:40:00"
-  },
-  {
-    "OverviewPage": "2026 KeG Championship",
-    "TeamA": "Chungbuk",
-    "TeamB": "Chungnam",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-15 01:39:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Season",
-    "TeamA": "Blue Otter",
-    "TeamB": "Conviction",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-14 23:05:00"
   }
 ]
