@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
+    "TeamA": "Anonymo Esports",
+    "TeamB": "Forsaken (Polish Team)",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-18 16:07:00"
+  },
+  {
     "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
     "TeamA": "CITA Kaizen",
     "TeamB": "Nightbirds",
@@ -283,7 +291,7 @@
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "G2 Esports",
     "TeamB": "Shifters",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-15 18:11:00"
   },
@@ -299,7 +307,7 @@
     "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
     "TeamA": "DKB XPERION NXT",
     "TeamB": "MT1 Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-15 17:56:00"
   }
