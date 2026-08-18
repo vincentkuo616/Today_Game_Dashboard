@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "PCS/2026 Season/Summer Season",
+    "TeamA": "CTBC Flying Oyster Academy",
+    "TeamB": "Frank Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-18 09:46:00"
+  },
+  {
     "OverviewPage": "NLC/2026 Season/Summer Split",
     "TeamA": "Lundqvist Lightside",
     "TeamB": "Volda E-Sport",
@@ -294,21 +302,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-15 14:10:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Crystal Rose (French Team)",
-    "TeamB": "Lausanne-Sport Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-15 13:46:00"
-  },
-  {
-    "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
-    "TeamA": "EDward Gaming Youth Team",
-    "TeamB": "LGD Gaming Young Team",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-15 13:19:00"
   }
 ]
