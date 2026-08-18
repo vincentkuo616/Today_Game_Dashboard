@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Lundqvist Lightside",
+    "TeamB": "Volda E-Sport",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-17 19:51:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
+    "TeamA": "DKB XPERION NXT",
+    "TeamB": "PvB (Swiss Team)",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-17 18:45:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
     "TeamA": "Bulldog Esports",
     "TeamB": "Lund Esports Organization",
     "ScoreA": 2,
@@ -275,7 +291,7 @@
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "Bilibili Gaming",
     "TeamB": "Team WE",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-15 14:10:00"
   },
@@ -291,40 +307,8 @@
     "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
     "TeamA": "EDward Gaming Youth Team",
     "TeamB": "LGD Gaming Young Team",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-15 13:19:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Caldya Esport",
-    "TeamB": "Karmine Corp Blue Stars",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-15 12:50:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "Anyone's Legend",
-    "TeamB": "ThunderTalk Gaming",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-08-15 12:00:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "BNK FEARX",
-    "TeamB": "DN SOOPers",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-15 11:59:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Split",
-    "TeamA": "Lille Esport",
-    "TeamB": "Team High Ground",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-15 11:51:00"
+    "LatestGameTime": "2026-08-15 13:19:00"
   }
 ]
