@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
+    "TeamA": "CITA Kaizen",
+    "TeamB": "Nightbirds",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-18 15:00:00"
+  },
+  {
     "OverviewPage": "2026 LoL KeSPA Cup",
     "TeamA": "DN SOOPers",
     "TeamB": "Nongshim RedForce",
@@ -283,7 +291,7 @@
     "OverviewPage": "CBLOL/2026 Season/Split 2",
     "TeamA": "FURIA",
     "TeamB": "RED Canids",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-15 17:58:00"
   },
@@ -294,13 +302,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-15 17:56:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Playoffs",
-    "TeamA": "Barcząca Esports Babylon",
-    "TeamB": "SK Gaming Avarosa",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-15 16:53:00"
   }
 ]
