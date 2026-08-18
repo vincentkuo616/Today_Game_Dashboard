@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
+    "TeamA": "Bohemian Guardians",
+    "TeamB": "Meavedron",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-18 16:57:00"
+  },
+  {
+    "OverviewPage": "LES/2026 Season/Summer Playoffs",
+    "TeamA": "Barça eSports",
+    "TeamB": "Movistar KOI Fénix",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-18 16:56:00"
+  },
+  {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "Anonymo Esports",
     "TeamB": "Forsaken (Polish Team)",
@@ -276,7 +292,7 @@
     "TeamA": "Mental Rush",
     "TeamB": "Vitality Rising Bees",
     "ScoreA": 2,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-15 20:20:00"
   },
   {
@@ -286,29 +302,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-15 19:48:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "G2 Esports",
-    "TeamB": "Shifters",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-15 18:11:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2",
-    "TeamA": "FURIA",
-    "TeamB": "RED Canids",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-15 17:58:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
-    "TeamA": "DKB XPERION NXT",
-    "TeamB": "MT1 Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-15 17:56:00"
   }
 ]
