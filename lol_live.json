@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
+    "TeamA": "Dynasty",
+    "TeamB": "Once Upon A Team",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-18 19:06:00"
+  },
+  {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
+    "TeamA": "Myth Esports",
+    "TeamB": "mCon esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-18 18:11:00"
+  },
+  {
+    "OverviewPage": "TCL/2026 Season/Summer Split",
+    "TeamA": "Bushido Wildcats",
+    "TeamB": "Team Phoenix (Turkish Team)",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-18 16:58:00"
+  },
+  {
     "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
     "TeamA": "Bohemian Guardians",
     "TeamB": "Meavedron",
@@ -278,29 +302,5 @@
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-15 23:28:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Season",
-    "TeamA": "Disguised",
-    "TeamB": "Team Liquid",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-15 20:56:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Playoffs",
-    "TeamA": "Mental Rush",
-    "TeamB": "Vitality Rising Bees",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-15 20:20:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2",
-    "TeamA": "LØS",
-    "TeamB": "Vivo Keyd Stars",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-15 19:48:00"
   }
 ]
