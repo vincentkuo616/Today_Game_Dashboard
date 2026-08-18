@@ -16,6 +16,14 @@
     "LatestGameTime": "2026-08-18 09:46:00"
   },
   {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2 Playoffs",
+    "TeamA": "3v Team",
+    "TeamB": "LYON Academy",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-18 01:22:00"
+  },
+  {
     "OverviewPage": "NLC/2026 Season/Summer Split",
     "TeamA": "Lundqvist Lightside",
     "TeamB": "Volda E-Sport",
@@ -251,7 +259,7 @@
     "OverviewPage": "Equal Esports Cup 2026/Playoffs",
     "TeamA": "Mental Rush",
     "TeamB": "Vitality Rising Bees",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-15 20:20:00"
   },
@@ -283,7 +291,7 @@
     "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
     "TeamA": "DKB XPERION NXT",
     "TeamB": "MT1 Esports",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-15 17:56:00"
   },
@@ -292,7 +300,7 @@
     "TeamA": "Barcząca Esports Babylon",
     "TeamB": "SK Gaming Avarosa",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-15 16:53:00"
   }
 ]
