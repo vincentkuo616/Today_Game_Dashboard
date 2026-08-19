@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
+    "TeamA": "UP2UMEDIA Cebulaki",
+    "TeamB": "devils.one inStreamly",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-19 16:16:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "EDward Gaming",
     "TeamB": "Team WE",
@@ -294,21 +302,5 @@
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-16 09:03:00"
-  },
-  {
-    "OverviewPage": "2026 KeG Championship",
-    "TeamA": "Busan",
-    "TeamB": "Jeonnam",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-16 06:21:00"
-  },
-  {
-    "OverviewPage": "2026 KeG Championship",
-    "TeamA": "Chungbuk",
-    "TeamB": "Gangwon",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-16 05:33:00"
   }
 ]
