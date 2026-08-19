@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "Francesinhas",
+    "TeamB": "GD Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-19 19:09:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Arctic Pandas",
+    "TeamB": "B2U",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-19 18:43:00"
+  },
+  {
+    "OverviewPage": "TCL/2026 Season/Summer Split",
+    "TeamA": "Dark Passage",
+    "TeamB": "SU Esports",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-19 18:32:00"
+  },
+  {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "Barcząca Esports by Yumisu",
     "TeamB": "DOCISK",
@@ -8,12 +32,36 @@
     "LatestGameTime": "2026-08-19 18:31:00"
   },
   {
+    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
+    "TeamA": "Bohemian Guardians",
+    "TeamB": "EXILE esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-19 18:09:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Bulldog Esports",
+    "TeamB": "Verdant",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-19 16:53:00"
+  },
+  {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "UP2UMEDIA Cebulaki",
     "TeamB": "devils.one inStreamly",
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-19 16:16:00"
+  },
+  {
+    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
+    "TeamA": "BRUTE",
+    "TeamB": "Onion Team",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-19 16:13:00"
   },
   {
     "OverviewPage": "LPL/2026 Season/Split 3",
@@ -262,45 +310,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-16 16:03:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "EDward Gaming",
-    "TeamB": "Top Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-16 14:21:00"
-  },
-  {
-    "OverviewPage": "LCP/2026 Season/Split 3",
-    "TeamA": "CTBC Flying Oyster",
-    "TeamB": "Team Secret Whales",
-    "ScoreA": 3,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-16 12:40:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "HANJIN BRION",
-    "TeamB": "Kiwoom DRX",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-16 12:38:00"
-  },
-  {
-    "OverviewPage": "2026 Asia Masters/Elite Invitational Tournament 2",
-    "TeamA": "LGD Gaming Young Team",
-    "TeamB": "Xi Lai Gaming",
-    "ScoreA": 1,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-08-16 12:25:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "Invictus Gaming",
-    "TeamB": "Weibo Gaming",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-16 12:13:00"
   }
 ]
