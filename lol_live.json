@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "Tung Tung Bogi",
+    "TeamB": "Way Gaming Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-19 21:05:00"
+  },
+  {
+    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Playoffs",
+    "TeamA": "Berlin International Gaming",
+    "TeamB": "Unicorns of Love Sexy Edition",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-19 19:26:00"
+  },
+  {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "Francesinhas",
     "TeamB": "GD Esports",
     "ScoreA": 2,
@@ -38,6 +54,14 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-19 18:09:00"
+  },
+  {
+    "OverviewPage": "LES/2026 Season/Summer Playoffs",
+    "TeamA": "Team Heretics Academy",
+    "TeamB": "UCAM Esports",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-19 16:55:00"
   },
   {
     "OverviewPage": "NLC/2026 Season/Summer Split",
@@ -276,39 +300,7 @@
     "TeamA": "Fluxo W7M",
     "TeamB": "paiN Gaming",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-16 18:46:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "Fnatic",
-    "TeamB": "G2 Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-16 18:11:00"
-  },
-  {
-    "OverviewPage": "Equal Esports Cup 2026/Playoffs",
-    "TeamA": "G2 Hel",
-    "TeamB": "Vitality Rising Bees",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-08-16 17:41:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2",
-    "TeamA": "LOUD",
-    "TeamB": "Leviatan",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-16 16:59:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "Movistar KOI",
-    "TeamB": "Natus Vincere",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-16 16:03:00"
   }
 ]
