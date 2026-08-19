@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "Anyone's Legend",
+    "TeamB": "Top Esports",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-19 12:13:00"
+  },
+  {
+    "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "LNG Esports",
     "TeamB": "Weibo Gaming",
     "ScoreA": 1,
@@ -294,21 +302,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-16 05:33:00"
-  },
-  {
-    "OverviewPage": "2026 KeG Championship",
-    "TeamA": "Busan",
-    "TeamB": "Gangwon",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-16 03:33:00"
-  },
-  {
-    "OverviewPage": "2026 KeG Championship",
-    "TeamA": "Chungbuk",
-    "TeamB": "Jeonnam",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-16 02:55:00"
   }
 ]
