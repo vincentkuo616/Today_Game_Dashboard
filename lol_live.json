@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
+    "TeamA": "Barcząca Esports by Yumisu",
+    "TeamB": "DOCISK",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-19 18:31:00"
+  },
+  {
+    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "UP2UMEDIA Cebulaki",
     "TeamB": "devils.one inStreamly",
     "ScoreA": 0,
@@ -268,7 +276,7 @@
     "TeamA": "CTBC Flying Oyster",
     "TeamB": "Team Secret Whales",
     "ScoreA": 3,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-16 12:40:00"
   },
   {
@@ -294,13 +302,5 @@
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-16 12:13:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "Gen.G",
-    "TeamB": "T1",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-16 09:15:00"
   }
 ]
