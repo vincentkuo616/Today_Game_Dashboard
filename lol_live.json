@@ -16,6 +16,14 @@
     "LatestGameTime": "2026-08-20 17:52:00"
   },
   {
+    "OverviewPage": "LIT/2026 Season/Summer Playoffs",
+    "TeamA": "GMBLERS Esports",
+    "TeamB": "HMBLE",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-20 17:49:00"
+  },
+  {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "Bomba Team",
     "TeamB": "UP2UMEDIA Cebulaki",
@@ -284,7 +292,7 @@
     "TeamA": "Bohemian Guardians",
     "TeamB": "Meavedron",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-18 16:57:00"
   },
   {
@@ -292,15 +300,7 @@
     "TeamA": "Barça eSports",
     "TeamB": "Movistar KOI Fénix",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-18 16:56:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "Anonymo Esports",
-    "TeamB": "Forsaken (Polish Team)",
-    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-08-18 16:07:00"
+    "LatestGameTime": "2026-08-18 16:56:00"
   }
 ]
