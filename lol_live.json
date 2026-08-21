@@ -4,8 +4,8 @@
     "TeamA": "SK Gaming",
     "TeamB": "Team Heretics",
     "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-21 15:08:00"
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-21 16:01:00"
   },
   {
     "OverviewPage": "LPL/2026 Season/Split 3",
@@ -310,13 +310,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-19 16:55:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Bulldog Esports",
-    "TeamB": "Verdant",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-19 16:53:00"
   }
 ]
