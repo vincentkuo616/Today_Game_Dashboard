@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
+    "TeamA": "All for One Gaming",
+    "TeamB": "DKB XPERION NXT",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-21 19:55:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Natus Vincere",
     "TeamB": "Team Vitality",
@@ -252,7 +260,7 @@
     "TeamA": "Berlin International Gaming",
     "TeamB": "Unicorns of Love Sexy Edition",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-19 19:26:00"
   },
   {
@@ -267,7 +275,7 @@
     "OverviewPage": "NLC/2026 Season/Summer Split",
     "TeamA": "Arctic Pandas",
     "TeamB": "B2U",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-19 18:43:00"
   },
@@ -275,7 +283,7 @@
     "OverviewPage": "TCL/2026 Season/Summer Split",
     "TeamA": "Dark Passage",
     "TeamB": "SU Esports",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-19 18:32:00"
   },
@@ -284,7 +292,7 @@
     "TeamA": "Barcząca Esports by Yumisu",
     "TeamB": "DOCISK",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-19 18:31:00"
   },
   {
@@ -300,7 +308,7 @@
     "TeamA": "FUSE",
     "TeamB": "Meavedron Benelux",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-19 18:04:00"
   },
   {
