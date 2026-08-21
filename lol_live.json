@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "BNK FEARX",
+    "TeamB": "HANJIN BRION",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-21 10:08:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "EDward Gaming",
     "TeamB": "ThunderTalk Gaming",
@@ -228,7 +236,7 @@
     "TeamA": "Dark Passage",
     "TeamB": "SU Esports",
     "ScoreA": 2,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-08-19 18:32:00"
   },
   {
@@ -267,7 +275,7 @@
     "OverviewPage": "LES/2026 Season/Summer Playoffs",
     "TeamA": "Team Heretics Academy",
     "TeamB": "UCAM Esports",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-19 16:55:00"
   },
@@ -292,7 +300,7 @@
     "TeamA": "BRUTE",
     "TeamB": "Onion Team",
     "ScoreA": 1,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-19 16:13:00"
   }
 ]
