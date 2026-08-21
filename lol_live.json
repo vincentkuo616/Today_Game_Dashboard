@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "SK Gaming",
+    "TeamB": "Team Heretics",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-21 15:08:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "Bilibili Gaming",
     "TeamB": "Top Esports",
@@ -235,7 +243,7 @@
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Playoffs",
     "TeamA": "Berlin International Gaming",
     "TeamB": "Unicorns of Love Sexy Edition",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-19 19:26:00"
   },
