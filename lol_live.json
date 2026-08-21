@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "Anyone's Legend",
+    "TeamB": "Team WE",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-21 11:22:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "BNK FEARX",
     "TeamB": "HANJIN BRION",
@@ -212,7 +220,7 @@
     "TeamA": "Berlin International Gaming",
     "TeamB": "Unicorns of Love Sexy Edition",
     "ScoreA": 3,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-19 19:26:00"
   },
   {
@@ -236,7 +244,7 @@
     "TeamA": "Dark Passage",
     "TeamB": "SU Esports",
     "ScoreA": 2,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-19 18:32:00"
   },
   {
@@ -292,7 +300,7 @@
     "TeamA": "UP2UMEDIA Cebulaki",
     "TeamB": "devils.one inStreamly",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-19 16:16:00"
   },
   {
