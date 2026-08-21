@@ -28,12 +28,12 @@
         "id": 184234,
         "venue": "亞太主球場",
         "display_time": "8/21 (五) 18:35",
-        "status_long": "Inning 6",
-        "status_key": "live",
+        "status_long": "Finished",
+        "status_key": "finished",
         "home_name": "統一獅",
         "away_name": "中信兄弟",
         "home_score": 1,
-        "away_score": 1
+        "away_score": 2
       }
     ]
   },

@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "Bilibili Gaming",
+    "TeamB": "Top Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-21 13:23:00"
+  },
+  {
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "GAM Esports",
     "TeamB": "Team Secret Whales",
@@ -251,7 +259,7 @@
     "OverviewPage": "TCL/2026 Season/Summer Split",
     "TeamA": "Dark Passage",
     "TeamB": "SU Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-19 18:32:00"
   },
@@ -302,13 +310,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-19 16:53:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "UP2UMEDIA Cebulaki",
-    "TeamB": "devils.one inStreamly",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-19 16:16:00"
   }
 ]
