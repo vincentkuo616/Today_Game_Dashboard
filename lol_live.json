@@ -56,6 +56,14 @@
     "LatestGameTime": "2026-08-21 10:08:00"
   },
   {
+    "OverviewPage": "FLASH Oceania/2026 Season/Playoffs",
+    "TeamA": "The Chum Bucket",
+    "TeamB": "Trident Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-21 09:58:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "EDward Gaming",
     "TeamB": "ThunderTalk Gaming",
@@ -302,21 +310,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-19 18:09:00"
-  },
-  {
-    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
-    "TeamA": "FUSE",
-    "TeamB": "Meavedron Benelux",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-19 18:04:00"
-  },
-  {
-    "OverviewPage": "LIT/2026 Season/Summer Playoffs",
-    "TeamA": "P11 Esports",
-    "TeamB": "TITANS",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-19 17:56:00"
   }
 ]
