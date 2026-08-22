@@ -24,12 +24,28 @@
     "LatestGameTime": "2026-08-22 05:03:00"
   },
   {
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
+    "TeamA": "BiPOLAR (Benelux Team)",
+    "TeamB": "Mind Blue eSports",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-21 20:06:00"
+  },
+  {
     "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
     "TeamA": "All for One Gaming",
     "TeamB": "DKB XPERION NXT",
     "ScoreA": 3,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-21 19:55:00"
+  },
+  {
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
+    "TeamA": "Nameless (Benelux Team)",
+    "TeamB": "RED OUAT",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-21 19:04:00"
   },
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
@@ -268,31 +284,7 @@
     "TeamA": "Dplus Kia",
     "TeamB": "Hanwha Life Esports",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-20 09:05:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2 Playoffs",
-    "TeamA": "Docta Esports",
-    "TeamB": "Maze Gaming",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-08-19 22:06:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Tung Tung Bogi",
-    "TeamB": "Way Gaming Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-19 21:05:00"
-  },
-  {
-    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
-    "TeamA": "Frost Tails",
-    "TeamB": "Last Dance (Benelux Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-19 20:17:00"
   }
 ]
