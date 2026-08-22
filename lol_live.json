@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "FLASH Oceania/2026 Season/Playoffs",
+    "TeamA": "ION Global Academy",
+    "TeamB": "Onetricks",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-22 05:03:00"
+  },
+  {
     "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
     "TeamA": "All for One Gaming",
     "TeamB": "DKB XPERION NXT",
@@ -260,7 +268,7 @@
     "TeamA": "Frost Tails",
     "TeamB": "Last Dance (Benelux Team)",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-19 20:17:00"
   },
   {
@@ -302,13 +310,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-19 18:31:00"
-  },
-  {
-    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
-    "TeamA": "Bohemian Guardians",
-    "TeamB": "EXILE esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-19 18:09:00"
   }
 ]
