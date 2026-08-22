@@ -8,6 +8,14 @@
     "LatestGameTime": "2026-08-22 17:54:00"
   },
   {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "Leviatan",
+    "TeamB": "Vivo Keyd Stars",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-22 16:59:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Fnatic",
     "TeamB": "Shifters",
@@ -283,16 +291,8 @@
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "Bubliki",
     "TeamB": "Capybara Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-20 15:59:00"
-  },
-  {
-    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
-    "TeamA": "EXILE esports",
-    "TeamB": "Nightbirds",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-20 14:52:00"
   }
 ]
