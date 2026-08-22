@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "FURIA",
+    "TeamB": "paiN Gaming",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-22 18:48:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Movistar KOI",
     "TeamB": "SK Gaming",
@@ -252,14 +260,14 @@
     "TeamA": "Bushido Wildcats",
     "TeamB": "DIA Ozarox Esports",
     "ScoreA": 3,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-20 18:20:00"
   },
   {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Playoffs",
     "TeamA": "Eintracht Spandau",
     "TeamB": "G2 NORD",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 3,
     "LatestGameTime": "2026-08-20 17:52:00"
   },
