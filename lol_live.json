@@ -40,6 +40,14 @@
     "LatestGameTime": "2026-08-21 13:23:00"
   },
   {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "KT Rolster",
+    "TeamB": "T1",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-21 13:16:00"
+  },
+  {
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "GAM Esports",
     "TeamB": "Team Secret Whales",
@@ -283,7 +291,7 @@
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "Francesinhas",
     "TeamB": "GD Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-19 19:09:00"
   },
@@ -294,21 +302,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-19 18:43:00"
-  },
-  {
-    "OverviewPage": "TCL/2026 Season/Summer Split",
-    "TeamA": "Dark Passage",
-    "TeamB": "SU Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-19 18:32:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "Barcząca Esports by Yumisu",
-    "TeamB": "DOCISK",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-19 18:31:00"
   }
 ]
