@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Fnatic",
+    "TeamB": "Shifters",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-22 16:02:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "JD Gaming",
     "TeamB": "Top Esports",
@@ -268,7 +276,7 @@
     "TeamA": "Bubliki",
     "TeamB": "Capybara Esports",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-20 15:59:00"
   },
   {
@@ -276,7 +284,7 @@
     "TeamA": "EXILE esports",
     "TeamB": "Nightbirds",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-20 14:52:00"
   },
   {
