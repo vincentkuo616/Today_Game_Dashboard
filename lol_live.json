@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "JD Gaming",
+    "TeamB": "Top Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-22 13:08:00"
+  },
+  {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "Invictus Gaming",
+    "TeamB": "Ninjas in Pyjamas.CN",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-22 11:08:00"
+  },
+  {
+    "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "LGD Gaming",
     "TeamB": "Team WE",
     "ScoreA": 2,
@@ -267,24 +283,16 @@
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "JD Gaming",
     "TeamB": "ThunderTalk Gaming",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-20 11:07:00"
   },
   {
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "CTBC Flying Oyster",
     "TeamB": "MVK Esports",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-20 11:03:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "Dplus Kia",
-    "TeamB": "Hanwha Life Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-20 09:05:00"
   }
 ]
