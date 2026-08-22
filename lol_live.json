@@ -9,6 +9,14 @@
   },
   {
     "OverviewPage": "FLASH Oceania/2026 Season/Playoffs",
+    "TeamA": "Krug Esports",
+    "TeamB": "Team Secret Man",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-22 08:00:00"
+  },
+  {
+    "OverviewPage": "FLASH Oceania/2026 Season/Playoffs",
     "TeamA": "ION Global Academy",
     "TeamB": "Onetricks",
     "ScoreA": 0,
@@ -275,7 +283,7 @@
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "Tung Tung Bogi",
     "TeamB": "Way Gaming Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-19 21:05:00"
   },
@@ -286,21 +294,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-19 20:17:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Playoffs",
-    "TeamA": "Berlin International Gaming",
-    "TeamB": "Unicorns of Love Sexy Edition",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-19 19:26:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Francesinhas",
-    "TeamB": "GD Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-19 19:09:00"
   }
 ]
