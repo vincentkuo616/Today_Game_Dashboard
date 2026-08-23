@@ -16,6 +16,14 @@
     "LatestGameTime": "2026-08-23 18:38:00"
   },
   {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "Fluxo W7M",
+    "TeamB": "RED Canids",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-23 16:59:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "GIANTX",
     "TeamB": "Team Heretics",
@@ -30,6 +38,14 @@
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-23 11:57:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2026 Season/Summer Playoffs",
+    "TeamA": "Caldya Esport",
+    "TeamB": "Galions Sharks",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-23 11:40:00"
   },
   {
     "OverviewPage": "LCP/2026 Season/Split 3",
@@ -292,31 +308,7 @@
     "TeamA": "Conviction",
     "TeamB": "Cupid Esports",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-20 22:15:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Francesinhas",
-    "TeamB": "ZeroZone Gaming",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-20 21:17:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "Anonymo Esports",
-    "TeamB": "Barcząca Esports by Yumisu",
-    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-08-20 19:22:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Summer Playoffs",
-    "TeamA": "Movistar KOI Fénix",
-    "TeamB": "Team Heretics Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-20 19:21:00"
+    "LatestGameTime": "2026-08-20 22:15:00"
   }
 ]
