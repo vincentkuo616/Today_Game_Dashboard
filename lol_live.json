@@ -1,11 +1,27 @@
 [
   {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "BNK FEARX",
+    "TeamB": "Nongshim RedForce",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-23 11:57:00"
+  },
+  {
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "CTBC Flying Oyster",
     "TeamB": "Team Secret Whales",
     "ScoreA": 0,
     "ScoreB": 3,
     "LatestGameTime": "2026-08-23 10:49:00"
+  },
+  {
+    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
+    "TeamA": "Hanwha Life Esports",
+    "TeamB": "T1",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-23 08:59:00"
   },
   {
     "OverviewPage": "LCS/2026 Season/Summer Season",
@@ -275,7 +291,7 @@
     "OverviewPage": "LES/2026 Season/Summer Playoffs",
     "TeamA": "Movistar KOI Fénix",
     "TeamB": "Team Heretics Academy",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-20 19:21:00"
   },
@@ -283,8 +299,8 @@
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "NORTHERNGRADE ESPORTS",
     "TeamB": "Tung Tung Bogi",
-    "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreA": 0,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-20 19:05:00"
   },
   {
@@ -310,21 +326,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-20 18:20:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Playoffs",
-    "TeamA": "Eintracht Spandau",
-    "TeamB": "G2 NORD",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-20 17:52:00"
-  },
-  {
-    "OverviewPage": "LIT/2026 Season/Summer Playoffs",
-    "TeamA": "GMBLERS Esports",
-    "TeamB": "HMBLE",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-20 17:49:00"
   }
 ]
