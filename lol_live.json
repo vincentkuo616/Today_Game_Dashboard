@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "GIANTX",
+    "TeamB": "Team Heretics",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-23 16:18:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "BNK FEARX",
     "TeamB": "Nongshim RedForce",
@@ -284,7 +292,7 @@
     "TeamA": "Anonymo Esports",
     "TeamB": "Barcząca Esports by Yumisu",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-20 19:22:00"
   },
   {
@@ -315,7 +323,7 @@
     "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
     "TeamA": "Frites Esports Club",
     "TeamB": "ZennIT",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-20 19:02:00"
   },
