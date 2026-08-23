@@ -8,6 +8,14 @@
     "LatestGameTime": "2026-08-23 18:44:00"
   },
   {
+    "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
+    "TeamA": "All for One Gaming",
+    "TeamB": "CGN Esports",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-23 18:38:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "GIANTX",
     "TeamB": "Team Heretics",
@@ -308,31 +316,7 @@
     "TeamA": "Movistar KOI Fénix",
     "TeamB": "Team Heretics Academy",
     "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-20 19:21:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "NORTHERNGRADE ESPORTS",
-    "TeamB": "Tung Tung Bogi",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-20 19:05:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
-    "TeamA": "Senshi eSports (Benelux Team)",
-    "TeamB": "The Bandits",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-20 19:03:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
-    "TeamA": "Frites Esports Club",
-    "TeamB": "ZennIT",
-    "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-08-20 19:02:00"
+    "LatestGameTime": "2026-08-20 19:21:00"
   }
 ]
