@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LCP/2026 Season/Split 3",
+    "TeamA": "CTBC Flying Oyster",
+    "TeamB": "Team Secret Whales",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-23 10:49:00"
+  },
+  {
     "OverviewPage": "LCS/2026 Season/Summer Season",
     "TeamA": "Dignitas",
     "TeamB": "Disguised",
@@ -284,7 +292,7 @@
     "TeamA": "Senshi eSports (Benelux Team)",
     "TeamB": "The Bandits",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-20 19:03:00"
   },
   {
@@ -299,7 +307,7 @@
     "OverviewPage": "TCL/2026 Season/Summer Split",
     "TeamA": "Bushido Wildcats",
     "TeamB": "DIA Ozarox Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-20 18:20:00"
   },
@@ -318,13 +326,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-20 17:49:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "Bomba Team",
-    "TeamB": "UP2UMEDIA Cebulaki",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-20 17:19:00"
   }
 ]
