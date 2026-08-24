@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "LCS/2026 Season/Summer Season",
+    "TeamA": "Dignitas",
+    "TeamB": "FlyQuest",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-23 23:12:00"
+  },
+  {
+    "OverviewPage": "LCS/2026 Season/Summer Season",
+    "TeamA": "Disguised",
+    "TeamB": "Sentinels",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-23 20:56:00"
+  },
+  {
     "OverviewPage": "CBLOL/2026 Season/Split 2",
     "TeamA": "LOUD",
     "TeamB": "LØS",
@@ -291,24 +307,8 @@
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "EDward Gaming",
     "TeamB": "ThunderTalk Gaming",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-21 08:13:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
-    "TeamA": "Dorado Gaming",
-    "TeamB": "Maryville University",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-21 00:23:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
-    "TeamA": "Conviction",
-    "TeamB": "Cupid Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-20 22:15:00"
   }
 ]
