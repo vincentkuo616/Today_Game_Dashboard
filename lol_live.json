@@ -48,6 +48,14 @@
     "LatestGameTime": "2026-08-23 16:18:00"
   },
   {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "Anyone's Legend",
+    "TeamB": "Bilibili Gaming",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-23 14:45:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "BNK FEARX",
     "TeamB": "Nongshim RedForce",
@@ -64,6 +72,14 @@
     "LatestGameTime": "2026-08-23 11:40:00"
   },
   {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "EDward Gaming",
+    "TeamB": "JD Gaming",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-23 11:24:00"
+  },
+  {
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "CTBC Flying Oyster",
     "TeamB": "Team Secret Whales",
@@ -78,6 +94,14 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-23 08:59:00"
+  },
+  {
+    "OverviewPage": "LPL/2026 Season/Split 3",
+    "TeamA": "LGD Gaming",
+    "TeamB": "ThunderTalk Gaming",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-23 08:16:00"
   },
   {
     "OverviewPage": "LCS/2026 Season/Summer Season",
@@ -275,15 +299,15 @@
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "GAM Esports",
     "TeamB": "Team Secret Whales",
-    "ScoreA": 1,
-    "ScoreB": 3,
+    "ScoreA": 0,
+    "ScoreB": 2,
     "LatestGameTime": "2026-08-21 11:52:00"
   },
   {
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "Anyone's Legend",
     "TeamB": "Team WE",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-21 11:22:00"
   },
@@ -291,24 +315,8 @@
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "BNK FEARX",
     "TeamB": "HANJIN BRION",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-21 10:08:00"
-  },
-  {
-    "OverviewPage": "FLASH Oceania/2026 Season/Playoffs",
-    "TeamA": "The Chum Bucket",
-    "TeamB": "Trident Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-21 09:58:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "EDward Gaming",
-    "TeamB": "ThunderTalk Gaming",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-08-21 08:13:00"
+    "LatestGameTime": "2026-08-21 10:08:00"
   }
 ]
