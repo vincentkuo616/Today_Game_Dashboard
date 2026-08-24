@@ -1,6 +1,30 @@
 [
   {
     "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "G2 Esports",
+    "TeamB": "GIANTX",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-24 18:57:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Ruddy Corporation",
+    "TeamB": "Volda E-Sport",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-24 18:57:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "DMG Esports",
+    "TeamB": "Deer Gaming",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-24 16:58:00"
+  },
+  {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Fnatic",
     "TeamB": "Natus Vincere",
     "ScoreA": 0,
@@ -286,37 +310,5 @@
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-21 18:48:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "SK Gaming",
-    "TeamB": "Team Heretics",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-21 16:01:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "Bilibili Gaming",
-    "TeamB": "Top Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-21 13:23:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "KT Rolster",
-    "TeamB": "T1",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-21 13:16:00"
-  },
-  {
-    "OverviewPage": "LCP/2026 Season/Split 3",
-    "TeamA": "GAM Esports",
-    "TeamB": "Team Secret Whales",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-21 11:52:00"
   }
 ]
