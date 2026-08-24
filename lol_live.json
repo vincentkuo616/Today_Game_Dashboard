@@ -16,6 +16,14 @@
     "LatestGameTime": "2026-08-23 20:56:00"
   },
   {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Karmine Corp",
+    "TeamB": "Shifters",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-23 19:17:00"
+  },
+  {
     "OverviewPage": "CBLOL/2026 Season/Split 2",
     "TeamA": "LOUD",
     "TeamB": "LØS",
@@ -300,7 +308,7 @@
     "TeamA": "GAM Esports",
     "TeamB": "Team Secret Whales",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-21 11:52:00"
   },
   {
@@ -308,15 +316,7 @@
     "TeamA": "Anyone's Legend",
     "TeamB": "Team WE",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-21 11:22:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "BNK FEARX",
-    "TeamB": "HANJIN BRION",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-21 10:08:00"
   }
 ]
