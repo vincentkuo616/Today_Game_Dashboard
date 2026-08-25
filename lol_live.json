@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
+    "TeamA": "Frites Esports Club",
+    "TeamB": "Myth Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-25 17:57:00"
+  },
+  {
     "OverviewPage": "TCL/2026 Season/Summer Split",
     "TeamA": "PCIFIC Esports",
     "TeamB": "SU Esports",
@@ -302,13 +310,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-21 23:38:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
-    "TeamA": "Contingent Esports",
-    "TeamB": "NRG",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-21 21:51:00"
   }
 ]
