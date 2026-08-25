@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2 Playoffs",
+    "TeamA": "Fuego",
+    "TeamB": "Zeu5 Esports",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-25 02:46:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "G2 Esports",
     "TeamB": "GIANTX",
@@ -291,7 +299,7 @@
     "OverviewPage": "Prime League 2nd Division/2026 Season/Season Finals",
     "TeamA": "All for One Gaming",
     "TeamB": "DKB XPERION NXT",
-    "ScoreA": 3,
+    "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-21 19:55:00"
   },
@@ -299,7 +307,7 @@
     "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
     "TeamA": "Nameless (Benelux Team)",
     "TeamB": "RED OUAT",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-21 19:04:00"
   },
@@ -307,8 +315,8 @@
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Natus Vincere",
     "TeamB": "Team Vitality",
-    "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreA": 0,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-21 18:48:00"
   }
 ]
