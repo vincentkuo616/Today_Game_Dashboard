@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
+    "TeamA": "Dynasty",
+    "TeamB": "The Bandits",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-25 19:56:00"
+  },
+  {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Playoffs",
     "TeamA": "ROSSMANN Centaurs",
     "TeamB": "Unicorns of Love Sexy Edition",
@@ -292,15 +300,15 @@
     "TeamA": "LGD Gaming",
     "TeamB": "Team WE",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-22 09:01:00"
   },
   {
     "OverviewPage": "FLASH Oceania/2026 Season/Playoffs",
     "TeamA": "Krug Esports",
     "TeamB": "Team Secret Man",
-    "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreA": 0,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-22 08:00:00"
   }
 ]
