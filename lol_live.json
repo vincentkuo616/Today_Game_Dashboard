@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "TCL/2026 Season/Summer Split",
+    "TeamA": "PCIFIC Esports",
+    "TeamB": "Team Phoenix (Turkish Team)",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-26 16:46:00"
+  },
+  {
+    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
+    "TeamA": "BRUTE",
+    "TeamB": "EXILE esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-26 15:19:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Season Play-In",
     "TeamA": "HANJIN BRION",
     "TeamB": "KT Rolster",
@@ -275,7 +291,7 @@
     "OverviewPage": "LPL/2026 Season/Split 3",
     "TeamA": "JD Gaming",
     "TeamB": "Top Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-22 13:08:00"
   },
@@ -284,14 +300,14 @@
     "TeamA": "GAM Esports",
     "TeamB": "MVK Esports",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-22 13:02:00"
   },
   {
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "DN SOOPers",
     "TeamB": "Kiwoom DRX",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-22 12:30:00"
   },
@@ -300,15 +316,7 @@
     "TeamA": "Ancient Ones",
     "TeamB": "Team High Ground",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-22 12:10:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "Invictus Gaming",
-    "TeamB": "Ninjas in Pyjamas.CN",
-    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-08-22 11:08:00"
+    "LatestGameTime": "2026-08-22 12:10:00"
   }
 ]
