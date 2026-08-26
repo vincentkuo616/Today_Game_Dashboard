@@ -1,11 +1,35 @@
 [
   {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "Bubliki",
+    "TeamB": "Hyperion (Portuguese Team)",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-26 20:58:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "DMG Esports",
+    "TeamB": "Volda E-Sport",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-26 19:47:00"
+  },
+  {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "Bomba Team",
     "TeamB": "DOCISK",
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-26 19:12:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Playoffs",
+    "TeamA": "Aeterna Esports",
+    "TeamB": "Colossal Gaming",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-26 18:53:00"
   },
   {
     "OverviewPage": "NLC/2026 Season/Summer Split",
@@ -235,7 +259,7 @@
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "BNK FEARX",
     "TeamB": "Nongshim RedForce",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-23 11:57:00"
   },
@@ -244,7 +268,7 @@
     "TeamA": "Caldya Esport",
     "TeamB": "Galions Sharks",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-08-23 11:40:00"
   },
   {
@@ -252,7 +276,7 @@
     "TeamA": "EDward Gaming",
     "TeamB": "JD Gaming",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-23 11:24:00"
   },
   {
@@ -260,31 +284,7 @@
     "TeamA": "CTBC Flying Oyster",
     "TeamB": "Team Secret Whales",
     "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-08-23 10:49:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "Hanwha Life Esports",
-    "TeamB": "T1",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-23 08:59:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "LGD Gaming",
-    "TeamB": "ThunderTalk Gaming",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-23 08:16:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Season",
-    "TeamA": "Dignitas",
-    "TeamB": "Disguised",
-    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-08-22 22:43:00"
+    "LatestGameTime": "2026-08-23 10:49:00"
   }
 ]
