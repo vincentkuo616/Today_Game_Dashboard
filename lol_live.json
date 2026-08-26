@@ -1,5 +1,45 @@
 [
   {
+    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
+    "TeamA": "Bomba Team",
+    "TeamB": "DOCISK",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-26 19:12:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "B2U",
+    "TeamB": "Bulldog Esports",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-26 17:58:00"
+  },
+  {
+    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Playoffs",
+    "TeamA": "Eintracht Spandau",
+    "TeamB": "Kaufland Hangry Knights",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-26 17:57:00"
+  },
+  {
+    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
+    "TeamA": "CITA Kaizen",
+    "TeamB": "eSuba",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-26 17:57:00"
+  },
+  {
+    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
+    "TeamA": "Barcząca Esports by Yumisu",
+    "TeamB": "Forsaken (Polish Team)",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-26 17:07:00"
+  },
+  {
     "OverviewPage": "TCL/2026 Season/Summer Split",
     "TeamA": "PCIFIC Esports",
     "TeamB": "Team Phoenix (Turkish Team)",
@@ -96,19 +136,19 @@
     "LatestGameTime": "2026-08-25 02:46:00"
   },
   {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "G2 Esports",
-    "TeamB": "GIANTX",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-24 18:57:00"
-  },
-  {
     "OverviewPage": "NLC/2026 Season/Summer Split",
     "TeamA": "Ruddy Corporation",
     "TeamB": "Volda E-Sport",
     "ScoreA": 2,
     "ScoreB": 0,
+    "LatestGameTime": "2026-08-24 18:57:00"
+  },
+  {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "G2 Esports",
+    "TeamB": "GIANTX",
+    "ScoreA": 1,
+    "ScoreB": 2,
     "LatestGameTime": "2026-08-24 18:57:00"
   },
   {
@@ -244,79 +284,7 @@
     "TeamA": "Dignitas",
     "TeamB": "Disguised",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-22 22:43:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Season",
-    "TeamA": "FlyQuest",
-    "TeamB": "Sentinels",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-22 21:00:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2",
-    "TeamA": "FURIA",
-    "TeamB": "paiN Gaming",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-22 18:48:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "Movistar KOI",
-    "TeamB": "SK Gaming",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-22 17:54:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2",
-    "TeamA": "Leviatan",
-    "TeamB": "Vivo Keyd Stars",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-22 16:59:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "Fnatic",
-    "TeamB": "Shifters",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-22 16:02:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "JD Gaming",
-    "TeamB": "Top Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-22 13:08:00"
-  },
-  {
-    "OverviewPage": "LCP/2026 Season/Split 3",
-    "TeamA": "GAM Esports",
-    "TeamB": "MVK Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-22 13:02:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Rounds 3-4",
-    "TeamA": "DN SOOPers",
-    "TeamB": "Kiwoom DRX",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-22 12:30:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Playoffs",
-    "TeamA": "Ancient Ones",
-    "TeamB": "Team High Ground",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-22 12:10:00"
   }
 ]
