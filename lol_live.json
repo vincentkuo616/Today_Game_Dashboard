@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2 Playoffs",
+    "TeamA": "9z Globant",
+    "TeamB": "Golden Lions",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-25 21:58:00"
+  },
+  {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "DOCISK",
     "TeamB": "Forsaken (Polish Team)",
@@ -267,7 +275,7 @@
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "GAM Esports",
     "TeamB": "MVK Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 3,
     "LatestGameTime": "2026-08-22 13:02:00"
   },
@@ -299,16 +307,8 @@
     "OverviewPage": "LCK/2026 Season/Rounds 3-4",
     "TeamA": "Dplus Kia",
     "TeamB": "Gen.G",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-22 09:58:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Split 3",
-    "TeamA": "LGD Gaming",
-    "TeamB": "Team WE",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-08-22 09:01:00"
+    "LatestGameTime": "2026-08-22 09:58:00"
   }
 ]
