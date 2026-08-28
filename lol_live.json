@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
+    "TeamA": "Dynasty",
+    "TeamB": "Myth Esports",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-28 18:53:00"
+  },
+  {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Fnatic",
+    "TeamB": "Team Vitality",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-28 18:37:00"
+  },
+  {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Shifters",
+    "TeamB": "Team Heretics",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-28 16:00:00"
+  },
+  {
+    "OverviewPage": "FLASH Oceania/2026 Season/Playoffs",
+    "TeamA": "Onetricks",
+    "TeamB": "Team Secret Man",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-28 13:51:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Season Play-In",
     "TeamA": "BNK FEARX",
     "TeamB": "HANJIN BRION",
@@ -211,7 +243,7 @@
     "OverviewPage": "LIT/2026 Season/Summer Playoffs",
     "TeamA": "Aeterna Esports",
     "TeamB": "Colossal Gaming",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 3,
     "LatestGameTime": "2026-08-26 18:53:00"
   },
@@ -227,7 +259,7 @@
     "OverviewPage": "NLC/2026 Season/Summer Split",
     "TeamA": "B2U",
     "TeamB": "Bulldog Esports",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-26 17:58:00"
   },
@@ -236,39 +268,31 @@
     "TeamA": "CITA Kaizen",
     "TeamB": "eSuba",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-26 17:57:00"
   },
   {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Playoffs",
     "TeamA": "Eintracht Spandau",
     "TeamB": "Kaufland Hangry Knights",
-    "ScoreA": 1,
-    "ScoreB": 3,
+    "ScoreA": 0,
+    "ScoreB": 2,
     "LatestGameTime": "2026-08-26 17:57:00"
   },
   {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "Barcząca Esports by Yumisu",
     "TeamB": "Forsaken (Polish Team)",
-    "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreA": 0,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-26 17:07:00"
   },
   {
     "OverviewPage": "TCL/2026 Season/Summer Split",
     "TeamA": "PCIFIC Esports",
     "TeamB": "Team Phoenix (Turkish Team)",
-    "ScoreA": 3,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-26 16:46:00"
-  },
-  {
-    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
-    "TeamA": "BRUTE",
-    "TeamB": "EXILE esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-26 15:19:00"
   }
 ]
