@@ -1,5 +1,69 @@
 [
   {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "Tung Tung Bogi",
+    "TeamB": "White Dragons",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-27 20:05:00"
+  },
+  {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
+    "TeamA": "Once Upon A Team",
+    "TeamB": "Senshi eSports (Benelux Team)",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-27 19:04:00"
+  },
+  {
+    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Playoffs",
+    "TeamA": "Berlin International Gaming",
+    "TeamB": "G2 NORD",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-27 18:51:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Playoffs",
+    "TeamA": "EKO Esports",
+    "TeamB": "TITANS",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-27 18:24:00"
+  },
+  {
+    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
+    "TeamA": "Anonymo Esports",
+    "TeamB": "devils.one inStreamly",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-27 18:11:00"
+  },
+  {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
+    "TeamA": "ZennIT",
+    "TeamB": "mCon esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-27 17:53:00"
+  },
+  {
+    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
+    "TeamA": "Bohemian Guardians",
+    "TeamB": "Onion Team",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-27 17:53:00"
+  },
+  {
+    "OverviewPage": "TCL/2026 Season/Summer Split",
+    "TeamA": "DIA Ozarox Esports",
+    "TeamB": "Dark Passage",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-27 16:46:00"
+  },
+  {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "LODIS (Polish Team)",
     "TeamB": "UP2UMEDIA Cebulaki",
@@ -16,6 +80,14 @@
     "LatestGameTime": "2026-08-27 14:57:00"
   },
   {
+    "OverviewPage": "2026 Worlds Star Challengers Invitational/LPL Regional Qualifier",
+    "TeamA": "Top Esports Challenger",
+    "TeamB": "ZSK (Chinese Team)",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-27 11:37:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Season Play-In",
     "TeamA": "BNK FEARX",
     "TeamB": "Nongshim RedForce",
@@ -25,11 +97,27 @@
   },
   {
     "OverviewPage": "2026 Worlds Star Challengers Invitational/LPL Regional Qualifier",
+    "TeamA": "EDward Gaming Youth Team",
+    "TeamB": "Top Esports Challenger",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-27 09:44:00"
+  },
+  {
+    "OverviewPage": "2026 Worlds Star Challengers Invitational/LPL Regional Qualifier",
     "TeamA": "Ocean & Kimi Tournament Alliance",
     "TeamB": "ZSK (Chinese Team)",
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-27 08:08:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
+    "TeamA": "Conviction",
+    "TeamB": "Dorado Gaming",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-26 22:41:00"
   },
   {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
@@ -180,7 +268,7 @@
     "TeamA": "DOCISK",
     "TeamB": "Forsaken (Polish Team)",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-25 20:34:00"
   },
   {
@@ -188,103 +276,7 @@
     "TeamA": "Dynasty",
     "TeamB": "The Bandits",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-25 19:56:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Playoffs",
-    "TeamA": "ROSSMANN Centaurs",
-    "TeamB": "Unicorns of Love Sexy Edition",
-    "ScoreA": 1,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-08-25 17:58:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
-    "TeamA": "Frites Esports Club",
-    "TeamB": "Myth Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-25 17:57:00"
-  },
-  {
-    "OverviewPage": "TCL/2026 Season/Summer Split",
-    "TeamA": "PCIFIC Esports",
-    "TeamB": "SU Esports",
-    "ScoreA": 1,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-08-25 17:41:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "LODIS (Polish Team)",
-    "TeamB": "devils.one inStreamly",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-25 17:15:00"
-  },
-  {
-    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
-    "TeamA": "BRUTE",
-    "TeamB": "eSuba",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-25 16:40:00"
-  },
-  {
-    "OverviewPage": "2026 Worlds Star Challengers Invitational/LPL Regional Qualifier",
-    "TeamA": "EDward Gaming Youth Team",
-    "TeamB": "Top Esports Challenger",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-25 11:59:00"
-  },
-  {
-    "OverviewPage": "2026 Worlds Star Challengers Invitational/LPL Regional Qualifier",
-    "TeamA": "Bilibili Gaming Junior",
-    "TeamB": "Weibo Gaming Youth Team",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-25 10:07:00"
-  },
-  {
-    "OverviewPage": "2026 Worlds Star Challengers Invitational/LPL Regional Qualifier",
-    "TeamA": "EDward Gaming Youth Team",
-    "TeamB": "小爬虫",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-25 08:01:00"
-  },
-  {
-    "OverviewPage": "2026 Worlds Star Challengers Invitational/LPL Regional Qualifier",
-    "TeamA": "Ocean & Kimi Tournament Alliance",
-    "TeamB": "Top Esports Challenger",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-25 07:03:00"
-  },
-  {
-    "OverviewPage": "2026 Worlds Star Challengers Invitational/LPL Regional Qualifier",
-    "TeamA": "Weibo Gaming Youth Team",
-    "TeamB": "我超威",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-25 06:12:00"
-  },
-  {
-    "OverviewPage": "2026 Worlds Star Challengers Invitational/LPL Regional Qualifier",
-    "TeamA": "Bilibili Gaming Junior",
-    "TeamB": "ZSK (Chinese Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-25 05:15:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2 Playoffs",
-    "TeamA": "Fuego",
-    "TeamB": "Zeu5 Esports",
-    "ScoreA": 2,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-08-25 02:46:00"
   }
 ]
