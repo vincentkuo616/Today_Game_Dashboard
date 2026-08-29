@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "LOUD",
+    "TeamB": "RED Canids",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-29 17:12:00"
+  },
+  {
     "OverviewPage": "Equal Esports Cup 2026/Playoffs",
     "TeamA": "Mental Rush",
     "TeamB": "Vitality Rising Bees",
@@ -259,7 +267,7 @@
     "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
     "TeamA": "Conviction",
     "TeamB": "Dorado Gaming",
-    "ScoreA": 3,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-26 22:41:00"
   }
