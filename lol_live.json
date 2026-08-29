@@ -1,11 +1,35 @@
 [
   {
     "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "Fluxo W7M",
+    "TeamB": "LØS",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-29 19:36:00"
+  },
+  {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "GIANTX",
+    "TeamB": "Natus Vincere",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-29 19:06:00"
+  },
+  {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
     "TeamA": "LOUD",
     "TeamB": "RED Canids",
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-29 17:12:00"
+  },
+  {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Karmine Corp",
+    "TeamB": "SK Gaming",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-29 16:05:00"
   },
   {
     "OverviewPage": "Equal Esports Cup 2026/Playoffs",
@@ -243,32 +267,8 @@
     "OverviewPage": "LCK/2026 Season/Season Play-In",
     "TeamA": "BNK FEARX",
     "TeamB": "Nongshim RedForce",
-    "ScoreA": 3,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-27 10:48:00"
-  },
-  {
-    "OverviewPage": "2026 Worlds Star Challengers Invitational/LPL Regional Qualifier",
-    "TeamA": "EDward Gaming Youth Team",
-    "TeamB": "Top Esports Challenger",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-27 09:44:00"
-  },
-  {
-    "OverviewPage": "2026 Worlds Star Challengers Invitational/LPL Regional Qualifier",
-    "TeamA": "Ocean & Kimi Tournament Alliance",
-    "TeamB": "ZSK (Chinese Team)",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-27 08:08:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
-    "TeamA": "Conviction",
-    "TeamB": "Dorado Gaming",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-08-26 22:41:00"
+    "LatestGameTime": "2026-08-27 10:48:00"
   }
 ]
