@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
+    "TeamA": "NRG",
+    "TeamB": "Winthrop University",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-29 01:46:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
+    "TeamA": "Cupid Esports",
+    "TeamB": "Maryville University",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-28 22:49:00"
+  },
+  {
     "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
     "TeamA": "Dynasty",
     "TeamB": "Myth Esports",
@@ -235,7 +251,7 @@
     "OverviewPage": "LoL Game Changers/2026 Season/Stage 4",
     "TeamA": "G2 Hel",
     "TeamB": "SK Gaming Avarosa",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-26 19:04:00"
   },
@@ -244,7 +260,7 @@
     "TeamA": "Aeterna Esports",
     "TeamB": "Colossal Gaming",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-08-26 18:53:00"
   },
   {
@@ -267,7 +283,7 @@
     "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
     "TeamA": "CITA Kaizen",
     "TeamB": "eSuba",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-26 17:57:00"
   },
@@ -276,23 +292,7 @@
     "TeamA": "Eintracht Spandau",
     "TeamB": "Kaufland Hangry Knights",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-26 17:57:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "Barcząca Esports by Yumisu",
-    "TeamB": "Forsaken (Polish Team)",
-    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-08-26 17:07:00"
-  },
-  {
-    "OverviewPage": "TCL/2026 Season/Summer Split",
-    "TeamA": "PCIFIC Esports",
-    "TeamB": "Team Phoenix (Turkish Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-26 16:46:00"
+    "LatestGameTime": "2026-08-26 17:57:00"
   }
 ]
