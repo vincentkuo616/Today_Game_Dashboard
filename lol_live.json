@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "Vivo Keyd Stars",
+    "TeamB": "paiN Gaming",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-30 18:00:00"
+  },
+  {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Fnatic",
+    "TeamB": "GIANTX",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-30 17:34:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Movistar KOI",
     "TeamB": "Team Heretics",
@@ -244,39 +260,7 @@
     "TeamA": "Tung Tung Bogi",
     "TeamB": "White Dragons",
     "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-08-27 20:05:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
-    "TeamA": "Once Upon A Team",
-    "TeamB": "Senshi eSports (Benelux Team)",
-    "ScoreA": 0,
     "ScoreB": 2,
-    "LatestGameTime": "2026-08-27 19:04:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Playoffs",
-    "TeamA": "Berlin International Gaming",
-    "TeamB": "G2 NORD",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-27 18:51:00"
-  },
-  {
-    "OverviewPage": "LIT/2026 Season/Summer Playoffs",
-    "TeamA": "EKO Esports",
-    "TeamB": "TITANS",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-27 18:24:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "Anonymo Esports",
-    "TeamB": "devils.one inStreamly",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-27 18:11:00"
+    "LatestGameTime": "2026-08-27 20:05:00"
   }
 ]
