@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Movistar KOI",
+    "TeamB": "Team Heretics",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-30 14:51:00"
+  },
+  {
+    "OverviewPage": "LEC/2026 Season/Summer Season",
+    "TeamA": "Shifters",
+    "TeamB": "Team Vitality",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-30 13:02:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Grand Finals",
     "TeamA": "JD Gaming",
     "TeamB": "Team WE",
@@ -243,7 +259,7 @@
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Playoffs",
     "TeamA": "Berlin International Gaming",
     "TeamB": "G2 NORD",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-27 18:51:00"
   },
@@ -260,23 +276,7 @@
     "TeamA": "Anonymo Esports",
     "TeamB": "devils.one inStreamly",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-27 18:11:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
-    "TeamA": "ZennIT",
-    "TeamB": "mCon esports",
-    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-08-27 17:53:00"
-  },
-  {
-    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
-    "TeamA": "Bohemian Guardians",
-    "TeamB": "Onion Team",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-27 17:53:00"
+    "LatestGameTime": "2026-08-27 18:11:00"
   }
 ]
