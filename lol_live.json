@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "LPL/2026 Season/Grand Finals",
+    "TeamA": "JD Gaming",
+    "TeamB": "Team WE",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-30 11:52:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2026 Season/Summer Playoffs",
+    "TeamA": "Galions Sharks",
+    "TeamB": "Team High Ground",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-30 11:32:00"
+  },
+  {
+    "OverviewPage": "LCP/2026 Season/Split 3",
+    "TeamA": "CTBC Flying Oyster",
+    "TeamB": "Team Secret Whales",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-30 10:26:00"
+  },
+  {
+    "OverviewPage": "LCK/2026 Season/Season Playoffs",
+    "TeamA": "Dplus Kia",
+    "TeamB": "KT Rolster",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-08-30 10:16:00"
+  },
+  {
     "OverviewPage": "LCS/2026 Season/Summer Season",
     "TeamA": "Cloud9",
     "TeamB": "LYON (2024 American Team)",
@@ -211,8 +243,8 @@
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Playoffs",
     "TeamA": "Berlin International Gaming",
     "TeamB": "G2 NORD",
-    "ScoreA": 2,
-    "ScoreB": 3,
+    "ScoreA": 1,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-27 18:51:00"
   },
   {
@@ -220,7 +252,7 @@
     "TeamA": "EKO Esports",
     "TeamB": "TITANS",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-27 18:24:00"
   },
   {
@@ -236,31 +268,15 @@
     "TeamA": "ZennIT",
     "TeamB": "mCon esports",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-27 17:53:00"
   },
   {
     "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
     "TeamA": "Bohemian Guardians",
     "TeamB": "Onion Team",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-27 17:53:00"
-  },
-  {
-    "OverviewPage": "TCL/2026 Season/Summer Split",
-    "TeamA": "DIA Ozarox Esports",
-    "TeamB": "Dark Passage",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-08-27 16:46:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "LODIS (Polish Team)",
-    "TeamB": "UP2UMEDIA Cebulaki",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-08-27 16:07:00"
+    "LatestGameTime": "2026-08-27 17:53:00"
   }
 ]
