@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "LCS/2026 Season/Summer Season",
+    "TeamA": "LYON (2024 American Team)",
+    "TeamB": "Team Liquid",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-30 21:03:00"
+  },
+  {
+    "OverviewPage": "CBLOL/2026 Season/Split 2",
+    "TeamA": "FURIA",
+    "TeamB": "Leviatan",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-30 20:07:00"
+  },
+  {
     "OverviewPage": "CBLOL/2026 Season/Split 2",
     "TeamA": "Vivo Keyd Stars",
     "TeamB": "paiN Gaming",
@@ -251,16 +267,8 @@
     "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
     "TeamA": "Contingent Esports",
     "TeamB": "University of Mississippi",
-    "ScoreA": 3,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-28 00:43:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Tung Tung Bogi",
-    "TeamB": "White Dragons",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-27 20:05:00"
   }
 ]
