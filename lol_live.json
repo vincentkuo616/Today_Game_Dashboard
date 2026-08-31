@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Deer Gaming",
+    "TeamB": "Ruddy Corporation",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-08-31 18:55:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Arctic Pandas",
+    "TeamB": "Verdant",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-08-31 17:09:00"
+  },
+  {
     "OverviewPage": "LCS/2026 Season/Summer Season",
     "TeamA": "Cloud9",
     "TeamB": "Shopify Rebellion",
@@ -243,8 +259,8 @@
     "OverviewPage": "LCK/2026 Season/Season Play-In",
     "TeamA": "BNK FEARX",
     "TeamB": "HANJIN BRION",
-    "ScoreA": 3,
-    "ScoreB": 2,
+    "ScoreA": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-28 11:40:00"
   },
   {
@@ -262,13 +278,5 @@
     "ScoreA": 3,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-28 10:50:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Grand Finals",
-    "TeamA": "EDward Gaming",
-    "TeamB": "Ninjas in Pyjamas.CN",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-28 08:03:00"
   }
 ]
