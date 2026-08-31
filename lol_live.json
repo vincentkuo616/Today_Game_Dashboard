@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "LCS/2026 Season/Summer Season",
+    "TeamA": "Cloud9",
+    "TeamB": "Shopify Rebellion",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-08-30 23:43:00"
+  },
+  {
+    "OverviewPage": "LCS/2026 Season/Summer Season",
     "TeamA": "LYON (2024 American Team)",
     "TeamB": "Team Liquid",
     "ScoreA": 2,
@@ -260,15 +268,7 @@
     "TeamA": "EDward Gaming",
     "TeamB": "Ninjas in Pyjamas.CN",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-08-28 08:03:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
-    "TeamA": "Contingent Esports",
-    "TeamB": "University of Mississippi",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-28 00:43:00"
   }
 ]
