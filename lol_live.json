@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
+    "TeamA": "Bomba Team",
+    "TeamB": "LODIS (Polish Team)",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-01 19:06:00"
+  },
+  {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Playoffs",
+    "TeamA": "Frites Esports Club",
+    "TeamB": "Senshi eSports (Benelux Team)",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-01 18:35:00"
+  },
+  {
+    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
+    "TeamA": "BRUTE",
+    "TeamB": "Meavedron",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-01 18:06:00"
+  },
+  {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Playoffs",
     "TeamA": "Kaufland Hangry Knights",
     "TeamB": "Unicorns of Love Sexy Edition",
@@ -252,47 +276,7 @@
     "TeamA": "NRG",
     "TeamB": "Winthrop University",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-29 01:46:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
-    "TeamA": "Cupid Esports",
-    "TeamB": "Maryville University",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-28 22:49:00"
-  },
-  {
-    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
-    "TeamA": "FUSE",
-    "TeamB": "Frost Tails",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-28 20:00:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Summer Split",
-    "TeamA": "Dynasty",
-    "TeamB": "Myth Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-28 18:53:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "Fnatic",
-    "TeamB": "Team Vitality",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-28 18:37:00"
-  },
-  {
-    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
-    "TeamA": "Meavedron Benelux",
-    "TeamB": "RED OUAT",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-28 18:15:00"
   }
 ]
