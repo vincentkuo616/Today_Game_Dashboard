@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Playoffs",
+    "TeamA": "The Bandits",
+    "TeamB": "mCon esports",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-01 20:17:00"
+  },
+  {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "Bomba Team",
     "TeamB": "LODIS (Polish Team)",
@@ -260,7 +268,7 @@
     "TeamA": "BNK FEARX",
     "TeamB": "T1",
     "ScoreA": 2,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-08-29 12:01:00"
   },
   {
@@ -270,13 +278,5 @@
     "ScoreA": 3,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-29 10:44:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
-    "TeamA": "NRG",
-    "TeamB": "Winthrop University",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-29 01:46:00"
   }
 ]
