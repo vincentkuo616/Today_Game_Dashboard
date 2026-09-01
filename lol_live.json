@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "LCK/2026 Season/Season Playoffs",
+    "TeamA": "Gen.G",
+    "TeamB": "KT Rolster",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-01 10:08:00"
+  },
+  {
+    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2 Playoffs",
+    "TeamA": "3v Team",
+    "TeamB": "Fuego",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-01 00:53:00"
+  },
+  {
     "OverviewPage": "NLC/2026 Season/Summer Split",
     "TeamA": "Deer Gaming",
     "TeamB": "Ruddy Corporation",
@@ -259,23 +275,23 @@
     "OverviewPage": "LCK/2026 Season/Season Play-In",
     "TeamA": "BNK FEARX",
     "TeamB": "HANJIN BRION",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-28 11:40:00"
   },
   {
     "OverviewPage": "FLASH Oceania/2026 Season/Playoffs",
     "TeamA": "Gromp Esports",
     "TeamB": "Trident Esports",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-08-28 11:08:00"
   },
   {
     "OverviewPage": "LPL/2026 Season/Grand Finals",
     "TeamA": "Invictus Gaming",
     "TeamB": "ThunderTalk Gaming",
-    "ScoreA": 3,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-08-28 10:50:00"
   }
