@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LCK/2026 Season/Season Playoffs",
+    "TeamA": "Hanwha Life Esports",
+    "TeamB": "T1",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-02 11:38:00"
+  },
+  {
     "OverviewPage": "Liga Regional Sur/2026 Season/Split 2 Playoffs",
     "TeamA": "Golden Lions",
     "TeamB": "Maze Gaming",
@@ -259,7 +267,7 @@
     "OverviewPage": "LPL/2026 Season/Grand Finals",
     "TeamA": "LGD Gaming",
     "TeamB": "Top Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-29 13:08:00"
   },
@@ -267,7 +275,7 @@
     "OverviewPage": "Nexus League/2026 Season/Summer Playoffs",
     "TeamA": "Karmine Corp Blue Stars",
     "TeamB": "Project Conquerors",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-29 12:53:00"
   },
@@ -275,16 +283,8 @@
     "OverviewPage": "LCK/2026 Season/Season Playoffs",
     "TeamA": "BNK FEARX",
     "TeamB": "T1",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-29 12:01:00"
-  },
-  {
-    "OverviewPage": "LCP/2026 Season/Split 3",
-    "TeamA": "CTBC Flying Oyster",
-    "TeamB": "MVK Esports",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-29 10:44:00"
   }
 ]
