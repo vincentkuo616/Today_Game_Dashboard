@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2 Playoffs",
+    "TeamA": "Golden Lions",
+    "TeamB": "Maze Gaming",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-01 22:47:00"
+  },
+  {
     "OverviewPage": "Road Of Legends/2026 Season/Summer Playoffs",
     "TeamA": "The Bandits",
     "TeamB": "mCon esports",
@@ -251,7 +259,7 @@
     "OverviewPage": "LPL/2026 Season/Grand Finals",
     "TeamA": "LGD Gaming",
     "TeamB": "Top Esports",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-29 13:08:00"
   },
@@ -267,7 +275,7 @@
     "OverviewPage": "LCK/2026 Season/Season Playoffs",
     "TeamA": "BNK FEARX",
     "TeamB": "T1",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-08-29 12:01:00"
   },
@@ -275,7 +283,7 @@
     "OverviewPage": "LCP/2026 Season/Split 3",
     "TeamA": "CTBC Flying Oyster",
     "TeamB": "MVK Esports",
-    "ScoreA": 3,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-29 10:44:00"
   }
