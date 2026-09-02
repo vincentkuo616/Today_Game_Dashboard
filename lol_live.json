@@ -1,11 +1,43 @@
 [
   {
+    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
+    "TeamA": "Forsaken (Polish Team)",
+    "TeamB": "devils.one inStreamly",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-02 19:09:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "DMG Esports",
+    "TeamB": "Verdant",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-02 18:55:00"
+  },
+  {
+    "OverviewPage": "TCL/2026 Season/Summer Split",
+    "TeamA": "Bushido Wildcats",
+    "TeamB": "SU Esports",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-02 18:46:00"
+  },
+  {
     "OverviewPage": "LIT/2026 Season/Summer Playoffs",
     "TeamA": "TITANS",
     "TeamB": "Zena Esports",
     "ScoreA": 0,
     "ScoreB": 3,
     "LatestGameTime": "2026-09-02 18:03:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Bulldog Esports",
+    "TeamB": "Deer Gaming",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-02 17:59:00"
   },
   {
     "OverviewPage": "LES/2026 Season/Final Four",
@@ -238,45 +270,5 @@
     "ScoreA": 0,
     "ScoreB": 3,
     "LatestGameTime": "2026-08-30 10:16:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Season",
-    "TeamA": "Cloud9",
-    "TeamB": "LYON (2024 American Team)",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-29 23:58:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Season",
-    "TeamA": "Shopify Rebellion",
-    "TeamB": "Team Liquid",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-29 21:47:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2",
-    "TeamA": "Fluxo W7M",
-    "TeamB": "LØS",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-29 19:36:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "GIANTX",
-    "TeamB": "Natus Vincere",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-29 19:06:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2",
-    "TeamA": "LOUD",
-    "TeamB": "RED Canids",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-29 17:12:00"
   }
 ]
