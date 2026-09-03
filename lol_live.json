@@ -1,11 +1,27 @@
 [
   {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Playoffs",
+    "TeamA": "The Bandits",
+    "TeamB": "ZennIT",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-03 19:44:00"
+  },
+  {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "LODIS (Polish Team)",
     "TeamB": "devils.one inStreamly",
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-03 18:13:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Playoffs",
+    "TeamA": "Colossal Gaming",
+    "TeamB": "HMBLE",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-03 17:53:00"
   },
   {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Playoffs",
@@ -211,7 +227,7 @@
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Playoffs",
     "TeamA": "Kaufland Hangry Knights",
     "TeamB": "Unicorns of Love Sexy Edition",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-01 17:50:00"
   },
@@ -238,21 +254,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-01 16:11:00"
-  },
-  {
-    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
-    "TeamA": "CITA Kaizen",
-    "TeamB": "EXILE esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-01 15:11:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Season Playoffs",
-    "TeamA": "Gen.G",
-    "TeamB": "KT Rolster",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-01 10:08:00"
   }
 ]
