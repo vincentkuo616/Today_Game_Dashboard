@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "LCK/2026 Season/Season Playoffs",
+    "TeamA": "BNK FEARX",
+    "TeamB": "Dplus Kia",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-03 11:59:00"
+  },
+  {
+    "OverviewPage": "LPL/2026 Season/Grand Finals",
+    "TeamA": "Bilibili Gaming",
+    "TeamB": "Team WE",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-03 11:58:00"
+  },
+  {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "Francesinhas",
     "TeamB": "Otter Side",
@@ -38,6 +54,14 @@
     "ScoreA": 3,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-02 18:46:00"
+  },
+  {
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
+    "TeamA": "FUSE",
+    "TeamB": "Mind Blue eSports",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-02 18:33:00"
   },
   {
     "OverviewPage": "LIT/2026 Season/Summer Playoffs",
@@ -236,55 +260,7 @@
     "TeamA": "Fnatic",
     "TeamB": "GIANTX",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-30 17:34:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "Movistar KOI",
-    "TeamB": "Team Heretics",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-30 14:51:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "Shifters",
-    "TeamB": "Team Vitality",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-30 13:02:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Grand Finals",
-    "TeamA": "JD Gaming",
-    "TeamB": "Team WE",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-30 11:52:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Playoffs",
-    "TeamA": "Galions Sharks",
-    "TeamB": "Team High Ground",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-30 11:32:00"
-  },
-  {
-    "OverviewPage": "LCP/2026 Season/Split 3",
-    "TeamA": "CTBC Flying Oyster",
-    "TeamB": "Team Secret Whales",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-30 10:26:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Season Playoffs",
-    "TeamA": "Dplus Kia",
-    "TeamB": "KT Rolster",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-30 10:16:00"
   }
 ]
