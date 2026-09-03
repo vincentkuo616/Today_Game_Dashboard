@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-09-03",
+    "games": [
+      {
+        "id": 184261,
+        "venue": "桃園國際棒球場",
+        "display_time": "9/3 (四) 18:35",
+        "status_long": "Not Started",
+        "status_key": "scheduled",
+        "home_name": "樂天桃猿",
+        "away_name": "味全龍",
+        "home_score": "-",
+        "away_score": "-"
+      }
+    ]
+  },
+  {
     "date": "2026-09-02",
     "games": [
       {
@@ -52,9 +68,5 @@
         "away_score": "-"
       }
     ]
-  },
-  {
-    "date": "2026-08-31",
-    "games": []
   }
 ]

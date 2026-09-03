@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "Francesinhas",
+    "TeamB": "Otter Side",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-02 21:11:00"
+  },
+  {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "Forsaken (Polish Team)",
     "TeamB": "devils.one inStreamly",
@@ -244,7 +252,7 @@
     "TeamA": "JD Gaming",
     "TeamB": "Team WE",
     "ScoreA": 1,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-08-30 11:52:00"
   },
   {
@@ -260,7 +268,7 @@
     "TeamA": "CTBC Flying Oyster",
     "TeamB": "Team Secret Whales",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-08-30 10:26:00"
   },
   {
@@ -268,7 +276,7 @@
     "TeamA": "Dplus Kia",
     "TeamB": "KT Rolster",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 1,
     "LatestGameTime": "2026-08-30 10:16:00"
   }
 ]
