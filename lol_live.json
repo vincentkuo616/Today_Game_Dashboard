@@ -1,5 +1,53 @@
 [
   {
+    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
+    "TeamA": "LODIS (Polish Team)",
+    "TeamB": "devils.one inStreamly",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-03 18:13:00"
+  },
+  {
+    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Playoffs",
+    "TeamA": "Berlin International Gaming",
+    "TeamB": "Kaufland Hangry Knights",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-03 17:46:00"
+  },
+  {
+    "OverviewPage": "TCL/2026 Season/Summer Split",
+    "TeamA": "PCIFIC Esports",
+    "TeamB": "SU Esports",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-03 17:42:00"
+  },
+  {
+    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
+    "TeamA": "EXILE esports",
+    "TeamB": "eSuba",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-03 17:42:00"
+  },
+  {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Playoffs",
+    "TeamA": "Myth Esports",
+    "TeamB": "Senshi eSports (Benelux Team)",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-03 17:01:00"
+  },
+  {
+    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
+    "TeamA": "Barcząca Esports by Yumisu",
+    "TeamB": "DOCISK",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-03 16:09:00"
+  },
+  {
     "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
     "TeamA": "BRUTE",
     "TeamB": "Nightbirds",
@@ -206,69 +254,5 @@
     "ScoreA": 3,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-01 10:08:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2 Playoffs",
-    "TeamA": "3v Team",
-    "TeamB": "Fuego",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-09-01 00:53:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Deer Gaming",
-    "TeamB": "Ruddy Corporation",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-08-31 18:55:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Arctic Pandas",
-    "TeamB": "Verdant",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-31 17:09:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Season",
-    "TeamA": "Cloud9",
-    "TeamB": "Shopify Rebellion",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-30 23:43:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Season",
-    "TeamA": "LYON (2024 American Team)",
-    "TeamB": "Team Liquid",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-30 21:03:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2",
-    "TeamA": "FURIA",
-    "TeamB": "Leviatan",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-08-30 20:07:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2",
-    "TeamA": "Vivo Keyd Stars",
-    "TeamB": "paiN Gaming",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-30 18:00:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Season",
-    "TeamA": "Fnatic",
-    "TeamB": "GIANTX",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-08-30 17:34:00"
   }
 ]
