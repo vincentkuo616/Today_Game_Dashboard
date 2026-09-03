@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
+    "TeamA": "BRUTE",
+    "TeamB": "Nightbirds",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-03 14:50:00"
+  },
+  {
     "OverviewPage": "LCK/2026 Season/Season Playoffs",
     "TeamA": "BNK FEARX",
     "TeamB": "Dplus Kia",
@@ -251,7 +259,7 @@
     "OverviewPage": "CBLOL/2026 Season/Split 2",
     "TeamA": "Vivo Keyd Stars",
     "TeamB": "paiN Gaming",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-30 18:00:00"
   },
@@ -259,7 +267,7 @@
     "OverviewPage": "LEC/2026 Season/Summer Season",
     "TeamA": "Fnatic",
     "TeamB": "GIANTX",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-08-30 17:34:00"
   }
