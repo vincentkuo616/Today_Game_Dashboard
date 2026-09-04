@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
+    "TeamA": "Contingent Esports",
+    "TeamB": "Maryville University",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-04 00:36:00"
+  },
+  {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "Dominion Goblins",
     "TeamB": "Dream Esports",
@@ -220,14 +228,14 @@
     "TeamA": "Frites Esports Club",
     "TeamB": "Senshi eSports (Benelux Team)",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-01 18:35:00"
   },
   {
     "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
     "TeamA": "BRUTE",
     "TeamB": "Meavedron",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-01 18:06:00"
   },
@@ -236,7 +244,7 @@
     "TeamA": "Kaufland Hangry Knights",
     "TeamB": "Unicorns of Love Sexy Edition",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-01 17:50:00"
   },
   {
@@ -244,7 +252,7 @@
     "TeamA": "Dark Passage",
     "TeamB": "PCIFIC Esports",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-01 17:31:00"
   },
   {
@@ -254,13 +262,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-01 16:50:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "Anonymo Esports",
-    "TeamB": "UP2UMEDIA Cebulaki",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-01 16:11:00"
   }
 ]
