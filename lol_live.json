@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "LPL/2026 Season/Grand Finals",
+    "TeamA": "Anyone's Legend",
+    "TeamB": "LGD Gaming",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-04 12:03:00"
+  },
+  {
+    "OverviewPage": "LCK/2026 Season/Season Playoffs",
+    "TeamA": "Dplus Kia",
+    "TeamB": "KT Rolster",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-04 10:58:00"
+  },
+  {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
     "TeamA": "Contingent Esports",
     "TeamB": "Maryville University",
@@ -219,7 +235,7 @@
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "Bomba Team",
     "TeamB": "LODIS (Polish Team)",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-01 19:06:00"
   },
@@ -227,40 +243,8 @@
     "OverviewPage": "Road Of Legends/2026 Season/Summer Playoffs",
     "TeamA": "Frites Esports Club",
     "TeamB": "Senshi eSports (Benelux Team)",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-01 18:35:00"
-  },
-  {
-    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
-    "TeamA": "BRUTE",
-    "TeamB": "Meavedron",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-01 18:06:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Playoffs",
-    "TeamA": "Kaufland Hangry Knights",
-    "TeamB": "Unicorns of Love Sexy Edition",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-01 17:50:00"
-  },
-  {
-    "OverviewPage": "TCL/2026 Season/Summer Split",
-    "TeamA": "Dark Passage",
-    "TeamB": "PCIFIC Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-01 17:31:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Final Four",
-    "TeamA": "Barça eSports",
-    "TeamB": "UCAM Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-01 16:50:00"
   }
 ]
