@@ -1,11 +1,27 @@
 [
   {
+    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
+    "TeamA": "DOCISK",
+    "TeamB": "LODIS (Polish Team)",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-04 16:03:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Grand Finals",
     "TeamA": "Anyone's Legend",
     "TeamB": "LGD Gaming",
     "ScoreA": 3,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-04 12:03:00"
+  },
+  {
+    "OverviewPage": "PCS/2026 Season/Summer Season",
+    "TeamA": "Reignfall",
+    "TeamB": "SillySilly Gaming",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-04 11:17:00"
   },
   {
     "OverviewPage": "LCK/2026 Season/Season Playoffs",
@@ -227,24 +243,8 @@
     "OverviewPage": "Road Of Legends/2026 Season/Summer Playoffs",
     "TeamA": "The Bandits",
     "TeamB": "mCon esports",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-01 20:17:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "Bomba Team",
-    "TeamB": "LODIS (Polish Team)",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-09-01 19:06:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Summer Playoffs",
-    "TeamA": "Frites Esports Club",
-    "TeamB": "Senshi eSports (Benelux Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-01 18:35:00"
+    "LatestGameTime": "2026-09-01 20:17:00"
   }
 ]
