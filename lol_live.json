@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
+    "TeamA": "Bohemian Guardians",
+    "TeamB": "eSuba",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-04 17:14:00"
+  },
+  {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "DOCISK",
     "TeamB": "LODIS (Polish Team)",
@@ -235,16 +243,8 @@
     "OverviewPage": "Liga Regional Sur/2026 Season/Split 2 Playoffs",
     "TeamA": "Golden Lions",
     "TeamB": "Maze Gaming",
-    "ScoreA": 3,
-    "ScoreB": 1,
+    "ScoreA": 2,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-01 22:47:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Summer Playoffs",
-    "TeamA": "The Bandits",
-    "TeamB": "mCon esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-01 20:17:00"
   }
 ]
