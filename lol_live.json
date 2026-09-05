@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
+    "TeamA": "Cupid Esports",
+    "TeamB": "Winthrop University",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-04 23:38:00"
+  },
+  {
     "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
     "TeamA": "Bohemian Guardians",
     "TeamB": "eSuba",
@@ -236,15 +244,7 @@
     "TeamA": "Hanwha Life Esports",
     "TeamB": "T1",
     "ScoreA": 3,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-02 11:38:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2 Playoffs",
-    "TeamA": "Golden Lions",
-    "TeamB": "Maze Gaming",
-    "ScoreA": 2,
     "ScoreB": 0,
-    "LatestGameTime": "2026-09-01 22:47:00"
+    "LatestGameTime": "2026-09-02 11:38:00"
   }
 ]
