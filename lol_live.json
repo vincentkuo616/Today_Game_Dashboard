@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "LPL/2026 Season/Grand Finals",
+    "TeamA": "Invictus Gaming",
+    "TeamB": "Top Esports",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-05 10:08:00"
+  },
+  {
+    "OverviewPage": "FLASH Oceania/2026 Season/Playoffs",
+    "TeamA": "Onetricks",
+    "TeamB": "Team Gromp (Australian Team)",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-05 08:05:00"
+  },
+  {
+    "OverviewPage": "LJL/2026 Season/Summer Championship",
+    "TeamA": "L Guide Gaming",
+    "TeamB": "New Meta",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-05 07:30:00"
+  },
+  {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
     "TeamA": "Cupid Esports",
     "TeamB": "Winthrop University",
@@ -187,8 +211,8 @@
     "OverviewPage": "TCL/2026 Season/Summer Split",
     "TeamA": "Bushido Wildcats",
     "TeamB": "SU Esports",
-    "ScoreA": 3,
-    "ScoreB": 2,
+    "ScoreA": 1,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-02 18:46:00"
   },
   {
@@ -204,7 +228,7 @@
     "TeamA": "TITANS",
     "TeamB": "Zena Esports",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-09-02 18:03:00"
   },
   {
@@ -212,15 +236,15 @@
     "TeamA": "Bulldog Esports",
     "TeamB": "Deer Gaming",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-02 17:59:00"
   },
   {
     "OverviewPage": "LES/2026 Season/Final Four",
     "TeamA": "Movistar KOI Fénix",
     "TeamB": "UCAM Esports",
-    "ScoreA": 3,
-    "ScoreB": 1,
+    "ScoreA": 2,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-02 17:57:00"
   },
   {
@@ -228,23 +252,7 @@
     "TeamA": "Meavedron",
     "TeamB": "Onion Team",
     "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-02 17:47:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "Anonymo Esports",
-    "TeamB": "Barcząca Esports by Yumisu",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-02 16:06:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Season Playoffs",
-    "TeamA": "Hanwha Life Esports",
-    "TeamB": "T1",
-    "ScoreA": 3,
     "ScoreB": 0,
-    "LatestGameTime": "2026-09-02 11:38:00"
+    "LatestGameTime": "2026-09-02 17:47:00"
   }
 ]
