@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "LEC/2026 Season/Summer Playoffs",
+    "TeamA": "G2 Esports",
+    "TeamB": "Team Vitality",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-05 12:19:00"
+  },
+  {
+    "OverviewPage": "PCS/2026 Season/Summer Season",
+    "TeamA": "CTBC Flying Oyster Academy",
+    "TeamB": "SillySilly Gaming",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-05 12:04:00"
+  },
+  {
+    "OverviewPage": "LCK/2026 Season/Season Playoffs",
+    "TeamA": "Gen.G",
+    "TeamB": "Hanwha Life Esports",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-05 11:13:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Grand Finals",
     "TeamA": "Invictus Gaming",
     "TeamB": "Top Esports",
@@ -30,6 +54,22 @@
     "ScoreA": 3,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-04 23:38:00"
+  },
+  {
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
+    "TeamA": "BiPOLAR (Benelux Team)",
+    "TeamB": "RED OUAT",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-04 19:37:00"
+  },
+  {
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
+    "TeamA": "Last Dance (Benelux Team)",
+    "TeamB": "Nameless (Benelux Team)",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-04 18:58:00"
   },
   {
     "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
@@ -179,7 +219,7 @@
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "Francesinhas",
     "TeamB": "Otter Side",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 3,
     "LatestGameTime": "2026-09-02 21:11:00"
   },
@@ -188,15 +228,15 @@
     "TeamA": "Frost Tails",
     "TeamB": "Meavedron Benelux",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-02 20:21:00"
   },
   {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "Forsaken (Polish Team)",
     "TeamB": "devils.one inStreamly",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-02 19:09:00"
   },
   {
@@ -204,55 +244,7 @@
     "TeamA": "DMG Esports",
     "TeamB": "Verdant",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-02 18:55:00"
-  },
-  {
-    "OverviewPage": "TCL/2026 Season/Summer Split",
-    "TeamA": "Bushido Wildcats",
-    "TeamB": "SU Esports",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-02 18:46:00"
-  },
-  {
-    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
-    "TeamA": "FUSE",
-    "TeamB": "Mind Blue eSports",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-02 18:33:00"
-  },
-  {
-    "OverviewPage": "LIT/2026 Season/Summer Playoffs",
-    "TeamA": "TITANS",
-    "TeamB": "Zena Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-02 18:03:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Bulldog Esports",
-    "TeamB": "Deer Gaming",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-02 17:59:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Final Four",
-    "TeamA": "Movistar KOI Fénix",
-    "TeamB": "UCAM Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-02 17:57:00"
-  },
-  {
-    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
-    "TeamA": "Meavedron",
-    "TeamB": "Onion Team",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-02 17:47:00"
   }
 ]
