@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "LPL/2026 Season/Grand Finals",
+    "TeamA": "JD Gaming",
+    "TeamB": "Ninjas in Pyjamas.CN",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-05 13:20:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2026 Season/Summer Playoffs",
+    "TeamA": "Galions Sharks",
+    "TeamB": "Project Conquerors",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-05 12:41:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Playoffs",
     "TeamA": "G2 Esports",
     "TeamB": "Team Vitality",
@@ -214,37 +230,5 @@
     "ScoreA": 3,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-03 11:58:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Francesinhas",
-    "TeamB": "Otter Side",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-09-02 21:11:00"
-  },
-  {
-    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
-    "TeamA": "Frost Tails",
-    "TeamB": "Meavedron Benelux",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-02 20:21:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "Forsaken (Polish Team)",
-    "TeamB": "devils.one inStreamly",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-02 19:09:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "DMG Esports",
-    "TeamB": "Verdant",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-02 18:55:00"
   }
 ]
