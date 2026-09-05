@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LEC/2026 Season/Summer Playoffs",
+    "TeamA": "GIANTX",
+    "TeamB": "Karmine Corp",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-05 16:15:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Grand Finals",
     "TeamA": "JD Gaming",
     "TeamB": "Ninjas in Pyjamas.CN",
@@ -219,7 +227,7 @@
     "OverviewPage": "LCK/2026 Season/Season Playoffs",
     "TeamA": "BNK FEARX",
     "TeamB": "Dplus Kia",
-    "ScoreA": 2,
+    "ScoreA": 0,
     "ScoreB": 3,
     "LatestGameTime": "2026-09-03 11:59:00"
   },
@@ -227,7 +235,7 @@
     "OverviewPage": "LPL/2026 Season/Grand Finals",
     "TeamA": "Bilibili Gaming",
     "TeamB": "Team WE",
-    "ScoreA": 3,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-03 11:58:00"
   }
