@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LIT/2027 Season/Winter Promotion",
+    "TeamA": "HANGMEN",
+    "TeamB": "TIGROTS",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-06 18:48:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Playoffs",
     "TeamA": "G2 Esports",
     "TeamB": "Karmine Corp",
@@ -14,6 +22,46 @@
     "ScoreA": 3,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-06 17:58:00"
+  },
+  {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
+    "TeamA": "Mighty Eagles",
+    "TeamB": "Priority",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-06 17:57:00"
+  },
+  {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
+    "TeamA": "Andromeda Gaming",
+    "TeamB": "Rugby Club Havířov",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-06 17:18:00"
+  },
+  {
+    "OverviewPage": "League Impact Series/2026 Season/Playoffs",
+    "TeamA": "Bunny Girls",
+    "TeamB": "Miau",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-06 17:02:00"
+  },
+  {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
+    "TeamA": "KIA.eSuba Academy",
+    "TeamB": "Magyar Gamer S",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-06 16:03:00"
+  },
+  {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
+    "TeamA": "CITA Kaizen Academy",
+    "TeamB": "EXILE esports Academy",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-06 15:04:00"
   },
   {
     "OverviewPage": "LES/2026 Season/Final Four",
@@ -179,48 +227,16 @@
     "OverviewPage": "LPL/2026 Season/Grand Finals",
     "TeamA": "Invictus Gaming",
     "TeamB": "Top Esports",
-    "ScoreA": 3,
-    "ScoreB": 2,
+    "ScoreA": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-05 10:08:00"
   },
   {
     "OverviewPage": "FLASH Oceania/2026 Season/Playoffs",
     "TeamA": "Onetricks",
     "TeamB": "Team Gromp (Australian Team)",
-    "ScoreA": 2,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-09-05 08:05:00"
-  },
-  {
-    "OverviewPage": "LJL/2026 Season/Summer Championship",
-    "TeamA": "L Guide Gaming",
-    "TeamB": "New Meta",
     "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-09-05 07:30:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
-    "TeamA": "Cupid Esports",
-    "TeamB": "Winthrop University",
-    "ScoreA": 3,
     "ScoreB": 1,
-    "LatestGameTime": "2026-09-04 23:38:00"
-  },
-  {
-    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
-    "TeamA": "BiPOLAR (Benelux Team)",
-    "TeamB": "RED OUAT",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-04 19:37:00"
-  },
-  {
-    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Split",
-    "TeamA": "Last Dance (Benelux Team)",
-    "TeamB": "Nameless (Benelux Team)",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-04 18:58:00"
+    "LatestGameTime": "2026-09-05 08:05:00"
   }
 ]
