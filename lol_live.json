@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "LCS/2026 Season/Summer Season",
+    "TeamA": "Dignitas",
+    "TeamB": "Team Liquid",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-05 22:48:00"
+  },
+  {
+    "OverviewPage": "LCS/2026 Season/Summer Season",
     "TeamA": "Cloud9",
     "TeamB": "Sentinels",
     "ScoreA": 2,
@@ -219,7 +227,7 @@
     "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
     "TeamA": "EXILE esports",
     "TeamB": "eSuba",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-03 17:42:00"
   },
@@ -236,7 +244,7 @@
     "TeamA": "Barcząca Esports by Yumisu",
     "TeamB": "DOCISK",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-03 16:09:00"
   }
 ]
