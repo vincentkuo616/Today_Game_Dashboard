@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "LEC/2026 Season/Summer Playoffs",
+    "TeamA": "G2 Esports",
+    "TeamB": "Karmine Corp",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-06 18:05:00"
+  },
+  {
+    "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
+    "TeamA": "FURIA",
+    "TeamB": "RED Canids",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-06 17:58:00"
+  },
+  {
     "OverviewPage": "LES/2026 Season/Final Four",
     "TeamA": "Movistar KOI Fénix",
     "TeamB": "Team Heretics Academy",
@@ -112,6 +128,14 @@
     "LatestGameTime": "2026-09-05 15:57:00"
   },
   {
+    "OverviewPage": "LIT/2027 Season/Winter Promotion",
+    "TeamA": "HANGMEN",
+    "TeamB": "Macko Invictus",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-05 14:09:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Grand Finals",
     "TeamA": "JD Gaming",
     "TeamB": "Ninjas in Pyjamas.CN",
@@ -196,39 +220,7 @@
     "TeamA": "Last Dance (Benelux Team)",
     "TeamB": "Nameless (Benelux Team)",
     "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-04 18:58:00"
-  },
-  {
-    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
-    "TeamA": "Bohemian Guardians",
-    "TeamB": "eSuba",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-04 17:14:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "DOCISK",
-    "TeamB": "LODIS (Polish Team)",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-04 16:03:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Grand Finals",
-    "TeamA": "Anyone's Legend",
-    "TeamB": "LGD Gaming",
-    "ScoreA": 2,
     "ScoreB": 0,
-    "LatestGameTime": "2026-09-04 12:03:00"
-  },
-  {
-    "OverviewPage": "PCS/2026 Season/Summer Season",
-    "TeamA": "Reignfall",
-    "TeamB": "SillySilly Gaming",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-04 11:17:00"
+    "LatestGameTime": "2026-09-04 18:58:00"
   }
 ]
