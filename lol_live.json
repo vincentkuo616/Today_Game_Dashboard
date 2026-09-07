@@ -1,5 +1,45 @@
 [
   {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "Bubliki",
+    "TeamB": "Otter Side",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-07 20:48:00"
+  },
+  {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
+    "TeamA": "Conviction",
+    "TeamB": "NRG",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-07 20:41:00"
+  },
+  {
+    "OverviewPage": "Prime League 1st Division/2027 Season/Promotion",
+    "TeamA": "All for One Gaming",
+    "TeamB": "Eintracht Frankfurt",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-07 20:06:00"
+  },
+  {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
+    "TeamA": "EXILE esports Academy",
+    "TeamB": "KIA.eSuba Academy",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-07 18:58:00"
+  },
+  {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
+    "TeamA": "Andromeda Gaming",
+    "TeamB": "Priority",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-07 18:08:00"
+  },
+  {
     "OverviewPage": "NLC/2026 Season/Summer Split",
     "TeamA": "Arctic Pandas",
     "TeamB": "Ruddy Corporation",
@@ -203,64 +243,8 @@
     "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
     "TeamA": "Vivo Keyd Stars",
     "TeamB": "paiN Gaming",
-    "ScoreA": 1,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-09-05 18:54:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Playoffs",
-    "TeamA": "GIANTX",
-    "TeamB": "Karmine Corp",
-    "ScoreA": 1,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-09-05 16:15:00"
-  },
-  {
-    "OverviewPage": "League Impact Series/2026 Season/Playoffs",
-    "TeamA": "Five Leaf Clover",
-    "TeamB": "FlyQuest RED",
     "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-09-05 15:57:00"
-  },
-  {
-    "OverviewPage": "LIT/2027 Season/Winter Promotion",
-    "TeamA": "HANGMEN",
-    "TeamB": "Macko Invictus",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-05 14:09:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Grand Finals",
-    "TeamA": "JD Gaming",
-    "TeamB": "Ninjas in Pyjamas.CN",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-05 13:20:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Playoffs",
-    "TeamA": "Galions Sharks",
-    "TeamB": "Project Conquerors",
-    "ScoreA": 1,
     "ScoreB": 1,
-    "LatestGameTime": "2026-09-05 12:41:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Playoffs",
-    "TeamA": "G2 Esports",
-    "TeamB": "Team Vitality",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-05 12:19:00"
-  },
-  {
-    "OverviewPage": "PCS/2026 Season/Summer Season",
-    "TeamA": "CTBC Flying Oyster Academy",
-    "TeamB": "SillySilly Gaming",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-05 12:04:00"
+    "LatestGameTime": "2026-09-05 18:54:00"
   }
 ]
