@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Arctic Pandas",
+    "TeamB": "Ruddy Corporation",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-07 17:52:00"
+  },
+  {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
+    "TeamA": "Magyar Gamer Szövetsèg",
+    "TeamB": "Rugby Club Havířov",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-07 17:15:00"
+  },
+  {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
+    "TeamA": "CITA Kaizen Academy",
+    "TeamB": "Mighty Eagles",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-07 16:47:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Grand Finals",
     "TeamA": "Anyone's Legend",
     "TeamB": "Bilibili Gaming",
@@ -74,7 +98,7 @@
   {
     "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
     "TeamA": "KIA.eSuba Academy",
-    "TeamB": "Magyar Gamer S",
+    "TeamB": "Magyar Gamer Szövetsèg",
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-06 16:03:00"
@@ -212,7 +236,7 @@
     "TeamA": "JD Gaming",
     "TeamB": "Ninjas in Pyjamas.CN",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-09-05 13:20:00"
   },
   {
@@ -220,14 +244,14 @@
     "TeamA": "Galions Sharks",
     "TeamB": "Project Conquerors",
     "ScoreA": 1,
-    "ScoreB": 3,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-05 12:41:00"
   },
   {
     "OverviewPage": "LEC/2026 Season/Summer Playoffs",
     "TeamA": "G2 Esports",
     "TeamB": "Team Vitality",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-05 12:19:00"
   },
@@ -235,24 +259,8 @@
     "OverviewPage": "PCS/2026 Season/Summer Season",
     "TeamA": "CTBC Flying Oyster Academy",
     "TeamB": "SillySilly Gaming",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-05 12:04:00"
-  },
-  {
-    "OverviewPage": "LCK/2026 Season/Season Playoffs",
-    "TeamA": "Gen.G",
-    "TeamB": "Hanwha Life Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-05 11:13:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Grand Finals",
-    "TeamA": "Invictus Gaming",
-    "TeamB": "Top Esports",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-09-05 10:08:00"
+    "LatestGameTime": "2026-09-05 12:04:00"
   }
 ]
