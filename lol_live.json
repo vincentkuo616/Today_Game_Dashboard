@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "LCS/2026 Season/Summer Season",
+    "TeamA": "Disguised",
+    "TeamB": "LYON (2024 American Team)",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-06 22:34:00"
+  },
+  {
+    "OverviewPage": "LCS/2026 Season/Summer Season",
+    "TeamA": "FlyQuest",
+    "TeamB": "Shopify Rebellion",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-06 20:57:00"
+  },
+  {
     "OverviewPage": "LIT/2027 Season/Winter Promotion",
     "TeamA": "HANGMEN",
     "TeamB": "TIGROTS",
@@ -220,23 +236,15 @@
     "TeamA": "Gen.G",
     "TeamB": "Hanwha Life Esports",
     "ScoreA": 3,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-05 11:13:00"
   },
   {
     "OverviewPage": "LPL/2026 Season/Grand Finals",
     "TeamA": "Invictus Gaming",
     "TeamB": "Top Esports",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-05 10:08:00"
-  },
-  {
-    "OverviewPage": "FLASH Oceania/2026 Season/Playoffs",
-    "TeamA": "Onetricks",
-    "TeamB": "Team Gromp (Australian Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-05 08:05:00"
   }
 ]
