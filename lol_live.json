@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LPL/2026 Season/Grand Finals",
+    "TeamA": "Invictus Gaming",
+    "TeamB": "LGD Gaming",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-08 10:55:00"
+  },
+  {
     "OverviewPage": "Liga Regional Norte/2026 Season/Split 2 Playoffs",
     "TeamA": "Fuego",
     "TeamB": "Zeu5 Esports",
@@ -219,7 +227,7 @@
     "OverviewPage": "LJL/2026 Season/Summer Championship",
     "TeamA": "FENNEL",
     "TeamB": "New Meta",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-06 09:52:00"
   },
@@ -230,13 +238,5 @@
     "ScoreA": 3,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-06 08:54:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Season",
-    "TeamA": "Dignitas",
-    "TeamB": "Team Liquid",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-05 22:48:00"
   }
 ]
