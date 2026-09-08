@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "Dominion Goblins",
+    "TeamB": "White Dragons",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-08 19:56:00"
+  },
+  {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "Bomba Team",
     "TeamB": "Forsaken (Polish Team)",
@@ -235,7 +243,7 @@
     "OverviewPage": "PCS/2026 Season/Summer Season",
     "TeamA": "CTBC Flying Oyster Academy",
     "TeamB": "Frank Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-06 12:12:00"
   },
@@ -244,7 +252,7 @@
     "TeamA": "BRUTE",
     "TeamB": "CITA Kaizen",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-06 11:13:00"
   },
   {
@@ -252,7 +260,7 @@
     "TeamA": "Dplus Kia",
     "TeamB": "T1",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-06 11:11:00"
   }
 ]
