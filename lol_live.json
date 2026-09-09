@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "LIT/2026 Season/Summer Playoffs",
+    "TeamA": "GMBLERS Esports",
+    "TeamB": "Zena Esports",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-09 18:53:00"
+  },
+  {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Deer Gaming",
+    "TeamB": "Verdant",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-09 18:24:00"
+  },
+  {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "LODIS (Polish Team)",
     "TeamB": "devils.one inStreamly",
@@ -219,7 +235,7 @@
     "OverviewPage": "League Impact Series/2026 Season/Playoffs",
     "TeamA": "Bunny Girls",
     "TeamB": "Miau",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-06 17:02:00"
   },
@@ -235,40 +251,8 @@
     "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
     "TeamA": "CITA Kaizen Academy",
     "TeamB": "EXILE esports Academy",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-06 15:04:00"
-  },
-  {
-    "OverviewPage": "LES/2026 Season/Final Four",
-    "TeamA": "Movistar KOI Fénix",
-    "TeamB": "Team Heretics Academy",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-06 13:45:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Grand Finals",
-    "TeamA": "LGD Gaming",
-    "TeamB": "Ninjas in Pyjamas.CN",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-06 13:43:00"
-  },
-  {
-    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Split",
-    "TeamA": "Meavedron",
-    "TeamB": "eSuba",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-06 13:10:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2026 Season/Summer Playoffs",
-    "TeamA": "Karmine Corp Blue Stars",
-    "TeamB": "Project Conquerors",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-06 12:50:00"
   }
 ]
