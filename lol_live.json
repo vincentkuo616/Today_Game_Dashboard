@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Playoffs",
+    "TeamA": "FUSE",
+    "TeamB": "Frost Tails",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-09 20:08:00"
+  },
+  {
     "OverviewPage": "LIT/2026 Season/Summer Playoffs",
     "TeamA": "GMBLERS Esports",
     "TeamB": "Zena Esports",
@@ -14,6 +22,14 @@
     "ScoreA": 1,
     "ScoreB": 3,
     "LatestGameTime": "2026-09-09 18:24:00"
+  },
+  {
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Playoffs",
+    "TeamA": "BiPOLAR (Benelux Team)",
+    "TeamB": "Mind Blue eSports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-09 18:08:00"
   },
   {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
@@ -235,7 +251,7 @@
     "OverviewPage": "League Impact Series/2026 Season/Playoffs",
     "TeamA": "Bunny Girls",
     "TeamB": "Miau",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-06 17:02:00"
   },
@@ -243,16 +259,8 @@
     "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
     "TeamA": "KIA.eSuba Academy",
     "TeamB": "Magyar Gamer Szövetsèg",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-06 16:03:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
-    "TeamA": "CITA Kaizen Academy",
-    "TeamB": "EXILE esports Academy",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-09-06 15:04:00"
+    "LatestGameTime": "2026-09-06 16:03:00"
   }
 ]
