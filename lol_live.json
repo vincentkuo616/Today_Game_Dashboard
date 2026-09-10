@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
+    "TeamA": "Maryville University",
+    "TeamB": "NRG",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-09 23:49:00"
+  },
+  {
     "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Playoffs",
     "TeamA": "FUSE",
     "TeamB": "Frost Tails",
@@ -219,7 +227,7 @@
     "OverviewPage": "LEC/2026 Season/Summer Playoffs",
     "TeamA": "G2 Esports",
     "TeamB": "Karmine Corp",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-06 18:05:00"
   },
@@ -244,7 +252,7 @@
     "TeamA": "Andromeda Gaming",
     "TeamB": "Rugby Club Havířov",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-06 17:18:00"
   },
   {
@@ -252,15 +260,7 @@
     "TeamA": "Bunny Girls",
     "TeamB": "Miau",
     "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-06 17:02:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
-    "TeamA": "KIA.eSuba Academy",
-    "TeamB": "Magyar Gamer Szövetsèg",
-    "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-09-06 16:03:00"
+    "LatestGameTime": "2026-09-06 17:02:00"
   }
 ]
