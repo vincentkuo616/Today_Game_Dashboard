@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Playoffs",
+    "TeamA": "Senshi eSports (Benelux Team)",
+    "TeamB": "The Bandits",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-10 17:47:00"
+  },
+  {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
     "TeamA": "Maryville University",
     "TeamB": "NRG",
@@ -227,7 +235,7 @@
     "OverviewPage": "LEC/2026 Season/Summer Playoffs",
     "TeamA": "G2 Esports",
     "TeamB": "Karmine Corp",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-06 18:05:00"
   },
@@ -235,7 +243,7 @@
     "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
     "TeamA": "FURIA",
     "TeamB": "RED Canids",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-06 17:58:00"
   },
@@ -243,7 +251,7 @@
     "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
     "TeamA": "Mighty Eagles",
     "TeamB": "Priority",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-06 17:57:00"
   },
