@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "Bubliki",
+    "TeamB": "Dominion Goblins",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-10 21:46:00"
+  },
+  {
+    "OverviewPage": "LIT/2026 Season/Summer Playoffs",
+    "TeamA": "Los Goccioles",
+    "TeamB": "Zena Esports",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-10 19:54:00"
+  },
+  {
+    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
+    "TeamA": "Bomba Team",
+    "TeamB": "LODIS (Polish Team)",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-10 19:08:00"
+  },
+  {
     "OverviewPage": "Road Of Legends/2026 Season/Summer Playoffs",
     "TeamA": "Senshi eSports (Benelux Team)",
     "TeamB": "The Bandits",
@@ -212,63 +236,7 @@
     "TeamA": "Disguised",
     "TeamB": "LYON (2024 American Team)",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-06 22:34:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Season",
-    "TeamA": "FlyQuest",
-    "TeamB": "Shopify Rebellion",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-06 20:57:00"
-  },
-  {
-    "OverviewPage": "LIT/2027 Season/Winter Promotion",
-    "TeamA": "HANGMEN",
-    "TeamB": "TIGROTS",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-06 18:48:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Playoffs",
-    "TeamA": "G2 Esports",
-    "TeamB": "Karmine Corp",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-06 18:05:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
-    "TeamA": "FURIA",
-    "TeamB": "RED Canids",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-06 17:58:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
-    "TeamA": "Mighty Eagles",
-    "TeamB": "Priority",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-06 17:57:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
-    "TeamA": "Andromeda Gaming",
-    "TeamB": "Rugby Club Havířov",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-06 17:18:00"
-  },
-  {
-    "OverviewPage": "League Impact Series/2026 Season/Playoffs",
-    "TeamA": "Bunny Girls",
-    "TeamB": "Miau",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-06 17:02:00"
   }
 ]
