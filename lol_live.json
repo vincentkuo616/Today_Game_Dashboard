@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LEC/2026 Season/Summer Playoffs",
+    "TeamA": "GIANTX",
+    "TeamB": "Natus Vincere",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-11 18:51:00"
+  },
+  {
     "OverviewPage": "TCL/2026 Season/Summer Split",
     "TeamA": "Bushido Wildcats",
     "TeamB": "PCIFIC Esports",
@@ -292,31 +300,15 @@
     "TeamA": "Bubliki",
     "TeamB": "Otter Side",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-07 20:48:00"
   },
   {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
     "TeamA": "Conviction",
     "TeamB": "NRG",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-07 20:41:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2027 Season/Promotion",
-    "TeamA": "All for One Gaming",
-    "TeamB": "Eintracht Frankfurt",
     "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-09-07 20:06:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
-    "TeamA": "EXILE esports Academy",
-    "TeamB": "KIA.eSuba Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-07 18:58:00"
+    "LatestGameTime": "2026-09-07 20:41:00"
   }
 ]
