@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "TCL/2026 Season/Summer Split",
+    "TeamA": "Bushido Wildcats",
+    "TeamB": "PCIFIC Esports",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-11 16:46:00"
+  },
+  {
+    "OverviewPage": "Road to LES 2026/Closed Qualifier",
+    "TeamA": "AzE eSports",
+    "TeamB": "Valkiria's Vikings",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-11 16:13:00"
+  },
+  {
+    "OverviewPage": "Road to LES 2026/Closed Qualifier",
+    "TeamA": "MADE IN HEAVEN",
+    "TeamB": "Nocturne Gale",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-11 16:10:00"
+  },
+  {
     "OverviewPage": "VCS/2026 Season/Finals Stage 1",
     "TeamA": "1TAP Dino",
     "TeamB": "SN CyberCore Esports",
@@ -267,7 +291,7 @@
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
     "TeamA": "Bubliki",
     "TeamB": "Otter Side",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 3,
     "LatestGameTime": "2026-09-07 20:48:00"
   },
@@ -275,8 +299,8 @@
     "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
     "TeamA": "Conviction",
     "TeamB": "NRG",
-    "ScoreA": 2,
-    "ScoreB": 2,
+    "ScoreA": 1,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-07 20:41:00"
   },
   {
@@ -284,7 +308,7 @@
     "TeamA": "All for One Gaming",
     "TeamB": "Eintracht Frankfurt",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-07 20:06:00"
   },
   {
@@ -292,23 +316,7 @@
     "TeamA": "EXILE esports Academy",
     "TeamB": "KIA.eSuba Academy",
     "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-07 18:58:00"
-  },
-  {
-    "OverviewPage": "LIT/2027 Season/Winter Promotion",
-    "TeamA": "HANGMEN",
-    "TeamB": "P11 Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-07 18:44:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
-    "TeamA": "Andromeda Gaming",
-    "TeamB": "Priority",
-    "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-09-07 18:08:00"
+    "LatestGameTime": "2026-09-07 18:58:00"
   }
 ]
