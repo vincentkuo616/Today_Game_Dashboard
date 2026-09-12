@@ -1,5 +1,85 @@
 [
   {
+    "OverviewPage": "VCS/2026 Season/Finals Stage 1",
+    "TeamA": "9Gaming",
+    "TeamB": "MVK Esports Academy",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-12 09:59:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Dplus Kia Youth",
+    "TeamB": "HANJIN BRION Academy",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-12 09:35:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Eunpyeong Meditech High School",
+    "TeamB": "Kiwoom DRX Academy",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-12 09:25:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Gen.G Scholars",
+    "TeamB": "KT Rolster Academy",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-12 09:00:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "DN SOOPers Academy",
+    "TeamB": "Nongshim RedForce Academy",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-12 08:46:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Hanwha Life Esports Academy",
+    "TeamB": "T1 Esports Academy Rookies",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-12 08:37:00"
+  },
+  {
+    "OverviewPage": "LCK/2026 Season/Season Playoffs",
+    "TeamA": "Hanwha Life Esports",
+    "TeamB": "T1",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-12 08:21:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "DN SOOPers Academy",
+    "TeamB": "KT Rolster Academy",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-12 07:00:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Eunpyeong Meditech High School",
+    "TeamB": "HANJIN BRION Academy",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-12 06:47:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Hanwha Life Esports Academy",
+    "TeamB": "Nongshim RedForce Academy",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-12 05:56:00"
+  },
+  {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "Kiwoom DRX Academy",
     "TeamB": "T1 Esports Academy Rookies",
@@ -9,35 +89,11 @@
   },
   {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Eunpyeong Meditech High School",
-    "TeamB": "HANJIN BRION Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-12 05:08:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Hanwha Life Esports Academy",
-    "TeamB": "Nongshim RedForce Academy",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-12 05:07:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "DN SOOPers Academy",
-    "TeamB": "KT Rolster Academy",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-12 05:07:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "Dplus Kia Youth",
     "TeamB": "Gen.G Scholars",
-    "ScoreA": 1,
+    "ScoreA": 2,
     "ScoreB": 0,
-    "LatestGameTime": "2026-09-12 05:07:00"
+    "LatestGameTime": "2026-09-12 05:53:00"
   },
   {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
@@ -193,10 +249,18 @@
   },
   {
     "OverviewPage": "VCS/2026 Season/Finals Stage 1",
+    "TeamA": "9Gaming",
+    "TeamB": "Saigon Warriors",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-11 12:33:00"
+  },
+  {
+    "OverviewPage": "VCS/2026 Season/Finals Stage 1",
     "TeamA": "1TAP Dino",
     "TeamB": "SN CyberCore Esports",
     "ScoreA": 1,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-09-11 10:52:00"
   },
   {
@@ -219,7 +283,7 @@
     "OverviewPage": "LIT/2026 Season/Summer Playoffs",
     "TeamA": "Los Goccioles",
     "TeamB": "Zena Esports",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-10 19:54:00"
   },
@@ -227,7 +291,7 @@
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "Bomba Team",
     "TeamB": "LODIS (Polish Team)",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-10 19:08:00"
   },
@@ -235,72 +299,8 @@
     "OverviewPage": "Road Of Legends/2026 Season/Summer Playoffs",
     "TeamA": "Senshi eSports (Benelux Team)",
     "TeamB": "The Bandits",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-10 17:47:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
-    "TeamA": "Maryville University",
-    "TeamB": "NRG",
-    "ScoreA": 3,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-09 23:49:00"
-  },
-  {
-    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Playoffs",
-    "TeamA": "FUSE",
-    "TeamB": "Frost Tails",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-09 20:08:00"
-  },
-  {
-    "OverviewPage": "LIT/2026 Season/Summer Playoffs",
-    "TeamA": "GMBLERS Esports",
-    "TeamB": "Zena Esports",
-    "ScoreA": 1,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-09-09 18:53:00"
-  },
-  {
-    "OverviewPage": "NLC/2026 Season/Summer Split",
-    "TeamA": "Deer Gaming",
-    "TeamB": "Verdant",
-    "ScoreA": 1,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-09-09 18:24:00"
-  },
-  {
-    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Playoffs",
-    "TeamA": "BiPOLAR (Benelux Team)",
-    "TeamB": "Mind Blue eSports",
     "ScoreA": 2,
     "ScoreB": 0,
-    "LatestGameTime": "2026-09-09 18:08:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "LODIS (Polish Team)",
-    "TeamB": "devils.one inStreamly",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-09 17:00:00"
-  },
-  {
-    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Playoffs",
-    "TeamA": "CITA Kaizen",
-    "TeamB": "Meavedron",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-09 15:58:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Sur/2026 Season/Split 2 Playoffs",
-    "TeamA": "9z Globant",
-    "TeamB": "Golden Lions",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-08 22:39:00"
+    "LatestGameTime": "2026-09-10 17:47:00"
   }
 ]
