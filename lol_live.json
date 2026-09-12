@@ -1,11 +1,75 @@
 [
   {
+    "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
+    "TeamA": "FURIA",
+    "TeamB": "LØS",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-12 18:45:00"
+  },
+  {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
+    "TeamA": "EXILE esports Academy",
+    "TeamB": "Mighty Eagles",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-12 17:03:00"
+  },
+  {
+    "OverviewPage": "Road to LES 2026/Closed Qualifier",
+    "TeamA": "Guinea Pink",
+    "TeamB": "Kawaii Kiwis",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-12 17:00:00"
+  },
+  {
+    "OverviewPage": "Road to LES 2026/Closed Qualifier",
+    "TeamA": "Oxygen Gaming",
+    "TeamB": "Veni Vidi Vici (Spanish Team)",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-12 16:44:00"
+  },
+  {
+    "OverviewPage": "Prime League 1st Division/2026 Season/Summer Playoffs",
+    "TeamA": "Berlin International Gaming",
+    "TeamB": "G2 NORD",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-12 16:43:00"
+  },
+  {
+    "OverviewPage": "Road to LES 2026/Closed Qualifier",
+    "TeamA": "MADE IN HEAVEN",
+    "TeamB": "Valkiria's Vikings",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-12 16:14:00"
+  },
+  {
+    "OverviewPage": "Road to LES 2026/Closed Qualifier",
+    "TeamA": "AzE eSports",
+    "TeamB": "Nocturne Gale",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-12 16:07:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Grand Finals",
     "TeamA": "Anyone's Legend",
     "TeamB": "Invictus Gaming",
     "ScoreA": 3,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-12 13:07:00"
+  },
+  {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
+    "TeamA": "Andromeda Gaming",
+    "TeamB": "CITA Kaizen Academy",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-12 12:22:00"
   },
   {
     "OverviewPage": "VCS/2026 Season/Finals Stage 1",
@@ -123,7 +187,7 @@
     "OverviewPage": "Nexus Tour 2026/Playoffs",
     "TeamA": "Neptunia Esports",
     "TeamB": "Nikaïa",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-11 21:26:00"
   },
@@ -132,7 +196,7 @@
     "TeamA": "Antic ESC",
     "TeamB": "Le ZOO Esport",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-11 20:44:00"
   },
   {
@@ -172,14 +236,14 @@
     "TeamA": "Antic ESC",
     "TeamB": "Scald eSports",
     "ScoreA": 1,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-11 19:33:00"
   },
   {
     "OverviewPage": "Nexus Tour 2026/Playoffs",
     "TeamA": "Le ZOO Esport",
     "TeamB": "Triforce Esport",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-11 19:25:00"
   },
@@ -187,7 +251,7 @@
     "OverviewPage": "Nexus Tour 2026/Playoffs",
     "TeamA": "Nikaïa",
     "TeamB": "THG Skol",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-11 19:24:00"
   },
@@ -196,7 +260,7 @@
     "TeamA": "Feather (Swiss Team)",
     "TeamB": "Neptunia Esports",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-11 19:23:00"
   },
   {
@@ -228,7 +292,7 @@
     "TeamA": "Antic ESC",
     "TeamB": "Triforce Esport",
     "ScoreA": 1,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-11 18:18:00"
   },
   {
@@ -236,14 +300,14 @@
     "TeamA": "Feather (Swiss Team)",
     "TeamB": "THG Skol",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-11 18:17:00"
   },
   {
     "OverviewPage": "Nexus Tour 2026/Playoffs",
     "TeamA": "Le ZOO Esport",
     "TeamB": "Scald eSports",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-11 18:15:00"
   },
@@ -286,45 +350,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-11 12:33:00"
-  },
-  {
-    "OverviewPage": "VCS/2026 Season/Finals Stage 1",
-    "TeamA": "1TAP Dino",
-    "TeamB": "SN CyberCore Esports",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-11 10:52:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
-    "TeamA": "Maryville University",
-    "TeamB": "Winthrop University",
-    "ScoreA": 3,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-11 00:32:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Bubliki",
-    "TeamB": "Dominion Goblins",
-    "ScoreA": 3,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-10 21:46:00"
-  },
-  {
-    "OverviewPage": "LIT/2026 Season/Summer Playoffs",
-    "TeamA": "Los Goccioles",
-    "TeamB": "Zena Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-10 19:54:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "Bomba Team",
-    "TeamB": "LODIS (Polish Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-10 19:08:00"
   }
 ]
