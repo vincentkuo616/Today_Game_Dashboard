@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
+    "TeamA": "Cupid Esports",
+    "TeamB": "Maryville University",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-11 23:00:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Playoffs",
     "TeamA": "GIANTX",
     "TeamB": "Natus Vincere",
@@ -36,7 +44,7 @@
     "TeamA": "1TAP Dino",
     "TeamB": "SN CyberCore Esports",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 3,
     "LatestGameTime": "2026-09-11 10:52:00"
   },
   {
@@ -291,24 +299,8 @@
     "OverviewPage": "Liga Regional Norte/2026 Season/Split 2 Playoffs",
     "TeamA": "Fuego",
     "TeamB": "Zeu5 Esports",
-    "ScoreA": 3,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-08 01:06:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Bubliki",
-    "TeamB": "Otter Side",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-07 20:48:00"
-  },
-  {
-    "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
-    "TeamA": "Conviction",
-    "TeamB": "NRG",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-07 20:41:00"
   }
 ]
