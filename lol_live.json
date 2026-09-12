@@ -1,5 +1,45 @@
 [
   {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Kiwoom DRX Academy",
+    "TeamB": "T1 Esports Academy Rookies",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-12 05:55:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Eunpyeong Meditech High School",
+    "TeamB": "HANJIN BRION Academy",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-12 05:08:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Hanwha Life Esports Academy",
+    "TeamB": "Nongshim RedForce Academy",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-12 05:07:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "DN SOOPers Academy",
+    "TeamB": "KT Rolster Academy",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-12 05:07:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Dplus Kia Youth",
+    "TeamB": "Gen.G Scholars",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-12 05:07:00"
+  },
+  {
     "OverviewPage": "North American Challengers League/2026 Season/Summer Playoffs",
     "TeamA": "Cupid Esports",
     "TeamB": "Maryville University",
@@ -8,12 +48,124 @@
     "LatestGameTime": "2026-09-11 23:00:00"
   },
   {
+    "OverviewPage": "Nexus Tour 2026/Playoffs",
+    "TeamA": "Neptunia Esports",
+    "TeamB": "Nikaïa",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-11 21:26:00"
+  },
+  {
+    "OverviewPage": "Nexus Tour 2026/Playoffs",
+    "TeamA": "Antic ESC",
+    "TeamB": "Le ZOO Esport",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-11 20:44:00"
+  },
+  {
+    "OverviewPage": "Nexus Tour 2026/Playoffs",
+    "TeamA": "Scald eSports",
+    "TeamB": "Triforce Esport",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-11 20:42:00"
+  },
+  {
+    "OverviewPage": "Nexus Tour 2026/Playoffs",
+    "TeamA": "Feather (Swiss Team)",
+    "TeamB": "Nikaïa",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-11 20:27:00"
+  },
+  {
+    "OverviewPage": "Nexus Tour 2026/Playoffs",
+    "TeamA": "Neptunia Esports",
+    "TeamB": "THG Skol",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-11 20:21:00"
+  },
+  {
+    "OverviewPage": "Road to LES 2026/Closed Qualifier",
+    "TeamA": "Guinea Pink",
+    "TeamB": "MADE IN HEAVEN",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-11 20:01:00"
+  },
+  {
+    "OverviewPage": "Nexus Tour 2026/Playoffs",
+    "TeamA": "Antic ESC",
+    "TeamB": "Scald eSports",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-11 19:33:00"
+  },
+  {
+    "OverviewPage": "Nexus Tour 2026/Playoffs",
+    "TeamA": "Le ZOO Esport",
+    "TeamB": "Triforce Esport",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-11 19:25:00"
+  },
+  {
+    "OverviewPage": "Nexus Tour 2026/Playoffs",
+    "TeamA": "Nikaïa",
+    "TeamB": "THG Skol",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-11 19:24:00"
+  },
+  {
+    "OverviewPage": "Nexus Tour 2026/Playoffs",
+    "TeamA": "Feather (Swiss Team)",
+    "TeamB": "Neptunia Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-11 19:23:00"
+  },
+  {
+    "OverviewPage": "Road to LES 2026/Closed Qualifier",
+    "TeamA": "AzE eSports",
+    "TeamB": "Veni Vidi Vici (Spanish Team)",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-11 19:06:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Playoffs",
     "TeamA": "GIANTX",
     "TeamB": "Natus Vincere",
     "ScoreA": 2,
     "ScoreB": 3,
     "LatestGameTime": "2026-09-11 18:51:00"
+  },
+  {
+    "OverviewPage": "Nexus Tour 2026/Playoffs",
+    "TeamA": "Antic ESC",
+    "TeamB": "Triforce Esport",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-11 18:18:00"
+  },
+  {
+    "OverviewPage": "Nexus Tour 2026/Playoffs",
+    "TeamA": "Feather (Swiss Team)",
+    "TeamB": "THG Skol",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-11 18:17:00"
+  },
+  {
+    "OverviewPage": "Nexus Tour 2026/Playoffs",
+    "TeamA": "Le ZOO Esport",
+    "TeamB": "Scald eSports",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-11 18:15:00"
   },
   {
     "OverviewPage": "TCL/2026 Season/Summer Split",
@@ -64,38 +216,6 @@
     "LatestGameTime": "2026-09-10 21:46:00"
   },
   {
-    "OverviewPage": "Nexus Tour 2026/Playoffs",
-    "TeamA": "Feather (Swiss Team)",
-    "TeamB": "THG Skol",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-10 20:26:00"
-  },
-  {
-    "OverviewPage": "Nexus Tour 2026/Playoffs",
-    "TeamA": "Neptunia Esports",
-    "TeamB": "Nikaïa",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-10 20:25:00"
-  },
-  {
-    "OverviewPage": "Nexus Tour 2026/Playoffs",
-    "TeamA": "Antic ESC",
-    "TeamB": "Triforce Esport",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-10 20:20:00"
-  },
-  {
-    "OverviewPage": "Nexus Tour 2026/Playoffs",
-    "TeamA": "Le ZOO Esport",
-    "TeamB": "Scald eSports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-10 20:12:00"
-  },
-  {
     "OverviewPage": "LIT/2026 Season/Summer Playoffs",
     "TeamA": "Los Goccioles",
     "TeamB": "Zena Esports",
@@ -104,76 +224,12 @@
     "LatestGameTime": "2026-09-10 19:54:00"
   },
   {
-    "OverviewPage": "Nexus Tour 2026/Playoffs",
-    "TeamA": "Nikaïa",
-    "TeamB": "THG Skol",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-10 19:27:00"
-  },
-  {
-    "OverviewPage": "Nexus Tour 2026/Playoffs",
-    "TeamA": "Le ZOO Esport",
-    "TeamB": "Triforce Esport",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-10 19:25:00"
-  },
-  {
-    "OverviewPage": "Nexus Tour 2026/Playoffs",
-    "TeamA": "Feather (Swiss Team)",
-    "TeamB": "Neptunia Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-10 19:20:00"
-  },
-  {
-    "OverviewPage": "Nexus Tour 2026/Playoffs",
-    "TeamA": "Antic ESC",
-    "TeamB": "Scald eSports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-10 19:19:00"
-  },
-  {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "Bomba Team",
     "TeamB": "LODIS (Polish Team)",
     "ScoreA": 3,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-10 19:08:00"
-  },
-  {
-    "OverviewPage": "Nexus Tour 2026/Playoffs",
-    "TeamA": "Antic ESC",
-    "TeamB": "Le ZOO Esport",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-10 18:36:00"
-  },
-  {
-    "OverviewPage": "Nexus Tour 2026/Playoffs",
-    "TeamA": "Neptunia Esports",
-    "TeamB": "THG Skol",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-10 18:26:00"
-  },
-  {
-    "OverviewPage": "Nexus Tour 2026/Playoffs",
-    "TeamA": "Feather (Swiss Team)",
-    "TeamB": "Nikaïa",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-10 18:20:00"
-  },
-  {
-    "OverviewPage": "Nexus Tour 2026/Playoffs",
-    "TeamA": "Scald eSports",
-    "TeamB": "Triforce Esport",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-10 18:16:00"
   },
   {
     "OverviewPage": "Road Of Legends/2026 Season/Summer Playoffs",
@@ -243,64 +299,8 @@
     "OverviewPage": "Liga Regional Sur/2026 Season/Split 2 Playoffs",
     "TeamA": "9z Globant",
     "TeamB": "Golden Lions",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-08 22:39:00"
-  },
-  {
-    "OverviewPage": "LPLOL/2026 Season/Summer Split",
-    "TeamA": "Dominion Goblins",
-    "TeamB": "White Dragons",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-09-08 19:56:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "Bomba Team",
-    "TeamB": "Forsaken (Polish Team)",
-    "ScoreA": 2,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-09-08 19:18:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2027 Season/Promotion",
-    "TeamA": "CGN Esports",
-    "TeamB": "VfB eSports",
-    "ScoreA": 3,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-08 18:45:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Summer Playoffs",
-    "TeamA": "Frites Esports Club",
-    "TeamB": "mCon esports",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-08 17:54:00"
-  },
-  {
-    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Playoffs",
-    "TeamA": "EXILE esports",
-    "TeamB": "Nightbirds",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-09-08 15:45:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Grand Finals",
-    "TeamA": "Invictus Gaming",
-    "TeamB": "LGD Gaming",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-08 10:55:00"
-  },
-  {
-    "OverviewPage": "Liga Regional Norte/2026 Season/Split 2 Playoffs",
-    "TeamA": "Fuego",
-    "TeamB": "Zeu5 Esports",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-09-08 01:06:00"
+    "LatestGameTime": "2026-09-08 22:39:00"
   }
 ]
