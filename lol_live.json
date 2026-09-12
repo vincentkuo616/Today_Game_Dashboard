@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "LPL/2026 Season/Grand Finals",
+    "TeamA": "Anyone's Legend",
+    "TeamB": "Invictus Gaming",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-12 13:07:00"
+  },
+  {
+    "OverviewPage": "VCS/2026 Season/Finals Stage 1",
+    "TeamA": "SN CyberCore Esports",
+    "TeamB": "Saigon Warriors",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-12 11:56:00"
+  },
+  {
     "OverviewPage": "VCS/2026 Season/Finals Stage 1",
     "TeamA": "9Gaming",
     "TeamB": "MVK Esports Academy",
@@ -123,7 +139,7 @@
     "OverviewPage": "Nexus Tour 2026/Playoffs",
     "TeamA": "Scald eSports",
     "TeamB": "Triforce Esport",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-11 20:42:00"
   },
@@ -131,7 +147,7 @@
     "OverviewPage": "Nexus Tour 2026/Playoffs",
     "TeamA": "Feather (Swiss Team)",
     "TeamB": "Nikaïa",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-11 20:27:00"
   },
@@ -140,7 +156,7 @@
     "TeamA": "Neptunia Esports",
     "TeamB": "THG Skol",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-11 20:21:00"
   },
   {
@@ -192,6 +208,14 @@
     "LatestGameTime": "2026-09-11 19:06:00"
   },
   {
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Playoffs",
+    "TeamA": "Last Dance (Benelux Team)",
+    "TeamB": "Mind Blue eSports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-11 19:02:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Playoffs",
     "TeamA": "GIANTX",
     "TeamB": "Natus Vincere",
@@ -222,6 +246,14 @@
     "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-11 18:15:00"
+  },
+  {
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Playoffs",
+    "TeamA": "Frost Tails",
+    "TeamB": "Meavedron Benelux",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-11 17:38:00"
   },
   {
     "OverviewPage": "TCL/2026 Season/Summer Split",
@@ -276,7 +308,7 @@
     "TeamA": "Bubliki",
     "TeamB": "Dominion Goblins",
     "ScoreA": 3,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-10 21:46:00"
   },
   {
@@ -284,23 +316,15 @@
     "TeamA": "Los Goccioles",
     "TeamB": "Zena Esports",
     "ScoreA": 2,
-    "ScoreB": 2,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-10 19:54:00"
   },
   {
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "Bomba Team",
     "TeamB": "LODIS (Polish Team)",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-10 19:08:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Summer Playoffs",
-    "TeamA": "Senshi eSports (Benelux Team)",
-    "TeamB": "The Bandits",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-09-10 17:47:00"
+    "LatestGameTime": "2026-09-10 19:08:00"
   }
 ]
