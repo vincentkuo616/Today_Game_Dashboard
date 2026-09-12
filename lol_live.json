@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "Road to LES 2026/Closed Qualifier",
+    "TeamA": "AzE eSports",
+    "TeamB": "Kawaii Kiwis",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-12 19:21:00"
+  },
+  {
+    "OverviewPage": "Road to LES 2026/Closed Qualifier",
+    "TeamA": "Valkiria's Vikings",
+    "TeamB": "Veni Vidi Vici (Spanish Team)",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-12 18:58:00"
+  },
+  {
     "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
     "TeamA": "FURIA",
     "TeamB": "LØS",
@@ -284,7 +300,7 @@
     "TeamA": "GIANTX",
     "TeamB": "Natus Vincere",
     "ScoreA": 2,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-09-11 18:51:00"
   },
   {
@@ -323,7 +339,7 @@
     "OverviewPage": "TCL/2026 Season/Summer Split",
     "TeamA": "Bushido Wildcats",
     "TeamB": "PCIFIC Esports",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-11 16:46:00"
   },
@@ -342,13 +358,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-11 16:10:00"
-  },
-  {
-    "OverviewPage": "VCS/2026 Season/Finals Stage 1",
-    "TeamA": "9Gaming",
-    "TeamB": "Saigon Warriors",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-11 12:33:00"
   }
 ]
