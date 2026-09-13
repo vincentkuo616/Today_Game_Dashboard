@@ -8,6 +8,22 @@
     "LatestGameTime": "2026-09-12 21:52:00"
   },
   {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
+    "TeamA": "Magyar Gamer Szövetsèg",
+    "TeamB": "Priority",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-12 20:05:00"
+  },
+  {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
+    "TeamA": "KIA.eSuba Academy",
+    "TeamB": "Rugby Club Havířov",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-12 19:24:00"
+  },
+  {
     "OverviewPage": "Road to LES 2026/Closed Qualifier",
     "TeamA": "AzE eSports",
     "TeamB": "Kawaii Kiwis",
@@ -22,6 +38,14 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-12 18:58:00"
+  },
+  {
+    "OverviewPage": "Finnish Pro League/2026 Season/Summer Playoffs",
+    "TeamA": "Finnish Red Mafia",
+    "TeamB": "Rich Gang Finland",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-12 18:54:00"
   },
   {
     "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
@@ -80,12 +104,28 @@
     "LatestGameTime": "2026-09-12 16:07:00"
   },
   {
+    "OverviewPage": "Nexus Tour 2026/Playoffs",
+    "TeamA": "Le ZOO Esport",
+    "TeamB": "Neptunia Esports",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-12 14:00:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Grand Finals",
     "TeamA": "Anyone's Legend",
     "TeamB": "Invictus Gaming",
     "ScoreA": 3,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-12 13:07:00"
+  },
+  {
+    "OverviewPage": "Nexus Tour 2026/Playoffs",
+    "TeamA": "Scald eSports",
+    "TeamB": "THG Skol",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-12 12:49:00"
   },
   {
     "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
@@ -212,7 +252,7 @@
     "TeamA": "Neptunia Esports",
     "TeamB": "Nikaïa",
     "ScoreA": 1,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-11 21:26:00"
   },
   {
@@ -252,7 +292,7 @@
     "TeamA": "Guinea Pink",
     "TeamB": "MADE IN HEAVEN",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-11 20:01:00"
   },
   {
@@ -286,85 +326,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-11 19:23:00"
-  },
-  {
-    "OverviewPage": "Road to LES 2026/Closed Qualifier",
-    "TeamA": "AzE eSports",
-    "TeamB": "Veni Vidi Vici (Spanish Team)",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-11 19:06:00"
-  },
-  {
-    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Playoffs",
-    "TeamA": "Last Dance (Benelux Team)",
-    "TeamB": "Mind Blue eSports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-11 19:02:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Playoffs",
-    "TeamA": "GIANTX",
-    "TeamB": "Natus Vincere",
-    "ScoreA": 2,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-11 18:51:00"
-  },
-  {
-    "OverviewPage": "Nexus Tour 2026/Playoffs",
-    "TeamA": "Antic ESC",
-    "TeamB": "Triforce Esport",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-11 18:18:00"
-  },
-  {
-    "OverviewPage": "Nexus Tour 2026/Playoffs",
-    "TeamA": "Feather (Swiss Team)",
-    "TeamB": "THG Skol",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-11 18:17:00"
-  },
-  {
-    "OverviewPage": "Nexus Tour 2026/Playoffs",
-    "TeamA": "Le ZOO Esport",
-    "TeamB": "Scald eSports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-11 18:15:00"
-  },
-  {
-    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Playoffs",
-    "TeamA": "Frost Tails",
-    "TeamB": "Meavedron Benelux",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-11 17:38:00"
-  },
-  {
-    "OverviewPage": "TCL/2026 Season/Summer Split",
-    "TeamA": "Bushido Wildcats",
-    "TeamB": "PCIFIC Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-11 16:46:00"
-  },
-  {
-    "OverviewPage": "Road to LES 2026/Closed Qualifier",
-    "TeamA": "AzE eSports",
-    "TeamB": "Valkiria's Vikings",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-11 16:13:00"
-  },
-  {
-    "OverviewPage": "Road to LES 2026/Closed Qualifier",
-    "TeamA": "MADE IN HEAVEN",
-    "TeamB": "Nocturne Gale",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-11 16:10:00"
   }
 ]
