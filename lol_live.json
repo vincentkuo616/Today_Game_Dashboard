@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
+    "TeamA": "LOUD",
+    "TeamB": "paiN Gaming",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-13 18:46:00"
+  },
+  {
     "OverviewPage": "Hitpoint Masters/2026 Season/Summer Playoffs",
     "TeamA": "BRUTE",
     "TeamB": "Meavedron",
@@ -251,7 +259,7 @@
     "OverviewPage": "Nexus Tour 2026/Playoffs",
     "TeamA": "Le ZOO Esport",
     "TeamB": "Neptunia Esports",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-12 14:00:00"
   },
@@ -268,7 +276,7 @@
     "TeamA": "Scald eSports",
     "TeamB": "THG Skol",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-09-12 12:49:00"
   },
   {
@@ -276,15 +284,7 @@
     "TeamA": "Andromeda Gaming",
     "TeamB": "CITA Kaizen Academy",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-12 12:22:00"
-  },
-  {
-    "OverviewPage": "VCS/2026 Season/Finals Stage 1",
-    "TeamA": "SN CyberCore Esports",
-    "TeamB": "Saigon Warriors",
-    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-09-12 11:56:00"
+    "LatestGameTime": "2026-09-12 12:22:00"
   }
 ]
