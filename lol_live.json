@@ -1,11 +1,75 @@
 [
   {
+    "OverviewPage": "LPLOL/2026 Season/Summer Split",
+    "TeamA": "Otter Side",
+    "TeamB": "White Dragons",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-13 20:34:00"
+  },
+  {
+    "OverviewPage": "Road to LES 2026/Closed Qualifier",
+    "TeamA": "Kawaii Kiwis",
+    "TeamB": "Oxygen Gaming",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-13 20:08:00"
+  },
+  {
+    "OverviewPage": "LIT/2027 Season/Winter Promotion",
+    "TeamA": "Epitomy Esports",
+    "TeamB": "P11 Esports",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-13 18:59:00"
+  },
+  {
     "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
     "TeamA": "LOUD",
     "TeamB": "paiN Gaming",
     "ScoreA": 3,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-13 18:46:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational/EMEA Qualifier",
+    "TeamA": "Bushido Wildcats",
+    "TeamB": "Movistar KOI Fénix",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-13 17:33:00"
+  },
+  {
+    "OverviewPage": "Road to LES 2026/Closed Qualifier",
+    "TeamA": "Guinea Pink",
+    "TeamB": "Oxygen Gaming",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-13 17:04:00"
+  },
+  {
+    "OverviewPage": "Finnish Pro League/2026 Season/Summer Playoffs",
+    "TeamA": "Arcane Enigma",
+    "TeamB": "Finnish Red Mafia",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-13 17:01:00"
+  },
+  {
+    "OverviewPage": "Road to LES 2026/Closed Qualifier",
+    "TeamA": "Kawaii Kiwis",
+    "TeamB": "Veni Vidi Vici (Spanish Team)",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-13 16:16:00"
+  },
+  {
+    "OverviewPage": "Nexus Tour 2026/Playoffs",
+    "TeamA": "Le ZOO Esport",
+    "TeamB": "THG Skol",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-13 14:44:00"
   },
   {
     "OverviewPage": "Hitpoint Masters/2026 Season/Summer Playoffs",
@@ -180,15 +244,15 @@
     "TeamA": "Finnish Red Mafia",
     "TeamB": "Rich Gang Finland",
     "ScoreA": 3,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-12 18:54:00"
   },
   {
     "OverviewPage": "LEC/2026 Season/Summer Playoffs",
     "TeamA": "Movistar KOI",
     "TeamB": "Team Vitality",
-    "ScoreA": 3,
-    "ScoreB": 2,
+    "ScoreA": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-12 18:48:00"
   },
   {
@@ -196,22 +260,22 @@
     "TeamA": "FURIA",
     "TeamB": "LØS",
     "ScoreA": 1,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-09-12 18:45:00"
   },
   {
     "OverviewPage": "League Impact Series/2026 Season/Playoffs",
     "TeamA": "Ducks Deluxe x Evil Geniuses",
     "TeamB": "Five Leaf Clover",
-    "ScoreA": 3,
-    "ScoreB": 2,
+    "ScoreA": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-12 18:10:00"
   },
   {
     "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
     "TeamA": "EXILE esports Academy",
     "TeamB": "Mighty Eagles",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-12 17:03:00"
   },
@@ -219,72 +283,24 @@
     "OverviewPage": "Road to LES 2026/Closed Qualifier",
     "TeamA": "Guinea Pink",
     "TeamB": "Kawaii Kiwis",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-12 17:00:00"
   },
   {
     "OverviewPage": "Road to LES 2026/Closed Qualifier",
     "TeamA": "Oxygen Gaming",
     "TeamB": "Veni Vidi Vici (Spanish Team)",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-12 16:44:00"
   },
   {
     "OverviewPage": "Prime League 1st Division/2026 Season/Summer Playoffs",
     "TeamA": "Berlin International Gaming",
     "TeamB": "G2 NORD",
-    "ScoreA": 3,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-12 16:43:00"
-  },
-  {
-    "OverviewPage": "Road to LES 2026/Closed Qualifier",
-    "TeamA": "MADE IN HEAVEN",
-    "TeamB": "Valkiria's Vikings",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-12 16:14:00"
-  },
-  {
-    "OverviewPage": "Road to LES 2026/Closed Qualifier",
-    "TeamA": "AzE eSports",
-    "TeamB": "Nocturne Gale",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-12 16:07:00"
-  },
-  {
-    "OverviewPage": "Nexus Tour 2026/Playoffs",
-    "TeamA": "Le ZOO Esport",
-    "TeamB": "Neptunia Esports",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-12 14:00:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Grand Finals",
-    "TeamA": "Anyone's Legend",
-    "TeamB": "Invictus Gaming",
     "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-12 13:07:00"
-  },
-  {
-    "OverviewPage": "Nexus Tour 2026/Playoffs",
-    "TeamA": "Scald eSports",
-    "TeamB": "THG Skol",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-12 12:49:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
-    "TeamA": "Andromeda Gaming",
-    "TeamB": "CITA Kaizen Academy",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-12 12:22:00"
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-12 16:43:00"
   }
 ]
