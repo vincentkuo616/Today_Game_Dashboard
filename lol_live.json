@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LCS/2026 Season/Summer Playoffs",
+    "TeamA": "Cloud9",
+    "TeamB": "Shopify Rebellion",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-12 21:52:00"
+  },
+  {
     "OverviewPage": "Road to LES 2026/Closed Qualifier",
     "TeamA": "AzE eSports",
     "TeamB": "Kawaii Kiwis",
@@ -339,7 +347,7 @@
     "OverviewPage": "TCL/2026 Season/Summer Split",
     "TeamA": "Bushido Wildcats",
     "TeamB": "PCIFIC Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-11 16:46:00"
   },
@@ -347,7 +355,7 @@
     "OverviewPage": "Road to LES 2026/Closed Qualifier",
     "TeamA": "AzE eSports",
     "TeamB": "Valkiria's Vikings",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-11 16:13:00"
   },
@@ -355,7 +363,7 @@
     "OverviewPage": "Road to LES 2026/Closed Qualifier",
     "TeamA": "MADE IN HEAVEN",
     "TeamB": "Nocturne Gale",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-11 16:10:00"
   }
