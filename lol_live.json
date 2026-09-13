@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Playoffs",
+    "TeamA": "BRUTE",
+    "TeamB": "Meavedron",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-13 13:12:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Grand Finals",
     "TeamA": "Anyone's Legend",
     "TeamB": "Bilibili Gaming",
@@ -14,6 +22,14 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-13 11:58:00"
+  },
+  {
+    "OverviewPage": "Prime League 1st Division/2027 Season/Promotion",
+    "TeamA": "CGN Esports",
+    "TeamB": "Eintracht Frankfurt",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-13 11:52:00"
   },
   {
     "OverviewPage": "VCS/2026 Season/Finals Stage 1",
@@ -176,6 +192,14 @@
     "LatestGameTime": "2026-09-12 18:45:00"
   },
   {
+    "OverviewPage": "League Impact Series/2026 Season/Playoffs",
+    "TeamA": "Ducks Deluxe x Evil Geniuses",
+    "TeamB": "Five Leaf Clover",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-12 18:10:00"
+  },
+  {
     "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
     "TeamA": "EXILE esports Academy",
     "TeamB": "Mighty Eagles",
@@ -235,8 +259,8 @@
     "OverviewPage": "LPL/2026 Season/Grand Finals",
     "TeamA": "Anyone's Legend",
     "TeamB": "Invictus Gaming",
-    "ScoreA": 3,
-    "ScoreB": 2,
+    "ScoreA": 1,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-12 13:07:00"
   },
   {
@@ -251,7 +275,7 @@
     "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
     "TeamA": "Andromeda Gaming",
     "TeamB": "CITA Kaizen Academy",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-12 12:22:00"
   },
@@ -260,55 +284,7 @@
     "TeamA": "SN CyberCore Esports",
     "TeamB": "Saigon Warriors",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-12 11:56:00"
-  },
-  {
-    "OverviewPage": "VCS/2026 Season/Finals Stage 1",
-    "TeamA": "9Gaming",
-    "TeamB": "MVK Esports Academy",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-12 09:59:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Dplus Kia Youth",
-    "TeamB": "HANJIN BRION Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-12 09:35:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Eunpyeong Meditech High School",
-    "TeamB": "Kiwoom DRX Academy",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-12 09:25:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Gen.G Scholars",
-    "TeamB": "KT Rolster Academy",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-12 09:00:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "DN SOOPers Academy",
-    "TeamB": "Nongshim RedForce Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-12 08:46:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Hanwha Life Esports Academy",
-    "TeamB": "T1 Esports Academy Rookies",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-12 08:37:00"
   }
 ]
