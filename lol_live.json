@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Arctic Pandas",
+    "TeamB": "Verdant",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-14 17:45:00"
+  },
+  {
+    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Playoffs",
+    "TeamA": "EXILE esports",
+    "TeamB": "eSuba",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-14 17:00:00"
+  },
+  {
     "OverviewPage": "LCS/2026 Season/Summer Playoffs",
     "TeamA": "FlyQuest",
     "TeamB": "Sentinels",
@@ -259,7 +275,7 @@
     "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
     "TeamA": "Magyar Gamer Szövetsèg",
     "TeamB": "Priority",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-12 20:05:00"
   },
@@ -276,39 +292,7 @@
     "TeamA": "AzE eSports",
     "TeamB": "Kawaii Kiwis",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-12 19:21:00"
-  },
-  {
-    "OverviewPage": "Road to LES 2026/Closed Qualifier",
-    "TeamA": "Valkiria's Vikings",
-    "TeamB": "Veni Vidi Vici (Spanish Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-12 18:58:00"
-  },
-  {
-    "OverviewPage": "Finnish Pro League/2026 Season/Summer Playoffs",
-    "TeamA": "Finnish Red Mafia",
-    "TeamB": "Rich Gang Finland",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-12 18:54:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Playoffs",
-    "TeamA": "Movistar KOI",
-    "TeamB": "Team Vitality",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-12 18:48:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
-    "TeamA": "FURIA",
-    "TeamB": "LØS",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-12 18:45:00"
   }
 ]
