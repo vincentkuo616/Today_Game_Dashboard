@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 World Star Challengers Invitational/EMEA Qualifier",
+    "TeamA": "Berlin International Gaming",
+    "TeamB": "Movistar KOI Fénix",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-14 19:18:00"
+  },
+  {
     "OverviewPage": "NLC/2026 Season/Summer Split",
     "TeamA": "Arctic Pandas",
     "TeamB": "Verdant",
@@ -267,32 +275,8 @@
     "OverviewPage": "LCS/2026 Season/Summer Playoffs",
     "TeamA": "Cloud9",
     "TeamB": "Shopify Rebellion",
-    "ScoreA": 3,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-12 21:52:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
-    "TeamA": "Magyar Gamer Szövetsèg",
-    "TeamB": "Priority",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-12 20:05:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
-    "TeamA": "KIA.eSuba Academy",
-    "TeamB": "Rugby Club Havířov",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-12 19:24:00"
-  },
-  {
-    "OverviewPage": "Road to LES 2026/Closed Qualifier",
-    "TeamA": "AzE eSports",
-    "TeamB": "Kawaii Kiwis",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-12 19:21:00"
   }
 ]
