@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "Road Of Legends/2026 Season/Summer Playoffs",
+    "TeamA": "Senshi eSports (Benelux Team)",
+    "TeamB": "mCon esports",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-15 18:03:00"
+  },
+  {
+    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Playoffs",
+    "TeamA": "CITA Kaizen",
+    "TeamB": "Nightbirds",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-15 16:35:00"
+  },
+  {
     "OverviewPage": "2026 World Star Challengers Invitational/EMEA Qualifier",
     "TeamA": "Berlin International Gaming",
     "TeamB": "Movistar KOI Fénix",
@@ -24,12 +40,44 @@
     "LatestGameTime": "2026-09-14 17:00:00"
   },
   {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "EmBRAZA! Esports",
+    "TeamB": "SharkBite Furious Gaming White",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-13 22:48:00"
+  },
+  {
     "OverviewPage": "LCS/2026 Season/Summer Playoffs",
     "TeamA": "FlyQuest",
     "TeamB": "Sentinels",
     "ScoreA": 3,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-13 22:00:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "Clã NKZ VÓRAX",
+    "TeamB": "SharkBite Furious Gaming Black",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-13 21:32:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "LØS Academy",
+    "TeamB": "Neon eSports (Brazilian Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-13 20:54:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "GaloZeus Center",
+    "TeamB": "Smoke Tram",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-13 20:46:00"
   },
   {
     "OverviewPage": "LPLOL/2026 Season/Summer Split",
@@ -46,6 +94,14 @@
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-13 20:08:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "Marere e-Sports",
+    "TeamB": "Smoke Tram Ascension",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-13 20:01:00"
   },
   {
     "OverviewPage": "LIT/2027 Season/Winter Promotion",
@@ -196,7 +252,7 @@
     "TeamA": "Gen.G",
     "TeamB": "Hanwha Life Esports",
     "ScoreA": 3,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-13 08:19:00"
   },
   {
@@ -235,48 +291,8 @@
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "KT Rolster Academy",
     "TeamB": "Nongshim RedForce Academy",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-13 06:09:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "DN SOOPers Academy",
-    "TeamB": "T1 Esports Academy Rookies",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-13 06:03:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Eunpyeong Meditech High School",
-    "TeamB": "Hanwha Life Esports Academy",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-13 05:53:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Gen.G Scholars",
-    "TeamB": "HANJIN BRION Academy",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-13 05:53:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Dplus Kia Youth",
-    "TeamB": "Kiwoom DRX Academy",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-13 05:49:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Playoffs",
-    "TeamA": "Cloud9",
-    "TeamB": "Shopify Rebellion",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-09-12 21:52:00"
+    "LatestGameTime": "2026-09-13 06:09:00"
   }
 ]
