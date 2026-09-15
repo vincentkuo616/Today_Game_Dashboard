@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Prime League 1st Division/2027 Season/Promotion",
+    "TeamA": "All for One Gaming",
+    "TeamB": "VfB eSports",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-15 18:46:00"
+  },
+  {
     "OverviewPage": "Road Of Legends/2026 Season/Summer Playoffs",
     "TeamA": "Senshi eSports (Benelux Team)",
     "TeamB": "mCon esports",
@@ -251,7 +259,7 @@
     "OverviewPage": "LCK/2026 Season/Season Playoffs",
     "TeamA": "Gen.G",
     "TeamB": "Hanwha Life Esports",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-13 08:19:00"
   },
@@ -259,7 +267,7 @@
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "DN SOOPers Academy",
     "TeamB": "Eunpyeong Meditech High School",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-13 08:01:00"
   },
@@ -268,7 +276,7 @@
     "TeamA": "KT Rolster Academy",
     "TeamB": "T1 Esports Academy Rookies",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-13 07:50:00"
   },
   {
@@ -286,13 +294,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-13 07:46:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "KT Rolster Academy",
-    "TeamB": "Nongshim RedForce Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-13 06:09:00"
   }
 ]
