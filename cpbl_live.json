@@ -6,12 +6,12 @@
         "id": 184288,
         "venue": "天母棒球場",
         "display_time": "9/16 (三) 18:35",
-        "status_long": "Not Started",
-        "status_key": "scheduled",
+        "status_long": "Finished",
+        "status_key": "finished",
         "home_name": "味全龍",
         "away_name": "富邦悍將",
-        "home_score": "-",
-        "away_score": "-"
+        "home_score": 0,
+        "away_score": 6
       }
     ]
   },
