@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "NLC/2026 Season/Summer Split",
+    "TeamA": "Ruddy Corporation",
+    "TeamB": "Verdant",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-16 18:24:00"
+  },
+  {
     "OverviewPage": "Hitpoint Masters/2026 Season/Summer Playoffs",
     "TeamA": "Meavedron",
     "TeamB": "eSuba",
@@ -260,7 +268,7 @@
     "TeamA": "Gen.G Scholars",
     "TeamB": "Nongshim RedForce Academy",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-13 08:38:00"
   },
   {
@@ -278,29 +286,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-13 08:01:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "KT Rolster Academy",
-    "TeamB": "T1 Esports Academy Rookies",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-13 07:50:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Dplus Kia Youth",
-    "TeamB": "Hanwha Life Esports Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-13 07:49:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "HANJIN BRION Academy",
-    "TeamB": "Kiwoom DRX Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-13 07:46:00"
   }
 ]
