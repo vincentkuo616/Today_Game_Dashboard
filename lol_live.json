@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LPL/2026 Season/Regional Finals",
+    "TeamA": "Invictus Gaming",
+    "TeamB": "Top Esports",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-17 12:10:00"
+  },
+  {
     "OverviewPage": "2026 World Star Challengers Invitational/Americas Qualifier",
     "TeamA": "9z Globant",
     "TeamB": "Fuego",
@@ -251,8 +259,8 @@
     "OverviewPage": "LPL/2026 Season/Grand Finals",
     "TeamA": "Anyone's Legend",
     "TeamB": "Bilibili Gaming",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-13 12:03:00"
   },
   {
@@ -260,7 +268,7 @@
     "TeamA": "MVK Esports Academy",
     "TeamB": "SN CyberCore Esports",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-13 11:58:00"
   },
   {
@@ -268,7 +276,7 @@
     "TeamA": "CGN Esports",
     "TeamB": "Eintracht Frankfurt",
     "ScoreA": 1,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-13 11:52:00"
   }
 ]
