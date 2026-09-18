@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LIT/2026 Season/Summer Playoffs",
+    "TeamA": "Colossal Gaming",
+    "TeamB": "Team Aqua ASD",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-18 18:54:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Playoffs",
     "TeamA": "Movistar KOI",
     "TeamB": "Natus Vincere",
@@ -227,7 +235,7 @@
     "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
     "TeamA": "LOUD",
     "TeamB": "paiN Gaming",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-13 18:46:00"
   },
@@ -270,21 +278,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-13 17:04:00"
-  },
-  {
-    "OverviewPage": "Finnish Pro League/2026 Season/Summer Playoffs",
-    "TeamA": "Arcane Enigma",
-    "TeamB": "Finnish Red Mafia",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-13 17:01:00"
-  },
-  {
-    "OverviewPage": "League Impact Series/2026 Season/Playoffs",
-    "TeamA": "Majoris Angels",
-    "TeamB": "Miau",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-13 17:00:00"
   }
 ]
