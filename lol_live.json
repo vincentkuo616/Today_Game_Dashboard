@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "LEC/2026 Season/Summer Playoffs",
+    "TeamA": "Movistar KOI",
+    "TeamB": "Natus Vincere",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-18 18:12:00"
+  },
+  {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
+    "TeamA": "EXILE esports Academy",
+    "TeamB": "Magyar Gamer Szövetsèg",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-18 18:05:00"
+  },
+  {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
+    "TeamA": "Andromeda Gaming",
+    "TeamB": "Mighty Eagles",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-18 16:56:00"
+  },
+  {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
+    "TeamA": "KIA.eSuba Academy",
+    "TeamB": "Priority",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-18 16:41:00"
+  },
+  {
     "OverviewPage": "LPL/2026 Season/Regional Finals",
     "TeamA": "JD Gaming",
     "TeamB": "Team WE",
@@ -188,7 +220,7 @@
     "TeamA": "Epitomy Esports",
     "TeamB": "P11 Esports",
     "ScoreA": 1,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-09-13 18:59:00"
   },
   {
@@ -196,7 +228,7 @@
     "TeamA": "LOUD",
     "TeamB": "paiN Gaming",
     "ScoreA": 3,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-13 18:46:00"
   },
   {
@@ -220,22 +252,22 @@
     "TeamA": "Bushido Wildcats",
     "TeamB": "Movistar KOI Fénix",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-13 17:33:00"
   },
   {
     "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
     "TeamA": "CITA Kaizen Academy",
     "TeamB": "Magyar Gamer Szövetsèg",
-    "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreA": 0,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-13 17:14:00"
   },
   {
     "OverviewPage": "Road to LES 2026/Closed Qualifier",
     "TeamA": "Guinea Pink",
     "TeamB": "Oxygen Gaming",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-13 17:04:00"
   },
@@ -243,7 +275,7 @@
     "OverviewPage": "Finnish Pro League/2026 Season/Summer Playoffs",
     "TeamA": "Arcane Enigma",
     "TeamB": "Finnish Red Mafia",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-13 17:01:00"
   },
@@ -251,24 +283,8 @@
     "OverviewPage": "League Impact Series/2026 Season/Playoffs",
     "TeamA": "Majoris Angels",
     "TeamB": "Miau",
-    "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreA": 0,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-13 17:00:00"
-  },
-  {
-    "OverviewPage": "Road to LES 2026/Closed Qualifier",
-    "TeamA": "Kawaii Kiwis",
-    "TeamB": "Veni Vidi Vici (Spanish Team)",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-13 16:16:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
-    "TeamA": "KIA.eSuba Academy",
-    "TeamB": "Mighty Eagles",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-13 15:56:00"
   }
 ]
