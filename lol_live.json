@@ -1,5 +1,45 @@
 [
   {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "Clã NKZ VÓRAX",
+    "TeamB": "Invictus Team",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-19 21:44:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "Juventus Gaming Red",
+    "TeamB": "SharkBite Furious Gaming White",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-19 21:01:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "LØS Academy",
+    "TeamB": "SharkBite Furious Gaming Black",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-19 20:54:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "Marere e-Sports",
+    "TeamB": "Smoke Tram",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-19 20:17:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "Neon eSports (Brazilian Team)",
+    "TeamB": "Smoke Tram Ascension",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-19 20:00:00"
+  },
+  {
     "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
     "TeamA": "EXILE esports Academy",
     "TeamB": "Rugby Club Havířov",
@@ -251,8 +291,8 @@
     "OverviewPage": "Hitpoint Masters/2026 Season/Summer Playoffs",
     "TeamA": "CITA Kaizen",
     "TeamB": "eSuba",
-    "ScoreA": 2,
-    "ScoreB": 3,
+    "ScoreA": 1,
+    "ScoreB": 2,
     "LatestGameTime": "2026-09-17 18:39:00"
   },
   {
@@ -262,13 +302,5 @@
     "ScoreA": 3,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-17 17:48:00"
-  },
-  {
-    "OverviewPage": "LPL/2026 Season/Regional Finals",
-    "TeamA": "Invictus Gaming",
-    "TeamB": "Top Esports",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-09-17 12:10:00"
   }
 ]
