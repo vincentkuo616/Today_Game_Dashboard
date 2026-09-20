@@ -48,18 +48,18 @@
     "LatestGameTime": "2026-09-20 13:24:00"
   },
   {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "KT Rolster Challengers",
-    "TeamB": "Movistar KOI Fénix",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-20 12:27:00"
-  },
-  {
     "OverviewPage": "KOREA Pre Evaluation for 2026 Asian Games",
     "TeamA": "South Korea (National Team)",
     "TeamB": "Vietnam (National Team)",
     "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-20 12:27:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "KT Rolster Challengers",
+    "TeamB": "Movistar KOI Fénix",
+    "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-20 12:27:00"
   },
