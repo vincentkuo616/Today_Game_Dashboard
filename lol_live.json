@@ -1,5 +1,45 @@
 [
   {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "HANJIN BRION Academy",
+    "TeamB": "KT Rolster Academy",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-20 06:04:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Dplus Kia Youth",
+    "TeamB": "Nongshim RedForce Academy",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-20 06:03:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "DN SOOPers Academy",
+    "TeamB": "Kiwoom DRX Academy",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-20 06:02:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Gen.G Scholars",
+    "TeamB": "Hanwha Life Esports Academy",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-20 05:51:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Eunpyeong Meditech High School",
+    "TeamB": "T1 Esports Academy Rookies",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-20 05:50:00"
+  },
+  {
     "OverviewPage": "LCS/2026 Season/Summer Playoffs",
     "TeamA": "Cloud9",
     "TeamB": "LYON (2024 American Team)",
@@ -283,32 +323,8 @@
     "OverviewPage": "LPL/2026 Season/Regional Finals",
     "TeamA": "JD Gaming",
     "TeamB": "Team WE",
-    "ScoreA": 3,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-18 11:51:00"
-  },
-  {
-    "OverviewPage": "Prime League 1st Division/2027 Season/Promotion",
-    "TeamA": "All for One Gaming",
-    "TeamB": "Eintracht Frankfurt",
-    "ScoreA": 1,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-09-17 19:37:00"
-  },
-  {
-    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Playoffs",
-    "TeamA": "CITA Kaizen",
-    "TeamB": "eSuba",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-17 18:39:00"
-  },
-  {
-    "OverviewPage": "Road Of Legends/2026 Season/Summer Playoffs",
-    "TeamA": "Frites Esports Club",
-    "TeamB": "Senshi eSports (Benelux Team)",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-09-17 17:48:00"
+    "LatestGameTime": "2026-09-18 11:51:00"
   }
 ]
