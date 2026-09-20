@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
+    "TeamA": "RED Canids",
+    "TeamB": "paiN Gaming",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-20 18:46:00"
+  },
+  {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
+    "TeamA": "Mighty Eagles",
+    "TeamB": "Rugby Club Havířov",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-20 18:20:00"
+  },
+  {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
+    "TeamA": "CITA Kaizen Academy",
+    "TeamB": "KIA.eSuba Academy",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-20 18:20:00"
+  },
+  {
     "OverviewPage": "LEC/2026 Season/Summer Playoffs",
     "TeamA": "G2 Esports",
     "TeamB": "Movistar KOI",
@@ -22,6 +46,14 @@
     "ScoreA": 3,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-20 13:24:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "KT Rolster Challengers",
+    "TeamB": "Movistar KOI Fénix",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-20 12:27:00"
   },
   {
     "OverviewPage": "KOREA Pre Evaluation for 2026 Asian Games",
@@ -315,7 +347,7 @@
     "OverviewPage": "Rift Legends/2026 Season/Summer Split",
     "TeamA": "Bomba Team",
     "TeamB": "Forsaken (Polish Team)",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-19 12:12:00"
   },
@@ -323,24 +355,8 @@
     "OverviewPage": "LPL/2026 Season/Regional Finals",
     "TeamA": "Invictus Gaming",
     "TeamB": "JD Gaming",
-    "ScoreA": 3,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-19 12:09:00"
-  },
-  {
-    "OverviewPage": "KOREA Pre Evaluation for 2026 Asian Games",
-    "TeamA": "South Korea (National Team)",
-    "TeamB": "United States (National Team)",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-19 11:09:00"
-  },
-  {
-    "OverviewPage": "VCS/2026 Season/Finals Stage 1",
-    "TeamA": "1TAP Dino",
-    "TeamB": "MVK Esports Academy",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-19 10:49:00"
   }
 ]
