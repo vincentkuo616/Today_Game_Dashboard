@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LCS/2026 Season/Summer Playoffs",
+    "TeamA": "Cloud9",
+    "TeamB": "LYON (2024 American Team)",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-19 23:14:00"
+  },
+  {
     "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
     "TeamA": "Clã NKZ VÓRAX",
     "TeamB": "Invictus Team",
@@ -283,7 +291,7 @@
     "OverviewPage": "Prime League 1st Division/2027 Season/Promotion",
     "TeamA": "All for One Gaming",
     "TeamB": "Eintracht Frankfurt",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 3,
     "LatestGameTime": "2026-09-17 19:37:00"
   },
@@ -291,7 +299,7 @@
     "OverviewPage": "Hitpoint Masters/2026 Season/Summer Playoffs",
     "TeamA": "CITA Kaizen",
     "TeamB": "eSuba",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-17 18:39:00"
   },
@@ -299,7 +307,7 @@
     "OverviewPage": "Road Of Legends/2026 Season/Summer Playoffs",
     "TeamA": "Frites Esports Club",
     "TeamB": "Senshi eSports (Benelux Team)",
-    "ScoreA": 3,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-17 17:48:00"
   }
