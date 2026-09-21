@@ -1,6 +1,62 @@
 [
   {
     "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "Galions",
+    "TeamB": "Solary",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-21 13:04:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "Saigon Warriors",
+    "TeamB": "ZSK (Chinese Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-21 11:58:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "FENNEL",
+    "TeamB": "Vivo Keyd Stars Academy",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-21 10:56:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "Cupid Esports",
+    "TeamB": "Dplus Kia Challengers",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-21 09:57:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "Solary",
+    "TeamB": "ZSK (Chinese Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-21 08:56:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "Galions",
+    "TeamB": "Saigon Warriors",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-21 07:54:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "Cupid Esports",
+    "TeamB": "FENNEL",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-21 06:57:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational",
     "TeamA": "Dplus Kia Challengers",
     "TeamB": "Vivo Keyd Stars Academy",
     "ScoreA": 1,
@@ -38,6 +94,14 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-20 18:20:00"
+  },
+  {
+    "OverviewPage": "League Impact Series/2026 Season/Playoffs",
+    "TeamA": "Ducks Deluxe x Evil Geniuses",
+    "TeamB": "Miau",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-20 18:04:00"
   },
   {
     "OverviewPage": "LEC/2026 Season/Summer Playoffs",
@@ -308,14 +372,14 @@
     "TeamA": "Colossal Gaming",
     "TeamB": "HMBLE",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-09-19 18:14:00"
   },
   {
     "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
     "TeamA": "RED Canids",
     "TeamB": "Vivo Keyd Stars",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-19 17:57:00"
   },
@@ -324,39 +388,15 @@
     "TeamA": "Karmine Corp",
     "TeamB": "Movistar KOI",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-09-19 17:17:00"
   },
   {
     "OverviewPage": "League Impact Series/2026 Season/Playoffs",
     "TeamA": "Bunny Girls",
     "TeamB": "FlyQuest RED",
-    "ScoreA": 1,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-09-19 17:00:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
-    "TeamA": "Andromeda Gaming",
-    "TeamB": "KIA.eSuba Academy",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-19 16:31:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
-    "TeamA": "Magyar Gamer Szövetsèg",
-    "TeamB": "Mighty Eagles",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-19 16:15:00"
-  },
-  {
-    "OverviewPage": "VCS/2026 Season/Finals Stage 1",
-    "TeamA": "9Gaming",
-    "TeamB": "SN CyberCore Esports",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-19 13:51:00"
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-19 17:00:00"
   }
 ]
