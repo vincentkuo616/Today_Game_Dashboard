@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "Dplus Kia Challengers",
+    "TeamB": "Vivo Keyd Stars Academy",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-21 06:06:00"
+  },
+  {
     "OverviewPage": "LCS/2026 Season/Summer Playoffs",
     "TeamA": "FlyQuest",
     "TeamB": "Team Liquid",
@@ -56,18 +64,18 @@
     "LatestGameTime": "2026-09-20 13:24:00"
   },
   {
-    "OverviewPage": "KOREA Pre Evaluation for 2026 Asian Games",
-    "TeamA": "South Korea (National Team)",
-    "TeamB": "Vietnam (National Team)",
-    "ScoreA": 3,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-20 12:27:00"
-  },
-  {
     "OverviewPage": "2026 World Star Challengers Invitational",
     "TeamA": "KT Rolster Challengers",
     "TeamB": "Movistar KOI Fénix",
     "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-20 12:27:00"
+  },
+  {
+    "OverviewPage": "KOREA Pre Evaluation for 2026 Asian Games",
+    "TeamA": "South Korea (National Team)",
+    "TeamB": "Vietnam (National Team)",
+    "ScoreA": 3,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-20 12:27:00"
   },
@@ -350,13 +358,5 @@
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-19 13:51:00"
-  },
-  {
-    "OverviewPage": "Rift Legends/2026 Season/Summer Split",
-    "TeamA": "Bomba Team",
-    "TeamB": "Forsaken (Polish Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-19 12:12:00"
   }
 ]
