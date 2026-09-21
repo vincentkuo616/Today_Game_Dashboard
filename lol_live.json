@@ -1,5 +1,69 @@
 [
   {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
+    "TeamA": "CITA Kaizen",
+    "TeamB": "Team Aqua ASD",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-21 18:54:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
+    "TeamA": "LODIS (Polish Team)",
+    "TeamB": "Pyramid IV Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-21 18:38:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
+    "TeamA": "Gamespace Mediterranean College Esports",
+    "TeamB": "Only The Family",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-21 18:31:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
+    "TeamA": "UCAM Esports",
+    "TeamB": "mCon esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-21 17:42:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
+    "TeamA": "Barça eSports",
+    "TeamB": "Bubliki",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-21 16:54:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
+    "TeamA": "Arctic Pandas",
+    "TeamB": "Skillcamp",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-21 16:45:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
+    "TeamA": "SU Esports",
+    "TeamB": "Verdant",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-21 15:57:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
+    "TeamA": "Otter Side",
+    "TeamB": "Unicorns of Love Sexy Edition",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-21 15:50:00"
+  },
+  {
     "OverviewPage": "2026 World Star Challengers Invitational",
     "TeamA": "Galions",
     "TeamB": "Solary",
@@ -307,7 +371,7 @@
     "OverviewPage": "LCS/2026 Season/Summer Playoffs",
     "TeamA": "Cloud9",
     "TeamB": "LYON (2024 American Team)",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-19 23:14:00"
   },
@@ -318,85 +382,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-19 21:44:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
-    "TeamA": "Juventus Gaming Red",
-    "TeamB": "SharkBite Furious Gaming White",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-19 21:01:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
-    "TeamA": "LØS Academy",
-    "TeamB": "SharkBite Furious Gaming Black",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-19 20:54:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
-    "TeamA": "Marere e-Sports",
-    "TeamB": "Smoke Tram",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-19 20:17:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
-    "TeamA": "Neon eSports (Brazilian Team)",
-    "TeamB": "Smoke Tram Ascension",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-19 20:00:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
-    "TeamA": "EXILE esports Academy",
-    "TeamB": "Rugby Club Havířov",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-19 19:17:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
-    "TeamA": "CITA Kaizen Academy",
-    "TeamB": "Priority",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-19 19:12:00"
-  },
-  {
-    "OverviewPage": "LIT/2026 Season/Summer Playoffs",
-    "TeamA": "Colossal Gaming",
-    "TeamB": "HMBLE",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-19 18:14:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
-    "TeamA": "RED Canids",
-    "TeamB": "Vivo Keyd Stars",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-19 17:57:00"
-  },
-  {
-    "OverviewPage": "LEC/2026 Season/Summer Playoffs",
-    "TeamA": "Karmine Corp",
-    "TeamB": "Movistar KOI",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-19 17:17:00"
-  },
-  {
-    "OverviewPage": "League Impact Series/2026 Season/Playoffs",
-    "TeamA": "Bunny Girls",
-    "TeamB": "FlyQuest RED",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-19 17:00:00"
   }
 ]
