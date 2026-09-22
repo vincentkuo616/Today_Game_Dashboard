@@ -1,6 +1,38 @@
 [
   {
     "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
+    "TeamA": "Bubliki",
+    "TeamB": "Only The Family",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-22 18:02:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
+    "TeamA": "Verdant",
+    "TeamB": "mCon esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-22 17:54:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
+    "TeamA": "Otter Side",
+    "TeamB": "Team Aqua ASD",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-22 17:42:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
+    "TeamA": "LODIS (Polish Team)",
+    "TeamB": "Skillcamp",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-22 17:23:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
     "TeamA": "Barça eSports",
     "TeamB": "Gamespace Mediterranean College Esports",
     "ScoreA": 2,
@@ -52,7 +84,7 @@
     "TeamA": "Bilibili Gaming Junior",
     "TeamB": "KT Rolster Challengers",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-22 09:37:00"
   },
   {
@@ -366,37 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-20 11:35:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "EDward Gaming Youth Team",
-    "TeamB": "Fuego",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-20 10:49:00"
-  },
-  {
-    "OverviewPage": "VCS/2026 Season/Finals Stage 1",
-    "TeamA": "MVK Esports Academy",
-    "TeamB": "Saigon Warriors",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-20 10:02:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "DN SOOPers Challengers",
-    "TeamB": "T1 Esports Academy",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-20 09:56:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "DN SOOPers Academy",
-    "TeamB": "Hanwha Life Esports Academy",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-20 09:19:00"
   }
 ]
