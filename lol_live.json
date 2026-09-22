@@ -1,5 +1,53 @@
 [
   {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "EDward Gaming Youth Team",
+    "TeamB": "T1 Esports Academy",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-22 11:21:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "CTBC Flying Oyster Academy",
+    "TeamB": "Movistar KOI Fénix",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-22 10:35:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "Bilibili Gaming Junior",
+    "TeamB": "KT Rolster Challengers",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-22 09:37:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "Fuego",
+    "TeamB": "T1 Esports Academy",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-22 07:59:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "CTBC Flying Oyster Academy",
+    "TeamB": "KT Rolster Challengers",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-22 07:03:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "Bilibili Gaming Junior",
+    "TeamB": "Movistar KOI Fénix",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-22 06:05:00"
+  },
+  {
     "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
     "TeamA": "CITA Kaizen",
     "TeamB": "Team Aqua ASD",
@@ -312,14 +360,6 @@
     "LatestGameTime": "2026-09-20 09:19:00"
   },
   {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "CTBC Flying Oyster Academy",
-    "TeamB": "Movistar KOI Fénix",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-20 08:57:00"
-  },
-  {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "KT Rolster Academy",
     "TeamB": "Kiwoom DRX Academy",
@@ -353,50 +393,10 @@
   },
   {
     "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "Bilibili Gaming Junior",
-    "TeamB": "KT Rolster Challengers",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-20 08:00:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
     "TeamA": "DN SOOPers Challengers",
     "TeamB": "Fuego",
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-20 07:15:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "HANJIN BRION Academy",
-    "TeamB": "KT Rolster Academy",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-20 06:59:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "DN SOOPers Academy",
-    "TeamB": "Kiwoom DRX Academy",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-20 06:52:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Gen.G Scholars",
-    "TeamB": "Hanwha Life Esports Academy",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-20 06:51:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "EDward Gaming Youth Team",
-    "TeamB": "T1 Esports Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-20 06:13:00"
   }
 ]
