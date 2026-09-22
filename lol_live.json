@@ -136,6 +136,46 @@
     "LatestGameTime": "2026-09-20 21:53:00"
   },
   {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "Clã NKZ VÓRAX",
+    "TeamB": "EmBRAZA! Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-20 21:42:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "Invictus Team",
+    "TeamB": "LØS Academy",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-20 21:40:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "SharkBite Furious Gaming Black",
+    "TeamB": "Smoke Tram Ascension",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-20 21:04:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "SharkBite Furious Gaming White",
+    "TeamB": "Smoke Tram",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-20 20:11:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "Marere e-Sports",
+    "TeamB": "Neon eSports (Brazilian Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-20 20:00:00"
+  },
+  {
     "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
     "TeamA": "RED Canids",
     "TeamB": "paiN Gaming",
@@ -358,29 +398,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-20 06:03:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Eunpyeong Meditech High School",
-    "TeamB": "T1 Esports Academy Rookies",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-20 05:50:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Playoffs",
-    "TeamA": "Cloud9",
-    "TeamB": "LYON (2024 American Team)",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-19 23:14:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
-    "TeamA": "Clã NKZ VÓRAX",
-    "TeamB": "Invictus Team",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-19 21:44:00"
   }
 ]
