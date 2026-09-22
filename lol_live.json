@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
+    "TeamA": "Arctic Pandas",
+    "TeamB": "Pyramid IV Esports",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-22 20:25:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2027 Season/Promotion",
+    "TeamA": "Le ZOO Esport",
+    "TeamB": "Team Solo Chauve",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-22 20:15:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
     "TeamA": "Bubliki",
     "TeamB": "Only The Family",
     "ScoreA": 0,
@@ -76,7 +92,7 @@
     "TeamA": "CTBC Flying Oyster Academy",
     "TeamB": "Movistar KOI Fénix",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-22 10:35:00"
   },
   {
@@ -372,7 +388,7 @@
     "TeamA": "South Korea (National Team)",
     "TeamB": "Vietnam (National Team)",
     "ScoreA": 3,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-20 12:27:00"
   },
   {
@@ -382,21 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-20 11:56:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
-    "TeamA": "Andromeda Gaming",
-    "TeamB": "Magyar Gamer Szövetsèg",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-20 11:42:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "Bilibili Gaming Junior",
-    "TeamB": "CTBC Flying Oyster Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-20 11:35:00"
   }
 ]
