@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
+    "TeamA": "CITA Kaizen",
+    "TeamB": "Otter Side",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-23 18:48:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
+    "TeamA": "SU Esports",
+    "TeamB": "Verdant",
+    "ScoreA": 4,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-23 18:45:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
+    "TeamA": "Gamespace Mediterranean College Esports",
+    "TeamB": "Only The Family",
+    "ScoreA": 4,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-23 17:55:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
+    "TeamA": "Pyramid IV Esports",
+    "TeamB": "Skillcamp",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-23 17:46:00"
+  },
+  {
     "OverviewPage": "2026 World Star Challengers Invitational",
     "TeamA": "Cupid Esports",
     "TeamB": "FENNEL",
@@ -217,14 +249,6 @@
   },
   {
     "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
-    "TeamA": "Gamespace Mediterranean College Esports",
-    "TeamB": "Only The Family",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-21 18:31:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
     "TeamA": "UCAM Esports",
     "TeamB": "mCon esports",
     "ScoreA": 2,
@@ -246,14 +270,6 @@
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-21 16:45:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
-    "TeamA": "SU Esports",
-    "TeamB": "Verdant",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-21 15:57:00"
   },
   {
     "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
@@ -372,31 +388,15 @@
     "TeamA": "Ducks Deluxe x Evil Geniuses",
     "TeamB": "Miau",
     "ScoreA": 3,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-20 18:04:00"
   },
   {
     "OverviewPage": "LEC/2026 Season/Summer Playoffs",
     "TeamA": "G2 Esports",
     "TeamB": "Movistar KOI",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-20 17:13:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
-    "TeamA": "EXILE esports Academy",
-    "TeamB": "Priority",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-20 16:59:00"
-  },
-  {
-    "OverviewPage": "Hitpoint Masters/2026 Season/Summer Playoffs",
-    "TeamA": "Nightbirds",
-    "TeamB": "eSuba",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-20 13:24:00"
   }
 ]
