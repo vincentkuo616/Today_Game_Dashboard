@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "Cupid Esports",
+    "TeamB": "FENNEL",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-23 12:40:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational",
     "TeamA": "Dplus Kia Challengers",
     "TeamB": "Vivo Keyd Stars Academy",
     "ScoreA": 2,
@@ -286,14 +294,6 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-21 09:57:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "Cupid Esports",
-    "TeamB": "FENNEL",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-21 06:57:00"
   },
   {
     "OverviewPage": "LCS/2026 Season/Summer Playoffs",
