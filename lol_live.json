@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Nexus League/2027 Season/Promotion",
+    "TeamA": "Ancient Ones",
+    "TeamB": "Team High Ground",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-24 20:28:00"
+  },
+  {
     "OverviewPage": "LES/2027 Season/Promotion",
     "TeamA": "Guinea Pink",
     "TeamB": "Kawaii Kiwis",
@@ -115,7 +123,7 @@
     "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
     "TeamA": "SU Esports",
     "TeamB": "Verdant",
-    "ScoreA": 4,
+    "ScoreA": 3,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-23 18:45:00"
   },
@@ -348,7 +356,7 @@
     "TeamA": "Arctic Pandas",
     "TeamB": "Skillcamp",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-21 16:45:00"
   },
   {
@@ -358,29 +366,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-21 15:50:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "Galions",
-    "TeamB": "Solary",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-21 13:04:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "Saigon Warriors",
-    "TeamB": "ZSK (Chinese Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-21 11:58:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "FENNEL",
-    "TeamB": "Vivo Keyd Stars Academy",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-21 10:56:00"
   }
 ]
