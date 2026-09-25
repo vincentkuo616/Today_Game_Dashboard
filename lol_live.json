@@ -1,5 +1,45 @@
 [
   {
+    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Playoffs",
+    "TeamA": "BiPOLAR (Benelux Team)",
+    "TeamB": "FUSE",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-25 20:07:00"
+  },
+  {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Playoffs",
+    "TeamA": "Andromeda Gaming",
+    "TeamB": "Rugby Club Havířov",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-25 19:08:00"
+  },
+  {
+    "OverviewPage": "Nexus League/2027 Season/Promotion",
+    "TeamA": "Ancient Ones",
+    "TeamB": "Team Solo Chauve",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-25 18:59:00"
+  },
+  {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Playoffs",
+    "TeamA": "EXILE esports Academy",
+    "TeamB": "KIA.eSuba Academy",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-25 18:57:00"
+  },
+  {
+    "OverviewPage": "LES/2027 Season/Promotion",
+    "TeamA": "Falke Esports",
+    "TeamB": "Kawaii Kiwis",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-25 18:30:00"
+  },
+  {
     "OverviewPage": "VCS/2026 Season/Finals Stage 2",
     "TeamA": "MVK Esports Academy",
     "TeamB": "Saigon Warriors",
@@ -76,7 +116,7 @@
     "TeamA": "CTBC Flying Oyster Academy",
     "TeamB": "KT Rolster Challengers",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-24 12:03:00"
   },
   {
@@ -84,7 +124,7 @@
     "TeamA": "Bilibili Gaming Junior",
     "TeamB": "Movistar KOI Fénix",
     "ScoreA": 1,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-24 11:05:00"
   },
   {
@@ -99,7 +139,7 @@
     "OverviewPage": "2026 World Star Challengers Invitational",
     "TeamA": "DN SOOPers Challengers",
     "TeamB": "EDward Gaming Youth Team",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-24 10:16:00"
   },
@@ -108,7 +148,7 @@
     "TeamA": "Fuego",
     "TeamB": "T1 Esports Academy",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-24 09:30:00"
   },
   {
@@ -179,7 +219,7 @@
     "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
     "TeamA": "Gamespace Mediterranean College Esports",
     "TeamB": "Only The Family",
-    "ScoreA": 4,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-23 17:55:00"
   },
@@ -275,7 +315,7 @@
     "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
     "TeamA": "LODIS (Polish Team)",
     "TeamB": "Skillcamp",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-22 17:23:00"
   },
@@ -283,7 +323,7 @@
     "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
     "TeamA": "Barça eSports",
     "TeamB": "Gamespace Mediterranean College Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-22 15:56:00"
   },
@@ -300,71 +340,7 @@
     "TeamA": "CITA Kaizen",
     "TeamB": "Unicorns of Love Sexy Edition",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-22 15:51:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "DN SOOPers Challengers",
-    "TeamB": "Fuego",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-22 12:13:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "EDward Gaming Youth Team",
-    "TeamB": "T1 Esports Academy",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-22 11:21:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "CTBC Flying Oyster Academy",
-    "TeamB": "Movistar KOI Fénix",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-22 10:35:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "Bilibili Gaming Junior",
-    "TeamB": "KT Rolster Challengers",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-22 09:37:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
-    "TeamA": "CITA Kaizen",
-    "TeamB": "Team Aqua ASD",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-21 18:54:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Split",
-    "TeamA": "CITA Kaizen Academy",
-    "TeamB": "Rugby Club Havířov",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-21 18:44:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
-    "TeamA": "LODIS (Polish Team)",
-    "TeamB": "Pyramid IV Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-21 18:38:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
-    "TeamA": "UCAM Esports",
-    "TeamB": "mCon esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-21 17:42:00"
   }
 ]
