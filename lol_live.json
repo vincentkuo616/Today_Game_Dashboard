@@ -1,5 +1,45 @@
 [
   {
+    "OverviewPage": "VCS/2026 Season/Finals Stage 2",
+    "TeamA": "MVK Esports Academy",
+    "TeamB": "Saigon Warriors",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-25 11:36:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "Galions",
+    "TeamB": "ZSK (Chinese Team)",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-25 11:02:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "Cupid Esports",
+    "TeamB": "Vivo Keyd Stars Academy",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-25 09:56:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "Dplus Kia Challengers",
+    "TeamB": "FENNEL",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-25 08:58:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "Galions",
+    "TeamB": "Solary",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-25 08:05:00"
+  },
+  {
     "OverviewPage": "2026 World Star Challengers Invitational",
     "TeamA": "FENNEL",
     "TeamB": "Vivo Keyd Stars Academy",
@@ -131,7 +171,7 @@
     "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
     "TeamA": "SU Esports",
     "TeamB": "Verdant",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-23 18:45:00"
   },
@@ -182,30 +222,6 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-23 09:49:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "Cupid Esports",
-    "TeamB": "Vivo Keyd Stars Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-23 08:46:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "Dplus Kia Challengers",
-    "TeamB": "FENNEL",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-23 07:58:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "Galions",
-    "TeamB": "ZSK (Chinese Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-23 06:58:00"
   },
   {
     "OverviewPage": "2026 World Star Challengers Invitational",
@@ -347,32 +363,8 @@
     "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
     "TeamA": "UCAM Esports",
     "TeamB": "mCon esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-21 17:42:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
-    "TeamA": "Barça eSports",
-    "TeamB": "Bubliki",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-21 16:54:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
-    "TeamA": "Arctic Pandas",
-    "TeamB": "Skillcamp",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-21 16:45:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
-    "TeamA": "Otter Side",
-    "TeamB": "Unicorns of Love Sexy Edition",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-21 15:50:00"
   }
 ]
