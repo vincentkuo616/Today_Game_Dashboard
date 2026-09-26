@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "LODIS (Polish Team)",
+    "TeamB": "Valerion",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-26 16:04:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Barça eSports",
+    "TeamB": "JSK Esports",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-26 16:03:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Colossal Gaming",
+    "TeamB": "Skillcamp",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-26 16:02:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Berlin International Gaming",
+    "TeamB": "Frites Esports Club",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-26 16:02:00"
+  },
+  {
     "OverviewPage": "VCS/2026 Season/Finals Stage 2",
     "TeamA": "9Gaming",
     "TeamB": "SN CyberCore Esports",
@@ -283,7 +315,7 @@
     "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Playoffs",
     "TeamA": "BiPOLAR (Benelux Team)",
     "TeamB": "Frost Tails",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-23 20:15:00"
   },
@@ -291,7 +323,7 @@
     "OverviewPage": "LES/2027 Season/Promotion",
     "TeamA": "Kawaii Kiwis",
     "TeamB": "Veni Vidi Vici (Spanish Team)",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-23 19:36:00"
   },
@@ -299,7 +331,7 @@
     "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
     "TeamA": "CITA Kaizen",
     "TeamB": "Otter Side",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-23 18:48:00"
   },
@@ -315,7 +347,7 @@
     "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
     "TeamA": "Gamespace Mediterranean College Esports",
     "TeamB": "Only The Family",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-23 17:55:00"
   },
