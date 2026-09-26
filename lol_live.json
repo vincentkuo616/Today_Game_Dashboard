@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LCS/2026 Season/Summer Playoffs",
+    "TeamA": "FlyQuest",
+    "TeamB": "Shopify Rebellion",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-25 23:27:00"
+  },
+  {
     "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Playoffs",
     "TeamA": "BiPOLAR (Benelux Team)",
     "TeamB": "FUSE",
@@ -316,31 +324,7 @@
     "TeamA": "LODIS (Polish Team)",
     "TeamB": "Skillcamp",
     "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-22 17:23:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
-    "TeamA": "Barça eSports",
-    "TeamB": "Gamespace Mediterranean College Esports",
-    "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-09-22 15:56:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
-    "TeamA": "SU Esports",
-    "TeamB": "UCAM Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-22 15:51:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
-    "TeamA": "CITA Kaizen",
-    "TeamB": "Unicorns of Love Sexy Edition",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-22 15:51:00"
+    "LatestGameTime": "2026-09-22 17:23:00"
   }
 ]
