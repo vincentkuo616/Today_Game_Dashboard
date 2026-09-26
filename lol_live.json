@@ -1,5 +1,77 @@
 [
   {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "DN SOOPers Academy",
+    "TeamB": "KT Rolster Academy",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-26 08:02:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Kiwoom DRX Academy",
+    "TeamB": "T1 Esports Academy Rookies",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-26 07:45:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Eunpyeong Meditech High School",
+    "TeamB": "HANJIN BRION Academy",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-26 07:45:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Dplus Kia Youth",
+    "TeamB": "Gen.G Scholars",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-26 07:36:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "HANJIN BRION Academy",
+    "TeamB": "T1 Esports Academy Rookies",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-26 06:45:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Hanwha Life Esports Academy",
+    "TeamB": "KT Rolster Academy",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-26 06:40:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Kiwoom DRX Academy",
+    "TeamB": "Nongshim RedForce Academy",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-26 05:54:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "DN SOOPers Academy",
+    "TeamB": "Gen.G Scholars",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-26 05:53:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Dplus Kia Youth",
+    "TeamB": "Eunpyeong Meditech High School",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-26 05:52:00"
+  },
+  {
     "OverviewPage": "LCS/2026 Season/Summer Playoffs",
     "TeamA": "FlyQuest",
     "TeamB": "Shopify Rebellion",
@@ -59,7 +131,7 @@
     "OverviewPage": "2026 World Star Challengers Invitational",
     "TeamA": "Galions",
     "TeamB": "ZSK (Chinese Team)",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-25 11:02:00"
   },
@@ -75,7 +147,7 @@
     "OverviewPage": "2026 World Star Challengers Invitational",
     "TeamA": "Dplus Kia Challengers",
     "TeamB": "FENNEL",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-25 08:58:00"
   },
@@ -270,61 +342,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-23 09:49:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "Saigon Warriors",
-    "TeamB": "Solary",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-23 06:08:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
-    "TeamA": "Arctic Pandas",
-    "TeamB": "Pyramid IV Esports",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-22 20:25:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2027 Season/Promotion",
-    "TeamA": "Le ZOO Esport",
-    "TeamB": "Team Solo Chauve",
-    "ScoreA": 1,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-09-22 20:15:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
-    "TeamA": "Bubliki",
-    "TeamB": "Only The Family",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-22 18:02:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
-    "TeamA": "Verdant",
-    "TeamB": "mCon esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-22 17:54:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
-    "TeamA": "Otter Side",
-    "TeamB": "Team Aqua ASD",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-22 17:42:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer LCQ",
-    "TeamA": "LODIS (Polish Team)",
-    "TeamB": "Skillcamp",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-22 17:23:00"
   }
 ]
