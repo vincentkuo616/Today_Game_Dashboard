@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LCS/2026 Season/Summer Playoffs",
+    "TeamA": "LYON (2024 American Team)",
+    "TeamB": "Shopify Rebellion",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-26 22:35:00"
+  },
+  {
     "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
     "TeamA": "FURIA",
     "TeamB": "RED Canids",
@@ -350,29 +358,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-24 11:05:00"
-  },
-  {
-    "OverviewPage": "VCS/2026 Season/Finals Stage 2",
-    "TeamA": "9Gaming",
-    "TeamB": "Saigon Warriors",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-24 10:48:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "DN SOOPers Challengers",
-    "TeamB": "EDward Gaming Youth Team",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-24 10:16:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "Fuego",
-    "TeamB": "T1 Esports Academy",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-24 09:30:00"
   }
 ]
