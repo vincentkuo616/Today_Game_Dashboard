@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "G2 NORD",
+    "TeamB": "Nightbirds",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-27 16:06:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Senshi eSports (Benelux Team)",
+    "TeamB": "Team Heretics Academy",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-27 16:04:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Colossal Gaming",
+    "TeamB": "Ruddy Corporation",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-27 16:03:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Bomba Team",
+    "TeamB": "TLN Pirates",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-27 16:03:00"
+  },
+  {
     "OverviewPage": "2026 World Star Challengers Invitational",
     "TeamA": "DN SOOPers Challengers",
     "TeamB": "Dplus Kia Challengers",
@@ -339,7 +371,7 @@
     "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Playoffs",
     "TeamA": "BiPOLAR (Benelux Team)",
     "TeamB": "FUSE",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-25 20:07:00"
   },
@@ -348,7 +380,7 @@
     "TeamA": "Andromeda Gaming",
     "TeamB": "Rugby Club Havířov",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-25 19:08:00"
   },
   {
@@ -364,15 +396,7 @@
     "TeamA": "EXILE esports Academy",
     "TeamB": "KIA.eSuba Academy",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-25 18:57:00"
-  },
-  {
-    "OverviewPage": "LES/2027 Season/Promotion",
-    "TeamA": "Falke Esports",
-    "TeamB": "Kawaii Kiwis",
-    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-09-25 18:30:00"
+    "LatestGameTime": "2026-09-25 18:57:00"
   }
 ]
