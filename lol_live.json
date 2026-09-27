@@ -1,5 +1,109 @@
 [
   {
+    "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
+    "TeamA": "LOUD",
+    "TeamB": "LØS",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-27 19:49:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Anubis Gaming",
+    "TeamB": "Unicorns of Love Sexy Edition",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-27 19:20:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "HMBLE",
+    "TeamB": "White Dragons",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-27 19:03:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Bushido Wildcats",
+    "TeamB": "eSuba",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-27 18:58:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Gamespace Mediterranean College Esports",
+    "TeamB": "Magaza Esports",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-27 18:39:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Berlin International Gaming",
+    "TeamB": "Valerion",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-27 18:27:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Forsaken (Polish Team)",
+    "TeamB": "Otter Side",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-27 18:07:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "PCIFIC Esports",
+    "TeamB": "The Secret Club",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-27 17:56:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Karmine Corp Blue",
+    "TeamB": "UCAM Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-27 17:52:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "JSK Esports",
+    "TeamB": "SU Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-27 17:25:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Frites Esports Club",
+    "TeamB": "LODIS (Polish Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-27 17:05:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Kaufland Hangry Knights",
+    "TeamB": "Skillcamp",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-27 17:03:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Barça eSports",
+    "TeamB": "Team Phantasma",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-27 16:52:00"
+  },
+  {
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "G2 NORD",
     "TeamB": "Nightbirds",
@@ -294,109 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-26 08:55:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Kiwoom DRX Academy",
-    "TeamB": "T1 Esports Academy Rookies",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-26 08:29:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Eunpyeong Meditech High School",
-    "TeamB": "HANJIN BRION Academy",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-26 08:29:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Dplus Kia Youth",
-    "TeamB": "Gen.G Scholars",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-26 07:36:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "HANJIN BRION Academy",
-    "TeamB": "T1 Esports Academy Rookies",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-26 06:45:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Hanwha Life Esports Academy",
-    "TeamB": "KT Rolster Academy",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-26 06:40:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Kiwoom DRX Academy",
-    "TeamB": "Nongshim RedForce Academy",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-26 05:54:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "DN SOOPers Academy",
-    "TeamB": "Gen.G Scholars",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-26 05:53:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Dplus Kia Youth",
-    "TeamB": "Eunpyeong Meditech High School",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-26 05:52:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Playoffs",
-    "TeamA": "FlyQuest",
-    "TeamB": "Shopify Rebellion",
-    "ScoreA": 2,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-09-25 23:27:00"
-  },
-  {
-    "OverviewPage": "Benelux Ascend Series/2026 Season/Summer Playoffs",
-    "TeamA": "BiPOLAR (Benelux Team)",
-    "TeamB": "FUSE",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-25 20:07:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Playoffs",
-    "TeamA": "Andromeda Gaming",
-    "TeamB": "Rugby Club Havířov",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-25 19:08:00"
-  },
-  {
-    "OverviewPage": "Nexus League/2027 Season/Promotion",
-    "TeamA": "Ancient Ones",
-    "TeamB": "Team Solo Chauve",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-25 18:59:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Playoffs",
-    "TeamA": "EXILE esports Academy",
-    "TeamB": "KIA.eSuba Academy",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-25 18:57:00"
   }
 ]
