@@ -1,5 +1,53 @@
 [
   {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Eunpyeong Meditech High School",
+    "TeamB": "Hanwha Life Esports Academy",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-27 06:57:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Dplus Kia Youth",
+    "TeamB": "HANJIN BRION Academy",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-27 06:55:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "DN SOOPers Academy",
+    "TeamB": "Nongshim RedForce Academy",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-27 06:51:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Gen.G Scholars",
+    "TeamB": "KT Rolster Academy",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-27 06:51:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Eunpyeong Meditech High School",
+    "TeamB": "Kiwoom DRX Academy",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-27 05:59:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Hanwha Life Esports Academy",
+    "TeamB": "T1 Esports Academy Rookies",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-09-27 05:51:00"
+  },
+  {
     "OverviewPage": "LCS/2026 Season/Summer Playoffs",
     "TeamA": "LYON (2024 American Team)",
     "TeamB": "Shopify Rebellion",
@@ -323,40 +371,8 @@
     "OverviewPage": "Nexus League/2027 Season/Promotion",
     "TeamA": "Ancient Ones",
     "TeamB": "Team High Ground",
-    "ScoreA": 3,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-24 20:28:00"
-  },
-  {
-    "OverviewPage": "LES/2027 Season/Promotion",
-    "TeamA": "Guinea Pink",
-    "TeamB": "Kawaii Kiwis",
-    "ScoreA": 2,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-09-24 18:55:00"
-  },
-  {
-    "OverviewPage": "VCS/2026 Season/Finals Stage 2",
-    "TeamA": "MVK Esports Academy",
-    "TeamB": "SN CyberCore Esports",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-24 13:28:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "CTBC Flying Oyster Academy",
-    "TeamB": "KT Rolster Challengers",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-24 12:03:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "Bilibili Gaming Junior",
-    "TeamB": "Movistar KOI Fénix",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-09-24 11:05:00"
+    "LatestGameTime": "2026-09-24 20:28:00"
   }
 ]
