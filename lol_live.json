@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "Galions",
+    "TeamB": "KT Rolster Challengers",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-28 11:28:00"
+  },
+  {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "Cupid Esports",
+    "TeamB": "T1 Esports Academy",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-28 08:48:00"
+  },
+  {
     "OverviewPage": "LCS/2026 Season/Summer Playoffs",
     "TeamA": "Cloud9",
     "TeamB": "Team Liquid",
@@ -382,21 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-26 18:13:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Forsaken (Polish Team)",
-    "TeamB": "G2 NORD",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-26 18:05:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Team Heretics Academy",
-    "TeamB": "eSuba",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-26 18:00:00"
   }
 ]
