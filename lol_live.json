@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LCS/2026 Season/Summer Playoffs",
+    "TeamA": "Cloud9",
+    "TeamB": "Team Liquid",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-27 22:30:00"
+  },
+  {
     "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
     "TeamA": "LOUD",
     "TeamB": "LØS",
@@ -390,13 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-26 09:46:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Hanwha Life Esports Academy",
-    "TeamB": "Nongshim RedForce Academy",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-26 08:55:00"
   }
 ]
