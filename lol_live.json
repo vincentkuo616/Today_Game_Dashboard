@@ -1,5 +1,69 @@
 [
   {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Nightbirds",
+    "TeamB": "PCIFIC Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-29 16:19:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Frites Esports Club",
+    "TeamB": "Gamespace Mediterranean College Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-29 16:02:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Berlin International Gaming",
+    "TeamB": "Bomba Team",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-29 15:59:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "JSK Esports",
+    "TeamB": "Unicorns of Love Sexy Edition",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-29 15:57:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Colossal Gaming",
+    "TeamB": "SU Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-29 15:03:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "G2 NORD",
+    "TeamB": "Ruddy Corporation",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-09-29 15:02:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Barça eSports",
+    "TeamB": "Magaza Esports",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-29 15:01:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Skillcamp",
+    "TeamB": "Valerion",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-29 15:01:00"
+  },
+  {
     "OverviewPage": "2026 Asian Games",
     "TeamA": "Malaysia (National Team)",
     "TeamB": "Saudi Arabia (National Team)",
@@ -334,69 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-27 17:25:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Frites Esports Club",
-    "TeamB": "LODIS (Polish Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-27 17:05:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Kaufland Hangry Knights",
-    "TeamB": "Skillcamp",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-27 17:03:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Barça eSports",
-    "TeamB": "Team Phantasma",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-27 16:52:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "G2 NORD",
-    "TeamB": "Nightbirds",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-27 16:06:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Senshi eSports (Benelux Team)",
-    "TeamB": "Team Heretics Academy",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-27 16:04:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Colossal Gaming",
-    "TeamB": "Ruddy Corporation",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-27 16:03:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Bomba Team",
-    "TeamB": "TLN Pirates",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-27 16:03:00"
-  },
-  {
-    "OverviewPage": "2026 World Star Challengers Invitational",
-    "TeamA": "DN SOOPers Challengers",
-    "TeamB": "Dplus Kia Challengers",
-    "ScoreA": 3,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-27 12:38:00"
   }
 ]
