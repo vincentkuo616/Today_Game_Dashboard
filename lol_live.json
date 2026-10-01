@@ -1,5 +1,45 @@
 [
   {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Bushido Wildcats",
+    "TeamB": "Frites Esports Club",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-01 16:49:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Ruddy Corporation",
+    "TeamB": "Valerion",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-01 16:45:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Bomba Team",
+    "TeamB": "Skillcamp",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-01 16:35:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Magaza Esports",
+    "TeamB": "Otter Side",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-01 15:48:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Colossal Gaming",
+    "TeamB": "Unicorns of Love Sexy Edition",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-01 15:45:00"
+  },
+  {
     "OverviewPage": "2026 Asian Games",
     "TeamA": "Saudi Arabia (National Team)",
     "TeamB": "South Korea (National Team)",
@@ -358,45 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-09-29 02:50:00"
-  },
-  {
-    "OverviewPage": "2026 Asian Games",
-    "TeamA": "Saudi Arabia (National Team)",
-    "TeamB": "United Arab Emirates (National Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-29 02:48:00"
-  },
-  {
-    "OverviewPage": "2026 Asian Games",
-    "TeamA": "Malaysia (National Team)",
-    "TeamB": "United Arab Emirates (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-29 01:13:00"
-  },
-  {
-    "OverviewPage": "2026 Asian Games",
-    "TeamA": "Saudi Arabia (National Team)",
-    "TeamB": "Vietnam (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-29 00:53:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2027 Season/Promotion",
-    "TeamA": "Golden Lions",
-    "TeamB": "KaBuM! Ilha das Lendas",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-28 21:55:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Playoffs",
-    "TeamA": "CITA Kaizen Academy",
-    "TeamB": "EXILE esports Academy",
-    "ScoreA": 1,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-09-28 19:24:00"
   }
 ]
