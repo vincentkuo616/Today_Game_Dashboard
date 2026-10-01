@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "CBLOL/2027 Season/Promotion",
+    "TeamA": "KaBuM! Ilha das Lendas",
+    "TeamB": "LØS",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-09-30 22:48:00"
+  },
+  {
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "Nightbirds",
     "TeamB": "Team Heretics Academy",
@@ -390,13 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-28 18:58:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Bushido Wildcats",
-    "TeamB": "Ruddy Corporation",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-28 18:52:00"
   }
 ]
