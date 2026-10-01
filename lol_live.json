@@ -1,6 +1,46 @@
 [
   {
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Team Phantasma",
+    "TeamB": "The Secret Club",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-01 19:34:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "LODIS (Polish Team)",
+    "TeamB": "PCIFIC Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-01 18:51:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "JSK Esports",
+    "TeamB": "UCAM Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-01 18:29:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Barça eSports",
+    "TeamB": "Senshi eSports (Benelux Team)",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-01 17:43:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Berlin International Gaming",
+    "TeamB": "Nightbirds",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-01 17:28:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "Bushido Wildcats",
     "TeamB": "Frites Esports Club",
     "ScoreA": 2,
@@ -358,45 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-29 15:02:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Barça eSports",
-    "TeamB": "Magaza Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-29 15:01:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Skillcamp",
-    "TeamB": "Valerion",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-29 15:01:00"
-  },
-  {
-    "OverviewPage": "2026 Asian Games",
-    "TeamA": "Malaysia (National Team)",
-    "TeamB": "Saudi Arabia (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-29 05:16:00"
-  },
-  {
-    "OverviewPage": "2026 Asian Games",
-    "TeamA": "United Arab Emirates (National Team)",
-    "TeamB": "Vietnam (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-29 04:55:00"
-  },
-  {
-    "OverviewPage": "2026 Asian Games",
-    "TeamA": "Malaysia (National Team)",
-    "TeamB": "Vietnam (National Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-29 02:50:00"
   }
 ]
