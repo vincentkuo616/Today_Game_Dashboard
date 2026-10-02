@@ -1,5 +1,45 @@
 [
   {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Magaza Esports",
+    "TeamB": "Valerion",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-02 18:20:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Barça eSports",
+    "TeamB": "Bomba Team",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-02 17:26:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Colossal Gaming",
+    "TeamB": "The Secret Club",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-02 16:05:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Frites Esports Club",
+    "TeamB": "PCIFIC Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-02 16:03:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Nightbirds",
+    "TeamB": "UCAM Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-02 15:54:00"
+  },
+  {
     "OverviewPage": "2026 World Star Challengers Invitational",
     "TeamA": "Solary",
     "TeamB": "T1 Esports Academy",
@@ -308,14 +348,14 @@
     "TeamA": "Karmine Corp Blue",
     "TeamB": "Team Heretics Academy",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-29 19:54:00"
   },
   {
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "Forsaken (Polish Team)",
     "TeamB": "The Secret Club",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-29 19:53:00"
   },
@@ -323,56 +363,8 @@
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "Anubis Gaming",
     "TeamB": "TLN Pirates",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-29 19:01:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "White Dragons",
-    "TeamB": "eSuba",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-29 18:49:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Bushido Wildcats",
-    "TeamB": "UCAM Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-29 17:13:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "HMBLE",
-    "TeamB": "Senshi eSports (Benelux Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-29 17:05:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Kaufland Hangry Knights",
-    "TeamB": "Otter Side",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-29 17:01:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "LODIS (Polish Team)",
-    "TeamB": "Team Phantasma",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-29 16:57:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Nightbirds",
-    "TeamB": "PCIFIC Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-29 16:19:00"
   }
 ]
