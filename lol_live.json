@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 World Star Challengers Invitational",
+    "TeamA": "Solary",
+    "TeamB": "T1 Esports Academy",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-10-02 12:10:00"
+  },
+  {
     "OverviewPage": "2026 Asian Games",
     "TeamA": "Chinese Taipei (National Team)",
     "TeamB": "South Korea (National Team)",
@@ -366,37 +374,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-29 16:19:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Frites Esports Club",
-    "TeamB": "Gamespace Mediterranean College Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-29 16:02:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Berlin International Gaming",
-    "TeamB": "Bomba Team",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-29 15:59:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "JSK Esports",
-    "TeamB": "Unicorns of Love Sexy Edition",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-29 15:57:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Colossal Gaming",
-    "TeamB": "SU Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-29 15:03:00"
   }
 ]
