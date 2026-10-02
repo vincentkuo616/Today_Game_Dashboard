@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "CBLOL/2027 Season/Promotion",
+    "TeamA": "Estral Esports",
+    "TeamB": "LØS",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-10-01 22:55:00"
+  },
+  {
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "Team Phantasma",
     "TeamB": "The Secret Club",
@@ -390,13 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-29 15:03:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "G2 NORD",
-    "TeamB": "Ruddy Corporation",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-29 15:02:00"
   }
 ]
