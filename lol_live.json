@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Playoffs",
+    "TeamA": "KIA.eSuba Academy",
+    "TeamB": "Rugby Club Havířov",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-03 13:22:00"
+  },
+  {
     "OverviewPage": "2026 Demacia Cup Global Invitational",
     "TeamA": "HANJIN BRION",
     "TeamB": "JD Gaming",
@@ -316,7 +324,7 @@
     "TeamA": "Andromeda Gaming",
     "TeamB": "Mighty Eagles",
     "ScoreA": 1,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-09-30 18:10:00"
   },
   {
@@ -332,14 +340,14 @@
     "TeamA": "UCAM Esports",
     "TeamB": "eSuba",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-09-30 16:46:00"
   },
   {
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "TLN Pirates",
     "TeamB": "Valerion",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-30 15:59:00"
   },
