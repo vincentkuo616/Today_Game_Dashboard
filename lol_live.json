@@ -1,11 +1,51 @@
 [
   {
     "OverviewPage": "2026 Demacia Cup Global Invitational",
+    "TeamA": "HANJIN BRION",
+    "TeamB": "JD Gaming",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-03 12:33:00"
+  },
+  {
+    "OverviewPage": "2026 Demacia Cup Global Invitational",
+    "TeamA": "GAM Esports",
+    "TeamB": "Team WE",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-03 11:44:00"
+  },
+  {
+    "OverviewPage": "2026 Demacia Cup Global Invitational",
+    "TeamA": "BNK FEARX",
+    "TeamB": "Team Vitality",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-03 10:50:00"
+  },
+  {
+    "OverviewPage": "2026 Demacia Cup Global Invitational",
+    "TeamA": "KT Rolster",
+    "TeamB": "Shopify Rebellion",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-03 10:01:00"
+  },
+  {
+    "OverviewPage": "2026 Demacia Cup Global Invitational",
     "TeamA": "FlyQuest",
     "TeamB": "LGD Gaming",
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-10-03 09:18:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "DN SOOPers Academy",
+    "TeamB": "Dplus Kia Youth",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-03 09:03:00"
   },
   {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
@@ -25,11 +65,11 @@
   },
   {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "DN SOOPers Academy",
-    "TeamB": "Dplus Kia Youth",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-03 08:16:00"
+    "TeamA": "HANJIN BRION Academy",
+    "TeamB": "Hanwha Life Esports Academy",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-03 08:12:00"
   },
   {
     "OverviewPage": "2026 Demacia Cup Global Invitational",
@@ -41,19 +81,11 @@
   },
   {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "HANJIN BRION Academy",
-    "TeamB": "Hanwha Life Esports Academy",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-03 07:27:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "Nongshim RedForce Academy",
     "TeamB": "T1 Esports Academy Rookies",
     "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-03 07:09:00"
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-03 08:05:00"
   },
   {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
@@ -315,7 +347,7 @@
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "Barça eSports",
     "TeamB": "HMBLE",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-30 15:46:00"
   },
@@ -323,48 +355,8 @@
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "Kaufland Hangry Knights",
     "TeamB": "Unicorns of Love Sexy Edition",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-30 15:35:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "JSK Esports",
-    "TeamB": "Skillcamp",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-30 13:58:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "PCIFIC Esports",
-    "TeamB": "Ruddy Corporation",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-09-30 13:52:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Colossal Gaming",
-    "TeamB": "LODIS (Polish Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-30 13:51:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Frites Esports Club",
-    "TeamB": "Otter Side",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-30 13:05:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Berlin International Gaming",
-    "TeamB": "Senshi eSports (Benelux Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-30 13:03:00"
   }
 ]
