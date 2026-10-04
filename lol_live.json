@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
+    "TeamA": "FURIA",
+    "TeamB": "LOUD",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-03 17:46:00"
+  },
+  {
     "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Playoffs",
     "TeamA": "KIA.eSuba Academy",
     "TeamB": "Rugby Club Havířov",
@@ -339,7 +347,7 @@
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "UCAM Esports",
     "TeamB": "eSuba",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-30 16:46:00"
   },
@@ -350,21 +358,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-09-30 15:59:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Barça eSports",
-    "TeamB": "HMBLE",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-30 15:46:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Kaufland Hangry Knights",
-    "TeamB": "Unicorns of Love Sexy Edition",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-30 15:35:00"
   }
 ]
