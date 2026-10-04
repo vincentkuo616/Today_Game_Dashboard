@@ -1,5 +1,53 @@
 [
   {
+    "OverviewPage": "LCS/2026 Season/Summer Playoffs",
+    "TeamA": "Cloud9",
+    "TeamB": "LYON (2024 American Team)",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-10-03 23:06:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "LØS Academy",
+    "TeamB": "Smoke Tram",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-03 21:54:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "Juventus Gaming Red",
+    "TeamB": "Smoke Tram Ascension",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-03 21:43:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "Clã NKZ VÓRAX",
+    "TeamB": "SharkBite Furious Gaming White",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-03 21:04:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "EmBRAZA! Esports",
+    "TeamB": "Neon eSports (Brazilian Team)",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-03 20:59:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "Invictus Team",
+    "TeamB": "SharkBite Furious Gaming Black",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-03 20:04:00"
+  },
+  {
     "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
     "TeamA": "FURIA",
     "TeamB": "LOUD",
@@ -315,7 +363,7 @@
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "Nightbirds",
     "TeamB": "Team Heretics Academy",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-09-30 19:16:00"
   },
@@ -323,40 +371,16 @@
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "Gamespace Mediterranean College Esports",
     "TeamB": "Team Phantasma",
-    "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreA": 0,
+    "ScoreB": 1,
     "LatestGameTime": "2026-09-30 18:44:00"
   },
   {
     "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Playoffs",
     "TeamA": "Andromeda Gaming",
     "TeamB": "Mighty Eagles",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-30 18:10:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Bomba Team",
-    "TeamB": "G2 NORD",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-09-30 17:24:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "UCAM Esports",
-    "TeamB": "eSuba",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-30 16:46:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "TLN Pirates",
-    "TeamB": "Valerion",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-09-30 15:59:00"
+    "ScoreB": 1,
+    "LatestGameTime": "2026-09-30 18:10:00"
   }
 ]
