@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Barça eSports",
+    "TeamB": "Solary",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-10-04 17:34:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Galions",
+    "TeamB": "The Secret Club",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-04 17:23:00"
+  },
+  {
+    "OverviewPage": "2026 Demacia Cup Global Invitational",
+    "TeamA": "HANJIN BRION",
+    "TeamB": "Team WE",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-04 12:52:00"
+  },
+  {
     "OverviewPage": "2026 Demacia Cup Global Invitational",
     "TeamA": "KT Rolster",
     "TeamB": "RED Canids",
@@ -348,39 +372,7 @@
     "TeamA": "Estral Esports",
     "TeamB": "LØS",
     "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-10-01 22:55:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Team Phantasma",
-    "TeamB": "The Secret Club",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-01 19:34:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "LODIS (Polish Team)",
-    "TeamB": "PCIFIC Esports",
-    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-10-01 18:51:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "JSK Esports",
-    "TeamB": "UCAM Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-01 18:29:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Barça eSports",
-    "TeamB": "Senshi eSports (Benelux Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-01 17:43:00"
+    "LatestGameTime": "2026-10-01 22:55:00"
   }
 ]
