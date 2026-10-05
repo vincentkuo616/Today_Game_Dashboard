@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "2026 Demacia Cup Global Invitational",
+    "TeamA": "JD Gaming",
+    "TeamB": "Shopify Rebellion",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-05 11:29:00"
+  },
+  {
+    "OverviewPage": "2026 Demacia Cup Global Invitational",
+    "TeamA": "FlyQuest",
+    "TeamB": "Natus Vincere",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-05 09:50:00"
+  },
+  {
+    "OverviewPage": "2026 Demacia Cup Global Invitational",
+    "TeamA": "GAM Esports",
+    "TeamB": "Team Vitality",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-05 08:00:00"
+  },
+  {
     "OverviewPage": "LCS/2026 Season/Summer Playoffs",
     "TeamA": "LYON (2024 American Team)",
     "TeamB": "Team Liquid",
@@ -342,29 +366,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-02 17:26:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Colossal Gaming",
-    "TeamB": "The Secret Club",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-02 16:05:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Frites Esports Club",
-    "TeamB": "PCIFIC Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-02 16:03:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Nightbirds",
-    "TeamB": "UCAM Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-02 15:54:00"
   }
 ]
