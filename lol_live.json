@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "LCS/2027 Season/Promotion",
+    "TeamA": "Maryville University",
+    "TeamB": "Zeu5 Esports",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-05 23:47:00"
+  },
+  {
+    "OverviewPage": "CBLOL/2027 Season/Promotion",
+    "TeamA": "9z Globant",
+    "TeamB": "KaBuM! Ilha das Lendas",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-10-05 23:22:00"
+  },
+  {
+    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Playoffs",
+    "TeamA": "EXILE esports Academy",
+    "TeamB": "Mighty Eagles",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-10-05 20:17:00"
+  },
+  {
     "OverviewPage": "2026 Demacia Cup Global Invitational",
     "TeamA": "JD Gaming",
     "TeamB": "Shopify Rebellion",
@@ -315,8 +339,8 @@
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "Dplus Kia Youth",
     "TeamB": "Hanwha Life Esports Academy",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-10-03 06:39:00"
   },
   {
@@ -324,47 +348,7 @@
     "TeamA": "Gen.G Scholars",
     "TeamB": "Nongshim RedForce Academy",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-03 06:09:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "KT Rolster Academy",
-    "TeamB": "T1 Esports Academy Rookies",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-03 06:00:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "DN SOOPers Academy",
-    "TeamB": "Eunpyeong Meditech High School",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-03 05:56:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "HANJIN BRION Academy",
-    "TeamB": "Kiwoom DRX Academy",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-03 05:54:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Magaza Esports",
-    "TeamB": "Valerion",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-02 18:20:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Barça eSports",
-    "TeamB": "Bomba Team",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-02 17:26:00"
   }
 ]
