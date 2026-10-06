@@ -6,12 +6,12 @@
         "id": 184230,
         "venue": "桃園國際棒球場",
         "display_time": "10/6 (二) 18:35",
-        "status_long": "Not Started",
-        "status_key": "scheduled",
+        "status_long": "Finished",
+        "status_key": "finished",
         "home_name": "樂天桃猿",
         "away_name": "富邦悍將",
-        "home_score": "-",
-        "away_score": "-"
+        "home_score": 1,
+        "away_score": 6
       }
     ]
   },
