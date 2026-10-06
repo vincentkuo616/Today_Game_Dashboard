@@ -112,6 +112,46 @@
     "LatestGameTime": "2026-10-04 23:31:00"
   },
   {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "Juventus Gaming Red",
+    "TeamB": "Neon eSports (Brazilian Team)",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-04 21:43:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "Smoke Tram",
+    "TeamB": "Smoke Tram Ascension",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-04 21:38:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "EmBRAZA! Esports",
+    "TeamB": "SharkBite Furious Gaming Black",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-04 20:56:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "LØS Academy",
+    "TeamB": "SharkBite Furious Gaming White",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-04 20:47:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "Invictus Team",
+    "TeamB": "Marere e-Sports",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-04 20:07:00"
+  },
+  {
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "Movistar KOI Fénix",
     "TeamB": "UCAM Esports",
@@ -291,24 +331,8 @@
     "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
     "TeamA": "FURIA",
     "TeamB": "LOUD",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-03 17:46:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Playoffs",
-    "TeamA": "KIA.eSuba Academy",
-    "TeamB": "Rugby Club Havířov",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-03 13:22:00"
-  },
-  {
-    "OverviewPage": "2026 Demacia Cup Global Invitational",
-    "TeamA": "HANJIN BRION",
-    "TeamB": "JD Gaming",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-10-03 12:33:00"
+    "LatestGameTime": "2026-10-03 17:46:00"
   }
 ]
