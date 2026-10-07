@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "2026 Demacia Cup Global Invitational",
+    "TeamA": "FlyQuest",
+    "TeamB": "Shopify Rebellion",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-07 11:58:00"
+  },
+  {
+    "OverviewPage": "2026 Demacia Cup Global Invitational",
+    "TeamA": "GAM Esports",
+    "TeamB": "Shopify Rebellion",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-07 09:20:00"
+  },
+  {
+    "OverviewPage": "2026 Demacia Cup Global Invitational",
+    "TeamA": "FlyQuest",
+    "TeamB": "GAM Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-07 07:49:00"
+  },
+  {
     "OverviewPage": "CBLOL/2027 Season/Promotion",
     "TeamA": "Estral Esports",
     "TeamB": "KaBuM! Ilha das Lendas",
@@ -260,14 +284,14 @@
     "TeamA": "DN SOOPers Academy",
     "TeamB": "HANJIN BRION Academy",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-10-04 07:08:00"
   },
   {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "Eunpyeong Meditech High School",
     "TeamB": "Nongshim RedForce Academy",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-10-04 07:07:00"
   },
@@ -275,7 +299,7 @@
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "Dplus Kia Youth",
     "TeamB": "KT Rolster Academy",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-04 06:22:00"
   },
@@ -284,23 +308,15 @@
     "TeamA": "Gen.G Scholars",
     "TeamB": "T1 Esports Academy Rookies",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-04 06:04:00"
   },
   {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "Hanwha Life Esports Academy",
     "TeamB": "Kiwoom DRX Academy",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-04 06:02:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Playoffs",
-    "TeamA": "Cloud9",
-    "TeamB": "LYON (2024 American Team)",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-03 23:06:00"
   }
 ]
