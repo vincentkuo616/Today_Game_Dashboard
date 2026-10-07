@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "G2 NORD",
+    "TeamB": "Team Heretics Academy",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-07 19:53:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Anubis Gaming",
+    "TeamB": "Ruddy Corporation",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-07 19:28:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Kaufland Hangry Knights",
+    "TeamB": "Unicorns of Love Sexy Edition",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-07 18:42:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Karmine Corp Blue",
+    "TeamB": "Skillcamp",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-07 17:31:00"
+  },
+  {
     "OverviewPage": "2026 Demacia Cup Global Invitational",
     "TeamA": "FlyQuest",
     "TeamB": "Shopify Rebellion",
@@ -235,7 +267,7 @@
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "HANJIN BRION Academy",
     "TeamB": "KT Rolster Academy",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-04 08:57:00"
   },
@@ -244,79 +276,23 @@
     "TeamA": "Eunpyeong Meditech High School",
     "TeamB": "T1 Esports Academy Rookies",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-04 08:52:00"
   },
   {
     "OverviewPage": "2026 Demacia Cup Global Invitational",
     "TeamA": "BNK FEARX",
     "TeamB": "LGD Gaming",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-10-04 08:47:00"
   },
   {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "DN SOOPers Academy",
     "TeamB": "Kiwoom DRX Academy",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-04 08:45:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Dplus Kia Youth",
-    "TeamB": "Nongshim RedForce Academy",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-04 08:35:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Gen.G Scholars",
-    "TeamB": "Hanwha Life Esports Academy",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-04 08:35:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "DN SOOPers Academy",
-    "TeamB": "HANJIN BRION Academy",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-04 07:08:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Eunpyeong Meditech High School",
-    "TeamB": "Nongshim RedForce Academy",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-04 07:07:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Dplus Kia Youth",
-    "TeamB": "KT Rolster Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-04 06:22:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Gen.G Scholars",
-    "TeamB": "T1 Esports Academy Rookies",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-04 06:04:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Hanwha Life Esports Academy",
-    "TeamB": "Kiwoom DRX Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-04 06:02:00"
   }
 ]
