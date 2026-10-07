@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "CBLOL/2027 Season/Promotion",
+    "TeamA": "Estral Esports",
+    "TeamB": "KaBuM! Ilha das Lendas",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-10-07 00:34:00"
+  },
+  {
+    "OverviewPage": "LCS/2027 Season/Promotion",
+    "TeamA": "Cupid Esports",
+    "TeamB": "Fuego",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-06 23:01:00"
+  },
+  {
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "Frites Esports Club",
     "TeamB": "Movistar KOI Fénix",
@@ -283,56 +299,8 @@
     "OverviewPage": "LCS/2026 Season/Summer Playoffs",
     "TeamA": "Cloud9",
     "TeamB": "LYON (2024 American Team)",
-    "ScoreA": 1,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-10-03 23:06:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
-    "TeamA": "LØS Academy",
-    "TeamB": "Smoke Tram",
     "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-03 21:54:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
-    "TeamA": "Juventus Gaming Red",
-    "TeamB": "Smoke Tram Ascension",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-03 21:43:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
-    "TeamA": "Clã NKZ VÓRAX",
-    "TeamB": "SharkBite Furious Gaming White",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-03 21:04:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
-    "TeamA": "EmBRAZA! Esports",
-    "TeamB": "Neon eSports (Brazilian Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-03 20:59:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
-    "TeamA": "Invictus Team",
-    "TeamB": "SharkBite Furious Gaming Black",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-03 20:04:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
-    "TeamA": "FURIA",
-    "TeamB": "LOUD",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-03 17:46:00"
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-03 23:06:00"
   }
 ]
