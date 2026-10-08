@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "2026 Demacia Cup Global Invitational",
+    "TeamA": "JD Gaming",
+    "TeamB": "Natus Vincere",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-08 12:51:00"
+  },
+  {
+    "OverviewPage": "2026 Demacia Cup Global Invitational",
+    "TeamA": "FlyQuest",
+    "TeamB": "RED Canids",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-08 10:07:00"
+  },
+  {
     "OverviewPage": "LCS/2027 Season/Promotion",
     "TeamA": "Disguised",
     "TeamB": "Maryville University",
@@ -254,21 +270,5 @@
     "ScoreA": 3,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-04 17:23:00"
-  },
-  {
-    "OverviewPage": "2026 Demacia Cup Global Invitational",
-    "TeamA": "HANJIN BRION",
-    "TeamB": "Team WE",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-04 12:52:00"
-  },
-  {
-    "OverviewPage": "2026 Demacia Cup Global Invitational",
-    "TeamA": "KT Rolster",
-    "TeamB": "RED Canids",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-04 10:30:00"
   }
 ]
