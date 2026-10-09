@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Road Of Legends/2027 Season/Winter Promotion",
+    "TeamA": "FUSE",
+    "TeamB": "Once Upon A Team",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-10-08 20:02:00"
+  },
+  {
     "OverviewPage": "2026 Demacia Cup Global Invitational",
     "TeamA": "JD Gaming",
     "TeamB": "Natus Vincere",
@@ -251,7 +259,7 @@
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "Movistar KOI Fénix",
     "TeamB": "UCAM Esports",
-    "ScoreA": 3,
+    "ScoreA": 1,
     "ScoreB": 2,
     "LatestGameTime": "2026-10-04 19:26:00"
   },
@@ -260,14 +268,14 @@
     "TeamA": "Barça eSports",
     "TeamB": "Solary",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-10-04 17:34:00"
   },
   {
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "Galions",
     "TeamB": "The Secret Club",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-04 17:23:00"
   }
