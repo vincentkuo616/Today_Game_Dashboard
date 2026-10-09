@@ -6,12 +6,12 @@
         "id": 190152,
         "venue": "台中洲際棒球場",
         "display_time": "10/9 (五) 17:05",
-        "status_long": "Not Started",
-        "status_key": "scheduled",
+        "status_long": "Finished",
+        "status_key": "finished",
         "home_name": "中信兄弟",
         "away_name": "統一獅",
-        "home_score": "-",
-        "away_score": "-"
+        "home_score": 4,
+        "away_score": 1
       }
     ]
   },
