@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LCS/2027 Season/Promotion",
+    "TeamA": "Cupid Esports",
+    "TeamB": "Maryville University",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-10-08 22:56:00"
+  },
+  {
     "OverviewPage": "Road Of Legends/2027 Season/Winter Promotion",
     "TeamA": "FUSE",
     "TeamB": "Once Upon A Team",
@@ -268,15 +276,7 @@
     "TeamA": "Barça eSports",
     "TeamB": "Solary",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-04 17:34:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Galions",
-    "TeamB": "The Secret Club",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-04 17:23:00"
   }
 ]
