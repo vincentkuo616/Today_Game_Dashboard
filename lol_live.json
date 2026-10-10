@@ -1,5 +1,85 @@
 [
   {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "DN SOOPers Academy",
+    "TeamB": "Gen.G Scholars",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-10 08:23:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Dplus Kia Youth",
+    "TeamB": "Eunpyeong Meditech High School",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-10 08:19:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "HANJIN BRION Academy",
+    "TeamB": "T1 Esports Academy Rookies",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-10 07:42:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Kiwoom DRX Academy",
+    "TeamB": "Nongshim RedForce Academy",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-10 07:38:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Hanwha Life Esports Academy",
+    "TeamB": "KT Rolster Academy",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-10 07:34:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Eunpyeong Meditech High School",
+    "TeamB": "Gen.G Scholars",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-10 06:47:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "DN SOOPers Academy",
+    "TeamB": "Hanwha Life Esports Academy",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-10 05:57:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "KT Rolster Academy",
+    "TeamB": "Kiwoom DRX Academy",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-10 05:55:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Dplus Kia Youth",
+    "TeamB": "T1 Esports Academy Rookies",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-10 05:53:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "HANJIN BRION Academy",
+    "TeamB": "Nongshim RedForce Academy",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-10 05:49:00"
+  },
+  {
     "OverviewPage": "LCS/2027 Season/Promotion",
     "TeamA": "Disguised",
     "TeamB": "Fuego",
@@ -195,64 +275,8 @@
     "OverviewPage": "LCS/2027 Season/Promotion",
     "TeamA": "Maryville University",
     "TeamB": "Zeu5 Esports",
-    "ScoreA": 3,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-05 23:47:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2027 Season/Promotion",
-    "TeamA": "9z Globant",
-    "TeamB": "KaBuM! Ilha das Lendas",
     "ScoreA": 1,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-10-05 23:22:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Playoffs",
-    "TeamA": "EXILE esports Academy",
-    "TeamB": "Mighty Eagles",
-    "ScoreA": 2,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-10-05 20:17:00"
-  },
-  {
-    "OverviewPage": "2026 Demacia Cup Global Invitational",
-    "TeamA": "JD Gaming",
-    "TeamB": "Shopify Rebellion",
-    "ScoreA": 2,
     "ScoreB": 0,
-    "LatestGameTime": "2026-10-05 11:29:00"
-  },
-  {
-    "OverviewPage": "2026 Demacia Cup Global Invitational",
-    "TeamA": "FlyQuest",
-    "TeamB": "Natus Vincere",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-05 09:50:00"
-  },
-  {
-    "OverviewPage": "2026 Demacia Cup Global Invitational",
-    "TeamA": "GAM Esports",
-    "TeamB": "Team Vitality",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-05 08:00:00"
-  },
-  {
-    "OverviewPage": "LCS/2026 Season/Summer Playoffs",
-    "TeamA": "LYON (2024 American Team)",
-    "TeamB": "Team Liquid",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-04 23:31:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
-    "TeamA": "Juventus Gaming Red",
-    "TeamB": "Neon eSports (Brazilian Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-04 21:43:00"
+    "LatestGameTime": "2026-10-05 23:47:00"
   }
 ]
