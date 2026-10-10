@@ -1,19 +1,35 @@
 [
   {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "G2 NORD",
+    "TeamB": "Solary",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-10-10 18:43:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Anubis Gaming",
+    "TeamB": "Karmine Corp Blue",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-10 17:48:00"
+  },
+  {
+    "OverviewPage": "LCP Wildcard/2026 Season/Playoffs",
+    "TeamA": "Essences",
+    "TeamB": "Nothin'Here",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-10-10 16:53:00"
+  },
+  {
     "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Playoffs",
     "TeamA": "Mighty Eagles",
     "TeamB": "Rugby Club Havířov",
     "ScoreA": 0,
     "ScoreB": 3,
     "LatestGameTime": "2026-10-10 13:25:00"
-  },
-  {
-    "OverviewPage": "LCP Wildcard/2026 Season/Playoffs",
-    "TeamA": "Essences",
-    "TeamB": "Nothin'Here",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-10 12:46:00"
   },
   {
     "OverviewPage": "LCP Wildcard/2026 Season/Playoffs",
@@ -243,8 +259,8 @@
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "Frites Esports Club",
     "TeamB": "Movistar KOI Fénix",
-    "ScoreA": 1,
-    "ScoreB": 3,
+    "ScoreA": 0,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-06 18:33:00"
   },
   {
@@ -252,23 +268,7 @@
     "TeamA": "Bushido Wildcats",
     "TeamB": "TLN Pirates",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-06 17:53:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Solary",
-    "TeamB": "Valerion",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-06 17:32:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Berlin International Gaming",
-    "TeamB": "Galions",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-10-06 17:30:00"
   }
 ]
