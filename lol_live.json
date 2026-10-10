@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LCS/2027 Season/Promotion",
+    "TeamA": "Disguised",
+    "TeamB": "Fuego",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-10 00:48:00"
+  },
+  {
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "Movistar KOI Fénix",
     "TeamB": "TLN Pirates",
@@ -236,7 +244,7 @@
     "TeamA": "LYON (2024 American Team)",
     "TeamB": "Team Liquid",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-04 23:31:00"
   },
   {
@@ -246,21 +254,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-10-04 21:43:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
-    "TeamA": "Smoke Tram",
-    "TeamB": "Smoke Tram Ascension",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-04 21:38:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
-    "TeamA": "EmBRAZA! Esports",
-    "TeamB": "SharkBite Furious Gaming Black",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-04 20:56:00"
   }
 ]
