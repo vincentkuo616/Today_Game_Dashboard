@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Movistar KOI Fénix",
+    "TeamB": "TLN Pirates",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-09 19:37:00"
+  },
+  {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Galions",
+    "TeamB": "Kaufland Hangry Knights",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-09 17:33:00"
+  },
+  {
     "OverviewPage": "LCS/2027 Season/Promotion",
     "TeamA": "Cupid Esports",
     "TeamB": "Maryville University",
@@ -220,7 +236,7 @@
     "TeamA": "LYON (2024 American Team)",
     "TeamB": "Team Liquid",
     "ScoreA": 1,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-10-04 23:31:00"
   },
   {
@@ -246,37 +262,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-04 20:56:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
-    "TeamA": "LØS Academy",
-    "TeamB": "SharkBite Furious Gaming White",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-04 20:47:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
-    "TeamA": "Invictus Team",
-    "TeamB": "Marere e-Sports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-04 20:07:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Movistar KOI Fénix",
-    "TeamB": "UCAM Esports",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-04 19:26:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Barça eSports",
-    "TeamB": "Solary",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-04 17:34:00"
   }
 ]
