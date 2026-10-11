@@ -1,5 +1,85 @@
 [
   {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "DN SOOPers Academy",
+    "TeamB": "Nongshim RedForce Academy",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-11 09:43:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Eunpyeong Meditech High School",
+    "TeamB": "Kiwoom DRX Academy",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-11 09:06:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Gen.G Scholars",
+    "TeamB": "KT Rolster Academy",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-11 08:50:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Hanwha Life Esports Academy",
+    "TeamB": "T1 Esports Academy Rookies",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-11 08:35:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Dplus Kia Youth",
+    "TeamB": "HANJIN BRION Academy",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-11 08:12:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "DN SOOPers Academy",
+    "TeamB": "KT Rolster Academy",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-11 06:58:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Hanwha Life Esports Academy",
+    "TeamB": "Nongshim RedForce Academy",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-11 06:50:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Kiwoom DRX Academy",
+    "TeamB": "T1 Esports Academy Rookies",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-11 06:47:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Dplus Kia Youth",
+    "TeamB": "Gen.G Scholars",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-11 05:56:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Eunpyeong Meditech High School",
+    "TeamB": "HANJIN BRION Academy",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-11 05:49:00"
+  },
+  {
     "OverviewPage": "LCS/2027 Season/Promotion",
     "TeamA": "Cupid Esports",
     "TeamB": "Disguised",
@@ -195,64 +275,8 @@
     "OverviewPage": "2026 Demacia Cup Global Invitational",
     "TeamA": "JD Gaming",
     "TeamB": "Natus Vincere",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-10-08 12:51:00"
-  },
-  {
-    "OverviewPage": "2026 Demacia Cup Global Invitational",
-    "TeamA": "FlyQuest",
-    "TeamB": "RED Canids",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-08 10:07:00"
-  },
-  {
-    "OverviewPage": "LCS/2027 Season/Promotion",
-    "TeamA": "Disguised",
-    "TeamB": "Maryville University",
-    "ScoreA": 1,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-10-07 23:26:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "G2 NORD",
-    "TeamB": "Team Heretics Academy",
-    "ScoreA": 3,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-07 19:53:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Anubis Gaming",
-    "TeamB": "Ruddy Corporation",
-    "ScoreA": 3,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-07 19:28:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Kaufland Hangry Knights",
-    "TeamB": "Unicorns of Love Sexy Edition",
-    "ScoreA": 3,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-07 18:42:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Karmine Corp Blue",
-    "TeamB": "Skillcamp",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-07 17:31:00"
-  },
-  {
-    "OverviewPage": "2026 Demacia Cup Global Invitational",
-    "TeamA": "FlyQuest",
-    "TeamB": "Shopify Rebellion",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-07 11:58:00"
   }
 ]
