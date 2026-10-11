@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "LoL Game Changers/2026 Season/Playoffs",
+    "TeamA": "Good Chi Sakura",
+    "TeamB": "Vitality Rising Bees",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-11 18:39:00"
+  },
+  {
+    "OverviewPage": "LCP Wildcard/2026 Season/Playoffs",
+    "TeamA": "Essences",
+    "TeamB": "PART TIMERS",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-11 17:34:00"
+  },
+  {
+    "OverviewPage": "LoL Game Changers/2026 Season/Playoffs",
+    "TeamA": "Barcząca Esports Babylon",
+    "TeamB": "Mental Rush",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-11 16:51:00"
+  },
+  {
+    "OverviewPage": "TCL/2027 Season/Promotion",
+    "TeamA": "BoostGate Esports",
+    "TeamB": "ITU Rangers",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-10-11 15:59:00"
+  },
+  {
     "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Playoffs",
     "TeamA": "KIA.eSuba Academy",
     "TeamB": "Rugby Club Havířov",
@@ -220,14 +252,14 @@
     "TeamA": "Eunpyeong Meditech High School",
     "TeamB": "Gen.G Scholars",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-10 06:47:00"
   },
   {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "DN SOOPers Academy",
     "TeamB": "Hanwha Life Esports Academy",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-10 05:57:00"
   },
@@ -235,7 +267,7 @@
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "KT Rolster Academy",
     "TeamB": "Kiwoom DRX Academy",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-10 05:55:00"
   },
@@ -244,39 +276,15 @@
     "TeamA": "Dplus Kia Youth",
     "TeamB": "T1 Esports Academy Rookies",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-10 05:53:00"
   },
   {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "HANJIN BRION Academy",
     "TeamB": "Nongshim RedForce Academy",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-10 05:49:00"
-  },
-  {
-    "OverviewPage": "LCS/2027 Season/Promotion",
-    "TeamA": "Disguised",
-    "TeamB": "Fuego",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-10 00:48:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Movistar KOI Fénix",
-    "TeamB": "TLN Pirates",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-09 19:37:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Galions",
-    "TeamB": "Kaufland Hangry Knights",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-10-09 17:33:00"
+    "LatestGameTime": "2026-10-10 05:49:00"
   }
 ]
