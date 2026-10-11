@@ -1,11 +1,35 @@
 [
   {
+    "OverviewPage": "LCS/2027 Season/Promotion",
+    "TeamA": "Cupid Esports",
+    "TeamB": "Disguised",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-10-10 22:38:00"
+  },
+  {
+    "OverviewPage": "CBLOL/2026 Season/Split 2 Playoffs",
+    "TeamA": "FURIA",
+    "TeamB": "LØS",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-10-10 20:22:00"
+  },
+  {
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "G2 NORD",
     "TeamB": "Solary",
     "ScoreA": 1,
     "ScoreB": 3,
     "LatestGameTime": "2026-10-10 18:43:00"
+  },
+  {
+    "OverviewPage": "TCL/2027 Season/Promotion",
+    "TeamA": "BoostGate Esports",
+    "TeamB": "Shark Attack",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-10-10 18:14:00"
   },
   {
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
@@ -22,6 +46,14 @@
     "ScoreA": 2,
     "ScoreB": 3,
     "LatestGameTime": "2026-10-10 16:53:00"
+  },
+  {
+    "OverviewPage": "TCL/2027 Season/Promotion",
+    "TeamA": "BDL Esports",
+    "TeamB": "ITU Rangers",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-10-10 16:09:00"
   },
   {
     "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Playoffs",
@@ -219,56 +251,8 @@
     "OverviewPage": "2026 Demacia Cup Global Invitational",
     "TeamA": "FlyQuest",
     "TeamB": "Shopify Rebellion",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-10-07 11:58:00"
-  },
-  {
-    "OverviewPage": "2026 Demacia Cup Global Invitational",
-    "TeamA": "GAM Esports",
-    "TeamB": "Shopify Rebellion",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-07 09:20:00"
-  },
-  {
-    "OverviewPage": "2026 Demacia Cup Global Invitational",
-    "TeamA": "FlyQuest",
-    "TeamB": "GAM Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-07 07:49:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2027 Season/Promotion",
-    "TeamA": "Estral Esports",
-    "TeamB": "KaBuM! Ilha das Lendas",
-    "ScoreA": 2,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-10-07 00:34:00"
-  },
-  {
-    "OverviewPage": "LCS/2027 Season/Promotion",
-    "TeamA": "Cupid Esports",
-    "TeamB": "Fuego",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-06 23:01:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Frites Esports Club",
-    "TeamB": "Movistar KOI Fénix",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-06 18:33:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Bushido Wildcats",
-    "TeamB": "TLN Pirates",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-06 17:53:00"
   }
 ]
