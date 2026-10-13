@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "LCS/2027 Season/Promotion",
+    "TeamA": "Disguised",
+    "TeamB": "Maryville University",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-13 00:26:00"
+  },
+  {
+    "OverviewPage": "CBLOL/2027 Season/Promotion",
+    "TeamA": "KaBuM! Ilha das Lendas",
+    "TeamB": "LØS",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-10-12 23:41:00"
+  },
+  {
     "OverviewPage": "LoL Game Changers/2026 Season/Playoffs",
     "TeamA": "AZ Rising Eterna",
     "TeamB": "G2 Hel",
@@ -204,7 +220,7 @@
     "TeamA": "BoostGate Esports",
     "TeamB": "Shark Attack",
     "ScoreA": 2,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-10-10 18:14:00"
   },
   {
@@ -219,8 +235,8 @@
     "OverviewPage": "LCP Wildcard/2026 Season/Playoffs",
     "TeamA": "Essences",
     "TeamB": "Nothin'Here",
-    "ScoreA": 2,
-    "ScoreB": 3,
+    "ScoreA": 1,
+    "ScoreB": 2,
     "LatestGameTime": "2026-10-10 16:53:00"
   },
   {
@@ -228,15 +244,7 @@
     "TeamA": "BDL Esports",
     "TeamB": "ITU Rangers",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-10-10 16:09:00"
-  },
-  {
-    "OverviewPage": "Hitpoint 2nd Division Challengers/2026 Season/Summer Playoffs",
-    "TeamA": "Mighty Eagles",
-    "TeamB": "Rugby Club Havířov",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-10-10 13:25:00"
   }
 ]
