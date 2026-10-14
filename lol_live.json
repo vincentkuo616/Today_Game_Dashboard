@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 Demacia Cup Global Invitational",
+    "TeamA": "BNK FEARX",
+    "TeamB": "KT Rolster",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-14 11:42:00"
+  },
+  {
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "No Need Orga",
     "TeamB": "Reveal Multigaming",
@@ -310,37 +318,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-10-11 10:53:00"
-  },
-  {
-    "OverviewPage": "MängudeÖÖ 2026",
-    "TeamA": "Dead Pixel",
-    "TeamB": "ydrazs' party",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-11 10:17:00"
-  },
-  {
-    "OverviewPage": "MängudeÖÖ 2026",
-    "TeamA": "LOMBards",
-    "TeamB": "jaaa jaaa",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-11 10:16:00"
-  },
-  {
-    "OverviewPage": "MängudeÖÖ 2026",
-    "TeamA": "No Temptation Cats",
-    "TeamB": "No Temptation Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-11 10:15:00"
-  },
-  {
-    "OverviewPage": "MängudeÖÖ 2026",
-    "TeamA": "ASG Support Group",
-    "TeamB": "TUK ESPORTS",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-11 10:06:00"
   }
 ]
