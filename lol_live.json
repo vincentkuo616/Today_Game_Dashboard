@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Anubis Gaming",
+    "TeamB": "Solary",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-10-14 18:23:00"
+  },
+  {
     "OverviewPage": "2026 Demacia Cup Global Invitational",
     "TeamA": "BNK FEARX",
     "TeamB": "KT Rolster",
@@ -243,7 +251,7 @@
     "OverviewPage": "VCS/2026 Season/Finals Stage 2",
     "TeamA": "MVK Esports Academy",
     "TeamB": "Saigon Warriors",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-11 12:15:00"
   },
@@ -252,7 +260,7 @@
     "TeamA": "Nothin'Here",
     "TeamB": "West Point Esports Philippines",
     "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-10-11 12:13:00"
   },
   {
@@ -302,21 +310,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-10-11 11:01:00"
-  },
-  {
-    "OverviewPage": "MängudeÖÖ 2026",
-    "TeamA": "Dead Pixel",
-    "TeamB": "bärnu beksu clubi",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-11 10:56:00"
-  },
-  {
-    "OverviewPage": "MängudeÖÖ 2026",
-    "TeamA": "Draamaklubi",
-    "TeamB": "No Temptation Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-11 10:53:00"
   }
 ]
