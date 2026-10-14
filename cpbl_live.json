@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-10-14",
+    "games": []
+  },
+  {
     "date": "2026-10-13",
     "games": []
   },
@@ -16,22 +20,6 @@
         "away_name": "統一獅",
         "home_score": 8,
         "away_score": 2
-      }
-    ]
-  },
-  {
-    "date": "2026-10-11",
-    "games": [
-      {
-        "id": 190169,
-        "venue": "台中洲際棒球場",
-        "display_time": "10/11 (日) 17:05",
-        "status_long": "Finished",
-        "status_key": "finished",
-        "home_name": "中信兄弟",
-        "away_name": "統一獅",
-        "home_score": 2,
-        "away_score": 4
       }
     ]
   }

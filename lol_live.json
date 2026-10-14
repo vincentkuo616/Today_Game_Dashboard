@@ -120,6 +120,38 @@
     "LatestGameTime": "2026-10-12 09:33:00"
   },
   {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "SharkBite Furious Gaming Black",
+    "TeamB": "Smoke Tram",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-11 21:49:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "Neon eSports (Brazilian Team)",
+    "TeamB": "SharkBite Furious Gaming White",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-11 21:46:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "Invictus Team",
+    "TeamB": "Juventus Gaming Red",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-11 21:05:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "Clã NKZ VÓRAX",
+    "TeamB": "LØS Academy",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-11 20:20:00"
+  },
+  {
     "OverviewPage": "LoL Game Changers/2026 Season/Playoffs",
     "TeamA": "Good Chi Sakura",
     "TeamB": "Vitality Rising Bees",
@@ -212,7 +244,7 @@
     "TeamA": "Nothin'Here",
     "TeamB": "West Point Esports Philippines",
     "ScoreA": 2,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-11 12:13:00"
   },
   {
@@ -310,29 +342,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-11 10:06:00"
-  },
-  {
-    "OverviewPage": "MängudeÖÖ 2026",
-    "TeamA": "LOMiks",
-    "TeamB": "Team Invicta",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-11 10:02:00"
-  },
-  {
-    "OverviewPage": "MängudeÖÖ 2026",
-    "TeamA": "Draamaklubi",
-    "TeamB": "EESTI ORAVATE LIIT",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-11 10:00:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "DN SOOPers Academy",
-    "TeamB": "Nongshim RedForce Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-11 09:43:00"
   }
 ]
