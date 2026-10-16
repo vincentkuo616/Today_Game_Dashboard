@@ -1,5 +1,45 @@
 [
   {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "MT1 Esports",
+    "TeamB": "regnum4games",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-16 20:01:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Play-In",
+    "TeamA": "Karmine Corp",
+    "TeamB": "MVK Esports",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-16 19:53:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "BvP",
+    "TeamB": "Reveal Multigaming",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-16 19:48:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "PvB (Swiss Team)",
+    "TeamB": "The Bandits Prime",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-16 18:03:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "Hannover Esports e.V.",
+    "TeamB": "reGOLD eSport",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-16 17:03:00"
+  },
+  {
     "OverviewPage": "2026 Season World Championship/Play-In",
     "TeamA": "FURIA",
     "TeamB": "MVK Esports",
@@ -222,45 +262,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-10-11 18:39:00"
-  },
-  {
-    "OverviewPage": "LCP Wildcard/2026 Season/Playoffs",
-    "TeamA": "Essences",
-    "TeamB": "PART TIMERS",
-    "ScoreA": 3,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-11 17:34:00"
-  },
-  {
-    "OverviewPage": "LoL Game Changers/2026 Season/Playoffs",
-    "TeamA": "Barcząca Esports Babylon",
-    "TeamB": "Mental Rush",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-11 16:51:00"
-  },
-  {
-    "OverviewPage": "TCL/2027 Season/Promotion",
-    "TeamA": "BoostGate Esports",
-    "TeamB": "ITU Rangers",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-10-11 15:59:00"
-  },
-  {
-    "OverviewPage": "MängudeÖÖ 2026",
-    "TeamA": "LOMiks",
-    "TeamB": "jaaa jaaa",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-11 15:33:00"
-  },
-  {
-    "OverviewPage": "MängudeÖÖ 2026",
-    "TeamA": "EESTI ORAVATE LIIT",
-    "TeamB": "LOMiks",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-11 13:39:00"
   }
 ]
