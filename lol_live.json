@@ -1,5 +1,45 @@
 [
   {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Eunpyeong Meditech High School",
+    "TeamB": "Hanwha Life Esports Academy",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-17 06:47:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "DN SOOPers Academy",
+    "TeamB": "T1 Esports Academy Rookies",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-17 06:46:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Gen.G Scholars",
+    "TeamB": "HANJIN BRION Academy",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-17 06:08:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Dplus Kia Youth",
+    "TeamB": "Kiwoom DRX Academy",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-17 06:00:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "KT Rolster Academy",
+    "TeamB": "Nongshim RedForce Academy",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-17 05:53:00"
+  },
+  {
     "OverviewPage": "2026 Season World Championship/Play-In",
     "TeamA": "Cloud9",
     "TeamB": "FURIA",
@@ -212,39 +252,15 @@
     "TeamA": "Essences",
     "TeamB": "West Point Esports Philippines",
     "ScoreA": 3,
-    "ScoreB": 2,
+    "ScoreB": 0,
     "LatestGameTime": "2026-10-12 15:45:00"
   },
   {
     "OverviewPage": "2026 Demacia Cup Global Invitational",
     "TeamA": "BNK FEARX",
     "TeamB": "JD Gaming",
-    "ScoreA": 3,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-12 14:08:00"
-  },
-  {
-    "OverviewPage": "2026 Demacia Cup Global Invitational",
-    "TeamA": "KT Rolster",
-    "TeamB": "Team Vitality",
-    "ScoreA": 3,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-12 09:33:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
-    "TeamA": "SharkBite Furious Gaming Black",
-    "TeamB": "Smoke Tram",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-11 21:49:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
-    "TeamA": "Neon eSports (Brazilian Team)",
-    "TeamB": "SharkBite Furious Gaming White",
     "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-11 21:46:00"
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-12 14:08:00"
   }
 ]
