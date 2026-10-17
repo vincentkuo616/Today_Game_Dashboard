@@ -1,5 +1,45 @@
 [
   {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "SharkBite Furious Gaming Black",
+    "TeamB": "SharkBite Furious Gaming White",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-17 21:49:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "Clã NKZ VÓRAX",
+    "TeamB": "Smoke Tram Ascension",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-17 20:56:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "Invictus Team",
+    "TeamB": "Smoke Tram",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-17 20:56:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Play-In",
+    "TeamA": "FURIA",
+    "TeamB": "MVK Esports",
+    "ScoreA": 1,
+    "ScoreB": 6,
+    "LatestGameTime": "2026-10-17 20:50:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
+    "TeamA": "LØS Academy",
+    "TeamB": "Marere e-Sports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-17 20:09:00"
+  },
+  {
     "OverviewPage": "2026 Demacia Cup Global Invitational",
     "TeamA": "BNK FEARX",
     "TeamB": "Team WE",
@@ -137,14 +177,6 @@
   },
   {
     "OverviewPage": "2026 Season World Championship/Play-In",
-    "TeamA": "FURIA",
-    "TeamB": "MVK Esports",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-10-16 01:01:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Play-In",
     "TeamA": "Cloud9",
     "TeamB": "Karmine Corp",
     "ScoreA": 2,
@@ -235,24 +267,8 @@
     "OverviewPage": "2026 Demacia Cup Global Invitational",
     "TeamA": "FlyQuest",
     "TeamB": "Team WE",
-    "ScoreA": 2,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-10-13 09:47:00"
-  },
-  {
-    "OverviewPage": "LCS/2027 Season/Promotion",
-    "TeamA": "Disguised",
-    "TeamB": "Maryville University",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-13 00:26:00"
-  },
-  {
-    "OverviewPage": "CBLOL/2027 Season/Promotion",
-    "TeamA": "KaBuM! Ilha das Lendas",
-    "TeamB": "LØS",
     "ScoreA": 1,
     "ScoreB": 3,
-    "LatestGameTime": "2026-10-12 23:41:00"
+    "LatestGameTime": "2026-10-13 09:47:00"
   }
 ]
