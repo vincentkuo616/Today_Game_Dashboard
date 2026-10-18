@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 Season World Championship/Play-In",
+    "TeamA": "Karmine Corp",
+    "TeamB": "MVK Esports",
+    "ScoreA": 6,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-18 19:48:00"
+  },
+  {
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "Babos Gaming",
     "TeamB": "Team 300",
@@ -240,14 +248,6 @@
     "LatestGameTime": "2026-10-16 20:01:00"
   },
   {
-    "OverviewPage": "2026 Season World Championship/Play-In",
-    "TeamA": "Karmine Corp",
-    "TeamB": "MVK Esports",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-16 19:53:00"
-  },
-  {
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "BvP",
     "TeamB": "Reveal Multigaming",
@@ -294,13 +294,5 @@
     "ScoreA": 1,
     "ScoreB": 3,
     "LatestGameTime": "2026-10-14 18:23:00"
-  },
-  {
-    "OverviewPage": "2026 Demacia Cup Global Invitational",
-    "TeamA": "BNK FEARX",
-    "TeamB": "KT Rolster",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-14 11:42:00"
   }
 ]
