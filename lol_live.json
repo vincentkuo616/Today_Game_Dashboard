@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Dplus Kia Youth",
+    "TeamB": "KT Rolster Academy",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-18 09:27:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "Gen.G Scholars",
     "TeamB": "T1 Esports Academy Rookies",
     "ScoreA": 1,
@@ -11,9 +19,17 @@
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "DN SOOPers Academy",
     "TeamB": "HANJIN BRION Academy",
-    "ScoreA": 1,
+    "ScoreA": 2,
     "ScoreB": 0,
-    "LatestGameTime": "2026-10-18 07:51:00"
+    "LatestGameTime": "2026-10-18 08:38:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Hanwha Life Esports Academy",
+    "TeamB": "Kiwoom DRX Academy",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-18 08:38:00"
   },
   {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
@@ -275,7 +291,7 @@
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "No Need Orga",
     "TeamB": "Reveal Multigaming",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-10-13 20:47:00"
   },
@@ -284,31 +300,7 @@
     "TeamA": "404 Multigaming e.V.",
     "TeamB": "regnum4games",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-13 20:35:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "DKB XPERION NXT",
-    "TeamB": "The Bandits Prime",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-13 18:49:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "No Need Orga",
-    "TeamB": "reGOLD eSport",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-13 18:04:00"
-  },
-  {
-    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
-    "TeamA": "Galions",
-    "TeamB": "Movistar KOI Fénix",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-13 17:35:00"
   }
 ]
