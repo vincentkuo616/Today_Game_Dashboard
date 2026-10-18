@@ -1,5 +1,69 @@
 [
   {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Gen.G Scholars",
+    "TeamB": "T1 Esports Academy Rookies",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-18 08:57:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "DN SOOPers Academy",
+    "TeamB": "HANJIN BRION Academy",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-18 07:51:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Eunpyeong Meditech High School",
+    "TeamB": "Nongshim RedForce Academy",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-18 07:50:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "HANJIN BRION Academy",
+    "TeamB": "Hanwha Life Esports Academy",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-18 06:58:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "DN SOOPers Academy",
+    "TeamB": "Dplus Kia Youth",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-18 06:52:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Eunpyeong Meditech High School",
+    "TeamB": "KT Rolster Academy",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-18 06:14:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Gen.G Scholars",
+    "TeamB": "Kiwoom DRX Academy",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-18 06:13:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Nongshim RedForce Academy",
+    "TeamB": "T1 Esports Academy Rookies",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-18 06:05:00"
+  },
+  {
     "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
     "TeamA": "SharkBite Furious Gaming Black",
     "TeamB": "SharkBite Furious Gaming White",
@@ -227,7 +291,7 @@
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "DKB XPERION NXT",
     "TeamB": "The Bandits Prime",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-10-13 18:49:00"
   },
@@ -235,40 +299,16 @@
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "No Need Orga",
     "TeamB": "reGOLD eSport",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-10-13 18:04:00"
   },
   {
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "Galions",
     "TeamB": "Movistar KOI Fénix",
-    "ScoreA": 3,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-13 17:35:00"
-  },
-  {
-    "OverviewPage": "LCP Wildcard/2026 Season/Playoffs",
-    "TeamA": "Essences",
-    "TeamB": "Nothin'Here",
-    "ScoreA": 2,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-10-13 15:23:00"
-  },
-  {
-    "OverviewPage": "2026 Demacia Cup Global Invitational",
-    "TeamA": "HANJIN BRION",
-    "TeamB": "LGD Gaming",
-    "ScoreA": 3,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-13 13:37:00"
-  },
-  {
-    "OverviewPage": "2026 Demacia Cup Global Invitational",
-    "TeamA": "FlyQuest",
-    "TeamB": "Team WE",
-    "ScoreA": 1,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-10-13 09:47:00"
   }
 ]
