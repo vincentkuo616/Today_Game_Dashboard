@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LoL Game Changers/2026 Season/Playoffs",
+    "TeamA": "Mental Rush",
+    "TeamB": "SK Gaming Avarosa",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-19 19:35:00"
+  },
+  {
     "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
     "TeamA": "SharkBite Furious Gaming White",
     "TeamB": "Smoke Tram Ascension",
@@ -310,13 +318,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-16 17:03:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Play-In",
-    "TeamA": "Cloud9",
-    "TeamB": "Karmine Corp",
-    "ScoreA": 2,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-10-15 22:16:00"
   }
 ]
