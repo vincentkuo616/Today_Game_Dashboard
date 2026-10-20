@@ -1,5 +1,45 @@
 [
   {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "404 Multigaming e.V.",
+    "TeamB": "MT1 Esports",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-20 20:13:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "Locked In (Dutch Team)",
+    "TeamB": "regnum4games",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-20 19:06:00"
+  },
+  {
+    "OverviewPage": "LoL Game Changers/2026 Season/Playoffs",
+    "TeamA": "G2 Hel",
+    "TeamB": "Vitality Rising Bees",
+    "ScoreA": 0,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-10-20 18:04:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "BvP",
+    "TeamB": "Team 300",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-20 17:05:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "Reveal Multigaming",
+    "TeamB": "reGOLD eSport",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-20 17:02:00"
+  },
+  {
     "OverviewPage": "LoL Game Changers/2026 Season/Playoffs",
     "TeamA": "Mental Rush",
     "TeamB": "SK Gaming Avarosa",
@@ -35,7 +75,7 @@
     "OverviewPage": "2026 Season World Championship/Play-In",
     "TeamA": "Karmine Corp",
     "TeamB": "MVK Esports",
-    "ScoreA": 6,
+    "ScoreA": 4,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-18 19:48:00"
   },
@@ -180,7 +220,7 @@
     "TeamA": "FURIA",
     "TeamB": "MVK Esports",
     "ScoreA": 1,
-    "ScoreB": 6,
+    "ScoreB": 3,
     "LatestGameTime": "2026-10-17 20:50:00"
   },
   {
@@ -291,8 +331,8 @@
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "MT1 Esports",
     "TeamB": "regnum4games",
-    "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreA": 0,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-16 20:01:00"
   },
   {
@@ -300,23 +340,7 @@
     "TeamA": "BvP",
     "TeamB": "Reveal Multigaming",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-16 19:48:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "PvB (Swiss Team)",
-    "TeamB": "The Bandits Prime",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-16 18:03:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "Hannover Esports e.V.",
-    "TeamB": "reGOLD eSport",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-16 17:03:00"
   }
 ]
