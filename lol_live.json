@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
+    "TeamA": "Galions",
+    "TeamB": "Solary",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-22 16:09:00"
+  },
+  {
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "404 Multigaming e.V.",
     "TeamB": "MT1 Esports",
@@ -75,7 +83,7 @@
     "OverviewPage": "2026 Season World Championship/Play-In",
     "TeamA": "Karmine Corp",
     "TeamB": "MVK Esports",
-    "ScoreA": 4,
+    "ScoreA": 3,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-18 19:48:00"
   },
@@ -323,24 +331,8 @@
     "OverviewPage": "2026 Season World Championship/Play-In",
     "TeamA": "Cloud9",
     "TeamB": "FURIA",
-    "ScoreA": 1,
-    "ScoreB": 3,
+    "ScoreA": 0,
+    "ScoreB": 2,
     "LatestGameTime": "2026-10-16 23:43:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "MT1 Esports",
-    "TeamB": "regnum4games",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-16 20:01:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "BvP",
-    "TeamB": "Reveal Multigaming",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-16 19:48:00"
   }
 ]
