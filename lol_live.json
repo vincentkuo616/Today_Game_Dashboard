@@ -1,6 +1,30 @@
 [
   {
     "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Dplus Kia",
+    "TeamB": "G2 Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-23 21:16:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Anyone's Legend",
+    "TeamB": "Karmine Corp",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-23 20:16:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Bilibili Gaming",
+    "TeamB": "Movistar KOI",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-23 19:12:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "Hanwha Life Esports",
     "TeamB": "Top Esports",
     "ScoreA": 1,
@@ -315,7 +339,7 @@
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "DN SOOPers Academy",
     "TeamB": "T1 Esports Academy Rookies",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-10-17 06:46:00"
   },
@@ -323,7 +347,7 @@
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "Gen.G Scholars",
     "TeamB": "HANJIN BRION Academy",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-17 06:08:00"
   },
@@ -339,7 +363,7 @@
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "KT Rolster Academy",
     "TeamB": "Nongshim RedForce Academy",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-17 05:53:00"
   }
