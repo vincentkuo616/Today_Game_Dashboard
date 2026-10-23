@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Hanwha Life Esports",
+    "TeamB": "Top Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-23 18:23:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Gen.G",
+    "TeamB": "Invictus Gaming",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-23 17:21:00"
+  },
+  {
     "OverviewPage": "EMEA Masters/2026 Season/Summer Main Event",
     "TeamA": "Galions",
     "TeamB": "Solary",
@@ -326,13 +342,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-17 05:53:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Play-In",
-    "TeamA": "Cloud9",
-    "TeamB": "FURIA",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-16 23:43:00"
   }
 ]
