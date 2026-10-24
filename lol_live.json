@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "LØS",
+    "TeamB": "T1",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-23 23:21:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "CTBC Flying Oyster",
+    "TeamB": "Team Liquid",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-23 22:17:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "Dplus Kia",
     "TeamB": "G2 Esports",
     "ScoreA": 1,
@@ -332,7 +348,7 @@
     "TeamA": "Eunpyeong Meditech High School",
     "TeamB": "Hanwha Life Esports Academy",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-17 06:47:00"
   },
   {
@@ -355,7 +371,7 @@
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "Dplus Kia Youth",
     "TeamB": "Kiwoom DRX Academy",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-17 06:00:00"
   },
