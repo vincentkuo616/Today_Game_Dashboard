@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Karmine Corp",
+    "TeamB": "LYON (2024 American Team)",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-24 20:12:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "G2 Esports",
+    "TeamB": "LØS",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-24 19:07:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "CTBC Flying Oyster",
     "TeamB": "Movistar KOI",
     "ScoreA": 0,
@@ -355,7 +371,7 @@
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "DN SOOPers Academy",
     "TeamB": "Dplus Kia Youth",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-10-18 06:52:00"
   },
@@ -380,7 +396,7 @@
     "TeamA": "Nongshim RedForce Academy",
     "TeamB": "T1 Esports Academy Rookies",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-18 06:05:00"
   }
 ]
