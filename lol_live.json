@@ -1,11 +1,27 @@
 [
   {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "DN SOOPers Academy",
+    "TeamB": "Hanwha Life Esports Academy",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-24 08:26:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "Eunpyeong Meditech High School",
     "TeamB": "Gen.G Scholars",
     "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-24 08:24:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "HANJIN BRION Academy",
+    "TeamB": "Nongshim RedForce Academy",
+    "ScoreA": 2,
     "ScoreB": 1,
-    "LatestGameTime": "2026-10-24 07:43:00"
+    "LatestGameTime": "2026-10-24 08:21:00"
   },
   {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
@@ -17,27 +33,11 @@
   },
   {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "DN SOOPers Academy",
-    "TeamB": "Hanwha Life Esports Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-24 07:41:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "KT Rolster Academy",
     "TeamB": "Kiwoom DRX Academy",
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-24 07:36:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "HANJIN BRION Academy",
-    "TeamB": "Nongshim RedForce Academy",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-24 07:31:00"
   },
   {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
@@ -374,29 +374,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-17 21:49:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
-    "TeamA": "Clã NKZ VÓRAX",
-    "TeamB": "Smoke Tram Ascension",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-17 20:56:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
-    "TeamA": "Invictus Team",
-    "TeamB": "Smoke Tram",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-17 20:56:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Play-In",
-    "TeamA": "FURIA",
-    "TeamB": "MVK Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-17 20:50:00"
   }
 ]
