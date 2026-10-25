@@ -1,6 +1,30 @@
 [
   {
     "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Gen.G",
+    "TeamB": "Hanwha Life Esports",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-24 22:24:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Invictus Gaming",
+    "TeamB": "Team Secret Whales",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-24 21:18:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
+    "TeamA": "LØS Academy",
+    "TeamB": "Marere e-Sports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-24 20:53:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "Karmine Corp",
     "TeamB": "LYON (2024 American Team)",
     "ScoreA": 0,
@@ -372,31 +396,7 @@
     "TeamA": "DN SOOPers Academy",
     "TeamB": "Dplus Kia Youth",
     "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-18 06:52:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Eunpyeong Meditech High School",
-    "TeamB": "KT Rolster Academy",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-18 06:14:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Gen.G Scholars",
-    "TeamB": "Kiwoom DRX Academy",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-18 06:13:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Nongshim RedForce Academy",
-    "TeamB": "T1 Esports Academy Rookies",
-    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-10-18 06:05:00"
+    "LatestGameTime": "2026-10-18 06:52:00"
   }
 ]
