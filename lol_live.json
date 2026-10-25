@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Bilibili Gaming",
+    "TeamB": "Team Liquid",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-25 00:34:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Dplus Kia",
+    "TeamB": "T1",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-24 23:19:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "Gen.G",
     "TeamB": "Hanwha Life Esports",
     "ScoreA": 1,
@@ -382,21 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-10-18 07:50:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "HANJIN BRION Academy",
-    "TeamB": "Hanwha Life Esports Academy",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-18 06:58:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "DN SOOPers Academy",
-    "TeamB": "Dplus Kia Youth",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-18 06:52:00"
   }
 ]
