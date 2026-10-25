@@ -1,5 +1,45 @@
 [
   {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Hanwha Life Esports Academy",
+    "TeamB": "KT Rolster Academy",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-25 07:17:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Kiwoom DRX Academy",
+    "TeamB": "Nongshim RedForce Academy",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-25 05:56:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "DN SOOPers Academy",
+    "TeamB": "Gen.G Scholars",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-25 05:53:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "Dplus Kia Youth",
+    "TeamB": "Eunpyeong Meditech High School",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-25 05:52:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
+    "TeamA": "HANJIN BRION Academy",
+    "TeamB": "T1 Esports Academy Rookies",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-25 05:49:00"
+  },
+  {
     "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "Bilibili Gaming",
     "TeamB": "Team Liquid",
@@ -358,45 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-10-18 16:03:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Dplus Kia Youth",
-    "TeamB": "KT Rolster Academy",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-18 09:27:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Gen.G Scholars",
-    "TeamB": "T1 Esports Academy Rookies",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-18 08:57:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "DN SOOPers Academy",
-    "TeamB": "HANJIN BRION Academy",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-18 08:38:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Hanwha Life Esports Academy",
-    "TeamB": "Kiwoom DRX Academy",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-18 08:38:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Eunpyeong Meditech High School",
-    "TeamB": "Nongshim RedForce Academy",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-18 07:50:00"
   }
 ]
