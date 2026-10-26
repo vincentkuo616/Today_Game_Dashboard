@@ -1,26 +1,14 @@
 [
   {
+    "date": "2026-10-26",
+    "games": []
+  },
+  {
     "date": "2026-10-25",
     "games": []
   },
   {
     "date": "2026-10-24",
     "games": []
-  },
-  {
-    "date": "2026-10-23",
-    "games": [
-      {
-        "id": 190209,
-        "venue": "台北大巨蛋",
-        "display_time": "10/23 (五) 18:35",
-        "status_long": "Postponed",
-        "status_key": "postponed",
-        "home_name": "味全龍",
-        "away_name": "中信兄弟",
-        "home_score": "-",
-        "away_score": "-"
-      }
-    ]
   }
 ]

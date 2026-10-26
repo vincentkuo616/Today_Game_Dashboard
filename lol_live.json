@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Gen.G",
+    "TeamB": "LYON (2024 American Team)",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-25 22:43:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "Dplus Kia",
     "TeamB": "Movistar KOI",
     "ScoreA": 2,
@@ -390,13 +398,5 @@
     "ScoreA": 3,
     "ScoreB": 2,
     "LatestGameTime": "2026-10-19 19:35:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2",
-    "TeamA": "SharkBite Furious Gaming White",
-    "TeamB": "Smoke Tram Ascension",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-18 20:54:00"
   }
 ]
