@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "LØS",
+    "TeamB": "Team Secret Whales",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-26 20:01:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Bilibili Gaming",
+    "TeamB": "Karmine Corp",
+    "ScoreA": 1,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-26 18:03:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "CTBC Flying Oyster",
     "TeamB": "T1",
     "ScoreA": 0,
@@ -382,21 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 3,
     "LatestGameTime": "2026-10-20 18:04:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "BvP",
-    "TeamB": "Team 300",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-20 17:05:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "Reveal Multigaming",
-    "TeamB": "reGOLD eSport",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-20 17:02:00"
   }
 ]
