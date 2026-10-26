@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "CTBC Flying Oyster",
+    "TeamB": "T1",
+    "ScoreA": 0,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-26 17:12:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "Gen.G",
     "TeamB": "LYON (2024 American Team)",
     "ScoreA": 2,
@@ -390,13 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-10-20 17:02:00"
-  },
-  {
-    "OverviewPage": "LoL Game Changers/2026 Season/Playoffs",
-    "TeamA": "Mental Rush",
-    "TeamB": "SK Gaming Avarosa",
-    "ScoreA": 3,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-19 19:35:00"
   }
 ]
