@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Anyone's Legend",
+    "TeamB": "Team Liquid",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-26 21:54:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "LØS",
     "TeamB": "Team Secret Whales",
     "ScoreA": 2,
@@ -390,13 +398,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-20 19:06:00"
-  },
-  {
-    "OverviewPage": "LoL Game Changers/2026 Season/Playoffs",
-    "TeamA": "G2 Hel",
-    "TeamB": "Vitality Rising Bees",
-    "ScoreA": 0,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-10-20 18:04:00"
   }
 ]
