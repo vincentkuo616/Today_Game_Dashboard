@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Movistar KOI",
+    "TeamB": "T1",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-28 21:12:00"
+  },
+  {
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "VfB eSports",
     "TeamB": "regnum4games",
@@ -390,13 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-23 18:23:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "Locked In (Dutch Team)",
-    "TeamB": "The Bandits Prime",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-23 17:57:00"
   }
 ]
