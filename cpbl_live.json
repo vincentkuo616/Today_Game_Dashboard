@@ -9,6 +9,18 @@
   },
   {
     "date": "2026-10-26",
-    "games": []
+    "games": [
+      {
+        "id": 190214,
+        "venue": "天母棒球場",
+        "display_time": "10/26 (一) 15:05",
+        "status_long": "Finished",
+        "status_key": "finished",
+        "home_name": "味全龍",
+        "away_name": "中信兄弟",
+        "home_score": 6,
+        "away_score": 0
+      }
+    ]
   }
 ]

@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "VfB eSports",
+    "TeamB": "regnum4games",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-27 20:43:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "Hannover Esports e.V.",
+    "TeamB": "No Need Orga",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-27 20:31:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "AceGaming",
     "TeamB": "No Need Orga",
     "ScoreA": 2,
@@ -382,21 +398,5 @@
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-10-23 17:57:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "Gen.G",
-    "TeamB": "Invictus Gaming",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-23 17:21:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "Hannover Esports e.V.",
-    "TeamB": "Reveal Multigaming",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-23 17:06:00"
   }
 ]
