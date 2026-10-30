@@ -1,6 +1,22 @@
 [
   {
     "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Bilibili Gaming",
+    "TeamB": "Top Esports",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-29 23:26:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "CTBC Flying Oyster",
+    "TeamB": "Karmine Corp",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-29 20:59:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "Invictus Gaming",
     "TeamB": "LYON (2024 American Team)",
     "ScoreA": 2,
@@ -382,21 +398,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-10-23 19:44:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "AceGaming",
-    "TeamB": "Babos Gaming",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-23 19:14:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "Bilibili Gaming",
-    "TeamB": "Movistar KOI",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-23 19:12:00"
   }
 ]
