@@ -1,6 +1,46 @@
 [
   {
     "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "LØS",
+    "TeamB": "Team Liquid",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-30 21:02:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "PvB (Swiss Team)",
+    "TeamB": "VfB eSports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-30 19:51:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "AceGaming",
+    "TeamB": "reGOLD eSport",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-30 19:01:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "Reveal Multigaming",
+    "TeamB": "Team 300",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-30 17:59:00"
+  },
+  {
+    "OverviewPage": "Superstrike League 2026",
+    "TeamA": "Lund Esports Organization",
+    "TeamB": "Lundqvist Lightside",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-30 16:33:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "Bilibili Gaming",
     "TeamB": "Top Esports",
     "ScoreA": 1,
@@ -358,45 +398,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-24 00:12:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "LØS",
-    "TeamB": "T1",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-23 23:21:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "CTBC Flying Oyster",
-    "TeamB": "Team Liquid",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-23 22:17:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "Dplus Kia",
-    "TeamB": "G2 Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-23 21:16:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "Anyone's Legend",
-    "TeamB": "Karmine Corp",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-23 20:16:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "Team 300",
-    "TeamB": "reGOLD eSport",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-23 19:44:00"
   }
 ]
