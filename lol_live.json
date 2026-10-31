@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "LYON (2024 American Team)",
+    "TeamB": "LØS",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-31 21:01:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "Karmine Corp",
     "TeamB": "Movistar KOI",
     "ScoreA": 2,
@@ -363,7 +371,7 @@
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "DN SOOPers Academy",
     "TeamB": "Hanwha Life Esports Academy",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-24 08:26:00"
   },
@@ -372,7 +380,7 @@
     "TeamA": "Eunpyeong Meditech High School",
     "TeamB": "Gen.G Scholars",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-24 08:24:00"
   },
   {
@@ -382,13 +390,5 @@
     "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-24 08:21:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Dplus Kia Youth",
-    "TeamB": "T1 Esports Academy Rookies",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-24 07:41:00"
   }
 ]
