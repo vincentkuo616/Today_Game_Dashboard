@@ -1,11 +1,27 @@
 [
   {
     "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "G2 Esports",
+    "TeamB": "Hanwha Life Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-10-31 00:02:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "LØS",
     "TeamB": "Team Liquid",
-    "ScoreA": 1,
+    "ScoreA": 2,
     "ScoreB": 1,
-    "LatestGameTime": "2026-10-30 21:02:00"
+    "LatestGameTime": "2026-10-30 22:00:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "DKB XPERION NXT",
+    "TeamB": "regnum4games",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-10-30 21:53:00"
   },
   {
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
@@ -364,14 +380,14 @@
     "TeamA": "Gen.G Scholars",
     "TeamB": "Hanwha Life Esports Academy",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-24 06:48:00"
   },
   {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "DN SOOPers Academy",
     "TeamB": "Kiwoom DRX Academy",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-24 05:55:00"
   },
@@ -379,24 +395,8 @@
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "Dplus Kia Youth",
     "TeamB": "Nongshim RedForce Academy",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-24 05:54:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Eunpyeong Meditech High School",
-    "TeamB": "T1 Esports Academy Rookies",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-24 05:46:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "LYON (2024 American Team)",
-    "TeamB": "Team Secret Whales",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-10-24 00:12:00"
+    "LatestGameTime": "2026-10-24 05:54:00"
   }
 ]
