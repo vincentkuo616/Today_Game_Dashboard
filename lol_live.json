@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Karmine Corp",
+    "TeamB": "Movistar KOI",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-31 18:09:00"
+  },
+  {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship Playoffs",
     "TeamA": "Hanwha Life Esports Academy",
     "TeamB": "KT Rolster Academy",
@@ -372,7 +380,7 @@
     "TeamA": "HANJIN BRION Academy",
     "TeamB": "Nongshim RedForce Academy",
     "ScoreA": 1,
-    "ScoreB": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-10-24 08:21:00"
   },
   {
@@ -382,13 +390,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-10-24 07:41:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "KT Rolster Academy",
-    "TeamB": "Kiwoom DRX Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-24 07:36:00"
   }
 ]
