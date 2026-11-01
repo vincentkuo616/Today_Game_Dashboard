@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
+    "TeamA": "Marere e-Sports",
+    "TeamB": "Smoke Tram",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-11-01 22:03:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
+    "TeamA": "Clã NKZ VÓRAX",
+    "TeamB": "EmBRAZA! Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-11-01 21:05:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "404 Multigaming e.V.",
+    "TeamB": "The Bandits Prime",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-11-01 19:57:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "Locked In (Dutch Team)",
+    "TeamB": "MT1 Esports",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-11-01 19:55:00"
+  },
+  {
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "Hannover Esports e.V.",
     "TeamB": "Team 300",
@@ -275,8 +307,8 @@
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "AceGaming",
     "TeamB": "Reveal Multigaming",
-    "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreA": 0,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-25 18:14:00"
   },
   {
@@ -291,8 +323,8 @@
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "Babos Gaming",
     "TeamB": "Hannover Esports e.V.",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-10-25 17:48:00"
   },
   {
@@ -302,45 +334,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-10-25 17:19:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Hanwha Life Esports Academy",
-    "TeamB": "KT Rolster Academy",
-    "ScoreA": 1,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-25 07:17:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Kiwoom DRX Academy",
-    "TeamB": "Nongshim RedForce Academy",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-25 05:56:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "DN SOOPers Academy",
-    "TeamB": "Gen.G Scholars",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-25 05:53:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "Dplus Kia Youth",
-    "TeamB": "Eunpyeong Meditech High School",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-25 05:52:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "HANJIN BRION Academy",
-    "TeamB": "T1 Esports Academy Rookies",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-25 05:49:00"
   }
 ]
