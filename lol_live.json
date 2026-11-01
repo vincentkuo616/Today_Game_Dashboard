@@ -8,6 +8,14 @@
     "LatestGameTime": "2026-10-31 23:05:00"
   },
   {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
+    "TeamA": "Clã NKZ VÓRAX",
+    "TeamB": "Neon eSports (Brazilian Team)",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-10-31 21:08:00"
+  },
+  {
     "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "LYON (2024 American Team)",
     "TeamB": "LØS",
@@ -366,21 +374,5 @@
     "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-10-24 18:08:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "Anyone's Legend",
-    "TeamB": "Top Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-24 17:11:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
-    "TeamA": "DN SOOPers Academy",
-    "TeamB": "Hanwha Life Esports Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-24 08:26:00"
   }
 ]
