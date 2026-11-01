@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "Hannover Esports e.V.",
+    "TeamB": "Team 300",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-11-01 17:05:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "Babos Gaming",
+    "TeamB": "No Need Orga",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-11-01 16:57:00"
+  },
+  {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship Playoffs",
     "TeamA": "Dplus Kia Youth",
     "TeamB": "Hanwha Life Esports Academy",
@@ -300,14 +316,14 @@
     "TeamA": "Kiwoom DRX Academy",
     "TeamB": "Nongshim RedForce Academy",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-25 05:56:00"
   },
   {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "DN SOOPers Academy",
     "TeamB": "Gen.G Scholars",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-25 05:53:00"
   },
@@ -315,7 +331,7 @@
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship",
     "TeamA": "Dplus Kia Youth",
     "TeamB": "Eunpyeong Meditech High School",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-25 05:52:00"
   },
@@ -324,7 +340,7 @@
     "TeamA": "HANJIN BRION Academy",
     "TeamB": "T1 Esports Academy Rookies",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-25 05:49:00"
   }
 ]
