@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship Playoffs",
+    "TeamA": "Dplus Kia Youth",
+    "TeamB": "Hanwha Life Esports Academy",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-11-01 11:43:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship Playoffs",
+    "TeamA": "HANJIN BRION Academy",
+    "TeamB": "T1 Esports Academy Rookies",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-11-01 08:17:00"
+  },
+  {
     "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "Bilibili Gaming",
     "TeamB": "Hanwha Life Esports",
@@ -310,69 +326,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-10-25 05:49:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "Bilibili Gaming",
-    "TeamB": "Team Liquid",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-25 00:34:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "Dplus Kia",
-    "TeamB": "T1",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-24 23:19:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "Gen.G",
-    "TeamB": "Hanwha Life Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-24 22:24:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "Invictus Gaming",
-    "TeamB": "Team Secret Whales",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-24 21:18:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
-    "TeamA": "LØS Academy",
-    "TeamB": "Marere e-Sports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-24 20:53:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "Karmine Corp",
-    "TeamB": "LYON (2024 American Team)",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-24 20:12:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "G2 Esports",
-    "TeamB": "LØS",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-24 19:07:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "CTBC Flying Oyster",
-    "TeamB": "Movistar KOI",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-24 18:08:00"
   }
 ]
