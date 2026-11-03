@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "BvP",
+    "TeamB": "No Need Orga",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-11-03 18:59:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "404 Multigaming e.V.",
+    "TeamB": "PvB (Swiss Team)",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-11-03 18:56:00"
+  },
+  {
+    "OverviewPage": "Breeze of Glory 2026",
+    "TeamA": "Macko Esports",
+    "TeamB": "Zena Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-11-03 18:14:00"
+  },
+  {
     "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
     "TeamA": "Marere e-Sports",
     "TeamB": "Smoke Tram",
@@ -283,7 +307,7 @@
     "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "Dplus Kia",
     "TeamB": "Movistar KOI",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-25 20:10:00"
   },
@@ -291,48 +315,8 @@
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "DKB XPERION NXT",
     "TeamB": "Locked In (Dutch Team)",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-25 20:01:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "404 Multigaming e.V.",
-    "TeamB": "VfB eSports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-25 19:25:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "AceGaming",
-    "TeamB": "Reveal Multigaming",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-25 18:14:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "G2 Esports",
-    "TeamB": "Top Esports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-25 18:11:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "Babos Gaming",
-    "TeamB": "Hannover Esports e.V.",
     "ScoreA": 1,
     "ScoreB": 0,
-    "LatestGameTime": "2026-10-25 17:48:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "Hanwha Life Esports",
-    "TeamB": "Invictus Gaming",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-25 17:19:00"
+    "LatestGameTime": "2026-10-25 20:01:00"
   }
 ]
