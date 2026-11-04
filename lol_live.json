@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Invictus Gaming",
+    "TeamB": "Top Esports",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-11-04 02:20:00"
+  },
+  {
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "The Bandits Prime",
     "TeamB": "regnum4games",
@@ -284,23 +292,7 @@
     "TeamA": "Anyone's Legend",
     "TeamB": "Team Liquid",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-26 21:54:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "LØS",
-    "TeamB": "Team Secret Whales",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-26 20:01:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "Bilibili Gaming",
-    "TeamB": "Karmine Corp",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-26 18:03:00"
   }
 ]
