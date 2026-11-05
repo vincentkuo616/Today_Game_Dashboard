@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Gen.G",
+    "TeamB": "LYON (2024 American Team)",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-11-04 23:54:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "Invictus Gaming",
     "TeamB": "Top Esports",
     "ScoreA": 3,
@@ -276,23 +284,15 @@
     "TeamA": "Mental Rush",
     "TeamB": "Vitality Rising Bees",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-10-27 18:47:00"
   },
   {
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "DKB XPERION NXT",
     "TeamB": "PvB (Swiss Team)",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-27 18:02:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "Anyone's Legend",
-    "TeamB": "Team Liquid",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-26 21:54:00"
   }
 ]
