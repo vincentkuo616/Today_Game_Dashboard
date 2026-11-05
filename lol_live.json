@@ -8,6 +8,22 @@
     "LatestGameTime": "2026-11-04 23:54:00"
   },
   {
+    "OverviewPage": "Breeze of Glory 2026",
+    "TeamA": "GONGJI",
+    "TeamB": "HMBLE",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-11-04 21:21:00"
+  },
+  {
+    "OverviewPage": "Breeze of Glory 2026",
+    "TeamA": "EKO Esports",
+    "TeamB": "Team Aqua ASD",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-11-04 19:40:00"
+  },
+  {
     "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "Invictus Gaming",
     "TeamB": "Top Esports",
@@ -275,8 +291,8 @@
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "AceGaming",
     "TeamB": "No Need Orga",
-    "ScoreA": 2,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-10-27 18:53:00"
   },
   {
@@ -284,15 +300,7 @@
     "TeamA": "Mental Rush",
     "TeamB": "Vitality Rising Bees",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-10-27 18:47:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "DKB XPERION NXT",
-    "TeamB": "PvB (Swiss Team)",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-27 18:02:00"
   }
 ]
