@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Bilibili Gaming",
+    "TeamB": "Dplus Kia",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-11-06 00:00:00"
+  },
+  {
+    "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "Gen.G",
     "TeamB": "LYON (2024 American Team)",
     "ScoreA": 3,
@@ -275,7 +283,7 @@
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "VfB eSports",
     "TeamB": "regnum4games",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-10-27 20:43:00"
   },
@@ -286,21 +294,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-10-27 20:31:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "AceGaming",
-    "TeamB": "No Need Orga",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-27 18:53:00"
-  },
-  {
-    "OverviewPage": "LoL Game Changers/2026 Season/Playoffs",
-    "TeamA": "Mental Rush",
-    "TeamB": "Vitality Rising Bees",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-27 18:47:00"
   }
 ]
