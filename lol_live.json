@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Karmine Corp",
+    "TeamB": "T1",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-11-07 01:06:00"
+  },
+  {
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "Babos Gaming",
     "TeamB": "BvP",
@@ -286,21 +294,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-10-30 17:59:00"
-  },
-  {
-    "OverviewPage": "Superstrike League 2026",
-    "TeamA": "Lund Esports Organization",
-    "TeamB": "Lundqvist Lightside",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-30 16:33:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "Bilibili Gaming",
-    "TeamB": "Top Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-30 00:24:00"
   }
 ]
