@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship Playoffs",
+    "TeamA": "HANJIN BRION Academy",
+    "TeamB": "Hanwha Life Esports Academy",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-11-07 10:46:00"
+  },
+  {
+    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship Playoffs",
+    "TeamA": "Dplus Kia Youth",
+    "TeamB": "T1 Esports Academy Rookies",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-11-07 08:22:00"
+  },
+  {
     "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "Karmine Corp",
     "TeamB": "T1",
@@ -270,29 +286,5 @@
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-10-30 21:53:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "PvB (Swiss Team)",
-    "TeamB": "VfB eSports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-30 19:51:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "AceGaming",
-    "TeamB": "reGOLD eSport",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-30 19:01:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "Reveal Multigaming",
-    "TeamB": "Team 300",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-10-30 17:59:00"
   }
 ]
