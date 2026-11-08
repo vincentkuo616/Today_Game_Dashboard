@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "MT1 Esports",
+    "TeamB": "PvB (Swiss Team)",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-11-08 21:12:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "The Bandits Prime",
+    "TeamB": "VfB eSports",
+    "ScoreA": 2,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-11-08 19:58:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "AceGaming",
+    "TeamB": "BvP",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-11-08 18:18:00"
+  },
+  {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
+    "TeamA": "Babos Gaming",
+    "TeamB": "reGOLD eSport",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-11-08 16:59:00"
+  },
+  {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship Playoffs",
     "TeamA": "Dplus Kia Youth",
     "TeamB": "T1 Esports Academy Rookies",
@@ -243,32 +275,8 @@
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship Playoffs",
     "TeamA": "HANJIN BRION Academy",
     "TeamB": "T1 Esports Academy Rookies",
-    "ScoreA": 2,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-11-01 08:17:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "Bilibili Gaming",
-    "TeamB": "Hanwha Life Esports",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-31 23:05:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
-    "TeamA": "Clã NKZ VÓRAX",
-    "TeamB": "Neon eSports (Brazilian Team)",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-31 21:08:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "LYON (2024 American Team)",
-    "TeamB": "LØS",
-    "ScoreA": 2,
+    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-10-31 21:01:00"
+    "LatestGameTime": "2026-11-01 08:17:00"
   }
 ]
