@@ -1,5 +1,29 @@
 [
   {
+    "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Gen.G",
+    "TeamB": "Invictus Gaming",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-11-08 00:00:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
+    "TeamA": "EmBRAZA! Esports",
+    "TeamB": "LØS Academy",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-11-07 21:18:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
+    "TeamA": "Neon eSports (Brazilian Team)",
+    "TeamB": "Smoke Tram",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-11-07 21:03:00"
+  },
+  {
     "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship Playoffs",
     "TeamA": "HANJIN BRION Academy",
     "TeamB": "Hanwha Life Esports Academy",
@@ -260,31 +284,7 @@
     "TeamA": "DN SOOPers Academy",
     "TeamB": "HANJIN BRION Academy",
     "ScoreA": 2,
-    "ScoreB": 3,
-    "LatestGameTime": "2026-10-31 08:34:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "G2 Esports",
-    "TeamB": "Hanwha Life Esports",
-    "ScoreA": 0,
     "ScoreB": 2,
-    "LatestGameTime": "2026-10-31 00:02:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "LØS",
-    "TeamB": "Team Liquid",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-10-30 22:00:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "DKB XPERION NXT",
-    "TeamB": "regnum4games",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-10-30 21:53:00"
+    "LatestGameTime": "2026-10-31 08:34:00"
   }
 ]
