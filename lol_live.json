@@ -1,11 +1,35 @@
 [
   {
+    "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Bilibili Gaming",
+    "TeamB": "T1",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-11-09 00:56:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
+    "TeamA": "Clã NKZ VÓRAX",
+    "TeamB": "Marere e-Sports",
+    "ScoreA": 1,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-11-08 21:58:00"
+  },
+  {
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "MT1 Esports",
     "TeamB": "PvB (Swiss Team)",
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-11-08 21:12:00"
+  },
+  {
+    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
+    "TeamA": "EmBRAZA! Esports",
+    "TeamB": "Smoke Tram",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-11-08 21:09:00"
   },
   {
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
@@ -246,37 +270,5 @@
     "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-11-01 19:55:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "Hannover Esports e.V.",
-    "TeamB": "Team 300",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-11-01 17:05:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "Babos Gaming",
-    "TeamB": "No Need Orga",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-11-01 16:57:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship Playoffs",
-    "TeamA": "Dplus Kia Youth",
-    "TeamB": "Hanwha Life Esports Academy",
-    "ScoreA": 3,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-11-01 11:43:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship Playoffs",
-    "TeamA": "HANJIN BRION Academy",
-    "TeamB": "T1 Esports Academy Rookies",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-11-01 08:17:00"
   }
 ]
