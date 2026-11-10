@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "LCP/2027 Season/Promotion",
+    "TeamA": "Saigon Warriors",
+    "TeamB": "Team Gromp (Australian Team)",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-11-10 09:49:00"
+  },
+  {
     "OverviewPage": "GG Arena by Teknosa Season 2",
     "TeamA": "Blades of Valor",
     "TeamB": "SU Esports",
@@ -270,21 +278,5 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-11-03 18:14:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
-    "TeamA": "Marere e-Sports",
-    "TeamB": "Smoke Tram",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-11-01 22:03:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
-    "TeamA": "Clã NKZ VÓRAX",
-    "TeamB": "EmBRAZA! Esports",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-11-01 21:05:00"
   }
 ]
