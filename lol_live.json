@@ -1,5 +1,37 @@
 [
   {
+    "OverviewPage": "GG Arena by Teknosa Season 2",
+    "TeamA": "Blades of Valor",
+    "TeamB": "SU Esports",
+    "ScoreA": 1,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-11-09 16:19:00"
+  },
+  {
+    "OverviewPage": "GG Arena by Teknosa Season 2",
+    "TeamA": "Balta Esports",
+    "TeamB": "No macro Only Vibes",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-11-09 16:11:00"
+  },
+  {
+    "OverviewPage": "GG Arena by Teknosa Season 2",
+    "TeamA": "Bushido Wildcats",
+    "TeamB": "Çakıl",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-11-09 15:36:00"
+  },
+  {
+    "OverviewPage": "GG Arena by Teknosa Season 2",
+    "TeamA": "BADILER",
+    "TeamB": "PCIFIC Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-11-09 15:02:00"
+  },
+  {
     "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "Bilibili Gaming",
     "TeamB": "T1",
@@ -243,7 +275,7 @@
     "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
     "TeamA": "Marere e-Sports",
     "TeamB": "Smoke Tram",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 1,
     "LatestGameTime": "2026-11-01 22:03:00"
   },
@@ -251,24 +283,8 @@
     "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
     "TeamA": "Clã NKZ VÓRAX",
     "TeamB": "EmBRAZA! Esports",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-11-01 21:05:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "404 Multigaming e.V.",
-    "TeamB": "The Bandits Prime",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-11-01 19:57:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "Locked In (Dutch Team)",
-    "TeamB": "MT1 Esports",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-11-01 19:55:00"
   }
 ]
