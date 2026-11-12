@@ -32,6 +32,14 @@
     "LatestGameTime": "2026-11-11 16:55:00"
   },
   {
+    "OverviewPage": "LCP/2027 Season/Promotion",
+    "TeamA": "Frank Esports",
+    "TeamB": "Ground Zero Gaming",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-11-11 16:10:00"
+  },
+  {
     "OverviewPage": "Breeze of Glory 2026",
     "TeamA": "Huskies Esports",
     "TeamB": "Macko Esports",
@@ -222,29 +230,5 @@
     "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-11-06 20:01:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "Locked In (Dutch Team)",
-    "TeamB": "VfB eSports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-11-06 17:56:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "404 Multigaming e.V.",
-    "TeamB": "DKB XPERION NXT",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-11-06 17:54:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "Bilibili Gaming",
-    "TeamB": "Dplus Kia",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-11-06 00:00:00"
   }
 ]
