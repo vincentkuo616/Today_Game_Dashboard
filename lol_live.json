@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "GG Arena by Teknosa Season 2",
+    "TeamA": "Balta Esports",
+    "TeamB": "No macro Only Vibes",
+    "ScoreA": 3,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-11-11 16:55:00"
+  },
+  {
+    "OverviewPage": "GG Arena by Teknosa Season 2",
+    "TeamA": "Blades of Valor",
+    "TeamB": "SU Esports",
+    "ScoreA": 2,
+    "ScoreB": 4,
+    "LatestGameTime": "2026-11-11 16:55:00"
+  },
+  {
     "OverviewPage": "Breeze of Glory 2026",
     "TeamA": "Huskies Esports",
     "TeamB": "Macko Esports",
@@ -46,22 +62,6 @@
     "ScoreA": 0,
     "ScoreB": 3,
     "LatestGameTime": "2026-11-10 06:50:00"
-  },
-  {
-    "OverviewPage": "GG Arena by Teknosa Season 2",
-    "TeamA": "Blades of Valor",
-    "TeamB": "SU Esports",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-11-09 16:19:00"
-  },
-  {
-    "OverviewPage": "GG Arena by Teknosa Season 2",
-    "TeamA": "Balta Esports",
-    "TeamB": "No macro Only Vibes",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-11-09 16:11:00"
   },
   {
     "OverviewPage": "GG Arena by Teknosa Season 2",
@@ -251,32 +251,8 @@
     "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "Gen.G",
     "TeamB": "LYON (2024 American Team)",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 0,
     "LatestGameTime": "2026-11-04 23:54:00"
-  },
-  {
-    "OverviewPage": "Breeze of Glory 2026",
-    "TeamA": "GONGJI",
-    "TeamB": "HMBLE",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-11-04 21:21:00"
-  },
-  {
-    "OverviewPage": "Breeze of Glory 2026",
-    "TeamA": "EKO Esports",
-    "TeamB": "Team Aqua ASD",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-11-04 19:40:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "Invictus Gaming",
-    "TeamB": "Top Esports",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-11-04 02:20:00"
   }
 ]
