@@ -1,6 +1,14 @@
 [
   {
     "OverviewPage": "LCP/2027 Season/Promotion",
+    "TeamA": "DetonatioN FocusMe",
+    "TeamB": "Saigon Warriors",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-11-13 08:51:00"
+  },
+  {
+    "OverviewPage": "LCP/2027 Season/Promotion",
     "TeamA": "Nothin'Here",
     "TeamB": "Saigon Warriors",
     "ScoreA": 0,
@@ -214,21 +222,5 @@
     "ScoreA": 1,
     "ScoreB": 3,
     "LatestGameTime": "2026-11-07 01:06:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "Babos Gaming",
-    "TeamB": "BvP",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-11-06 20:20:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "AceGaming",
-    "TeamB": "Team 300",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-11-06 20:01:00"
   }
 ]
