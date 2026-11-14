@@ -32,6 +32,14 @@
     "LatestGameTime": "2026-11-13 19:52:00"
   },
   {
+    "OverviewPage": "Komplettligaen/2026 Season/Autumn Playoffs",
+    "TeamA": "Rich Gang (Norwegian Team)",
+    "TeamB": "VES Japan",
+    "ScoreA": 2,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-11-13 19:12:00"
+  },
+  {
     "OverviewPage": "LCP/2027 Season/Promotion",
     "TeamA": "DetonatioN FocusMe",
     "TeamB": "Saigon Warriors",
@@ -227,24 +235,8 @@
     "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
     "TeamA": "EmBRAZA! Esports",
     "TeamB": "LØS Academy",
-    "ScoreA": 2,
+    "ScoreA": 1,
     "ScoreB": 0,
     "LatestGameTime": "2026-11-07 21:18:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
-    "TeamA": "Neon eSports (Brazilian Team)",
-    "TeamB": "Smoke Tram",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-11-07 21:03:00"
-  },
-  {
-    "OverviewPage": "LCK Academy Series/2026 Season/2nd Championship Playoffs",
-    "TeamA": "HANJIN BRION Academy",
-    "TeamB": "Hanwha Life Esports Academy",
-    "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-11-07 12:26:00"
   }
 ]
