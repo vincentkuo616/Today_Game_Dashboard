@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "2026 Season World Championship/Main Event",
+    "TeamA": "Bilibili Gaming",
+    "TeamB": "Gen.G",
+    "ScoreA": 3,
+    "ScoreB": 1,
+    "LatestGameTime": "2026-11-14 23:18:00"
+  },
+  {
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
     "TeamA": "MT1 Esports",
     "TeamB": "The Bandits Prime",
@@ -222,21 +230,5 @@
     "ScoreA": 3,
     "ScoreB": 1,
     "LatestGameTime": "2026-11-08 07:42:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "Gen.G",
-    "TeamB": "Invictus Gaming",
-    "ScoreA": 3,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-11-08 00:00:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
-    "TeamA": "EmBRAZA! Esports",
-    "TeamB": "LØS Academy",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-11-07 21:18:00"
   }
 ]
