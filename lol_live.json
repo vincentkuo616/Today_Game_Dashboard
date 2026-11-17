@@ -1,5 +1,21 @@
 [
   {
+    "OverviewPage": "GG Arena by Teknosa Season 2",
+    "TeamA": "Balta Esports",
+    "TeamB": "Çakıl",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-11-16 17:24:00"
+  },
+  {
+    "OverviewPage": "GG Arena by Teknosa Season 2",
+    "TeamA": "PCIFIC Esports",
+    "TeamB": "SU Esports",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-11-16 15:33:00"
+  },
+  {
     "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
     "TeamA": "EmBRAZA! Esports",
     "TeamB": "Marere e-Sports",
@@ -227,24 +243,8 @@
     "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
     "TeamA": "Clã NKZ VÓRAX",
     "TeamB": "Marere e-Sports",
-    "ScoreA": 1,
+    "ScoreA": 0,
     "ScoreB": 1,
     "LatestGameTime": "2026-11-08 21:58:00"
-  },
-  {
-    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Split",
-    "TeamA": "MT1 Esports",
-    "TeamB": "PvB (Swiss Team)",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-11-08 21:12:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
-    "TeamA": "EmBRAZA! Esports",
-    "TeamB": "Smoke Tram",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-11-08 21:09:00"
   }
 ]
