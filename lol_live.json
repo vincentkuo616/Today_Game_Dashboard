@@ -2,6 +2,22 @@
   {
     "OverviewPage": "GG Arena by Teknosa Season 2",
     "TeamA": "Balta Esports",
+    "TeamB": "SU Esports",
+    "ScoreA": 0,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-11-17 17:55:00"
+  },
+  {
+    "OverviewPage": "GG Arena by Teknosa Season 2",
+    "TeamA": "PCIFIC Esports",
+    "TeamB": "Çakıl",
+    "ScoreA": 2,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-11-17 15:39:00"
+  },
+  {
+    "OverviewPage": "GG Arena by Teknosa Season 2",
+    "TeamA": "Balta Esports",
     "TeamB": "Çakıl",
     "ScoreA": 0,
     "ScoreB": 2,
@@ -235,16 +251,8 @@
     "OverviewPage": "2026 Season World Championship/Main Event",
     "TeamA": "Bilibili Gaming",
     "TeamB": "T1",
-    "ScoreA": 3,
-    "ScoreB": 1,
+    "ScoreA": 1,
+    "ScoreB": 0,
     "LatestGameTime": "2026-11-09 00:56:00"
-  },
-  {
-    "OverviewPage": "LigaGG/CELOL Série A/2026 Season/Split 2 Playoffs",
-    "TeamA": "Clã NKZ VÓRAX",
-    "TeamB": "Marere e-Sports",
-    "ScoreA": 0,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-11-08 21:58:00"
   }
 ]
