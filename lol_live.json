@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Breeze of Glory 2026",
+    "TeamA": "GONGJI",
+    "TeamB": "Macko Esports",
+    "ScoreA": 3,
+    "ScoreB": 2,
+    "LatestGameTime": "2026-11-20 20:34:00"
+  },
+  {
     "OverviewPage": "GG Arena by Teknosa Season 2",
     "TeamA": "Balta Esports",
     "TeamB": "SU Esports",
@@ -164,7 +172,7 @@
     "TeamA": "Balta Esports",
     "TeamB": "No macro Only Vibes",
     "ScoreA": 3,
-    "ScoreB": 3,
+    "ScoreB": 2,
     "LatestGameTime": "2026-11-11 16:55:00"
   },
   {
@@ -236,23 +244,7 @@
     "TeamA": "Bushido Wildcats",
     "TeamB": "Çakıl",
     "ScoreA": 0,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-11-09 15:36:00"
-  },
-  {
-    "OverviewPage": "GG Arena by Teknosa Season 2",
-    "TeamA": "BADILER",
-    "TeamB": "PCIFIC Esports",
-    "ScoreA": 0,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-11-09 15:02:00"
-  },
-  {
-    "OverviewPage": "2026 Season World Championship/Main Event",
-    "TeamA": "Bilibili Gaming",
-    "TeamB": "T1",
-    "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-11-09 00:56:00"
   }
 ]
