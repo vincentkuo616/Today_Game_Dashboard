@@ -41,6 +41,14 @@
   },
   {
     "OverviewPage": "GG Arena by Teknosa Season 2",
+    "TeamA": "SU Esports",
+    "TeamB": "Çakıl",
+    "ScoreA": 1,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-11-19 18:07:00"
+  },
+  {
+    "OverviewPage": "GG Arena by Teknosa Season 2",
     "TeamA": "Balta Esports",
     "TeamB": "SU Esports",
     "ScoreA": 0,
@@ -243,16 +251,8 @@
     "OverviewPage": "GG Arena by Teknosa Season 2",
     "TeamA": "Blades of Valor",
     "TeamB": "Bushido Wildcats",
-    "ScoreA": 2,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-11-10 16:06:00"
-  },
-  {
-    "OverviewPage": "GG Arena by Teknosa Season 2",
-    "TeamA": "BADILER",
-    "TeamB": "Balta Esports",
     "ScoreA": 1,
-    "ScoreB": 1,
-    "LatestGameTime": "2026-11-10 15:58:00"
+    "ScoreB": 0,
+    "LatestGameTime": "2026-11-10 16:06:00"
   }
 ]
