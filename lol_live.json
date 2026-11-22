@@ -8,6 +8,14 @@
     "LatestGameTime": "2026-11-21 19:56:00"
   },
   {
+    "OverviewPage": "Breeze of Glory 2026",
+    "TeamA": "GONGJI",
+    "TeamB": "Zena Esports",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-11-21 19:00:00"
+  },
+  {
     "OverviewPage": "Nova Series/2026 Season/Playoffs",
     "TeamA": "Mental Rush",
     "TeamB": "Vitality Rising Bees",
@@ -244,15 +252,7 @@
     "TeamA": "BADILER",
     "TeamB": "Balta Esports",
     "ScoreA": 1,
-    "ScoreB": 2,
+    "ScoreB": 1,
     "LatestGameTime": "2026-11-10 15:58:00"
-  },
-  {
-    "OverviewPage": "LCP/2027 Season/Promotion",
-    "TeamA": "Saigon Warriors",
-    "TeamB": "Team Gromp (Australian Team)",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-11-10 09:49:00"
   }
 ]
