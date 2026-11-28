@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "GG Arena by Teknosa Season 2",
+    "TeamA": "PCIFIC Esports",
+    "TeamB": "Çakıl",
+    "ScoreA": 4,
+    "ScoreB": 3,
+    "LatestGameTime": "2026-11-28 15:44:00"
+  },
+  {
     "OverviewPage": "Streamers Clash/Season 5",
     "TeamA": "Freezovi OneBlaďáci",
     "TeamB": "Johnyho Okresní Přebor",
@@ -126,14 +134,6 @@
     "ScoreA": 0,
     "ScoreB": 2,
     "LatestGameTime": "2026-11-17 17:55:00"
-  },
-  {
-    "OverviewPage": "GG Arena by Teknosa Season 2",
-    "TeamA": "PCIFIC Esports",
-    "TeamB": "Çakıl",
-    "ScoreA": 2,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-11-17 15:39:00"
   },
   {
     "OverviewPage": "GG Arena by Teknosa Season 2",
@@ -275,24 +275,8 @@
     "OverviewPage": "Breeze of Glory 2026",
     "TeamA": "GONGJI",
     "TeamB": "Team Aqua ASD",
-    "ScoreA": 3,
-    "ScoreB": 2,
-    "LatestGameTime": "2026-11-11 20:33:00"
-  },
-  {
-    "OverviewPage": "GG Arena by Teknosa Season 2",
-    "TeamA": "Balta Esports",
-    "TeamB": "No macro Only Vibes",
     "ScoreA": 1,
-    "ScoreB": 0,
-    "LatestGameTime": "2026-11-11 16:55:00"
-  },
-  {
-    "OverviewPage": "GG Arena by Teknosa Season 2",
-    "TeamA": "Blades of Valor",
-    "TeamB": "SU Esports",
-    "ScoreA": 0,
     "ScoreB": 1,
-    "LatestGameTime": "2026-11-11 16:55:00"
+    "LatestGameTime": "2026-11-11 20:33:00"
   }
 ]
