@@ -1,5 +1,13 @@
 [
   {
+    "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Playoffs",
+    "TeamA": "DKB XPERION NXT",
+    "TeamB": "Hannover Esports e.V.",
+    "ScoreA": 3,
+    "ScoreB": 0,
+    "LatestGameTime": "2026-11-27 18:37:00"
+  },
+  {
     "OverviewPage": "Prime League 2nd Division/2027 Season/Fall Relegation",
     "TeamA": "MT1 Esports",
     "TeamB": "Reveal Multigaming",
@@ -227,7 +235,7 @@
     "OverviewPage": "GG Arena by Teknosa Season 2",
     "TeamA": "Balta Esports",
     "TeamB": "No macro Only Vibes",
-    "ScoreA": 3,
+    "ScoreA": 2,
     "ScoreB": 1,
     "LatestGameTime": "2026-11-11 16:55:00"
   },
@@ -244,7 +252,7 @@
     "TeamA": "Frank Esports",
     "TeamB": "Ground Zero Gaming",
     "ScoreA": 0,
-    "ScoreB": 3,
+    "ScoreB": 1,
     "LatestGameTime": "2026-11-11 16:10:00"
   }
 ]
